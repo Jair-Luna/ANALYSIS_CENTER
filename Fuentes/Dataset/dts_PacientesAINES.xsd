@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_PacientesAINES" targetNamespace="http://tempuri.org/dts_PacientesAINES.xsd" xmlns:mstns="http://tempuri.org/dts_PacientesAINES.xsd" xmlns="http://tempuri.org/dts_PacientesAINES.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_PacientesAINES" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dts_PacientesAINES" msprop:Generator_UserDSName="dts_PacientesAINES" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PacientesAINES" msprop:Generator_UserTableName="PacientesAINES" msprop:Generator_RowDeletedName="PacientesAINESRowDeleted" msprop:Generator_TableClassName="PacientesAINESDataTable" msprop:Generator_RowChangedName="PacientesAINESRowChanged" msprop:Generator_RowClassName="PacientesAINESRow" msprop:Generator_RowChangingName="PacientesAINESRowChanging" msprop:Generator_RowEvArgName="PacientesAINESRowChangeEvent" msprop:Generator_RowEvHandlerName="PacientesAINESRowChangeEventHandler" msprop:Generator_TablePropName="PacientesAINES" msprop:Generator_TableVarName="tablePacientesAINES" msprop:Generator_RowDeletingName="PacientesAINESRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FECHAI" msprop:Generator_UserColumnName="FECHAI" msprop:Generator_ColumnPropNameInRow="FECHAI" msprop:Generator_ColumnVarNameInTable="columnFECHAI" msprop:Generator_ColumnPropNameInTable="FECHAIColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FECHAF" msprop:Generator_UserColumnName="FECHAF" msprop:Generator_ColumnPropNameInRow="FECHAF" msprop:Generator_ColumnVarNameInTable="columnFECHAF" msprop:Generator_ColumnPropNameInTable="FECHAFColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AGE_ID" msprop:Generator_UserColumnName="AGE_ID" msprop:Generator_ColumnPropNameInRow="AGE_ID" msprop:Generator_ColumnVarNameInTable="columnAGE_ID" msprop:Generator_ColumnPropNameInTable="AGE_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AGE_FECHA" msprop:Generator_UserColumnName="AGE_FECHA" msprop:Generator_ColumnPropNameInRow="AGE_FECHA" msprop:Generator_ColumnVarNameInTable="columnAGE_FECHA" msprop:Generator_ColumnPropNameInTable="AGE_FECHAColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PACIENTE" msprop:Generator_UserColumnName="PACIENTE" msprop:Generator_ColumnPropNameInRow="PACIENTE" msprop:Generator_ColumnVarNameInTable="columnPACIENTE" msprop:Generator_ColumnPropNameInTable="PACIENTEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TES_NOMBRE" msprop:Generator_UserColumnName="TES_NOMBRE" msprop:Generator_ColumnPropNameInRow="TES_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnTES_NOMBRE" msprop:Generator_ColumnPropNameInTable="TES_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRCC_RESUL_ANIO" msprop:Generator_UserColumnName="PRCC_RESUL_ANIO" msprop:Generator_ColumnPropNameInRow="PRCC_RESUL_ANIO" msprop:Generator_ColumnVarNameInTable="columnPRCC_RESUL_ANIO" msprop:Generator_ColumnPropNameInTable="PRCC_RESUL_ANIOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRCC_RESUL_INT" msprop:Generator_UserColumnName="PRCC_RESUL_INT" msprop:Generator_ColumnPropNameInRow="PRCC_RESUL_INT" msprop:Generator_ColumnVarNameInTable="columnPRCC_RESUL_INT" msprop:Generator_ColumnPropNameInTable="PRCC_RESUL_INTColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_TrakingCorreo" targetNamespace="http://tempuri.org/dts_TrakingCorreo.xsd" xmlns:mstns="http://tempuri.org/dts_TrakingCorreo.xsd" xmlns="http://tempuri.org/dts_TrakingCorreo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_TrakingCorreo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_TrakingCorreo" msprop:Generator_DataSetName="dts_TrakingCorreo" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CORREOERROR" msprop:Generator_UserTableName="CORREOERROR" msprop:Generator_RowDeletedName="CORREOERRORRowDeleted" msprop:Generator_RowChangedName="CORREOERRORRowChanged" msprop:Generator_RowClassName="CORREOERRORRow" msprop:Generator_RowChangingName="CORREOERRORRowChanging" msprop:Generator_RowEvArgName="CORREOERRORRowChangeEvent" msprop:Generator_RowEvHandlerName="CORREOERRORRowChangeEventHandler" msprop:Generator_TableClassName="CORREOERRORDataTable" msprop:Generator_TableVarName="tableCORREOERROR" msprop:Generator_RowDeletingName="CORREOERRORRowDeleting" msprop:Generator_TablePropName="CORREOERROR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cer_orden" msprop:Generator_UserColumnName="cer_orden" msprop:Generator_ColumnPropNameInRow="cer_orden" msprop:Generator_ColumnVarNameInTable="columncer_orden" msprop:Generator_ColumnPropNameInTable="cer_ordenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="paciente" msprop:Generator_UserColumnName="paciente" msprop:Generator_ColumnPropNameInRow="paciente" msprop:Generator_ColumnVarNameInTable="columnpaciente" msprop:Generator_ColumnPropNameInTable="pacienteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="cer_fecha" msprop:Generator_UserColumnName="cer_fecha" msprop:Generator_ColumnPropNameInRow="cer_fecha" msprop:Generator_ColumnVarNameInTable="columncer_fecha" msprop:Generator_ColumnPropNameInTable="cer_fechaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CON_NOMBRE" msprop:Generator_UserColumnName="CON_NOMBRE" msprop:Generator_ColumnPropNameInRow="CON_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnCON_NOMBRE" msprop:Generator_ColumnPropNameInTable="CON_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="cer_descrip" msprop:Generator_UserColumnName="cer_descrip" msprop:Generator_ColumnPropNameInRow="cer_descrip" msprop:Generator_ColumnVarNameInTable="columncer_descrip" msprop:Generator_ColumnPropNameInTable="cer_descripColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_MAIL" msprop:Generator_UserColumnName="PAC_MAIL" msprop:Generator_ColumnPropNameInRow="PAC_MAIL" msprop:Generator_ColumnVarNameInTable="columnPAC_MAIL" msprop:Generator_ColumnPropNameInTable="PAC_MAILColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FECHAI" msprop:Generator_UserColumnName="FECHAI" msprop:Generator_ColumnVarNameInTable="columnFECHAI" msprop:Generator_ColumnPropNameInRow="FECHAI" msprop:Generator_ColumnPropNameInTable="FECHAIColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FECHAF" msprop:Generator_UserColumnName="FECHAF" msprop:Generator_ColumnVarNameInTable="columnFECHAF" msprop:Generator_ColumnPropNameInRow="FECHAF" msprop:Generator_ColumnPropNameInTable="FECHAFColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_PacientesALERGIAS" targetNamespace="http://tempuri.org/dts_PacientesALERGIAS.xsd" xmlns:mstns="http://tempuri.org/dts_PacientesALERGIAS.xsd" xmlns="http://tempuri.org/dts_PacientesALERGIAS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_PacientesALERGIAS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_PacientesALERGIAS" msprop:Generator_DataSetName="dts_PacientesALERGIAS" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PacientesALERGIAS" msprop:Generator_UserTableName="PacientesALERGIAS" msprop:Generator_RowDeletedName="PacientesALERGIASRowDeleted" msprop:Generator_RowChangedName="PacientesALERGIASRowChanged" msprop:Generator_RowClassName="PacientesALERGIASRow" msprop:Generator_RowChangingName="PacientesALERGIASRowChanging" msprop:Generator_RowEvArgName="PacientesALERGIASRowChangeEvent" msprop:Generator_RowEvHandlerName="PacientesALERGIASRowChangeEventHandler" msprop:Generator_TableClassName="PacientesALERGIASDataTable" msprop:Generator_TableVarName="tablePacientesALERGIAS" msprop:Generator_RowDeletingName="PacientesALERGIASRowDeleting" msprop:Generator_TablePropName="PacientesALERGIAS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TES_NOMBRE" msprop:Generator_UserColumnName="TES_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnTES_NOMBRE" msprop:Generator_ColumnPropNameInRow="TES_NOMBRE" msprop:Generator_ColumnPropNameInTable="TES_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CONTEO_RES" msprop:Generator_UserColumnName="CONTEO_RES" msprop:Generator_ColumnVarNameInTable="columnCONTEO_RES" msprop:Generator_ColumnPropNameInRow="CONTEO_RES" msprop:Generator_ColumnPropNameInTable="CONTEO_RESColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="_x002E_" msprop:Generator_UserColumnName="." msprop:Generator_ColumnVarNameInTable="_column_" msprop:Generator_ColumnPropNameInRow="__" msprop:Generator_ColumnPropNameInTable="__Column" type="xs:int" minOccurs="0" />
+              <xs:element name="I" msprop:Generator_UserColumnName="I" msprop:Generator_ColumnVarNameInTable="columnI" msprop:Generator_ColumnPropNameInRow="I" msprop:Generator_ColumnPropNameInTable="IColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="O" msprop:Generator_UserColumnName="O" msprop:Generator_ColumnVarNameInTable="columnO" msprop:Generator_ColumnPropNameInRow="O" msprop:Generator_ColumnPropNameInTable="OColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="FECHAI" msprop:Generator_UserColumnName="FECHAI" msprop:Generator_ColumnVarNameInTable="columnFECHAI" msprop:Generator_ColumnPropNameInRow="FECHAI" msprop:Generator_ColumnPropNameInTable="FECHAIColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FECHAF" msprop:Generator_UserColumnName="FECHAF" msprop:Generator_ColumnVarNameInTable="columnFECHAF" msprop:Generator_ColumnPropNameInRow="FECHAF" msprop:Generator_ColumnPropNameInTable="FECHAFColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TES_PADRE" msprop:Generator_UserColumnName="TES_PADRE" msprop:Generator_ColumnPropNameInRow="TES_PADRE" msprop:Generator_ColumnVarNameInTable="columnTES_PADRE" msprop:Generator_ColumnPropNameInTable="TES_PADREColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Positivo" msprop:Generator_UserColumnName="Positivo" msprop:Generator_ColumnPropNameInRow="Positivo" msprop:Generator_ColumnVarNameInTable="columnPositivo" msprop:Generator_ColumnPropNameInTable="PositivoColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Negativo" msprop:Generator_UserColumnName="Negativo" msprop:Generator_ColumnPropNameInRow="Negativo" msprop:Generator_ColumnVarNameInTable="columnNegativo" msprop:Generator_ColumnPropNameInTable="NegativoColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

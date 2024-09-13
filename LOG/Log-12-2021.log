@@ -1,0 +1,392 @@
+01/12/2021 23:32:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2021 23:32:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/12/2021 16:39:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/12/2021 16:39:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/12/2021 16:40:08,ross,1 ANULA ORDEN,PEDIDO=23632DETECCIÓN SARS COV2 Agº MOTIVO: wew
+*************
+02/12/2021 16:46:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400980,,PEDIDO=23633
+*************
+02/12/2021 16:46:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=23633
+*************
+03/12/2021 16:11:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/12/2021 16:11:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/12/2021 16:11:50,ross,IMPRIME POR AREA,PEDIDO=341
+*************
+03/12/2021 16:16:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/12/2021 16:16:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/12/2021 16:17:07,ross,IMPRIME POR AREA,PEDIDO=341
+*************
+03/12/2021 16:29:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/12/2021 16:29:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/12/2021 16:30:13,ross,IMPRIME POR AREA,PEDIDO=341
+*************
+05/12/2021 13:44:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2021 13:44:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2021 13:44:57,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401141,,PEDIDO=344
+*************
+05/12/2021 13:44:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=344
+*************
+05/12/2021 13:50:13,ross,GUARDA RESULTADOS,pcrtrbmH=
+*************
+05/12/2021 13:53:26,ross,VALIDACION RESULTADO,PEDIDO=344/401141
+*************
+05/12/2021 13:56:12,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=345
+*************
+05/12/2021 13:56:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=345
+*************
+05/12/2021 13:57:42,ross,VALIDACION RESULTADO,PEDIDO=345/400149
+*************
+05/12/2021 13:57:42,ross,VALIDACION RESULTADO,PEDIDO=345/400150
+*************
+05/12/2021 13:57:42,ross,VALIDACION RESULTADO,PEDIDO=345/400151
+*************
+05/12/2021 13:57:42,ross,VALIDACION RESULTADO,PEDIDO=345/400476
+*************
+05/12/2021 14:01:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,401141,,PEDIDO=346
+*************
+05/12/2021 14:01:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=346
+*************
+05/12/2021 14:04:42,ross,GUARDA RESULTADOS,pcrtrbmH=
+*************
+05/12/2021 14:04:50,ross,VALIDACION RESULTADO,PEDIDO=346/400151
+*************
+05/12/2021 14:04:50,ross,VALIDACION RESULTADO,PEDIDO=346/401141
+*************
+05/12/2021 16:10:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2021 16:10:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2021 18:28:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2021 18:28:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2021 18:35:27,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,401141,,PEDIDO=347
+*************
+05/12/2021 18:35:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=347
+*************
+05/12/2021 18:40:54,ross,GUARDA RESULTADOS,pcrtrbmH=
+*************
+05/12/2021 18:41:57,ross,VALIDACION RESULTADO,PEDIDO=347/400151
+*************
+05/12/2021 18:42:12,ross,VALIDACION RESULTADO,PEDIDO=347/401141
+*************
+05/12/2021 18:47:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2021 18:47:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2021 19:05:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2021 19:05:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2021 19:06:33,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401141,,PEDIDO=348
+*************
+05/12/2021 19:06:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=348
+*************
+05/12/2021 19:06:53,ross,GUARDA RESULTADOS,pcrtrbmH=
+*************
+05/12/2021 19:08:19,ross,VALIDACION RESULTADO,PEDIDO=348/401141
+*************
+05/12/2021 19:18:35,ross,IMPRIME POR AREA,PEDIDO=348
+*************
+07/12/2021 19:00:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/12/2021 19:00:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/12/2021 19:02:30,ross,IMPRIME POR AREA,PEDIDO=348
+*************
+07/12/2021 19:03:12,ross,IMPRIME POR AREA,PEDIDO=311
+*************
+07/12/2021 19:03:41,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=349
+*************
+07/12/2021 19:03:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=349
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,SINTCH=NO
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,LUGARDH=AFRICA
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,FECHACOVH=11-11-2021
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,LUHAFEH=
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,PRUEBH=NO
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+07/12/2021 19:04:15,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+07/12/2021 19:04:22,ross,VALIDACION RESULTADO,PEDIDO=349/401144
+*************
+07/12/2021 19:04:33,ross,IMPRIME POR AREA,PEDIDO=349
+*************
+09/12/2021 19:00:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/12/2021 19:00:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/12/2021 19:01:33,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401104,,PEDIDO=350
+*************
+09/12/2021 19:01:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=350
+*************
+10/12/2021 11:31:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2021 11:32:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/12/2021 11:33:24,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401104,400140,400141,400185,400186,400149,400150,400476,400151,400148,400154,400891,,PEDIDO=351
+*************
+10/12/2021 11:33:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=351
+*************
+13/12/2021 8:50:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/12/2021 8:52:53,,Ingreso CONTRASEÑA FALLIDO,
+*************
+13/12/2021 8:52:53,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/12/2021 8:52:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/12/2021 8:53:11,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=352
+*************
+13/12/2021 8:53:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=352
+*************
+13/12/2021 9:39:51,ross,Actualiza FACTURA,FACTURA=22
+*************
+13/12/2021 9:39:51,ross,Ingresa FACTURA,FACTURA=22
+*************
+13/12/2021 9:39:52,ross,Insertar abono,Factura=22 Abono= 0
+*************
+13/12/2021 9:39:52,ross,Pendiente FACTURA,FACTURA=22
+*************
+13/12/2021 11:39:08,ross,Insertar abono,Factura=23 Abono= 10.5
+*************
+13/12/2021 11:39:08,ross,Cancela FACTURA,FACTURA=23
+*************
+13/12/2021 11:39:17,ross,Insertar abono,Factura=23 Abono= 10.5
+*************
+13/12/2021 11:39:17,ross,Cancela FACTURA,FACTURA=23
+*************
+13/12/2021 11:39:31,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=353
+*************
+13/12/2021 11:39:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=353
+*************
+13/12/2021 11:39:38,ross,Actualiza FACTURA,FACTURA=23
+*************
+13/12/2021 11:39:38,ross,Ingresa FACTURA,FACTURA=23
+*************
+13/12/2021 11:39:39,ross,Insertar abono,Factura=23 Abono= 4
+*************
+13/12/2021 11:39:39,ross,Cancela FACTURA,FACTURA=23
+*************
+13/12/2021 23:57:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/12/2021 23:57:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/12/2021 23:57:35,ross,Actualizar Convenio,Convenio=NOCHES
+*************
+13/12/2021 23:57:36,ross,Actualizar Secuencia,SECUENCIA=NOCHES/1001/1200
+*************
+13/12/2021 23:57:37,ross,Actualizar LISTA PRECIO=NOCHES,
+*************
+13/12/2021 23:57:43,ross,Actualizar pedido en convenio =NOCHES,
+*************
+15/12/2021 10:38:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/12/2021 10:38:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/12/2021 9:08:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2021 9:08:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/12/2021 9:08:51,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=354
+*************
+16/12/2021 9:08:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=354
+*************
+16/12/2021 9:16:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2021 9:16:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/12/2021 9:16:34,ross,Actualiza FACTURA,FACTURA=24
+*************
+16/12/2021 9:16:35,ross,Ingresa FACTURA,FACTURA=24
+*************
+16/12/2021 9:16:36,ross,Insertar abono,Factura=24 Abono= 0
+*************
+16/12/2021 9:16:36,ross,Pendiente FACTURA,FACTURA=24
+*************
+16/12/2021 14:49:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2021 14:49:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/12/2021 14:49:45,ross,IMPRIME POR AREA,PEDIDO=348
+*************
+17/12/2021 19:17:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/12/2021 19:17:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/12/2021 19:17:33,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400524,400191,400836,400197,,PEDIDO=355
+*************
+17/12/2021 19:17:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=355
+*************
+17/12/2021 19:39:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/12/2021 19:39:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/12/2021 19:42:27,ross,Actualiza FACTURA,FACTURA=25
+*************
+17/12/2021 19:42:27,ross,Ingresa FACTURA,FACTURA=25
+*************
+17/12/2021 19:42:28,ross,Insertar abono,Factura=25 Abono= 0
+*************
+17/12/2021 19:42:28,ross,Pendiente FACTURA,FACTURA=25
+*************
+17/12/2021 19:50:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/12/2021 19:50:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/12/2021 19:51:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/12/2021 19:51:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/12/2021 17:42:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/12/2021 17:42:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/12/2021 17:47:08,ross,IMPRIME POR AREA,PEDIDO=5909
+*************
+21/12/2021 16:58:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 16:58:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 17:59:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 17:59:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 18:01:00,ross,Generar Paciente,Paciente=FLORES FLORES KENIA MARISOL
+*************
+21/12/2021 18:01:08,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=1
+*************
+21/12/2021 18:01:09,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,SINTCH=NO
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,LUGARDH=COMUNITARIO
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,FECHACOVH=
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,LUHAFEH=
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,PRUEBH=
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+21/12/2021 18:01:40,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+21/12/2021 18:01:46,ross,VALIDACION RESULTADO,PEDIDO=1/401144
+*************
+21/12/2021 19:12:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 19:12:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 19:12:36,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+21/12/2021 19:16:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 19:16:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 19:16:20,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+21/12/2021 20:57:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 20:57:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 20:58:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 20:58:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 21:03:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 21:03:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/12/2021 21:07:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2021 21:07:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/12/2021 15:57:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2021 15:57:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/12/2021 16:01:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2021 16:01:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/12/2021 16:02:22,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+22/12/2021 16:02:27,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=2
+*************
+22/12/2021 16:02:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+22/12/2021 16:02:43,ross,VALIDACION RESULTADO,PEDIDO=2/400151
+*************
+22/12/2021 16:03:28,ross,ENVIO CORREO PACIENTE,PEDIDO=2
+*************
+23/12/2021 15:01:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2021 15:01:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/12/2021 15:46:43,ross,Actualiza Paciente,Paciente=FLORES FLORES KENIA MARISOL
+*************
+23/12/2021 15:47:12,ross,ENVIO CORREO PACIENTE,PEDIDO=1
+*************
+23/12/2021 15:47:22,ross,ENVIO CORREO PACIENTE,PEDIDO=2
+*************
+23/12/2021 15:47:38,ross,ENVIO CORREO PACIENTE,PEDIDO=1
+*************
+23/12/2021 15:52:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2021 15:52:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/12/2021 16:06:17,ross,ENVIO CORREO PACIENTE,PEDIDO=1
+*************
+23/12/2021 16:06:29,ross,ENVIO CORREO PACIENTE,PEDIDO=2
+*************
+23/12/2021 17:21:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2021 17:21:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

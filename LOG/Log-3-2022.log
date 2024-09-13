@@ -1,0 +1,2692 @@
+04/03/2022 10:00:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/03/2022 10:00:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/03/2022 10:49:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/03/2022 10:49:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/03/2022 11:05:26,ross,ENVIO CORREO PACIENTE,PEDIDO=362
+*************
+14/03/2022 4:35:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 4:35:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 4:36:05,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+14/03/2022 4:36:55,ross,1 MODIFICA ORDENNORMAL,PEDIDO=15
+*************
+14/03/2022 4:44:13,ross,VALIDACION RESULTADO,PEDIDO=15/400149
+*************
+14/03/2022 4:44:13,ross,VALIDACION RESULTADO,PEDIDO=15/400150
+*************
+14/03/2022 4:44:13,ross,VALIDACION RESULTADO,PEDIDO=15/400151
+*************
+14/03/2022 4:44:13,ross,VALIDACION RESULTADO,PEDIDO=15/400476
+*************
+14/03/2022 4:44:37,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 4:55:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 4:55:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 4:55:29,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 4:56:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 4:56:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 4:57:38,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 4:59:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 4:59:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:00:10,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 5:03:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:03:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:04:15,ross,Modifica USR,USR=1
+*************
+14/03/2022 5:04:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:04:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:04:34,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 5:07:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:07:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:07:52,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 5:10:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:10:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:10:47,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+14/03/2022 5:11:10,ross,IMPRIME TODO,PEDIDO=15
+*************
+14/03/2022 5:14:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:14:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:16:40,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401104,400140,400141,400185,400186,400230,,PEDIDO=22
+*************
+14/03/2022 5:16:40,ross,02 IMPRIMIR COD BARRAS,PEDIDO=22
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,WBCH=1
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,NEUH=2
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,LYMH=3
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,MONH=4
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,EOSH=5
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,BASOH=6
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,RBCH=3
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,HCTH=4
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,HGBH=5
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,MCVH=6
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,MCHH=7
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,RDW-CVH=9
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,RDW-SDH=1
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,PLTH=2
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,MPVH=3
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,PDWH=4
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,PCTH=5
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+14/03/2022 5:17:20,ross,GUARDA RESULTADOS,P-LCCH=7
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,COLOH=AMARILLO
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,PHO=5
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,ASCOH=
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+14/03/2022 5:18:02,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,HGBOH=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,CELPOH=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,CELEPH=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,PIOO=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,HEMOH=1-2
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,BACOH=+
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,MOCOH=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+14/03/2022 5:18:03,ross,GUARDA RESULTADOS,URO=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,FOO=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,OXAO=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,CRIO=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,CILO=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,CIGO=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,CILCE=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,ESP=
+*************
+14/03/2022 5:18:04,ross,GUARDA RESULTADOS,OTROSO=
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400101
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400140
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400141
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400149
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400150
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400151
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400185
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400186
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400230
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/400476
+*************
+14/03/2022 5:18:57,ross,VALIDACION RESULTADO,PEDIDO=22/401104
+*************
+14/03/2022 5:19:25,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+14/03/2022 5:22:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:22:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:22:18,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+14/03/2022 5:26:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:26:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:26:40,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+14/03/2022 5:28:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:28:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:28:48,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+14/03/2022 5:37:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 5:37:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 5:37:46,ross,IMPRIME TODO,PEDIDO=22
+*************
+14/03/2022 14:54:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2022 14:54:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2022 14:55:07,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+17/03/2022 18:26:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/03/2022 18:26:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/03/2022 18:27:09,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=23
+*************
+17/03/2022 18:27:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=23
+*************
+17/03/2022 18:49:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/03/2022 18:49:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/03/2022 12:07:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/03/2022 12:07:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/03/2022 12:08:15,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=24
+*************
+18/03/2022 12:08:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=24
+*************
+18/03/2022 12:08:26,ross,02 IMPRIMIR COD BARRAS,PEDIDO=24
+*************
+18/03/2022 12:10:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=24
+*************
+19/03/2022 8:01:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/03/2022 8:01:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/03/2022 8:12:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/03/2022 8:12:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/03/2022 8:22:03,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,,PEDIDO=25
+*************
+19/03/2022 8:22:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=25
+*************
+19/03/2022 8:25:25,ross,Actualiza FACTURA,FACTURA=7
+*************
+19/03/2022 8:25:25,ross,Ingresa FACTURA,FACTURA=7
+*************
+19/03/2022 8:25:25,ross,Insertar abono,Factura=7 Abono= 10
+*************
+19/03/2022 8:25:25,ross,Actualiza FACTURA,FACTURA=7/10
+*************
+19/03/2022 8:25:34,ross,Registra Tx Factura,Factura=7
+*************
+19/03/2022 8:25:59,ross,Registra Tx Factura,Factura=7
+*************
+19/03/2022 8:26:45,ross,Insertar abono,Factura=7 Abono= 10
+*************
+19/03/2022 8:26:45,ross,Cancela FACTURA,FACTURA=7
+*************
+19/03/2022 8:26:47,ross,Registra Tx Factura,Factura=7
+*************
+19/03/2022 8:28:18,ross,01 GENERAR ORDEN  SEGUROS EXAMENES: 401118,401115,401143,,PEDIDO=26
+*************
+19/03/2022 8:28:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=26
+*************
+19/03/2022 8:28:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=26
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=ALMEIDA REINA AMELIA EDELMIRA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/27
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=BENITES VALENCIA AUGUSTOA ARCADIO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/28
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=FUENTES MIRANDA BENIGNO ANDRES
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/29
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=GAIBOR ERAZO CARLOS HUMBERTO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/30
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=JARAMILLO PACHECO MANUEL EDUARDO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/31
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=LEON BARZALLO MARIA DE LOURDES
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/32
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=LOPEZ ESCUDERO KEVIN JOEL
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/33
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=MEJIA VERGARA MAGALY MARGARITA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/34
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=PALACIOS LEBRO PEDRO DAMIAN
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/35
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=PIZA SILVA JIMMY JAVIER
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/36
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=SALAS ARIAS AMADA APOLONIA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/37
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=SANTOS NAULA JOSE DANIEL
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/38
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=SUAREZ VERA JOSE AGUSTIN
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/39
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=VARGAS ALVARADO EDUARDO ELADIO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/40
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=VILLANAR VASQUEZ JUAN ARTEMIO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/41
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=AQUINO HERRERA VIDAL VALENTIN
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/42
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=CANDO MESTANZA LUIS HOMERO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/43
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=CARBO POZO PEDRO AGUSTIN
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/44
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=CARRASCO MOROCHO IRIS DE JESUS
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/45
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=CHANALATA CUVI IRENE SOLANDI
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/46
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=FRANCO MONCADA RINA ELIZABETH
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/47
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=JARAMILLO MORAN ROLANDO ANDRES
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/48
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=LOPEZ ANGAMARCA ERICK JOEL
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/49
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=RAMOS ESPINOZA RUBEN DARIO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/50
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=RAMOS PAREDES NORMA YOLANDA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/51
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=SANCHEZ MANZABA VICENTA NARCISA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/52
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=VARGAS BERRUZ ROMULO FRANCISCO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/53
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=VARGAS OCHOA ARNULFO BENIGNO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/54
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=YEPEZ LINDAO JUANITA DEL PILAR
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/55
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=AGUILAR LIMONES JOSE HUMBERTO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/56
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=ALCIVAR VALERO MANUELA DE JESUS
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/57
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=ARIAS RONQUILLO CECILIA JOHANA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/58
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=BRAVO GOMEZ ZOILA MARIA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/59
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=CAMPOVERDE ICAZA JOSE LIONSO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/60
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=FLORES VALLEJO NORMA CRISTINA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/61
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=GUEVARA ABARCA HUGO EFRAIN
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/62
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=HUACON MILLAN GERMANIA SOFIA
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/63
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=MERINO ESPINOZA MARILYN MILAGROS
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/64
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=MONTIEL CERVANTES FELIX
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/65
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=BAJAÑA LUIZ VICENTE HUMBERTO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/66
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=PALACIOS CABEZAS NENA ELAIS
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/67
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=PAREDES ARIAS CARLOS EDUARDO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/68
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=PONCE CEDÑO MARIA CELESTE
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/69
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=SANTANA ROCAFUERTE PEDRO CELESTINO
+*************
+19/03/2022 8:33:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/70
+*************
+19/03/2022 8:33:34,ross,Generar Paciente,Paciente=TORRES CASTRO FREDDY BONIFACIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/71
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CASTRO MORAN GUIDO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/72
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ACOSTA NAVAS MERCEDES ISABEL
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/73
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=GARCIA YEPEZ VICTOR
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/74
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=FRANCO ALMEIDA JUANA AURORA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/75
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CALEÑO HIDALGO LUGIA BOLIVAR
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/76
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=PACHECO ARTIAGA LUCY ANGELICA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/77
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ALCIVAR ESTRELLA ANGELA ESPERANZA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/78
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MIRANDA ORDOÑEZ HERMENEGILDO ROBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/79
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ORTIZ MURILLO PEDRO HUMBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/80
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=TOAPANTA CONTRERAS LINNER DEL ROSARIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/81
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VERA BARAHONA GERMANIA ARCADIA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/82
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ZAMBRANO MORA REGINA LUCIA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/83
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ROJAS UVE LUCIA FERNANDA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/84
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=GAROFALO GUILLIN VICTOR ROBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/85
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ACURIO MEJIA JOSE VICENTE
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/86
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ACURIO SANTIN GUSTAVO RODRIGO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/87
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ALVARADO ICAZA LORENZO ANTONIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/88
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ALVARADO VERA MANUEL HUMBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/89
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=BAEZ GARCIA BRIGIE JAZMIN
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/90
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=BARBOTO RUIZ MIGUEL EVANGELISTA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/91
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=BRAVO POVEDA VICENTE FRANKLIN
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/92
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=BRIONES BUSTAMANTE YINA PATRICIA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/93
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CADENA MENDEZ BLANCA EMPERATRIZ
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/94
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CARRASCO SANTILLAN CARLOS PLUTARCO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/95
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=COELLO LEON SERGIO ROMULO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/96
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=DIAZ ESLAO MARCOS ALBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/97
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=GARAICOA LOOR ANDRES FRANCISCO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/98
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=GARCIA PONCE JOHANNA ROCIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/99
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=GUERRERO LEAL BERTHA MARILU
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/100
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MENDOZA BAYAS ANGEL RICARDO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/101
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MENENDEZ HURTADO ORLANDO XAVIER
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/102
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MORA VITE DARWIN VICENTE
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/103
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=SANCHEZ SEGUNDO BOLIVAR
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/104
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=SARCO SALAZAR LUIS FERNANDO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/105
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=SILVA TAPIA JULIO JACINTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/106
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=SILVA TOMALA ROSA VIRGINIA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/107
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=TORRES CEREZO JULIA DEL CARMEN
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/108
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VACA PIZA GLADIS BENITA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/109
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VALENCIA CASTILLO MARIO GEOVANNY
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/110
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VARGAS ESPINOZA PEDRO DARIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/111
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VITE AYALA TEODORO FRANCISCO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/112
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VITE PAZ ANGELA HAYDEE
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/113
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=RIVERA BARCO MARIANA DE JESUS
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/114
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA JOSE ALBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/115
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=LUQUE MORAN JULIA FELIPA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/116
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=QUINGA GUTIERREZ LUIS ALBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/117
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=RODRIGUEZ MORA ANA PILAR
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/118
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CAICEDO RIVADENEIRA RAFAELA EMILIA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/119
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA MIGUEL ALBERTO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/120
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CARPIO MONTOYA PEDRO FELIX
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/121
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CELI ARIAS WELLINGTON ANTONIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/122
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=CRUZ REYES MARTHA DEL ROCIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/123
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=DE LA CRUZ VERA WILSON LAUTARO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/124
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ELIZONDO VERA NELLY POMPELLA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/125
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=ESPIN JARA FREDDY ENRIQUE
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/126
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MARTINEZ SANTILLAN MERCEDES AIDA
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/127
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MINDIOLA BURGOS KLEBER ANTONIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/128
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=MORAN TORRES ADALBERTO RAMON
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/129
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=OLAYA ACOSTA JORGE JAVIER
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/130
+*************
+19/03/2022 8:33:35,ross,Generar Paciente,Paciente=VILLANAR MONTALVO LUIS ANTONIO
+*************
+19/03/2022 8:33:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/131
+*************
+19/03/2022 8:36:35,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400524,400191,400836,400197,400185,400186,401119,401118,,PEDIDO=132
+*************
+19/03/2022 8:36:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=132
+*************
+19/03/2022 8:37:56,ross,Nuevo Test en Lista de Precios,Test=401171 25  NORMAL
+*************
+19/03/2022 8:37:56,ross,Nuevo Test en Lista de Precios,Test=401171 25  URGENCIA
+*************
+19/03/2022 8:37:56,ross,Nuevo Test en Lista de Precios,Test=401171 25  OCUPACIONAL
+*************
+19/03/2022 8:37:56,ross,Nuevo Test en Lista de Precios,Test=401171 25  DRA. DIANA PORCENTAJE 25
+*************
+19/03/2022 8:37:56,ross,Nuevo Test en Lista de Precios,Test=401171 25  SEGUROS
+*************
+19/03/2022 8:37:56,ross,Nuevo Test en Lista de Precios,Test=401171 25  ZIRUX
+*************
+19/03/2022 8:37:56,ross,INGRESA TEST,TEST=ECO PELVICO
+*************
+19/03/2022 8:37:56,ross,Actualiza Test,Test=ECO PELVICO
+*************
+19/03/2022 8:38:16,ross,1 MODIFICA ORDENNORMAL,PEDIDO=132
+*************
+19/03/2022 8:41:36,ross,IMPRIMIR CONTRAORDEN,
+*************
+19/03/2022 8:44:39,ross,IMPRIMIR CONTRAORDEN,
+*************
+19/03/2022 8:44:57,ross,IMPRIMIR CONTRAORDEN,
+*************
+19/03/2022 8:45:15,ross,IMPRIMIR LISTA TRABAJO,
+*************
+19/03/2022 8:45:30,ross,IMPRIMIR HOJA TRABAJO,
+*************
+19/03/2022 8:45:37,ross,IMPRIMIR HOJA TRABAJO,
+*************
+19/03/2022 8:48:26,ross,GUARDA RESULTADOS,WBCH=3
+*************
+19/03/2022 8:48:26,ross,GUARDA RESULTADOS,NEUH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,LYMH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,MONH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,EOSH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,BASOH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,RBCH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,HCTH=3
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,HGBH=34
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,MCVH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,MCHH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,RDW-SDH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,PLTH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,MPVH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,PDWH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,PCTH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+19/03/2022 8:48:27,ross,GUARDA RESULTADOS,P-LCCH=4
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,COLOH=ROJO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,PHO=7.5
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,LEUOH=++
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,ASCOH=
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,GLUO=100
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,HGBOH=
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,CELPOH=
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,CELEPH=
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,CELCAOH=++
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,PIOO=8-10
+*************
+19/03/2022 8:49:33,ross,GUARDA RESULTADOS,HEMOH=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,BACOH=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,MOCOH=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,URO=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,FOO=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,OXAO=+++
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,CRIO=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,CILO=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,CIGO=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,CILCE=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,ESP=
+*************
+19/03/2022 8:49:34,ross,GUARDA RESULTADOS,OTROSO=
+*************
+19/03/2022 8:50:46,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Suero lipemico
+*************
+19/03/2022 8:51:18,ross,VALIDACION RESULTADO,PEDIDO=25/400101
+*************
+19/03/2022 8:51:18,ross,VALIDACION RESULTADO,PEDIDO=25/400149
+*************
+19/03/2022 8:51:18,ross,VALIDACION RESULTADO,PEDIDO=25/400150
+*************
+19/03/2022 8:51:18,ross,VALIDACION RESULTADO,PEDIDO=25/400151
+*************
+19/03/2022 8:51:18,ross,VALIDACION RESULTADO,PEDIDO=25/400230
+*************
+19/03/2022 8:51:18,ross,VALIDACION RESULTADO,PEDIDO=25/400476
+*************
+19/03/2022 8:52:01,ross,IMPRIME POR AREA,PEDIDO=25
+*************
+19/03/2022 8:52:48,ross,IMPRIME TODO,PEDIDO=25
+*************
+19/03/2022 8:53:14,ross,IMPRIME POR EMAMEN,PEDIDO=25
+*************
+19/03/2022 8:59:18,ross,GUARDA RESULTADOS,RAYXH=
+*************
+19/03/2022 9:11:20,ross,Registra Tx Factura,Factura=8
+*************
+19/03/2022 9:11:29,ross,Registra Tx Factura,Factura=7
+*************
+19/03/2022 9:12:32,ross,Registra Tx Factura,Factura=7
+*************
+22/03/2022 8:28:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/03/2022 8:28:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/03/2022 18:21:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/03/2022 18:21:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 19:09:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 19:09:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 19:10:28,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400185,400186,,PEDIDO=133
+*************
+23/03/2022 19:10:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=133
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,WBCH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,NEUH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,LYMH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,MONH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,EOSH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,BASOH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,NEU%25H=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,LYM%25H=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,BASO%25H=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,RBCH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,HCTH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,HGBH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,MCVH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,MCHH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,RDW-CVH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,RDW-SDH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,PLTH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,MPVH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,PDWH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,PCTH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+23/03/2022 19:11:46,ross,GUARDA RESULTADOS,P-LCCH=6
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400101
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400149
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400150
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400151
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400185
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400186
+*************
+23/03/2022 19:12:18,ross,VALIDACION RESULTADO,PEDIDO=133/400476
+*************
+23/03/2022 19:12:55,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 20:29:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 20:29:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 20:34:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 20:34:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 20:34:55,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 20:57:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 20:57:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 20:57:50,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:00:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:00:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:01:32,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:05:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:05:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:05:31,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:05:44,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:12:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:12:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:12:13,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:12:44,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:14:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:14:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:14:57,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:18:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:18:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:19:07,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:33:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:33:22,,Ingreso CONTRASEÑA FALLIDO,
+*************
+23/03/2022 21:33:22,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:33:25,,Ingreso CONTRASEÑA FALLIDO,
+*************
+23/03/2022 21:33:25,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:33:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:33:39,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:41:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:41:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:41:39,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:45:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:45:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:45:57,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:48:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:48:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:48:47,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+23/03/2022 21:50:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/03/2022 21:50:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/03/2022 21:50:30,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+24/03/2022 8:07:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 8:07:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 8:07:41,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400185,400186,,PEDIDO=34
+*************
+24/03/2022 8:07:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=34
+*************
+24/03/2022 8:15:07,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400185,400186,,PEDIDO=35
+*************
+24/03/2022 8:15:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=35
+*************
+24/03/2022 8:15:32,ross,1 ANULA ORDEN,PEDIDO=34BIOMETRIA HEMATICA ºCOLESTEROL TOTAL ºHDL COLESTEROLºTRIGLICERIDOS ºTGO - ASTºTGP - ALTºLDL COLESTEROLº MOTIVO: TEST
+*************
+24/03/2022 8:15:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400230,,PEDIDO=36
+*************
+24/03/2022 8:15:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=36
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,WBCH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,NEUH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,LYMH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,MONH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,EOSH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,BASOH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,LYM%25H=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,EOS%25H=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,BASO%25H=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,RBCH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,HCTH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,HGBH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,MCVH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,MCHH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,MCHCH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,RDW_CVH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,RDW_SDH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,PLTH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,MPVH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,PDWH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,PCTH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,P_LCRH=9
+*************
+24/03/2022 8:17:02,ross,GUARDA RESULTADOS,P_LCCH=9
+*************
+24/03/2022 8:23:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 8:23:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,WBCH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,NEUH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,LYMH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,MONH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,EOSH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,BASOH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,LYM%25H=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,EOS%25H=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,BASO%25H=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,RBCH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,HCTH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,HGBH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,MCVH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,MCHH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,MCHCH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,RDW_CVH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,RDW_SDH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,PLTH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,MPVH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,PDWH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,PCTH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,P_LCRH=9
+*************
+24/03/2022 8:27:28,ross,GUARDA RESULTADOS,P_LCCH=9
+*************
+24/03/2022 8:36:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 8:36:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 8:38:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 8:38:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 8:49:16,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+24/03/2022 8:50:02,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+24/03/2022 8:50:14,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+24/03/2022 8:50:22,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+24/03/2022 8:50:34,ross,Actualiza Test,Test=TGO - AST
+*************
+24/03/2022 8:50:53,ross,Actualiza Test,Test=TGP - ALT
+*************
+24/03/2022 8:51:10,ross,Actualiza Test,Test=HDL COLESTEROL
+*************
+24/03/2022 8:51:34,ross,Actualiza Test,Test=LDL COLESTEROL
+*************
+24/03/2022 8:51:58,ross,Actualiza Test,Test=LDH
+*************
+24/03/2022 8:52:17,ross,Actualiza Test,Test=GLUCAGÓN
+*************
+24/03/2022 8:52:40,ross,Eliminar Test,TEST=400630
+*************
+24/03/2022 8:53:02,ross,Actualiza Test,Test=ACIDO FOLICO
+*************
+24/03/2022 8:53:25,ross,Actualiza Test,Test=ACIDO URICO
+*************
+24/03/2022 8:53:46,ross,Actualiza Test,Test=ACETIL COLINESTERASA
+*************
+24/03/2022 8:54:04,ross,Actualiza Test,Test=ALBUMINA
+*************
+24/03/2022 8:55:48,ross,Actualiza Test,Test=BILIRRUBINA DIRECTA 
+*************
+24/03/2022 8:56:04,ross,Actualiza Test,Test=BILIRRUBINA INDIRECTA 
+*************
+24/03/2022 8:56:27,ross,Actualiza Test,Test=BILIRRUBINA TOTAL 
+*************
+24/03/2022 8:56:58,ross,Actualiza Test,Test=CORTISOL A.M. 
+*************
+24/03/2022 8:57:26,ross,Actualiza Test,Test=BETA HCG LIBRE
+*************
+24/03/2022 8:57:52,ross,Actualiza Test,Test=CREATININA
+*************
+24/03/2022 9:04:01,ross,Actualiza Test,Test=GGT
+*************
+24/03/2022 9:06:02,ross,Actualiza Test,Test=FERRITINA 
+*************
+24/03/2022 9:06:39,ross,Actualiza Test,Test=GLUCOSA BASAL
+*************
+24/03/2022 9:07:24,ross,Actualiza Test,Test=UREA
+*************
+24/03/2022 9:13:30,ross,Actualiza Test,Test=VITAMINA B 12 
+*************
+24/03/2022 16:36:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 16:36:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400101
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400149
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400150
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400151
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400185
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400186
+*************
+24/03/2022 16:37:58,ross,VALIDACION RESULTADO,PEDIDO=35/400476
+*************
+24/03/2022 16:38:26,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 16:39:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 16:39:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 19:13:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 19:13:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 19:26:32,ross,ENVIO CORREO PACIENTE,PEDIDO=35
+*************
+24/03/2022 20:03:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 20:03:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 20:29:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 20:29:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 20:47:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 20:47:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 20:48:04,ross,ENVIO CORREO PACIENTE,PEDIDO=35
+*************
+24/03/2022 20:50:23,ross,ENVIO CORREO PACIENTE,PEDIDO=35
+*************
+24/03/2022 20:52:59,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:13:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 21:13:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 21:14:00,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:14:54,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:17:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 21:17:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 21:20:06,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:20:21,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:31:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 21:31:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 21:31:19,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:39:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 21:39:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 21:40:04,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 21:40:43,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400230,,PEDIDO=37
+*************
+24/03/2022 21:40:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=37
+*************
+24/03/2022 21:41:37,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400947,,PEDIDO=38
+*************
+24/03/2022 21:41:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+24/03/2022 21:42:23,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,PHO=5
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,UROOH=
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,HGBOH=
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+24/03/2022 21:42:24,ross,GUARDA RESULTADOS,CELEPH=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,HEMOH=1-2
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,BACOH=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,MOCOH=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,LEVA_ORINA=++
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,URO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,FOO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,OXAO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,CRIO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,CILO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,CIGO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,CILCE=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,ESP=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,ASCOH=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,OTROSO=
+*************
+24/03/2022 21:42:25,ross,GUARDA RESULTADOS,CCETO=
+*************
+24/03/2022 21:42:30,ross,VALIDACION RESULTADO,PEDIDO=36/400230
+*************
+24/03/2022 21:42:42,ross,IMPRIME POR AREA,PEDIDO=36
+*************
+24/03/2022 21:43:40,ross,GUARDA RESULTADOS,hme2=CORTE BESICULAR
+*************
+24/03/2022 21:43:40,ross,GUARDA RESULTADOS,hemdim2=2-7
+*************
+24/03/2022 21:43:40,ross,GUARDA RESULTADOS,enterv2=Concepto texto. El texto es la unidad superior de comunicación y de la competencia organizacional del hablante. Su extensión es variable y corresponde a un todo comprensible que tiene una finalidad comunicativa en un contexto dado. El carácter comunicativo, pragmático y estructural permiten su identificación.
+*************
+24/03/2022 21:43:45,ross,VALIDACION RESULTADO,PEDIDO=38/400947
+*************
+24/03/2022 21:43:52,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 21:44:30,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 21:47:29,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 21:48:39,ross,Actualiza Test,Test=17 HIDROXI PROGESTERONA
+*************
+24/03/2022 21:49:09,ross,Actualiza Test,Test=MUESTRA
+*************
+24/03/2022 21:49:20,ross,Actualiza Test,Test=VALOR REFERENCIAL
+*************
+24/03/2022 21:49:29,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+24/03/2022 21:56:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 21:56:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 21:56:39,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:02:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:02:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:04:10,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:04:20,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:04:33,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:08:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:08:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:08:38,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:11:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:11:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:11:25,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:11:37,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:11:54,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:16:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:16:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:16:45,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:16:54,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:20:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:20:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:20:09,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:20:23,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:22:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:22:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:22:36,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:22:45,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:30:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:30:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:30:18,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:30:36,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:31:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:31:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:32:06,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:32:14,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:37:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:37:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:37:38,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:37:44,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:44:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:44:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:44:40,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:45:39,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:46:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:46:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:46:56,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:48:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:48:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:48:17,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:48:23,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:48:50,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+24/03/2022 22:49:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/03/2022 22:49:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/03/2022 22:49:46,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+24/03/2022 22:49:53,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:39:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:39:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:39:31,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:42:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:42:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:42:27,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:42:33,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 7:42:51,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:43:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:43:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:44:50,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:44:57,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 7:45:04,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 7:45:29,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:48:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:48:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:48:50,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:48:56,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 7:51:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:51:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:51:53,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:53:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:53:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:54:10,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:54:15,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 7:54:23,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:57:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 7:57:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 7:57:55,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 7:58:31,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:00:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:00:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:00:57,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:01:10,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:03:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:03:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:03:19,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:03:25,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:07:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:07:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:07:42,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:07:46,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:08:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:08:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:08:59,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:09:08,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:10:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:10:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:10:49,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:10:55,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:12:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:12:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:12:39,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:12:43,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:16:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:16:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:16:40,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:16:49,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:16:58,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:18:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:18:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:18:48,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:18:59,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:20:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:20:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:20:46,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:20:51,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:22:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:22:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:22:26,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:22:35,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:23:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:23:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:24:02,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:24:09,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:25:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:25:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:25:52,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:25:59,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:27:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:27:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:27:31,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:28:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:28:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:28:53,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:33:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:33:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:33:41,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:35:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:35:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:35:22,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:35:38,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 8:38:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:38:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:38:30,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:41:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:41:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:42:08,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:43:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 8:43:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/03/2022 8:43:51,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+25/03/2022 8:43:58,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+25/03/2022 18:49:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/03/2022 18:49:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/03/2022 12:42:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/03/2022 12:42:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/03/2022 12:44:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/03/2022 12:44:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 10:10:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 10:10:16,,Ingreso CONTRASEÑA FALLIDO,
+*************
+27/03/2022 10:10:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 10:10:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 10:11:01,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=39
+*************
+27/03/2022 10:11:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=39
+*************
+27/03/2022 10:11:14,ross,1 MODIFICA ORDENNORMAL,PEDIDO=39
+*************
+27/03/2022 10:12:03,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400230,401145,,PEDIDO=40
+*************
+27/03/2022 10:12:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=40
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,WBCH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,NEUH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,LYMH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,MONH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,EOSH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,BASOH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,MON%25H=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,BASO%25H=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,RBCH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,HCTH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,HGBH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,MCVH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,MCHH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,MCHCH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,RDW_CVH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,RDW_SDH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,PLTH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,MPVH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,PDWH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,PCTH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,P_LCRH=7
+*************
+27/03/2022 10:13:05,ross,GUARDA RESULTADOS,P_LCCH=7
+*************
+27/03/2022 10:13:55,ross,Eliminar Test,TEST=400947
+*************
+27/03/2022 10:14:13,ross,Actualiza Test,Test=17 HIDROXI PROGESTERONA
+*************
+27/03/2022 10:14:37,ross,1 MODIFICA ORDENNORMAL,PEDIDO=39
+*************
+27/03/2022 10:16:14,ross,GUARDA RESULTADOS,MUESTRA17hidprg=
+*************
+27/03/2022 10:16:14,ross,GUARDA RESULTADOS,VALREF:17hidprg=
+*************
+27/03/2022 10:16:14,ross,GUARDA RESULTADOS,RESULTADO17hidprg=2 - 4
+*************
+27/03/2022 10:16:14,ross,GUARDA RESULTADOS,17hidprgH=
+*************
+27/03/2022 10:16:40,ross,VALIDACION RESULTADO,PEDIDO=39/400101
+*************
+27/03/2022 10:16:40,ross,VALIDACION RESULTADO,PEDIDO=39/400149
+*************
+27/03/2022 10:16:40,ross,VALIDACION RESULTADO,PEDIDO=39/400150
+*************
+27/03/2022 10:16:40,ross,VALIDACION RESULTADO,PEDIDO=39/400151
+*************
+27/03/2022 10:16:40,ross,VALIDACION RESULTADO,PEDIDO=39/400476
+*************
+27/03/2022 10:16:40,ross,VALIDACION RESULTADO,PEDIDO=39/400954
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,PHO=5
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,UROOH=
+*************
+27/03/2022 10:17:05,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,HGBOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CELPOH=2-3
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CELEPH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,LEUC_EMO1H=+
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,PIOO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,HEMOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,BACOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,MOCOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,URO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,FOO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,OXAO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CRIO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CILO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CIGO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CILCE=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,ESP=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,ASCOH=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,OTROSO=
+*************
+27/03/2022 10:17:06,ross,GUARDA RESULTADOS,CCETO=
+*************
+27/03/2022 10:19:10,ross,Actualiza Test,Test=17 HIDROXI PROGESTERONA
+*************
+27/03/2022 10:21:18,ross,GUARDA RESULTADOS,HIDR_MUESH=SUERO
+*************
+27/03/2022 10:21:20,ross,GUARDA RESULTADOS,HIDR_TECH=ELISA
+*************
+27/03/2022 10:21:20,ross,GUARDA RESULTADOS,HIDRO_VALRH=3- 10
+*************
+27/03/2022 10:21:20,ross,GUARDA RESULTADOS,HIDRO_MANAH=Producto de la actividad verbal humana: se concibe a los textos como el resultado de la actividad lingüístico comunicativa, Producto de la actividad verbal humana: se concibe a los textos como el resultado de la actividad lingüístico comunicativa
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,PHO=5
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,UROOH=
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,HGBOH=
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,CELPOH=2-3
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,CELEPH=
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,LEUC_EMO1H=+
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+27/03/2022 10:21:40,ross,GUARDA RESULTADOS,PIOO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,HEMOH=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,MOCOH=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,URO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,FOO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,OXAO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,CRIO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,CILO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,CIGO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,CILCE=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,ESP=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,ASCOH=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,OTROSO=
+*************
+27/03/2022 10:21:41,ross,GUARDA RESULTADOS,CCETO=
+*************
+27/03/2022 10:21:47,ross,VALIDACION RESULTADO,PEDIDO=40/400230
+*************
+27/03/2022 10:21:47,ross,VALIDACION RESULTADO,PEDIDO=40/401145
+*************
+27/03/2022 10:23:26,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 10:23:52,ross,IMPRIME POR AREA,PEDIDO=40
+*************
+27/03/2022 10:54:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 10:55:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 10:55:07,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 10:55:16,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 10:57:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 10:57:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 10:57:07,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 10:57:50,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+27/03/2022 10:58:15,ross,Actualiza Test,Test=MUESTRA
+*************
+27/03/2022 10:58:44,ross,Actualiza Test,Test=RESULTADO
+*************
+27/03/2022 10:59:01,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 10:59:42,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400954,,PEDIDO=39
+*************
+27/03/2022 11:00:07,ross,GUARDA RESULTADOS,HIDR_MUESH=SUERO
+*************
+27/03/2022 11:00:07,ross,GUARDA RESULTADOS,HIDR_TECH=ELISA
+*************
+27/03/2022 11:00:07,ross,GUARDA RESULTADOS,HIDRO_VALRH=3- 10
+*************
+27/03/2022 11:00:07,ross,GUARDA RESULTADOS,HIDRO_MANAH=Concepto texto. El texto es la unidad superior de comunicación y de la competencia organizacional del hablante. Su extensión es variable y corresponde a un todo comprensible que tiene una finalidad comunicativa en un contexto dado. El carácter comunicativo, pragmático y estructural permiten su identificación.
+*************
+27/03/2022 11:00:11,ross,VALIDACION RESULTADO,PEDIDO=39/401145
+*************
+27/03/2022 11:00:25,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:08:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:08:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:09:04,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:09:10,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:11:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:11:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:15:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:15:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:16:06,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:16:23,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:27:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:27:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:27:20,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:29:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:29:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:29:13,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:37:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:37:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:37:19,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:40:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:40:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:40:46,ross,Actualiza Test,Test=MUESTRA
+*************
+27/03/2022 11:41:02,ross,Actualiza Test,Test=VALOR REFERENCIAL
+*************
+27/03/2022 11:41:24,ross,Actualiza Test,Test=TECNICA
+*************
+27/03/2022 11:41:36,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+27/03/2022 11:42:24,ross,Actualiza Test,Test=RANGO REFERENCIAL
+*************
+27/03/2022 11:45:03,ross,Actualiza Test,Test=MUESTRA
+*************
+27/03/2022 11:45:15,ross,Actualiza Test,Test=TECNICA
+*************
+27/03/2022 11:45:27,ross,Actualiza Test,Test=VALOR REFERENCIAL
+*************
+27/03/2022 11:45:35,ross,Actualiza Test,Test=TECNICA
+*************
+27/03/2022 11:45:53,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:49:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:49:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:49:43,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 11:52:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 11:52:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 11:52:11,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 12:20:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 12:20:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 12:21:05,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 12:30:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 12:30:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 12:38:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 12:38:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 12:47:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 12:47:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 12:54:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 12:54:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 12:54:29,ross,Actualiza Test,Test=MUESTRA
+*************
+27/03/2022 13:00:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 13:00:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 13:00:51,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 13:04:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 13:04:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 13:04:14,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 13:07:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 13:07:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 13:10:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 13:10:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 13:17:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 13:17:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 13:23:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 13:23:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 13:24:30,ross,Actualiza Test,Test=TECNICA
+*************
+27/03/2022 13:24:37,ross,Actualiza Test,Test=VALOR REFERENCIAL
+*************
+27/03/2022 13:24:46,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+27/03/2022 13:25:10,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 13:25:49,ross,Actualiza Test,Test=P_LCR
+*************
+27/03/2022 13:25:58,ross,Actualiza Test,Test=P_LCC
+*************
+27/03/2022 13:26:03,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+27/03/2022 14:00:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 14:00:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 14:03:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 14:03:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 14:06:24,ross,Actualiza Test,Test=ANTI LA
+*************
+27/03/2022 14:09:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/03/2022 14:09:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/03/2022 14:11:26,ross,Nuevo Test en Lista de Precios,Test=401202 10  NORMAL
+*************
+27/03/2022 14:11:26,ross,Nuevo Test en Lista de Precios,Test=401202 10  URGENCIA
+*************
+27/03/2022 14:11:26,ross,Nuevo Test en Lista de Precios,Test=401202 10  MSP IESS ISSPOL
+*************
+27/03/2022 14:11:26,ross,Nuevo Test en Lista de Precios,Test=401202 10  SOLCA
+*************
+27/03/2022 14:11:26,ross,INGRESA TEST,TEST=EXA MOL
+*************
+27/03/2022 14:11:26,ross,Actualiza Test,Test=EXA MOL
+*************
+28/03/2022 10:14:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/03/2022 10:14:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/03/2022 10:21:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/03/2022 10:21:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/03/2022 10:50:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/03/2022 10:50:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/03/2022 11:06:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/03/2022 11:06:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/03/2022 11:11:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/03/2022 11:11:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/03/2022 12:01:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/03/2022 12:01:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/03/2022 8:25:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/03/2022 8:25:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/03/2022 8:26:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/03/2022 8:26:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/03/2022 17:39:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/03/2022 17:39:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/03/2022 17:39:44,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+31/03/2022 17:40:10,ross,IMPRIME TODO,PEDIDO=133
+*************
+31/03/2022 17:40:44,ross,Modifica USR,USR=1
+*************
+31/03/2022 17:40:53,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+31/03/2022 17:41:07,ross,IMPRIME POR AREA,PEDIDO=20
+*************
+31/03/2022 18:00:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/03/2022 18:00:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/03/2022 18:01:04,ross,1 ANULA ORDEN,PEDIDO=138 MOTIVO: stest
+*************
+31/03/2022 18:01:15,ross,1 ANULA ORDEN,PEDIDO=139BIOMETRIA HEMATICA ºT4 TOTALº17 BETA ESTRADIOLºT3 TOTALºTSH ºESTRADIOL LIBRE (E3)ºUREAºCREATININAºCEAºELEMENTAL Y MICROSCOPICO (EMO)ºCOPROPARASITARIOºPROTEINURIA EN ORINA 24HºPROTEINURIA EN ORINA PARCIAL º MOTIVO: test HIS
+*************
+31/03/2022 18:11:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/03/2022 18:11:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/03/2022 18:16:02,ross,Generar Paciente,Paciente=PAREDES ZAMBRANO BRIGETTE MISHELLE
+*************
+31/03/2022 18:22:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,,PEDIDO=141
+*************
+31/03/2022 18:22:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=141
+*************
+31/03/2022 18:23:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=141
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/142
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/143
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/144
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/145
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/146
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/147
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/148
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/149
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/150
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/151
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/152
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/153
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/154
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/155
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/156
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/157
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/158
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/159
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/160
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/161
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/162
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/163
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/164
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/165
+*************
+31/03/2022 18:27:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/166
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/167
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/168
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/169
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/170
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/171
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/172
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/173
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/174
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/175
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/176
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/177
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/178
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/179
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/180
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/181
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/182
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/183
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/184
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/185
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/186
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/187
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/188
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/189
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/190
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/191
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/192
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/193
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/194
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/195
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/196
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/197
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/198
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/199
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/200
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/201
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/202
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/203
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/204
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/205
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/206
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/207
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/208
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/209
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/210
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/211
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/212
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/213
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/214
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/215
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/216
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/217
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/218
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/219
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/220
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/221
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/222
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/223
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/224
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/225
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/226
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/227
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/228
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/229
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/230
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/231
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/232
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/233
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/234
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/235
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/236
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/237
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/238
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/239
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/240
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/241
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/242
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/243
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/244
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/245
+*************
+31/03/2022 18:27:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/246
+*************
+31/03/2022 18:28:58,ross,Actualiza FACTURA,FACTURA=8
+*************
+31/03/2022 18:28:58,ross,Ingresa FACTURA,FACTURA=8
+*************
+31/03/2022 18:28:58,ross,Insertar abono,Factura=8 Abono= 10
+*************
+31/03/2022 18:28:58,ross,Actualiza FACTURA,FACTURA=8/10
+*************
+31/03/2022 18:29:04,ross,Registra Tx Factura,Factura=8
+*************
+31/03/2022 18:29:13,ross,Registra Tx Factura,Factura=8
+*************
+31/03/2022 18:30:08,ross,Insertar abono,Factura=8 Abono= 13.15
+*************
+31/03/2022 18:30:08,ross,Cancela FACTURA,FACTURA=8
+*************
+31/03/2022 18:30:10,ross,Registra Tx Factura,Factura=8
+*************
+31/03/2022 18:32:58,ross,IMPRIMIR CONTRAORDEN,
+*************
+31/03/2022 18:33:22,ross,IMPRIMIR LISTA TRABAJO,
+*************
+31/03/2022 18:33:47,ross,IMPRIMIR HOJA TRABAJO,
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,WBC=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,NEU=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,LYM=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,MON=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,EOS=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,BASO=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,LYM%25=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,MON%25=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,RBC=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,HCT=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,HGB=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,MCV=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,MCH=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,MCHC=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,RDW-CV=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,RDW-SD=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,PLT=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,MPV=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,PDW=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,PCT=4
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,P-LCR=44
+*************
+31/03/2022 18:36:20,ross,GUARDA RESULTADOS,P-LCC=4
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,COLOH=AMBAR
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,PHO=5
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,LEUOH=++
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,ASCOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,GLUO=100
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,HGBOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CELEPH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,HEMOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,BACOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,MOCOH=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,URO=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,FOO=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,OXAO=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CRIO=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CILO=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CIGO=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,CILCE=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,ESP=
+*************
+31/03/2022 18:37:36,ross,GUARDA RESULTADOS,OTROSO=
+*************
+31/03/2022 18:39:15,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACON: Suero lipemico
+*************
+31/03/2022 18:40:15,ross,VALIDACION RESULTADO,PEDIDO=141/400101
+*************
+31/03/2022 18:40:15,ross,VALIDACION RESULTADO,PEDIDO=141/400149
+*************
+31/03/2022 18:40:15,ross,VALIDACION RESULTADO,PEDIDO=141/400150
+*************
+31/03/2022 18:40:15,ross,VALIDACION RESULTADO,PEDIDO=141/400151
+*************
+31/03/2022 18:40:15,ross,VALIDACION RESULTADO,PEDIDO=141/400230
+*************
+31/03/2022 18:40:15,ross,VALIDACION RESULTADO,PEDIDO=141/400476
+*************
+31/03/2022 18:47:08,ross,IMPRIME POR AREA,PEDIDO=141
+*************
+31/03/2022 18:48:51,ross,IMPRIME TODO,PEDIDO=141
+*************
+31/03/2022 18:49:29,ross,IMPRIME POR EMAMEN,PEDIDO=141
+*************
+31/03/2022 18:50:01,ross,IMPRIME SOBRE,PEDIDO=141
+*************
+31/03/2022 18:58:05,ross,Guardar palabra,PALABRA=FUXA
+*************

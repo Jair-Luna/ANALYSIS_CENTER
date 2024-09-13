@@ -1,0 +1,822 @@
+02/08/2018 11:07:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2018 11:07:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2018 11:08:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/27
+*************
+02/08/2018 11:08:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/28
+*************
+02/08/2018 11:08:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/29
+*************
+02/08/2018 11:08:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/30
+*************
+02/08/2018 11:08:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/31
+*************
+02/08/2018 11:10:14,ross,GUARDA RESULTADOS,a3=1
+*************
+02/08/2018 11:10:14,ross,GUARDA RESULTADOS,a4=1
+*************
+02/08/2018 11:10:14,ross,GUARDA RESULTADOS,a5=1
+*************
+02/08/2018 11:10:14,ross,GUARDA RESULTADOS,b0=1
+*************
+02/08/2018 11:10:16,ross,VALIDACION RESULTADO,PEDIDO=27/400149
+*************
+02/08/2018 11:10:16,ross,VALIDACION RESULTADO,PEDIDO=27/400150
+*************
+02/08/2018 11:10:16,ross,VALIDACION RESULTADO,PEDIDO=27/400151
+*************
+02/08/2018 11:10:16,ross,VALIDACION RESULTADO,PEDIDO=27/400476
+*************
+02/08/2018 11:10:26,ross,GUARDA RESULTADOS,a3=2
+*************
+02/08/2018 11:10:26,ross,GUARDA RESULTADOS,a4=2
+*************
+02/08/2018 11:10:26,ross,GUARDA RESULTADOS,a5=2
+*************
+02/08/2018 11:10:26,ross,GUARDA RESULTADOS,b0=2
+*************
+02/08/2018 11:10:27,ross,VALIDACION RESULTADO,PEDIDO=28/400149
+*************
+02/08/2018 11:10:27,ross,VALIDACION RESULTADO,PEDIDO=28/400150
+*************
+02/08/2018 11:10:27,ross,VALIDACION RESULTADO,PEDIDO=28/400151
+*************
+02/08/2018 11:10:27,ross,VALIDACION RESULTADO,PEDIDO=28/400476
+*************
+02/08/2018 11:10:39,ross,GUARDA RESULTADOS,a3=3
+*************
+02/08/2018 11:10:39,ross,GUARDA RESULTADOS,a4=3
+*************
+02/08/2018 11:10:39,ross,GUARDA RESULTADOS,a5=3
+*************
+02/08/2018 11:10:41,ross,VALIDACION RESULTADO,PEDIDO=29/400149
+*************
+02/08/2018 11:10:41,ross,VALIDACION RESULTADO,PEDIDO=29/400150
+*************
+02/08/2018 11:10:41,ross,VALIDACION RESULTADO,PEDIDO=29/400476
+*************
+02/08/2018 11:10:48,ross,GUARDA RESULTADOS,a3=4
+*************
+02/08/2018 11:10:48,ross,GUARDA RESULTADOS,a4=4
+*************
+02/08/2018 11:10:48,ross,GUARDA RESULTADOS,a5=4
+*************
+02/08/2018 11:10:48,ross,GUARDA RESULTADOS,b0=4
+*************
+02/08/2018 11:34:45,ross,1 ANULA ORDEN,PEDIDO=28
+*************
+02/08/2018 12:04:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2018 12:04:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 9:36:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 9:36:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 9:37:57,ross,1 GENERAR ORDEN,PEDIDO=32
+*************
+16/08/2018 9:38:00,ross,2 IMPRIMIR COD BARRAS,PEDIDO=32
+*************
+16/08/2018 9:38:21,ross,1 GENERAR ORDEN,PEDIDO=33
+*************
+16/08/2018 9:38:22,ross,2 IMPRIMIR COD BARRAS,PEDIDO=33
+*************
+16/08/2018 9:39:08,ross,1 GENERAR ORDEN,PEDIDO=34
+*************
+16/08/2018 9:39:09,ross,2 IMPRIMIR COD BARRAS,PEDIDO=34
+*************
+16/08/2018 9:46:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 9:46:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 9:46:52,ross,GUARDA RESULTADOS,a3=200
+*************
+16/08/2018 9:46:52,ross,GUARDA RESULTADOS,b0=10
+*************
+16/08/2018 9:47:09,ross,VALIDACION RESULTADO,PEDIDO=32/400149
+*************
+16/08/2018 9:47:09,ross,VALIDACION RESULTADO,PEDIDO=32/400151
+*************
+16/08/2018 9:52:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 9:52:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 9:57:13,ross,1 GENERAR ORDEN,PEDIDO=35
+*************
+16/08/2018 9:57:15,ross,2 IMPRIMIR COD BARRAS,PEDIDO=35
+*************
+16/08/2018 9:59:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 9:59:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:01:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:01:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:04:43,ross,GUARDA RESULTADOS,a3=40
+*************
+16/08/2018 10:04:43,ross,GUARDA RESULTADOS,b0=60
+*************
+16/08/2018 10:04:45,ross,VALIDACION RESULTADO,PEDIDO=33/400149
+*************
+16/08/2018 10:04:45,ross,VALIDACION RESULTADO,PEDIDO=33/400151
+*************
+16/08/2018 10:05:16,ross,GUARDA RESULTADOS,GGF=NEGATIVO
+*************
+16/08/2018 10:05:16,ross,GUARDA RESULTADOS,LEU_EMO=NEGATIVO
+*************
+16/08/2018 10:05:16,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+16/08/2018 10:05:16,ross,GUARDA RESULTADOS,ASPO=
+*************
+16/08/2018 10:05:16,ross,GUARDA RESULTADOS,DENO=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,PHO=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,LEUO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,ESO=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,PROO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,CCETO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,UROO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,SANO=NEGATIVO
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,HBGO=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,CERE=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,CEEP=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,PIOO=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,HEO=
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,BACTO=ESCASAS
+*************
+16/08/2018 10:05:17,ross,GUARDA RESULTADOS,MOCO=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,OXAO=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,CILO=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,CETOR=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,CIGO=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,CILCE=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,ESP=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,UROA=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,CECA=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,FOO=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,CRIO=
+*************
+16/08/2018 10:05:18,ross,GUARDA RESULTADOS,OTROSO=
+*************
+16/08/2018 10:05:29,ross,GUARDA RESULTADOS,HCGQ=NEGATIVO
+*************
+16/08/2018 10:05:29,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+16/08/2018 10:05:33,ross,VALIDACION RESULTADO,PEDIDO=34/400230
+*************
+16/08/2018 10:05:33,ross,VALIDACION RESULTADO,PEDIDO=34/400571
+*************
+16/08/2018 10:05:50,ross,GUARDA RESULTADOS,a3=300
+*************
+16/08/2018 10:16:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:16:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:23:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:23:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:25:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:25:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:26:31,ross,1 GENERAR ORDEN,PEDIDO=36
+*************
+16/08/2018 10:26:38,ross,2 IMPRIMIR COD BARRAS,PEDIDO=36
+*************
+16/08/2018 10:26:51,ross,1 ANULA ORDEN,PEDIDO=36
+*************
+16/08/2018 10:46:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:46:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:48:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:48:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:53:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:53:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 10:59:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 10:59:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:00:39,ross,1 GENERAR ORDEN,PEDIDO=37
+*************
+16/08/2018 11:00:42,ross,2 IMPRIMIR COD BARRAS,PEDIDO=37
+*************
+16/08/2018 11:04:24,ross,GUARDA RESULTADOS,a7=200
+*************
+16/08/2018 11:04:24,ross,GUARDA RESULTADOS,b0=120
+*************
+16/08/2018 11:04:25,ross,VALIDACION RESULTADO,PEDIDO=37/400141
+*************
+16/08/2018 11:04:25,ross,VALIDACION RESULTADO,PEDIDO=37/400151
+*************
+16/08/2018 11:07:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:07:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:09:26,ross,GUARDA RESULTADOS,a3=200
+*************
+16/08/2018 11:09:26,ross,GUARDA RESULTADOS,a4=33
+*************
+16/08/2018 11:09:26,ross,GUARDA RESULTADOS,a5=44
+*************
+16/08/2018 11:09:26,ross,GUARDA RESULTADOS,b0=10
+*************
+16/08/2018 11:09:27,ross,VALIDACION RESULTADO,PEDIDO=32/400150
+*************
+16/08/2018 11:09:27,ross,VALIDACION RESULTADO,PEDIDO=32/400476
+*************
+16/08/2018 11:10:12,ross,GUARDA RESULTADOS,a3=300
+*************
+16/08/2018 11:10:14,ross,VALIDACION RESULTADO,PEDIDO=35/400149
+*************
+16/08/2018 11:10:32,ross,GUARDA RESULTADOS,a7=200
+*************
+16/08/2018 11:10:32,ross,GUARDA RESULTADOS,a3=230
+*************
+16/08/2018 11:10:32,ross,GUARDA RESULTADOS,b0=120
+*************
+16/08/2018 11:10:34,ross,VALIDACION RESULTADO,PEDIDO=37/400149
+*************
+16/08/2018 11:12:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:12:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:13:38,ross,1 GENERAR ORDEN,PEDIDO=38
+*************
+16/08/2018 11:13:41,ross,2 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+16/08/2018 11:14:12,ross,GUARDA RESULTADOS,a7=33
+*************
+16/08/2018 11:14:12,ross,GUARDA RESULTADOS,a3=22
+*************
+16/08/2018 11:17:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:17:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:17:56,ross,GUARDA RESULTADOS,a7=33
+*************
+16/08/2018 11:17:56,ross,GUARDA RESULTADOS,a3=22
+*************
+16/08/2018 11:18:02,ross,VALIDACION RESULTADO,PEDIDO=38/400141
+*************
+16/08/2018 11:18:02,ross,VALIDACION RESULTADO,PEDIDO=38/400149
+*************
+16/08/2018 11:19:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:19:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:19:40,ross,GUARDA RESULTADOS,a7=33
+*************
+16/08/2018 11:19:40,ross,GUARDA RESULTADOS,a3=22
+*************
+16/08/2018 11:19:40,ross,GUARDA RESULTADOS,b0=11
+*************
+16/08/2018 11:20:09,ross,GUARDA RESULTADOS,a7=33
+*************
+16/08/2018 11:20:09,ross,GUARDA RESULTADOS,a3=22
+*************
+16/08/2018 11:20:09,ross,GUARDA RESULTADOS,b0=11
+*************
+16/08/2018 11:20:11,ross,VALIDACION RESULTADO,PEDIDO=38/400151
+*************
+16/08/2018 11:20:48,ross,Nuevo Pedido PRE CARGA,LA MERCED/39
+*************
+16/08/2018 11:20:48,ross,Nuevo Pedido PRE CARGA,LA MERCED/40
+*************
+16/08/2018 11:20:48,ross,Nuevo Pedido PRE CARGA,LA MERCED/41
+*************
+16/08/2018 11:20:48,ross,Nuevo Pedido PRE CARGA,LA MERCED/42
+*************
+16/08/2018 11:20:48,ross,Nuevo Pedido PRE CARGA,LA MERCED/43
+*************
+16/08/2018 11:22:17,ross,1 GENERAR ORDEN,PEDIDO=44
+*************
+16/08/2018 11:22:20,ross,2 IMPRIMIR COD BARRAS,PEDIDO=44
+*************
+16/08/2018 11:38:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:38:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:38:53,ross,1 GENERAR ORDEN,PEDIDO=45
+*************
+16/08/2018 11:38:54,ross,2 IMPRIMIR COD BARRAS,PEDIDO=45
+*************
+16/08/2018 11:39:21,ross,1 ANULA ORDEN,PEDIDO=39
+*************
+16/08/2018 11:39:32,ross,1 ANULA ORDEN,PEDIDO=40
+*************
+16/08/2018 11:39:41,ross,1 ANULA ORDEN,PEDIDO=41
+*************
+16/08/2018 11:39:49,ross,1 ANULA ORDEN,PEDIDO=42
+*************
+16/08/2018 11:39:57,ross,1 ANULA ORDEN,PEDIDO=43
+*************
+16/08/2018 11:40:25,ross,1 GENERAR ORDEN,PEDIDO=46
+*************
+16/08/2018 11:40:27,ross,2 IMPRIMIR COD BARRAS,PEDIDO=46
+*************
+16/08/2018 11:41:12,ross,Nuevo Pedido PRE CARGA,PINTAG/47
+*************
+16/08/2018 11:41:14,ross,Nuevo Pedido PRE CARGA,PINTAG/48
+*************
+16/08/2018 11:41:14,ross,Nuevo Pedido PRE CARGA,PINTAG/49
+*************
+16/08/2018 11:41:15,ross,Nuevo Pedido PRE CARGA,PINTAG/50
+*************
+16/08/2018 11:41:15,ross,Nuevo Pedido PRE CARGA,PINTAG/51
+*************
+16/08/2018 11:43:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:43:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:44:07,ross,Nuevo Pedido PRE CARGA,CUENDINA/52
+*************
+16/08/2018 11:44:17,ross,Nuevo Pedido PRE CARGA,CUENDINA/53
+*************
+16/08/2018 11:44:23,ross,Nuevo Pedido PRE CARGA,CUENDINA/54
+*************
+16/08/2018 11:44:24,ross,Nuevo Pedido PRE CARGA,CUENDINA/55
+*************
+16/08/2018 11:44:24,ross,Nuevo Pedido PRE CARGA,CUENDINA/56
+*************
+16/08/2018 11:48:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 11:48:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 11:49:25,ross,Nuevo Pedido PRE CARGA,TOLONTAG/57
+*************
+16/08/2018 11:49:25,ross,Nuevo Pedido PRE CARGA,TOLONTAG/58
+*************
+16/08/2018 11:49:25,ross,Nuevo Pedido PRE CARGA,TOLONTAG/59
+*************
+16/08/2018 11:49:25,ross,Nuevo Pedido PRE CARGA,TOLONTAG/60
+*************
+16/08/2018 11:49:25,ross,Nuevo Pedido PRE CARGA,TOLONTAG/61
+*************
+16/08/2018 14:44:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 14:44:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 14:44:26,ross,1 MODIFICA ORDEN,PEDIDO=61
+*************
+16/08/2018 14:45:35,ross,1 MODIFICA ORDEN,PEDIDO=34
+*************
+16/08/2018 14:50:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 14:50:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 14:51:16,ross,1 MODIFICA ORDEN,PEDIDO=34
+*************
+16/08/2018 14:57:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 14:57:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 14:59:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 14:59:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:01:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 15:01:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:02:23,ross,1 MODIFICA ORDEN,PEDIDO=34
+*************
+16/08/2018 15:08:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 15:08:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:18:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 15:18:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,GGF=NEGATIVO
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,LEU_EMO=NEGATIVO
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,ASPO=TRANSPARENTE
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,DENO=1.005
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,PHO=6.5
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,LEUO=NEGATIVO
+*************
+16/08/2018 15:19:13,ross,GUARDA RESULTADOS,ESO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,PROO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CCETO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,UROO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,SANO=NEGATIVO
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,HBGO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CERE=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CEEP=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,PIOO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,HEO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,BACTO=ESCASAS
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,MOCO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,OXAO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CILO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CETOR=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CIGO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CILCE=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,ESP=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,UROA=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CECA=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,FOO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,CRIO=
+*************
+16/08/2018 15:19:14,ross,GUARDA RESULTADOS,OTROSO=
+*************
+16/08/2018 15:19:21,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+16/08/2018 15:19:28,ross,VALIDACION RESULTADO,PEDIDO=34/400230
+*************
+16/08/2018 15:20:20,ross,1 GENERAR ORDEN,PEDIDO=62
+*************
+16/08/2018 15:20:22,ross,2 IMPRIMIR COD BARRAS,PEDIDO=62
+*************
+16/08/2018 15:20:38,ross,GUARDA RESULTADOS,a3=24
+*************
+16/08/2018 15:20:42,ross,VALIDACION RESULTADO,PEDIDO=62/400149
+*************
+16/08/2018 15:24:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 15:24:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:29:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 15:29:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:29:35,ross,IMPRIME TODO,PEDIDO=62
+*************
+16/08/2018 15:31:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 15:31:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 15:32:06,ross,IMPRIME TODO,PEDIDO=62
+*************
+16/08/2018 15:32:56,ross,GUARDA RESULTADOS,GGF=NEGATIVO
+*************
+16/08/2018 15:32:56,ross,GUARDA RESULTADOS,LEU_EMO=NEGATIVO
+*************
+16/08/2018 15:32:56,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+16/08/2018 15:32:56,ross,GUARDA RESULTADOS,ASPO=
+*************
+16/08/2018 15:32:56,ross,GUARDA RESULTADOS,DENO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,PHO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,LEUO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,ESO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,PROO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,CCETO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,UROO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,SANO=NEGATIVO
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,HBGO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,CERE=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,CEEP=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,PIOO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,HEO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,BACTO=ESCASAS
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,MOCO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,OXAO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,CILO=
+*************
+16/08/2018 15:32:57,ross,GUARDA RESULTADOS,CETOR=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,CIGO=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,CILCE=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,ESP=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,UROA=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,CECA=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,FOO=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,CRIO=
+*************
+16/08/2018 15:32:58,ross,GUARDA RESULTADOS,OTROSO=
+*************
+16/08/2018 15:33:03,ross,GUARDA RESULTADOS,HIV=NO REACTIVO
+*************
+16/08/2018 15:33:03,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+16/08/2018 15:33:03,ross,GUARDA RESULTADOS,a3=24
+*************
+16/08/2018 15:33:04,ross,VALIDACION RESULTADO,PEDIDO=62/400230
+*************
+16/08/2018 15:33:04,ross,VALIDACION RESULTADO,PEDIDO=62/400772
+*************
+16/08/2018 15:33:22,ross,IMPRIME TODO,PEDIDO=62
+*************
+16/08/2018 15:34:00,ross,1 GENERAR ORDEN,PEDIDO=63
+*************
+16/08/2018 15:34:01,ross,2 IMPRIMIR COD BARRAS,PEDIDO=63
+*************
+16/08/2018 15:34:19,ross,GUARDA RESULTADOS,a3=2
+*************
+16/08/2018 15:34:19,ross,GUARDA RESULTADOS,b0=3
+*************
+16/08/2018 15:34:20,ross,VALIDACION RESULTADO,PEDIDO=63/400149
+*************
+16/08/2018 15:34:20,ross,VALIDACION RESULTADO,PEDIDO=63/400151
+*************
+16/08/2018 18:24:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 18:24:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/08/2018 18:26:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2018 18:26:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 15:30:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 15:30:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 15:43:56,ross,Nuevo Pedido PRE CARGA,LA MERCED/64
+*************
+19/08/2018 15:43:56,ross,Nuevo Pedido PRE CARGA,LA MERCED/65
+*************
+19/08/2018 15:43:56,ross,Nuevo Pedido PRE CARGA,LA MERCED/66
+*************
+19/08/2018 15:43:56,ross,Nuevo Pedido PRE CARGA,LA MERCED/67
+*************
+19/08/2018 15:43:57,ross,Nuevo Pedido PRE CARGA,LA MERCED/68
+*************
+19/08/2018 15:46:44,ross,GUARDA RESULTADOS,a3=1
+*************
+19/08/2018 15:46:45,ross,GUARDA RESULTADOS,a4=1
+*************
+19/08/2018 15:46:45,ross,GUARDA RESULTADOS,a5=1
+*************
+19/08/2018 15:46:45,ross,GUARDA RESULTADOS,b0=1
+*************
+19/08/2018 15:46:48,ross,VALIDACION RESULTADO,PEDIDO=65/400149
+*************
+19/08/2018 15:46:48,ross,VALIDACION RESULTADO,PEDIDO=65/400150
+*************
+19/08/2018 15:46:48,ross,VALIDACION RESULTADO,PEDIDO=65/400151
+*************
+19/08/2018 15:46:48,ross,VALIDACION RESULTADO,PEDIDO=65/400476
+*************
+19/08/2018 15:46:57,ross,GUARDA RESULTADOS,a3=2
+*************
+19/08/2018 15:46:57,ross,GUARDA RESULTADOS,a4=2
+*************
+19/08/2018 15:46:57,ross,GUARDA RESULTADOS,a5=2
+*************
+19/08/2018 15:46:58,ross,GUARDA RESULTADOS,b0=2
+*************
+19/08/2018 15:46:59,ross,VALIDACION RESULTADO,PEDIDO=64/400149
+*************
+19/08/2018 15:46:59,ross,VALIDACION RESULTADO,PEDIDO=64/400150
+*************
+19/08/2018 15:46:59,ross,VALIDACION RESULTADO,PEDIDO=64/400151
+*************
+19/08/2018 15:46:59,ross,VALIDACION RESULTADO,PEDIDO=64/400476
+*************
+19/08/2018 15:47:08,ross,GUARDA RESULTADOS,a3=3
+*************
+19/08/2018 15:47:08,ross,GUARDA RESULTADOS,a5=3
+*************
+19/08/2018 15:47:09,ross,VALIDACION RESULTADO,PEDIDO=66/400149
+*************
+19/08/2018 15:47:09,ross,VALIDACION RESULTADO,PEDIDO=66/400476
+*************
+19/08/2018 15:47:16,ross,GUARDA RESULTADOS,a3=5
+*************
+19/08/2018 15:47:17,ross,GUARDA RESULTADOS,a4=5
+*************
+19/08/2018 15:47:17,ross,GUARDA RESULTADOS,a5=5
+*************
+19/08/2018 15:47:17,ross,GUARDA RESULTADOS,b0=5
+*************
+19/08/2018 15:47:18,ross,VALIDACION RESULTADO,PEDIDO=68/400149
+*************
+19/08/2018 15:47:18,ross,VALIDACION RESULTADO,PEDIDO=68/400150
+*************
+19/08/2018 15:47:18,ross,VALIDACION RESULTADO,PEDIDO=68/400151
+*************
+19/08/2018 15:47:18,ross,VALIDACION RESULTADO,PEDIDO=68/400476
+*************
+19/08/2018 16:03:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 16:03:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 16:15:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 16:15:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 16:48:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 16:48:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 16:58:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 16:58:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:03:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:03:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:11:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:11:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:15:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:15:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:22:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:22:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:32:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:32:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:35:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:35:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:39:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:39:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:40:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:40:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:43:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:43:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:45:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:45:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:47:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:47:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 17:51:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2018 17:51:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2018 18:02:27,ross,IMPRIME SOBRE,PEDIDO=62
+*************
+19/08/2018 18:26:41,ross,GUARDA RESULTADOS,a3=3
+*************
+19/08/2018 18:26:41,ross,GUARDA RESULTADOS,a5=3
+*************
+19/08/2018 18:26:52,ross,GUARDA RESULTADOS,a3=3
+*************
+19/08/2018 18:26:52,ross,GUARDA RESULTADOS,a4=4
+*************
+19/08/2018 18:26:52,ross,GUARDA RESULTADOS,a5=3
+*************
+19/08/2018 18:26:52,ross,GUARDA RESULTADOS,b0=4
+*************
+19/08/2018 18:26:54,ross,VALIDACION RESULTADO,PEDIDO=66/400150
+*************
+19/08/2018 18:26:54,ross,VALIDACION RESULTADO,PEDIDO=66/400151
+*************
+19/08/2018 18:27:06,ross,GUARDA RESULTADOS,a3=2
+*************
+19/08/2018 18:27:06,ross,GUARDA RESULTADOS,a4=2
+*************
+19/08/2018 18:27:06,ross,GUARDA RESULTADOS,a5=2
+*************
+19/08/2018 18:27:06,ross,GUARDA RESULTADOS,b0=2
+*************
+19/08/2018 18:29:00,ross,VALIDACION RESULTADO,PEDIDO=67/400149
+*************
+19/08/2018 18:29:00,ross,VALIDACION RESULTADO,PEDIDO=67/400150
+*************
+19/08/2018 18:29:00,ross,VALIDACION RESULTADO,PEDIDO=67/400151
+*************
+19/08/2018 18:29:00,ross,VALIDACION RESULTADO,PEDIDO=67/400476
+*************
+19/08/2018 18:29:11,ross,GUARDA RESULTADOS,a3=2
+*************
+19/08/2018 18:29:11,ross,GUARDA RESULTADOS,a4=2
+*************
+19/08/2018 18:29:11,ross,GUARDA RESULTADOS,a5=2
+*************
+19/08/2018 18:29:11,ross,GUARDA RESULTADOS,b0=2
+*************
+30/08/2018 13:56:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2018 13:57:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2018 14:16:31,ross,1 GENERAR ORDEN,PEDIDO=69
+*************
+30/08/2018 14:16:57,ross,2 IMPRIMIR COD BARRAS,PEDIDO=69
+*************
+30/08/2018 14:25:47,ross,2 IMPRIMIR COD BARRAS,PEDIDO=69
+*************
+30/08/2018 14:31:09,,SUPERADO INTENTOS FALLIDO USR,
+*************
+30/08/2018 14:31:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2018 14:31:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2018 14:32:25,ross,1 GENERAR ORDEN,PEDIDO=70
+*************
+30/08/2018 14:32:35,ross,2 IMPRIMIR COD BARRAS,PEDIDO=70
+*************
+30/08/2018 14:36:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2018 14:36:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2018 14:36:26,ross,1 GENERAR ORDEN,PEDIDO=71
+*************
+30/08/2018 14:36:32,ross,2 IMPRIMIR COD BARRAS,PEDIDO=71
+*************

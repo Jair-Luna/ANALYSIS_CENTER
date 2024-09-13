@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_ParamPlantilla" targetNamespace="http://tempuri.org/dts_ParamPlantilla.xsd" xmlns:mstns="http://tempuri.org/dts_ParamPlantilla.xsd" xmlns="http://tempuri.org/dts_ParamPlantilla.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_ParamPlantilla" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_ParamPlantilla" msprop:Generator_DataSetName="dts_ParamPlantilla" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PLANTILLAS" msprop:Generator_UserTableName="PLANTILLAS" msprop:Generator_RowDeletedName="PLANTILLASRowDeleted" msprop:Generator_RowChangedName="PLANTILLASRowChanged" msprop:Generator_RowClassName="PLANTILLASRow" msprop:Generator_RowChangingName="PLANTILLASRowChanging" msprop:Generator_RowEvArgName="PLANTILLASRowChangeEvent" msprop:Generator_RowEvHandlerName="PLANTILLASRowChangeEventHandler" msprop:Generator_TableClassName="PLANTILLASDataTable" msprop:Generator_TableVarName="tablePLANTILLAS" msprop:Generator_RowDeletingName="PLANTILLASRowDeleting" msprop:Generator_TablePropName="PLANTILLAS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PADRE" msprop:Generator_UserColumnName="PADRE" msprop:Generator_ColumnPropNameInRow="PADRE" msprop:Generator_ColumnVarNameInTable="columnPADRE" msprop:Generator_ColumnPropNameInTable="PADREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ARE_NOMBRE" msprop:Generator_UserColumnName="ARE_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnARE_NOMBRE" msprop:Generator_ColumnPropNameInRow="ARE_NOMBRE" msprop:Generator_ColumnPropNameInTable="ARE_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TES_ID" msprop:Generator_UserColumnName="TES_ID" msprop:Generator_ColumnVarNameInTable="columnTES_ID" msprop:Generator_ColumnPropNameInRow="TES_ID" msprop:Generator_ColumnPropNameInTable="TES_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TES_NOMBRE" msprop:Generator_UserColumnName="TES_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnTES_NOMBRE" msprop:Generator_ColumnPropNameInRow="TES_NOMBRE" msprop:Generator_ColumnPropNameInTable="TES_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNI_NOMENCLATURA" msprop:Generator_UserColumnName="UNI_NOMENCLATURA" msprop:Generator_ColumnVarNameInTable="columnUNI_NOMENCLATURA" msprop:Generator_ColumnPropNameInRow="UNI_NOMENCLATURA" msprop:Generator_ColumnPropNameInTable="UNI_NOMENCLATURAColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

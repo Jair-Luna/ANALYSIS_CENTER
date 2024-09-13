@@ -1,0 +1,424 @@
+﻿Public Class frm_AgendaCitaMedica
+    Dim opr_res As New Cls_Resultado()
+    Dim opr_agenda As New Cls_Agenda()
+    Dim opr_pac As New Cls_Paciente()
+    Private opr_medico As New Cls_Medico()
+    Public LabOcup As Byte
+    Dim opr_test As New Cls_TipoTest()
+    Dim opr_pedido As New Cls_Pedido()
+    'Dim dts_lista As New DataSet
+    Dim dtv_agenda As New DataView()
+
+    Dim dts_medico As DataSet
+    Dim dts_agenda As DataSet
+
+    Private WithEvents dtt_medico As New DataTable("Registros")
+    Private WithEvents dtt_agenda As New DataTable("Registros")
+
+    Dim blnAjustarCeldas As Boolean = True
+
+
+
+
+    Private Sub frm_AgendaCitaMedica_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        opr_medico.LlenarComboEspecialidad(cmb_Especialidad)
+
+        Dim dtcM_columna1 As New DataColumn("med_nombre", GetType(System.String))
+        Dim dtcM_columna2 As New DataColumn("med_id", GetType(System.Single))
+        Dim dtcM_columna3 As New DataColumn("med_mail", GetType(System.String))
+        dtt_medico.Columns.Add(dtcM_columna1)
+        dtt_medico.Columns.Add(dtcM_columna2)
+        dtt_medico.Columns.Add(dtcM_columna3)
+
+        If cmb_Especialidad.Text = "Todas" Then
+            actualizaDtsMedico(0)
+        Else
+            actualizaDtsMedico(CInt(Mid(cmb_Especialidad.Text, 101, 110)))
+        End If
+
+        dgv_Medico.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+
+        dgv_Medico.Columns("med_nombre").Width = 190
+        dgv_Medico.Columns("med_id").Visible = False
+        dgv_Medico.Columns("med_mail").Visible = False
+
+        dgv_Medico.DefaultCellStyle.SelectionForeColor = Color.LightYellow
+        dgv_Medico.DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 7)
+
+        '***********************************
+        Dim dtcA_columna1 As New DataColumn("age_id", GetType(System.Double))
+        Dim dtcA_columna2 As New DataColumn("age_hora", GetType(System.String))
+        Dim dtcA_columna3 As New DataColumn("age_fecha", GetType(System.String))
+        Dim dtcA_columna4 As New DataColumn("pac_id", GetType(System.Double))
+        Dim dtcA_columna5 As New DataColumn("pac_nombre", GetType(System.String))
+        Dim dtcA_columna6 As New DataColumn("pac_edad", GetType(System.String))
+        Dim dtcA_columna7 As New DataColumn("med_id", GetType(System.Double))
+        Dim dtcA_columna8 As New DataColumn("ped_id", GetType(System.Double))
+        Dim dtcA_columna9 As New DataColumn("age_resumen", GetType(System.String))
+        dtt_agenda.Columns.Add(dtcA_columna1)
+        dtt_agenda.Columns.Add(dtcA_columna2)
+        dtt_agenda.Columns.Add(dtcA_columna3)
+        dtt_agenda.Columns.Add(dtcA_columna4)
+        dtt_agenda.Columns.Add(dtcA_columna5)
+        dtt_agenda.Columns.Add(dtcA_columna6)
+        dtt_agenda.Columns.Add(dtcA_columna7)
+        dtt_agenda.Columns.Add(dtcA_columna8)
+        dtt_agenda.Columns.Add(dtcA_columna9)
+
+        actualizaDtsAgenda(CInt(dgv_Medico.CurrentRow.Cells("med_id").Value))
+
+        dgv_Agenda.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+
+
+        dgv_Agenda.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+        dgv_Agenda.Columns("age_id").Visible = False
+        dgv_Agenda.Columns("age_hora").Width = 60
+        dgv_Agenda.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_Agenda.Columns("age_hora").HeaderText = "HORA"
+        dgv_Agenda.Columns("age_fecha").Visible = False
+        dgv_Agenda.Columns("pac_id").Visible = False
+        dgv_Agenda.Columns("pac_nombre").Width = 320
+        dgv_Agenda.Columns("pac_nombre").HeaderText = "PACIENTE"
+        dgv_Agenda.Columns("med_id").Visible = False
+        dgv_Agenda.Columns("pac_edad").Width = 150
+        dgv_Agenda.Columns("pac_edad").HeaderText = "EDAD"
+        dgv_Agenda.Columns("ped_id").Visible = False
+        dgv_Agenda.Columns("age_resumen").Width = 240
+        dgv_Agenda.Columns("age_resumen").HeaderText = "RESUMEN"
+
+        With dgv_Agenda
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 8)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.WhiteSmoke
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.FullRowSelect
+        End With
+
+        lbl_AgendarDia.Text = Format(dtp_CitaMedica.SelectionRange.Start, "dd de MMMM de yyyy")
+        lbl_MedicoCita.Text = dgv_Medico.CurrentRow.Cells("med_nombre").Value.PadRight(150)
+
+        opr_pedido.LlenarComboPrioridad(cmb_convenio, False, True)
+
+     
+    End Sub
+
+
+    'dts_agenda = opr_res.LlenaMedicoAgenda(Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"))
+    'lst_medico.Items.Clear()
+    'dts_lista = opr_res.LlenaListMedicoAgenda(lst_medico, Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"))
+
+
+    Private Sub actualizaDtsMedico(ByVal esp_id As Integer)
+        dtt_medico.Clear()
+        opr_res.LlenarGridMedico(dgv_Medico, dtt_medico, esp_id)
+    End Sub
+
+
+    Private Sub actualizaDtsAgenda(ByVal med_id As Integer)
+
+        Dim calendario As String()
+        Dim i As Integer
+        Dim age_id As Integer = 0
+        dtt_agenda.Clear()
+
+        If opr_agenda.ExisteAgenda(Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), "Medico", med_id) > 0 Then
+            'LEO LA AGENDA DIARIA
+            opr_res.LlenarGridAgenda(dgv_Agenda, dtt_agenda, Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), "Medico", med_id)
+        Else
+            calendario = Split(opr_agenda.LeerCalendario("Medico", med_id), ",")
+            For i = 0 To UBound(calendario) - 1
+                age_id = opr_agenda.LeeMaximoAgenda()
+                opr_agenda.CreaAgenda(age_id, Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), calendario(i), "Medico", med_id)
+            Next
+            'LEO LA AGENDA DIARIA
+            opr_res.LlenarGridAgenda(dgv_Agenda, dtt_agenda, Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), "Medico", med_id)
+        End If
+
+
+    End Sub
+
+
+    Private Sub dtp_CitaMedica_DateChanged(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles dtp_CitaMedica.DateChanged
+
+        lbl_AgendarDia.Text = Format(dtp_CitaMedica.SelectionRange.Start, "dd de MMMM de yyyy")
+
+        actualizaDtsAgenda(CInt(dgv_Medico.CurrentRow.Cells("med_id").Value))
+        
+    End Sub
+
+    Private Sub dgv_Agenda_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles dgv_Agenda.Paint
+        If blnAjustarCeldas = True Then
+            blnAjustarCeldas = False
+            dgv_Agenda.AutoResizeRows(DataGridViewAutoSizeRowsMode.DisplayedCells)
+        End If
+    End Sub
+
+    Private Sub dgv_Agenda_Scroll(ByVal sender As System.Object, ByVal e As System.Windows.Forms.ScrollEventArgs) Handles dgv_Agenda.Scroll
+        dgv_Agenda.AutoResizeRows(DataGridViewAutoSizeRowsMode.DisplayedCells)
+    End Sub
+    
+    Private Sub dgv_Medico_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles dgv_Medico.Paint
+        If blnAjustarCeldas = True Then
+            blnAjustarCeldas = False
+            dgv_Medico.AutoResizeRows(DataGridViewAutoSizeRowsMode.DisplayedCells)
+        End If
+    End Sub
+
+    Private Sub dgv_Medico_Scroll(ByVal sender As System.Object, ByVal e As System.Windows.Forms.ScrollEventArgs) Handles dgv_Medico.Scroll
+        dgv_Medico.AutoResizeRows(DataGridViewAutoSizeRowsMode.DisplayedCells)
+    End Sub
+
+    Private Sub dgv_Medico_CellClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgv_Medico.CellClick
+        Dim arreglo As String()
+        'arreglo = Split(dgv_Medico.CurrentRow.Cells("med_nombre").Value, Chr(13))
+        lbl_MedicoCita.Text = dgv_Medico.CurrentRow.Cells("med_nombre").Value
+
+        actualizaDtsAgenda(CInt(dgv_Medico.CurrentRow.Cells("med_id").Value))
+
+    End Sub
+
+    Private Sub CambiaColorBoton(ByVal boton As Windows.Forms.Button)
+        boton.BackColor = Color.YellowGreen
+    End Sub
+
+    Private Sub RestableceColorBoton(ByVal boton As Windows.Forms.Button)
+        boton.BackColor = Color.White
+    End Sub
+
+    
+    Private Sub VerificaBotonPresionado(ByVal boton As Windows.Forms.Button)
+        Select Case boton.ToString()
+            Case "btn_AgendarPaciente"
+                RestableceColorBoton(btn_AgendarActividad)
+                RestableceColorBoton(btn_AgenrarGrupo)
+
+            Case "btn_AgendarActividad"
+                RestableceColorBoton(btn_AgendarPaciente)
+                RestableceColorBoton(btn_AgenrarGrupo)
+
+            Case "btn_AgenrarGrupo"
+                RestableceColorBoton(btn_AgendarActividad)
+                RestableceColorBoton(btn_AgendarPaciente)
+        End Select
+    End Sub
+
+    Private Sub btn_AgendarPaciente_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        VerificaBotonPresionado(btn_AgendarPaciente)
+    End Sub
+    Private Sub btn_AgendarActividad_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        VerificaBotonPresionado(btn_AgendarActividad)
+    End Sub
+
+    Private Sub btn_AgenrarGrupo_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        VerificaBotonPresionado(btn_AgenrarGrupo)
+    End Sub
+
+    Private Sub btn_ssalir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_ssalir.Click
+        Me.Close()
+    End Sub
+
+    Private Sub dgv_Agenda_CellClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgv_Agenda.CellClick
+
+        grp_Accion.Visible = True
+
+        lbl_AgendarA.Text = "Qué desea agendar a las " & dgv_Agenda.CurrentRow.Cells("age_hora").Value & " ?"
+    End Sub
+
+    Private Sub cmb_Especialidad_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmb_Especialidad.SelectedIndexChanged
+        If cmb_Especialidad.Text = "Todas" Then
+            actualizaDtsMedico(0)
+        Else
+            actualizaDtsMedico(CInt(Mid(cmb_Especialidad.Text, 101, 110)))
+        End If
+        dgv_Medico.AutoResizeRows(DataGridViewAutoSizeRowsMode.DisplayedCells)
+    End Sub
+
+    Private Sub btn_AgendarPaciente_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_AgendarPaciente.Click
+        'abro el formulario para seleccioanar un paciente
+        Dim str_tagaux As String
+        str_tagaux = Me.Tag
+        Dim frm_MDIChild As New frm_Paciente3()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+        Me.Tag = str_tagaux
+    End Sub
+
+
+    Public Sub LLena_datos_paciente_doc()
+        'toma los datos del paciete que son dvueltos entagdel formulario
+        'luego d haber seleccioando del otro formulario
+        Dim int_indice, int_pos As Integer
+        Dim str_campos() As String
+        Dim parametrogrid() As String
+        Dim str_texto, str_valor As String
+        Dim boo_edad As Boolean = True
+        Dim i, ii As Integer
+        Dim paciente As String = Nothing
+        Dim edad, unidad As String
+        Dim fecha_nac As Date
+
+        str_campos = Split(Me.Tag, "/*/")
+        'Cuando creo doctor y regreso al formulario de pedido impide que se borre datos del paciente ya ingresados
+
+        For i = 1 To UBound(str_campos)
+
+            parametrogrid = Split(str_campos(i), "=")
+
+            Select Case i
+
+                Case 1, 2
+                    'parametrogrid = Split(str_campos(i), "=")
+                    paciente = paciente & parametrogrid(1) & " "
+                    dgv_Agenda.CurrentRow.Cells("pac_nombre").Value = paciente
+
+                Case 10
+                    fecha_nac = parametrogrid(1)
+
+                    '**********
+                    'funcion para calcular la edad del paciente
+                    Dim y, yn As Integer
+                    Dim m, mn As Integer
+                    Dim d, dn As Integer
+                    y = Year(Now)
+                    yn = Year(fecha_nac)
+                    m = Month(Now)
+                    mn = Month(fecha_nac)
+                    d = Microsoft.VisualBasic.Day(Now)
+                    dn = Microsoft.VisualBasic.Day(fecha_nac)
+                    If dn <= d Then
+                        d = d - dn
+                    Else
+                        d = d + 30
+                        m = m - 1
+                        d = d - dn
+                    End If
+                    If mn <= m Then
+                        m = m - mn
+                    Else
+                        m = m + 12
+                        y = y - 1
+                        m = m - mn
+                    End If
+                    y = y - yn
+                    If (y < 2) Then
+                        If y < 1 Then
+                            If m > 0 Then
+                                edad = m & " meses"
+                            Else
+                                edad = d & " dias"
+                            End If
+                        Else
+                            edad = y & " año y " & m & " meses"
+                        End If
+                    Else
+                        edad = y & " años "
+                    End If
+                    '**********
+                    Dim param_edad As String()
+
+                    param_edad = Split(edad, " ")
+                    edad = param_edad(0)
+                    unidad = param_edad(1)
+
+                    dgv_Agenda.CurrentRow.Cells("pac_edad").Value = edad & " " & unidad
+                    Exit Sub
+
+                Case 3
+                    'direccion domicilio paciente
+                    'dgv_Agenda.CurrentRow.Cells("med_nombre").Value = parametrogrid(1)
+
+                Case 5
+                    dgv_Agenda.CurrentRow.Cells("pac_id").Value = parametrogrid(1)
+            End Select
+        Next
+
+    End Sub
+
+    
+    Private Sub btn_AddResGeneral_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_AddResGeneral.Click
+        dgv_Agenda.CurrentRow.Cells("age_resumen").Value = Trim(txt_CitaGeneral.Text)
+        txt_CitaGeneral.Text = ""
+    End Sub
+
+    Private Sub dgv_Agenda_KeyDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles dgv_Agenda.KeyDown
+        If e.KeyCode = Keys.Enter Then
+            'Operaciones al precionar ENTER sobre el grid
+        ElseIf e.KeyCode = Keys.Delete Then
+            If MsgBox("Desea borrar la agenda de las " & dgv_Agenda.CurrentRow.Cells("age_hora").Value & " ?", MsgBoxStyle.YesNo, "ANALISYS") = MsgBoxResult.Yes Then
+                'Operaciones al precionar DELETE sobre el grid
+                dgv_Agenda.CurrentRow.Cells("pac_nombre").Value = ""
+                dgv_Agenda.CurrentRow.Cells("pac_edad").Value = ""
+                dgv_Agenda.CurrentRow.Cells("age_resumen").Value = ""
+            Else
+
+            End If
+        End If
+    End Sub
+
+    
+    Private Sub btn_gguardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_gguardar.Click
+        Dim SiNoGuardo As Boolean = False
+
+        If opr_agenda.ExisteAgendaHora(Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), dgv_Agenda.CurrentRow.Cells("age_hora").Value, "Medico") >= 1 Then
+            If MsgBox("La agenda para ese dia se encuentra ocupada, desea modificar la agenda ?", MsgBoxStyle.Question + MsgBoxStyle.YesNo, "ANALISYS") = MsgBoxResult.Yes Then
+                'opr_agenda.ModificaAgendaHora(, Format(dtp_CitaMedica.SelectionRange.Start, "dd/MM/yyyy"), dgv_Agenda.CurrentRow.Cells("age_hora").Value, dgv_Agenda.CurrentRow.Cells("pac_id").Value, dgv_Agenda.CurrentRow.Cells("med_id").Value, dgv_Agenda.CurrentRow.Cells("ped_id").Value, dgv_Agenda.CurrentRow.Cells("age_resumen").Value, "Medico", SiNoGuardo)
+                opr_agenda.ModificaAgendaHora(CInt(dgv_Agenda.CurrentRow.Cells("age_id").Value()), CInt(dgv_Agenda.CurrentRow.Cells("ped_id").Value()), CInt(dgv_Agenda.CurrentRow.Cells("pac_id").Value()), CInt(dgv_Agenda.CurrentRow.Cells("med_id").Value()), CInt(dgv_Agenda.CurrentRow.Cells("pac_edad").Value()), dgv_Agenda.CurrentRow.Cells("age_resumen").Value.ToString, SiNoGuardo)
+                'btn_imprimirCul.Enabled = True
+            Else
+                'opr_agenda.CreaAgendaHora(Format(cal1.SelectionRange.Start, "dd/MM/yyyy"), dgrd_Cal.Item(dgrd_Cal.CurrentCell.RowNumber, 0), VarPac, VarMed, VarPed, resumen)
+                'opr_agenda.ModificaAgendaHora(Format(cal1.SelectionRange.Start, "dd/MM/yyyy"), dgrd_Cal.Item(dgrd_Cal.CurrentCell.RowNumber, 0), VarPac, VarMed, VarPed, resumen)
+            End If
+        Else
+            'opr_agenda.CreaAgendaHora(Format(cal1.SelectionRange.Start, "dd/MM/yyyy"), dgrd_Cal.Item(dgrd_Cal.CurrentCell.RowNumber, 0), VarPac, VarMed, VarPed, resumen)
+            Dim hora As String = dgv_Agenda.CurrentRow.Cells("age_hora").Value.ToString()
+            Dim pac_id As Integer = dgv_Agenda.CurrentRow.Cells("pac_id").Value()
+            Dim med_id As Integer = dgv_Agenda.CurrentRow.Cells("med_id").Value()
+            Dim ped_id As Integer
+            Dim turno As String = Nothing
+            Dim edad As String
+            Dim param_pac As String()
+            Dim param_conv As String()
+            Dim unidad, pac_sexo, pac_dir, pac_fono, pac_email As String
+            Dim pac_fecnac As Date
+
+            If IsDBNull(dgv_Agenda.CurrentRow.Cells("ped_id").Value()) Then
+                ped_id = opr_pedido.LeerMaxPedido()
+                ped_id = ped_id + 1
+            Else
+                ped_id = dgv_Agenda.CurrentRow.Cells("ped_id").Value()
+            End If
+
+            If pac_id <> 0 Or med_id <> 0 Then
+
+                turno = Format(opr_pedido.LeerMaxturno("NORMAL", Format(Now(), "dd/MM/yyyy"), Val(1), False), "000#")
+
+                If turno > 0 Then
+                    turno = Trim(turno + 1)
+                End If
+
+                param_pac = Split(opr_pac.Devuelvepaciente(pac_id), "º")
+                param_conv = Split(cmb_convenio.Text, "/")
+
+                opr_pac.buscapacienteAgendaMedica(param_pac(0), edad, unidad, pac_dir, pac_sexo, pac_fecnac, pac_fono, pac_email)
+
+
+                Dim param_procedimiento = "401143ºCONSULTA MEDICINA GENERALº" & opr_test.ConsultaCostoTest(401143, Trim(param_conv(0)))
+
+                ' INGRESO LA ORDEN EN TABLA PEDIDO 
+                opr_pedido.ingreso_OrdenAgenda(pac_id, Format(Now(), "dd-MM-yyyy"), Trim(cmb_convenio.Text), param_procedimiento, Trim(param_conv(0)), edad, unidad, pac_sexo, turno)
+
+
+                opr_agenda.ModificaAgendaHora(CInt(dgv_Agenda.CurrentRow.Cells("age_id").Value()), ped_id, pac_id, CInt(dgv_Agenda.CurrentRow.Cells("med_id").Value()), edad & " " & unidad, dgv_Agenda.CurrentRow.Cells("age_resumen").Value.ToString, SiNoGuardo)
+
+
+
+                If SiNoGuardo = True Then
+                    opr_pedido.VisualizaMensaje("Agenda registrada satisfactoriamente", g_tiempo)
+                Else
+                    opr_pedido.VisualizaMensaje("No se pudo registrar la agenda", g_tiempo)
+                End If
+            Else
+                opr_pedido.VisualizaMensaje("Debe seleccionar un paciente y medico tratante", g_tiempo)
+            End If
+        End If
+    End Sub
+End Class

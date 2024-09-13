@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_tangNormalT" targetNamespace="http://tempuri.org/dts_tangNormalT.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_tangNormalT.xsd" xmlns:mstns="http://tempuri.org/dts_tangNormalT.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_tangNormalT" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="dts_RangNormalT">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="testId" type="xs:integer" minOccurs="0" />
+							<xs:element name="testNombre" type="xs:string" minOccurs="0" />
+							<xs:element name="uniId" type="short_x0020_" minOccurs="0" />
+							<xs:element name="uniNombre" type="xs:string" minOccurs="0" />
+							<xs:element name="testTRango" type="short_x0020_" minOccurs="0" />
+							<xs:element name="testRanMin" type="xs:double" minOccurs="0" />
+							<xs:element name="testRanMax" type="xs:double" minOccurs="0" />
+							<xs:element name="testRanMul" type="string_x0020_" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

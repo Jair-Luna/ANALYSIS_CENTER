@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="Dts_servicios" targetNamespace="http://tempuri.org/Dts_servicios.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/Dts_servicios.xsd" xmlns:mstns="http://tempuri.org/Dts_servicios.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="Dts_servicios" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Servicios">
+					<xs:complexType>
+						<xs:sequence />
+						<xs:attribute name="ser_id" type="xs:integer" />
+						<xs:attribute name="ser_nombre" type="xs:string" />
+						<xs:attribute name="ser_tipo" type="xs:string" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

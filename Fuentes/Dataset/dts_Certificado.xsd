@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_Certificado" targetNamespace="http://tempuri.org/dts_Certificado.xsd" xmlns:mstns="http://tempuri.org/dts_Certificado.xsd" xmlns="http://tempuri.org/dts_Certificado.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_Certificado" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_Certificado" msprop:Generator_DataSetName="dts_Certificado" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Certificado" msprop:Generator_UserTableName="Certificado" msprop:Generator_RowDeletedName="CertificadoRowDeleted" msprop:Generator_RowChangedName="CertificadoRowChanged" msprop:Generator_RowClassName="CertificadoRow" msprop:Generator_RowChangingName="CertificadoRowChanging" msprop:Generator_RowEvArgName="CertificadoRowChangeEvent" msprop:Generator_RowEvHandlerName="CertificadoRowChangeEventHandler" msprop:Generator_TableClassName="CertificadoDataTable" msprop:Generator_TableVarName="tableCertificado" msprop:Generator_RowDeletingName="CertificadoRowDeleting" msprop:Generator_TablePropName="Certificado">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CER_ID" msprop:Generator_UserColumnName="CER_ID" msprop:Generator_ColumnPropNameInRow="CER_ID" msprop:Generator_ColumnVarNameInTable="columnCER_ID" msprop:Generator_ColumnPropNameInTable="CER_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CER_TIPO" msprop:Generator_UserColumnName="CER_TIPO" msprop:Generator_ColumnVarNameInTable="columnCER_TIPO" msprop:Generator_ColumnPropNameInRow="CER_TIPO" msprop:Generator_ColumnPropNameInTable="CER_TIPOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AGE_FECHA" msprop:Generator_UserColumnName="AGE_FECHA" msprop:Generator_ColumnPropNameInRow="AGE_FECHA" msprop:Generator_ColumnVarNameInTable="columnAGE_FECHA" msprop:Generator_ColumnPropNameInTable="AGE_FECHAColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AGE_TUTOR" msprop:Generator_UserColumnName="AGE_TUTOR" msprop:Generator_ColumnVarNameInTable="columnAGE_TUTOR" msprop:Generator_ColumnPropNameInRow="AGE_TUTOR" msprop:Generator_ColumnPropNameInTable="AGE_TUTORColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="AGE_CI" msprop:Generator_UserColumnName="AGE_CI" msprop:Generator_ColumnVarNameInTable="columnAGE_CI" msprop:Generator_ColumnPropNameInRow="AGE_CI" msprop:Generator_ColumnPropNameInTable="AGE_CIColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PACIENTE" msprop:Generator_UserColumnName="PACIENTE" msprop:Generator_ColumnVarNameInTable="columnPACIENTE" msprop:Generator_ColumnPropNameInRow="PACIENTE" msprop:Generator_ColumnPropNameInTable="PACIENTEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TEXTO" msprop:Generator_UserColumnName="TEXTO" msprop:Generator_ColumnPropNameInRow="TEXTO" msprop:Generator_ColumnVarNameInTable="columnTEXTO" msprop:Generator_ColumnPropNameInTable="TEXTOColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

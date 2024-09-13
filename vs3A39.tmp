@@ -1,0 +1,940 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AnalisysLAB
+</name>
+</assembly>
+<members>
+<member name="T:AnalisysLAB.dts_produc_paciente.PRO_PACDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_produc_paciente.PRO_PACRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_produc_paciente.PRO_PACRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_produc_paciente">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrazabilidadMuestra.TRAZABILIDADMUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrazabilidadMuestra.TRAZABILIDADMUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrazabilidadMuestra.TRAZABILIDADMUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrazabilidadMuestra">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedNivel.CONNIVELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedNivel.CONNIVELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedNivel.CONNIVELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedNivel">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Test_Hetareos.TEST_HETAREOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Test_Hetareos.TEST_HETAREOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Test_Hetareos.TEST_HETAREOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Test_Hetareos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXservicio.SERVICIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXservicio.SERVICIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXservicio.SERVICIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXservicio">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExaFisico.ExaFisicoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExaFisico.ExaFisicoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExaFisico.ExaFisicoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExaFisico">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfaz.ptohistogramaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfaz.ptohistogramaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfaz.ptohistogramaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfaz">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfazTableAdapters.ptohistogramaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.UpdateUpdatedRows(AnalisysLAB.dts_histogramaInterfaz,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.UpdateInsertedRows(AnalisysLAB.dts_histogramaInterfaz,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.UpdateDeletedRows(AnalisysLAB.dts_histogramaInterfaz,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.UpdateAll(AnalisysLAB.dts_histogramaInterfaz)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AnalisysLAB.dts_histogramaInterfazTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AnalisysLAB.dts_interpretacion.InterpretacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_interpretacion.InterpretacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_interpretacion.InterpretacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_interpretacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasResultado.PruebasResultadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasResultado.PruebasResultadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasResultado.PruebasResultadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasResultado">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_caja.cajaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_caja.cajaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_caja.cajaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_caja">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_convenios.conveniosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_convenios.conveniosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_convenios.conveniosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_convenios">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Cuentas.CuentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Cuentas.CuentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Cuentas.CuentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Cuentas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Historico.HISTORICODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Historico.HISTORICORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Historico.HISTORICORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Historico">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Pacientes_HIS.pacientesHISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Pacientes_HIS.pacientesHISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Pacientes_HIS.pacientesHISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Pacientes_HIS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoNivel.CONNIVELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoNivel.CONNIVELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoNivel.CONNIVELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoNivel">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_HistoriaClinica.historiaclinicaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_HistoriaClinica.historiaclinicaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_HistoriaClinica.historiaclinicaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_HistoriaClinica">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Hormonas.dts_hormonasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Hormonas.dts_hormonasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Hormonas.dts_hormonasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Hormonas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXedad.XEDADDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXedad.XEDADRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXedad.XEDADRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXedad">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:AnalisysLAB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AnalisysLAB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AnalisysLAB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Consumo.EXISTENCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Consumo.EXISTENCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Consumo.EXISTENCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Consumo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConVincula.VINCULACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConVincula.VINCULACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConVincula.VINCULACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConVincula">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_produccion.PRODUCCIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_produccion.PRODUCCIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_produccion.PRODUCCIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_produccion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Antibiograma.ANTIBIOGRAMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Antibiograma.ANTIBIOGRAMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Antibiograma.ANTIBIOGRAMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Antibiograma">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_bonificacion.BONIFICACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_bonificacion.BONIFICACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_bonificacion.BONIFICACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_bonificacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoEspe_.CONMEDICODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoEspe_.CONMEDICORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoEspe_.CONMEDICORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConMedicoEspe_">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXafiliacion.XSERVICIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXafiliacion.XSERVICIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXafiliacion.XSERVICIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXafiliacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasEjecutadas.PRUEBAS_EJECUTADASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasEjecutadas.PRUEBAS_EJECUTADASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasEjecutadas.PRUEBAS_EJECUTADASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_PruebasEjecutadas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_recetaMedica.RecetaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_recetaMedica.RecetaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_recetaMedica.RecetaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_recetaMedica">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_rpt_ingresos.PRT_INGRESOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_rpt_ingresos.PRT_INGRESOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_rpt_ingresos.PRT_INGRESOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_rpt_ingresos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dsImagenes.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dsImagenes.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dsImagenes.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dsImagenes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Anulados.ANULADOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Anulados.ANULADOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Anulados.ANULADOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Anulados">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PlanTTo.PLAN_TTODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PlanTTo.PLAN_TTORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_PlanTTo.PLAN_TTORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_PlanTTo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_recibo1.recibo1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_recibo1.recibo1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_recibo1.recibo1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_recibo1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dsImgOcup.ImagenesQRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dsImgOcup.ImagenesQRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dsImgOcup.ImagenesQRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dsImgOcup">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_agendaMedico.AgendaMedicaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_agendaMedico.AgendaMedicaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_agendaMedico.AgendaMedicaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_agendaMedico">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Certificado.CertificadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Certificado.CertificadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Certificado.CertificadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Certificado">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.cajaXconvenio.cajaXconvenioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.cajaXconvenio.cajaXconvenioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.cajaXconvenio.cajaXconvenioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.cajaXconvenio">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_agenda.AGENDADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_agenda.AGENDARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_agenda.AGENDARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_agenda">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConHetareos.CONHETAREOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConHetareos.CONHETAREOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConHetareos.CONHETAREOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ConHetareos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_historico_manuales.HIST_MANUALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_historico_manuales.HIST_MANUALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_historico_manuales.HIST_MANUALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_historico_manuales">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ingresosHosp.INGRESOSHOSPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ingresosHosp.INGRESOSHOSPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ingresosHosp.INGRESOSHOSPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ingresosHosp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExamenFisico.ExamenFisicoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExamenFisico.ExamenFisicoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExamenFisico.ExamenFisicoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ExamenFisico">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrakingCorreo.CORREOERRORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrakingCorreo.CORREOERRORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrakingCorreo.CORREOERRORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_TrakingCorreo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.Dataset1.ORIGENDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.Dataset1.ORIGENRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.Dataset1.ORIGENRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.Dataset1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Autocompletado.AUTOCOMPLETADODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Autocompletado.AUTOCOMPLETADORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_Autocompletado.AUTOCOMPLETADORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_Autocompletado">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXareas.EST_AREADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXareas.EST_AREARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXareas.EST_AREARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXareas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamPlantilla.PLANTILLASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamPlantilla.PLANTILLASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamPlantilla.PLANTILLASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamPlantilla">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXsexo.EST_SEXODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXsexo.EST_SEXORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXsexo.EST_SEXORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_conteoXsexo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_liquidos.liquidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_liquidos.liquidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_liquidos.liquidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_liquidos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamCultivos.ParamCultivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamCultivos.ParamCultivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamCultivos.ParamCultivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_ParamCultivos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_precios_perfiles.preciospDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_precios_perfiles.preciospRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_precios_perfiles.preciospRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_precios_perfiles">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.Dts_servicios.ServiciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.Dts_servicios.ServiciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.Dts_servicios.ServiciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.Dts_servicios">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.Dts_contraOrden.CONTRAORDENDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.Dts_contraOrden.CONTRAORDENRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.Dts_contraOrden.CONTRAORDENRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.Dts_contraOrden">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_informe.INFORMEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_informe.INFORMERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_informe.INFORMERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_informe">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_proforma.PROFORMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_proforma.PROFORMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_proforma.PROFORMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_proforma">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AnalisysLAB.dts_SignosVitales.SignosVitalesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_SignosVitales.SignosVitalesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AnalisysLAB.dts_SignosVitales.SignosVitalesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AnalisysLAB.dts_SignosVitales">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

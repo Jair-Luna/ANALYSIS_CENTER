@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_Consumo" targetNamespace="http://tempuri.org/dts_Consumo.xsd" xmlns:mstns="http://tempuri.org/dts_Consumo.xsd" xmlns="http://tempuri.org/dts_Consumo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_Consumo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_Consumo" msprop:Generator_DataSetName="dts_Consumo" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EXISTENCIA" msprop:Generator_UserTableName="EXISTENCIA" msprop:Generator_RowDeletedName="EXISTENCIARowDeleted" msprop:Generator_RowChangedName="EXISTENCIARowChanged" msprop:Generator_RowClassName="EXISTENCIARow" msprop:Generator_RowChangingName="EXISTENCIARowChanging" msprop:Generator_RowEvArgName="EXISTENCIARowChangeEvent" msprop:Generator_RowEvHandlerName="EXISTENCIARowChangeEventHandler" msprop:Generator_TableClassName="EXISTENCIADataTable" msprop:Generator_TableVarName="tableEXISTENCIA" msprop:Generator_RowDeletingName="EXISTENCIARowDeleting" msprop:Generator_TablePropName="EXISTENCIA">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="I_PRD_ID" msprop:Generator_UserColumnName="I_PRD_ID" msprop:Generator_ColumnPropNameInRow="I_PRD_ID" msprop:Generator_ColumnVarNameInTable="columnI_PRD_ID" msprop:Generator_ColumnPropNameInTable="I_PRD_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="I_PRD_DESCRIPCION" msprop:Generator_UserColumnName="I_PRD_DESCRIPCION" msprop:Generator_ColumnPropNameInRow="I_PRD_DESCRIPCION" msprop:Generator_ColumnVarNameInTable="columnI_PRD_DESCRIPCION" msprop:Generator_ColumnPropNameInTable="I_PRD_DESCRIPCIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CIRCUL" msprop:Generator_UserColumnName="CIRCUL" msprop:Generator_ColumnPropNameInRow="CIRCUL" msprop:Generator_ColumnVarNameInTable="columnCIRCUL" msprop:Generator_ColumnPropNameInTable="CIRCULColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="EMPAQ" msprop:Generator_UserColumnName="EMPAQ" msprop:Generator_ColumnPropNameInRow="EMPAQ" msprop:Generator_ColumnVarNameInTable="columnEMPAQ" msprop:Generator_ColumnPropNameInTable="EMPAQColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CUARE" msprop:Generator_UserColumnName="CUARE" msprop:Generator_ColumnPropNameInRow="CUARE" msprop:Generator_ColumnVarNameInTable="columnCUARE" msprop:Generator_ColumnPropNameInTable="CUAREColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="EXIST" msprop:Generator_UserColumnName="EXIST" msprop:Generator_ColumnPropNameInRow="EXIST" msprop:Generator_ColumnVarNameInTable="columnEXIST" msprop:Generator_ColumnPropNameInTable="EXISTColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TEND" msprop:Generator_UserColumnName="TEND" msprop:Generator_ColumnPropNameInRow="TEND" msprop:Generator_ColumnVarNameInTable="columnTEND" msprop:Generator_ColumnPropNameInTable="TENDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="REAL" msprop:Generator_UserColumnName="REAL" msprop:Generator_ColumnPropNameInRow="REAL" msprop:Generator_ColumnVarNameInTable="columnREAL" msprop:Generator_ColumnPropNameInTable="REALColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="FREC" msprop:Generator_UserColumnName="FREC" msprop:Generator_ColumnPropNameInRow="FREC" msprop:Generator_ColumnVarNameInTable="columnFREC" msprop:Generator_ColumnPropNameInTable="FRECColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PRODUCCION" msprop:Generator_UserColumnName="PRODUCCION" msprop:Generator_ColumnPropNameInRow="PRODUCCION" msprop:Generator_ColumnVarNameInTable="columnPRODUCCION" msprop:Generator_ColumnPropNameInTable="PRODUCCIONColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

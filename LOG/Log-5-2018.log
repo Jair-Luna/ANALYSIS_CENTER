@@ -1,0 +1,730 @@
+05/05/2018 11:04:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 11:05:16,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/05/2018 11:05:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:05:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:08:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 11:08:10,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/05/2018 11:08:10,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:08:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:11:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 11:11:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:23:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 11:23:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:29:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 11:29:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 11:29:58,ross,1 GENERAR ORDEN,PEDIDO=14
+*************
+05/05/2018 11:30:04,ross,2 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+05/05/2018 13:16:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 13:16:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 14:19:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 14:19:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 14:20:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 14:20:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 14:27:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 14:27:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 14:49:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 14:49:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 14:52:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 14:52:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 14:53:13,ross,Guardar secuencia,SECUENCIA=DIST. AMAHUAÑA/1000/1999
+*************
+05/05/2018 14:56:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 14:56:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:08:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:08:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:10:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:10:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:10:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:11:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:12:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:12:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:31:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:31:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,WBCH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,NEUH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,MONOH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,EOSH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,BASOH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,LYMH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,GRAN%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,MIDH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,MONO%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,GRANH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,MID%25H=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,RBCH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,PLTH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,MCVH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,PDWH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,MCHH=5
+*************
+05/05/2018 15:33:17,ross,GUARDA RESULTADOS,HCTH=5
+*************
+05/05/2018 15:33:18,ross,GUARDA RESULTADOS,MPVH=5
+*************
+05/05/2018 15:33:18,ross,GUARDA RESULTADOS,HGBH=5
+*************
+05/05/2018 15:33:18,ross,GUARDA RESULTADOS,PCTH=5
+*************
+05/05/2018 15:33:18,ross,GUARDA RESULTADOS,RDW_SDH=5
+*************
+05/05/2018 15:33:18,ross,GUARDA RESULTADOS,RDW_CVH=5
+*************
+05/05/2018 15:33:18,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+05/05/2018 15:33:35,ross,GUARDA RESULTADOS,LEU_EMO=
+*************
+05/05/2018 15:33:35,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+05/05/2018 15:33:35,ross,GUARDA RESULTADOS,ASPO=TRANSPARENTE
+*************
+05/05/2018 15:33:35,ross,GUARDA RESULTADOS,DENO=1.000
+*************
+05/05/2018 15:33:35,ross,GUARDA RESULTADOS,PH=6.0
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,LEUO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,ESO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,NITO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,PROO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CCETO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,GLUO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,ACAS=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,BILO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,UROO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,SANO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,HBGO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CERE=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CEEP=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,PIOO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,HEO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,BACTO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,MOCO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,OXAO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CILO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CETOR=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CIGO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CILCE=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,ESP=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,URO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CECA=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,FOO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,CRIO=
+*************
+05/05/2018 15:33:36,ross,GUARDA RESULTADOS,OTROSO=
+*************
+05/05/2018 15:33:52,ross,GUARDA RESULTADOS,CHOL=120
+*************
+05/05/2018 15:33:52,ross,GUARDA RESULTADOS,AHDL=55
+*************
+05/05/2018 15:33:52,ross,GUARDA RESULTADOS,LDL=180
+*************
+05/05/2018 15:33:52,ross,GUARDA RESULTADOS,TGL=190
+*************
+05/05/2018 15:33:53,ross,VALIDACION RESULTADO,PEDIDO=2/400101
+*************
+05/05/2018 15:33:53,ross,VALIDACION RESULTADO,PEDIDO=2/400149
+*************
+05/05/2018 15:33:53,ross,VALIDACION RESULTADO,PEDIDO=2/400150
+*************
+05/05/2018 15:33:53,ross,VALIDACION RESULTADO,PEDIDO=2/400151
+*************
+05/05/2018 15:33:53,ross,VALIDACION RESULTADO,PEDIDO=2/400230
+*************
+05/05/2018 15:33:53,ross,VALIDACION RESULTADO,PEDIDO=2/400476
+*************
+05/05/2018 15:34:05,ross,IMPRIME TODO,PEDIDO=2
+*************
+05/05/2018 15:36:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:36:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:45:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:45:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:51:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:51:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:53:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:53:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 15:55:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 15:55:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:00:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:00:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:05:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:05:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:06:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:06:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:10:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:10:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:13:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:13:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:14:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:14:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:15:04,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+05/05/2018 16:16:17,ross,Guardar secuencia,SECUENCIA=DIST. TINGO/2000/2999
+*************
+05/05/2018 16:21:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:21:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:22:35,ross,1 GENERAR ORDEN,PEDIDO=4
+*************
+05/05/2018 16:23:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:23:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:23:59,ross,GUARDA RESULTADOS,LEU_EMO=NEGATIVO
+*************
+05/05/2018 16:23:59,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+05/05/2018 16:23:59,ross,GUARDA RESULTADOS,ASPO=
+*************
+05/05/2018 16:23:59,ross,GUARDA RESULTADOS,DENO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,PH=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,LEUO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,ESO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,NITO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,PROO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CCETO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,ACAS=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,BILO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,UROO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,SANO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,HBGO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CERE=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CEEP=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,PIOO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,HEO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,BACTO=ESCASAS
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,MOCO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,OXAO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CILO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CETOR=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CIGO=
+*************
+05/05/2018 16:24:00,ross,GUARDA RESULTADOS,CILCE=
+*************
+05/05/2018 16:24:01,ross,GUARDA RESULTADOS,ESP=
+*************
+05/05/2018 16:24:01,ross,GUARDA RESULTADOS,URO=
+*************
+05/05/2018 16:24:01,ross,GUARDA RESULTADOS,CECA=
+*************
+05/05/2018 16:24:01,ross,GUARDA RESULTADOS,FOO=
+*************
+05/05/2018 16:24:01,ross,GUARDA RESULTADOS,CRIO=
+*************
+05/05/2018 16:24:01,ross,GUARDA RESULTADOS,OTROSO=
+*************
+05/05/2018 16:24:05,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+05/05/2018 16:24:06,ross,VALIDACION RESULTADO,PEDIDO=4/400230
+*************
+05/05/2018 16:24:13,ross,IMPRIME TODO,PEDIDO=4
+*************
+05/05/2018 16:25:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:25:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:27:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:27:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:31:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:31:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:31:17,ross,IMPRIME TODO,PEDIDO=2
+*************
+05/05/2018 16:32:53,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+05/05/2018 16:34:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:34:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:36:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:36:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:42:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:42:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,WBCH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,NEUH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,MONOH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,EOSH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,BASOH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,LYMH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,GRAN%25H=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,MIDH=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,MONO%25H=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+05/05/2018 16:43:07,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,GRANH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,MID%25H=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,RBCH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,PLTH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,MCVH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,PDWH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,MCHH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,HCTH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,MPVH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,HGBH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,PCTH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,RDW_SDH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,RDW_CVH=5
+*************
+05/05/2018 16:43:08,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,LEU_EMO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,ASPO=TRANSPARENTE
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,DENO=1.000
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,PH=6.0
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,LEUO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,ESO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,NITO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,PROO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,CCETO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,GLUO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,ACAS=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,BILO=
+*************
+05/05/2018 16:43:12,ross,GUARDA RESULTADOS,UROO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,SANO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,HBGO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,CERE=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,CEEP=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,PIOO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,HEO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,BACTO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,MOCO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,OXAO=
+*************
+05/05/2018 16:43:13,ross,GUARDA RESULTADOS,CILO=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,CETOR=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,CIGO=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,CILCE=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,ESP=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,URO=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,CECA=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,FOO=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,CRIO=
+*************
+05/05/2018 16:43:14,ross,GUARDA RESULTADOS,OTROSO=
+*************
+05/05/2018 16:43:17,ross,GUARDA RESULTADOS,CHOL=120
+*************
+05/05/2018 16:43:17,ross,GUARDA RESULTADOS,AHDL=55
+*************
+05/05/2018 16:43:17,ross,GUARDA RESULTADOS,LDL=180
+*************
+05/05/2018 16:43:17,ross,GUARDA RESULTADOS,TGL=190
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,WBCH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,NEUH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,MONOH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,EOSH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,BASOH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,LYMH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,GRAN%25H=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,MIDH=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+05/05/2018 16:44:31,ross,GUARDA RESULTADOS,MONO%25H=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,BASO%25H=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,GRANH=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,MID%25H=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,RBCH=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,PLTH=7
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,MCVH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,PDWH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,MCHH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,HCTH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,MPVH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,HGBH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,PCTH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,RDW_SDH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,RDW_CVH=
+*************
+05/05/2018 16:44:32,ross,GUARDA RESULTADOS,MCHCH=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,LEU_EMO=NEGATIVO
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,ASPO=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,DENO=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,PH=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,LEUO=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,ESO=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,NITO=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,PROO=
+*************
+05/05/2018 16:44:34,ross,GUARDA RESULTADOS,CCETO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,ACAS=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,BILO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,UROO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,SANO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,HBGO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CERE=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CEEP=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,PIOO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,HEO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,BACTO=ESCASAS
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,MOCO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,OXAO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CILO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CETOR=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CIGO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CILCE=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,ESP=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,URO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CECA=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,FOO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,CRIO=
+*************
+05/05/2018 16:44:35,ross,GUARDA RESULTADOS,OTROSO=
+*************
+05/05/2018 16:44:40,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+05/05/2018 16:44:40,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+05/05/2018 16:44:40,ross,GUARDA RESULTADOS,TGL=34
+*************
+05/05/2018 16:44:41,ross,VALIDACION RESULTADO,PEDIDO=3/400101
+*************
+05/05/2018 16:44:41,ross,VALIDACION RESULTADO,PEDIDO=3/400151
+*************
+05/05/2018 16:44:41,ross,VALIDACION RESULTADO,PEDIDO=3/400230
+*************
+05/05/2018 16:44:53,ross,IMPRIME TODO,PEDIDO=3
+*************
+05/05/2018 16:46:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:46:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2018 16:51:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2018 16:51:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 13:50:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 13:50:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 13:54:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 13:54:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 13:57:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 13:59:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 14:39:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 14:39:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 14:49:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 14:49:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 14:57:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 14:57:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 14:59:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 14:59:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 15:08:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 15:08:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 15:13:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 15:13:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 15:18:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 15:18:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 15:46:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 15:46:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 16:08:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 16:08:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2018 16:12:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2018 16:12:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2018 7:46:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/05/2018 7:46:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2018 10:28:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/05/2018 10:28:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2018 10:31:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/05/2018 10:31:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2018 10:31:30,ross,Nuevo Convenio,Convenio=LAB 3
+*************
+09/05/2018 10:32:01,ross,Nuevo Convenio,Convenio=MIO
+*************
+10/05/2018 11:46:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/05/2018 12:43:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/05/2018 12:43:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/05/2018 12:46:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/05/2018 12:46:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

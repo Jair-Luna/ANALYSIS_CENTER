@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_convenios" targetNamespace="http://tempuri.org/dts_convenios.xsd" xmlns:mstns="http://tempuri.org/dts_convenios.xsd" xmlns="http://tempuri.org/dts_convenios.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_convenios" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dts_convenios" msprop:Generator_UserDSName="dts_convenios" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="convenios" msprop:Generator_UserTableName="convenios" msprop:Generator_RowDeletedName="conveniosRowDeleted" msprop:Generator_TableClassName="conveniosDataTable" msprop:Generator_RowChangedName="conveniosRowChanged" msprop:Generator_RowClassName="conveniosRow" msprop:Generator_RowChangingName="conveniosRowChanging" msprop:Generator_RowEvArgName="conveniosRowChangeEvent" msprop:Generator_RowEvHandlerName="conveniosRowChangeEventHandler" msprop:Generator_TablePropName="convenios" msprop:Generator_TableVarName="tableconvenios" msprop:Generator_RowDeletingName="conveniosRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CON_ID" msprop:Generator_UserColumnName="CON_ID" msprop:Generator_ColumnPropNameInRow="CON_ID" msprop:Generator_ColumnVarNameInTable="columnCON_ID" msprop:Generator_ColumnPropNameInTable="CON_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CON_NOMBRE" msprop:Generator_UserColumnName="CON_NOMBRE" msprop:Generator_ColumnPropNameInRow="CON_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnCON_NOMBRE" msprop:Generator_ColumnPropNameInTable="CON_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CON_WEB_MAIL" msprop:Generator_UserColumnName="CON_WEB_MAIL" msprop:Generator_ColumnPropNameInRow="CON_WEB_MAIL" msprop:Generator_ColumnVarNameInTable="columnCON_WEB_MAIL" msprop:Generator_ColumnPropNameInTable="CON_WEB_MAILColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sec_desde" msprop:Generator_UserColumnName="sec_desde" msprop:Generator_ColumnPropNameInRow="sec_desde" msprop:Generator_ColumnVarNameInTable="columnsec_desde" msprop:Generator_ColumnPropNameInTable="sec_desdeColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="sec_hasta" msprop:Generator_UserColumnName="sec_hasta" msprop:Generator_ColumnPropNameInRow="sec_hasta" msprop:Generator_ColumnVarNameInTable="columnsec_hasta" msprop:Generator_ColumnPropNameInTable="sec_hastaColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

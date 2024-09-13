@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_factura" targetNamespace="http://tempuri.org/dts_factura.xsd" xmlns:mstns="http://tempuri.org/dts_factura.xsd" xmlns="http://tempuri.org/dts_factura.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_factura" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_UserDSName="dts_factura" msprop:Generator_DataSetName="dts_factura">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Factura" msprop:Generator_UserTableName="Factura" msprop:Generator_RowDeletedName="FacturaRowDeleted" msprop:Generator_RowChangedName="FacturaRowChanged" msprop:Generator_RowClassName="FacturaRow" msprop:Generator_RowChangingName="FacturaRowChanging" msprop:Generator_RowEvArgName="FacturaRowChangeEvent" msprop:Generator_RowEvHandlerName="FacturaRowChangeEventHandler" msprop:Generator_TableClassName="FacturaDataTable" msprop:Generator_TableVarName="tableFactura" msprop:Generator_RowDeletingName="FacturaRowDeleting" msprop:Generator_TablePropName="Factura">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FAC_DOC" msprop:Generator_UserColumnName="FAC_DOC" msprop:Generator_ColumnVarNameInTable="columnFAC_DOC" msprop:Generator_ColumnPropNameInRow="FAC_DOC" msprop:Generator_ColumnPropNameInTable="FAC_DOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FAC_TOTAL" msprop:Generator_UserColumnName="FAC_TOTAL" msprop:Generator_ColumnVarNameInTable="columnFAC_TOTAL" msprop:Generator_ColumnPropNameInRow="FAC_TOTAL" msprop:Generator_ColumnPropNameInTable="FAC_TOTALColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FAC_IVA" msprop:Generator_UserColumnName="FAC_IVA" msprop:Generator_ColumnVarNameInTable="columnFAC_IVA" msprop:Generator_ColumnPropNameInRow="FAC_IVA" msprop:Generator_ColumnPropNameInTable="FAC_IVAColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FAC_DESCUENTO" msprop:Generator_UserColumnName="FAC_DESCUENTO" msprop:Generator_ColumnVarNameInTable="columnFAC_DESCUENTO" msprop:Generator_ColumnPropNameInRow="FAC_DESCUENTO" msprop:Generator_ColumnPropNameInTable="FAC_DESCUENTOColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FAC_RECARGO" msprop:Generator_UserColumnName="FAC_RECARGO" msprop:Generator_ColumnVarNameInTable="columnFAC_RECARGO" msprop:Generator_ColumnPropNameInRow="FAC_RECARGO" msprop:Generator_ColumnPropNameInTable="FAC_RECARGOColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FAC_NOMBRE" msprop:Generator_UserColumnName="FAC_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnFAC_NOMBRE" msprop:Generator_ColumnPropNameInRow="FAC_NOMBRE" msprop:Generator_ColumnPropNameInTable="FAC_NOMBREColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FAC_APELLIDO" msprop:Generator_UserColumnName="FAC_APELLIDO" msprop:Generator_ColumnVarNameInTable="columnFAC_APELLIDO" msprop:Generator_ColumnPropNameInRow="FAC_APELLIDO" msprop:Generator_ColumnPropNameInTable="FAC_APELLIDOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FAC_FONO" msprop:Generator_UserColumnName="FAC_FONO" msprop:Generator_ColumnVarNameInTable="columnFAC_FONO" msprop:Generator_ColumnPropNameInRow="FAC_FONO" msprop:Generator_ColumnPropNameInTable="FAC_FONOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FAC_DIRECCION" msprop:Generator_UserColumnName="FAC_DIRECCION" msprop:Generator_ColumnVarNameInTable="columnFAC_DIRECCION" msprop:Generator_ColumnPropNameInRow="FAC_DIRECCION" msprop:Generator_ColumnPropNameInTable="FAC_DIRECCIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FAC_ESTATUS" msprop:Generator_UserColumnName="FAC_ESTATUS" msprop:Generator_ColumnVarNameInTable="columnFAC_ESTATUS" msprop:Generator_ColumnPropNameInRow="FAC_ESTATUS" msprop:Generator_ColumnPropNameInTable="FAC_ESTATUSColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="FAC_FORMAPAGO" msprop:Generator_UserColumnName="FAC_FORMAPAGO" msprop:Generator_ColumnVarNameInTable="columnFAC_FORMAPAGO" msprop:Generator_ColumnPropNameInRow="FAC_FORMAPAGO" msprop:Generator_ColumnPropNameInTable="FAC_FORMAPAGOColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="FAD_CANTIDAD" msprop:Generator_UserColumnName="FAD_CANTIDAD" msprop:Generator_ColumnVarNameInTable="columnFAD_CANTIDAD" msprop:Generator_ColumnPropNameInRow="FAD_CANTIDAD" msprop:Generator_ColumnPropNameInTable="FAD_CANTIDADColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="FAD_PRECIO" msprop:Generator_UserColumnName="FAD_PRECIO" msprop:Generator_ColumnVarNameInTable="columnFAD_PRECIO" msprop:Generator_ColumnPropNameInRow="FAD_PRECIO" msprop:Generator_ColumnPropNameInTable="FAD_PRECIOColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FADTIPO" msprop:Generator_UserColumnName="FADTIPO" msprop:Generator_ColumnVarNameInTable="columnFADTIPO" msprop:Generator_ColumnPropNameInRow="FADTIPO" msprop:Generator_ColumnPropNameInTable="FADTIPOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTID" msprop:Generator_UserColumnName="TESTID" msprop:Generator_ColumnVarNameInTable="columnTESTID" msprop:Generator_ColumnPropNameInRow="TESTID" msprop:Generator_ColumnPropNameInTable="TESTIDColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="TESTNOMBRE" msprop:Generator_UserColumnName="TESTNOMBRE" msprop:Generator_ColumnVarNameInTable="columnTESTNOMBRE" msprop:Generator_ColumnPropNameInRow="TESTNOMBRE" msprop:Generator_ColumnPropNameInTable="TESTNOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PER_ID" msprop:Generator_UserColumnName="PER_ID" msprop:Generator_ColumnVarNameInTable="columnPER_ID" msprop:Generator_ColumnPropNameInRow="PER_ID" msprop:Generator_ColumnPropNameInTable="PER_IDColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="PER_NOMBRE" msprop:Generator_UserColumnName="PER_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnPER_NOMBRE" msprop:Generator_ColumnPropNameInRow="PER_NOMBRE" msprop:Generator_ColumnPropNameInTable="PER_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SUM_ABO" msprop:Generator_UserColumnName="SUM_ABO" msprop:Generator_ColumnVarNameInTable="columnSUM_ABO" msprop:Generator_ColumnPropNameInRow="SUM_ABO" msprop:Generator_ColumnPropNameInTable="SUM_ABOColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FAC_REFER" msprop:Generator_UserColumnName="FAC_REFER" msprop:Generator_ColumnPropNameInRow="FAC_REFER" msprop:Generator_ColumnVarNameInTable="columnFAC_REFER" msprop:Generator_ColumnPropNameInTable="FAC_REFERColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_PACIENTE" msprop:Generator_UserColumnName="PAC_PACIENTE" msprop:Generator_ColumnVarNameInTable="columnPAC_PACIENTE" msprop:Generator_ColumnPropNameInRow="PAC_PACIENTE" msprop:Generator_ColumnPropNameInTable="PAC_PACIENTEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IMP" msprop:Generator_UserColumnName="IMP" msprop:Generator_ColumnPropNameInRow="IMP" msprop:Generator_ColumnVarNameInTable="columnIMP" msprop:Generator_ColumnPropNameInTable="IMPColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_NUMAUX" msprop:Generator_UserColumnName="PED_NUMAUX" msprop:Generator_ColumnVarNameInTable="columnPED_NUMAUX" msprop:Generator_ColumnPropNameInRow="PED_NUMAUX" msprop:Generator_ColumnPropNameInTable="PED_NUMAUXColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="FAC_LETRAS" msprop:Generator_UserColumnName="FAC_LETRAS" msprop:Generator_ColumnPropNameInRow="FAC_LETRAS" msprop:Generator_ColumnVarNameInTable="columnFAC_LETRAS" msprop:Generator_ColumnPropNameInTable="FAC_LETRASColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_TURNO" msprop:Generator_UserColumnName="PED_TURNO" msprop:Generator_ColumnPropNameInRow="PED_TURNO" msprop:Generator_ColumnVarNameInTable="columnPED_TURNO" msprop:Generator_ColumnPropNameInTable="PED_TURNOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="usu_login" msprop:Generator_UserColumnName="usu_login" msprop:Generator_ColumnVarNameInTable="columnusu_login" msprop:Generator_ColumnPropNameInRow="usu_login" msprop:Generator_ColumnPropNameInTable="usu_loginColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="usu_pass" msprop:Generator_UserColumnName="usu_pass" msprop:Generator_ColumnVarNameInTable="columnusu_pass" msprop:Generator_ColumnPropNameInRow="usu_pass" msprop:Generator_ColumnPropNameInTable="usu_passColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sitioweb" msprop:Generator_UserColumnName="sitioweb" msprop:Generator_ColumnPropNameInRow="sitioweb" msprop:Generator_ColumnVarNameInTable="columnsitioweb" msprop:Generator_ColumnPropNameInTable="sitiowebColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

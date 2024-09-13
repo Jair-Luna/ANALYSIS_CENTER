@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_bonificacion" targetNamespace="http://tempuri.org/dts_bonificacion.xsd" xmlns:mstns="http://tempuri.org/dts_bonificacion.xsd" xmlns="http://tempuri.org/dts_bonificacion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_bonificacion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_bonificacion" msprop:Generator_DataSetName="dts_bonificacion" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BONIFICACION" msprop:Generator_UserTableName="BONIFICACION" msprop:Generator_RowDeletedName="BONIFICACIONRowDeleted" msprop:Generator_RowChangedName="BONIFICACIONRowChanged" msprop:Generator_RowClassName="BONIFICACIONRow" msprop:Generator_RowChangingName="BONIFICACIONRowChanging" msprop:Generator_RowEvArgName="BONIFICACIONRowChangeEvent" msprop:Generator_RowEvHandlerName="BONIFICACIONRowChangeEventHandler" msprop:Generator_TableClassName="BONIFICACIONDataTable" msprop:Generator_TableVarName="tableBONIFICACION" msprop:Generator_RowDeletingName="BONIFICACIONRowDeleting" msprop:Generator_TablePropName="BONIFICACION">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PEDIDO" msprop:Generator_UserColumnName="PEDIDO" msprop:Generator_ColumnVarNameInTable="columnPEDIDO" msprop:Generator_ColumnPropNameInRow="PEDIDO" msprop:Generator_ColumnPropNameInTable="PEDIDOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FECHA" msprop:Generator_UserColumnName="FECHA" msprop:Generator_ColumnVarNameInTable="columnFECHA" msprop:Generator_ColumnPropNameInRow="FECHA" msprop:Generator_ColumnPropNameInTable="FECHAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MED_ID" msprop:Generator_UserColumnName="MED_ID" msprop:Generator_ColumnVarNameInTable="columnMED_ID" msprop:Generator_ColumnPropNameInRow="MED_ID" msprop:Generator_ColumnPropNameInTable="MED_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MEDICO" msprop:Generator_UserColumnName="MEDICO" msprop:Generator_ColumnVarNameInTable="columnMEDICO" msprop:Generator_ColumnPropNameInRow="MEDICO" msprop:Generator_ColumnPropNameInTable="MEDICOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TES_ID" msprop:Generator_UserColumnName="TES_ID" msprop:Generator_ColumnVarNameInTable="columnTES_ID" msprop:Generator_ColumnPropNameInRow="TES_ID" msprop:Generator_ColumnPropNameInTable="TES_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TEST" msprop:Generator_UserColumnName="TEST" msprop:Generator_ColumnVarNameInTable="columnTEST" msprop:Generator_ColumnPropNameInRow="TEST" msprop:Generator_ColumnPropNameInTable="TESTColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PRECIO" msprop:Generator_UserColumnName="PRECIO" msprop:Generator_ColumnVarNameInTable="columnPRECIO" msprop:Generator_ColumnPropNameInRow="PRECIO" msprop:Generator_ColumnPropNameInTable="PRECIOColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="FECHAI" msprop:Generator_UserColumnName="FECHAI" msprop:Generator_ColumnVarNameInTable="columnFECHAI" msprop:Generator_ColumnPropNameInRow="FECHAI" msprop:Generator_ColumnPropNameInTable="FECHAIColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FECHAF" msprop:Generator_UserColumnName="FECHAF" msprop:Generator_ColumnVarNameInTable="columnFECHAF" msprop:Generator_ColumnPropNameInRow="FECHAF" msprop:Generator_ColumnPropNameInTable="FECHAFColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="INCREMENTO" msprop:Generator_UserColumnName="INCREMENTO" msprop:Generator_ColumnVarNameInTable="columnINCREMENTO" msprop:Generator_ColumnPropNameInRow="INCREMENTO" msprop:Generator_ColumnPropNameInTable="INCREMENTOColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PACIENTE" msprop:Generator_UserColumnName="PACIENTE" msprop:Generator_ColumnPropNameInRow="PACIENTE" msprop:Generator_ColumnVarNameInTable="columnPACIENTE" msprop:Generator_ColumnPropNameInTable="PACIENTEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTAL" msprop:Generator_UserColumnName="TOTAL" msprop:Generator_ColumnVarNameInTable="columnTOTAL" msprop:Generator_ColumnPropNameInRow="TOTAL" msprop:Generator_ColumnPropNameInTable="TOTALColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="PORCENTAJE" msprop:Generator_UserColumnName="PORCENTAJE" msprop:Generator_ColumnPropNameInRow="PORCENTAJE" msprop:Generator_ColumnVarNameInTable="columnPORCENTAJE" msprop:Generator_ColumnPropNameInTable="PORCENTAJEColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

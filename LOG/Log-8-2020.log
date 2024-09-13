@@ -1,0 +1,4245 @@
+01/08/2020 21:12:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2020 21:12:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/08/2020 21:14:14,ross,01 GENERAR ORDEN,PEDIDO=346
+*************
+01/08/2020 21:14:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=346
+*************
+05/08/2020 22:34:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2020 22:34:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/08/2020 22:43:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2020 22:43:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/08/2020 22:57:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2020 22:57:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/08/2020 23:10:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2020 23:10:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/08/2020 23:18:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2020 23:18:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/08/2020 23:20:40,ross,01 GENERAR ORDEN,PEDIDO=355
+*************
+05/08/2020 23:20:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=355
+*************
+05/08/2020 23:21:10,ross,01 GENERAR ORDEN,PEDIDO=356
+*************
+05/08/2020 23:21:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=356
+*************
+05/08/2020 23:24:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2020 23:24:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/08/2020 23:25:42,ross,01 GENERAR ORDEN,PEDIDO=357
+*************
+05/08/2020 23:25:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=357
+*************
+05/08/2020 23:25:59,ross,01 GENERAR ORDEN,PEDIDO=358
+*************
+05/08/2020 23:25:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=358
+*************
+06/08/2020 23:26:51,ross,01 GENERAR ORDEN,PEDIDO=359
+*************
+06/08/2020 23:26:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=359
+*************
+06/08/2020 14:07:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/08/2020 14:07:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/08/2020 14:07:45,ross,Elimina Paciente,Paciente=333
+*************
+06/08/2020 14:07:50,ross,Elimina Paciente,Paciente=1
+*************
+06/08/2020 14:10:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/08/2020 14:10:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/08/2020 14:54:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/08/2020 14:54:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/08/2020 14:55:09,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+06/08/2020 14:55:40,ross,01 GENERAR ORDEN,PEDIDO=360
+*************
+06/08/2020 14:55:40,ross,02 IMPRIMIR COD BARRAS,PEDIDO=360
+*************
+06/08/2020 14:56:42,ross,GUARDA RESULTADOS,WBC=3
+*************
+06/08/2020 14:56:42,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+06/08/2020 14:56:42,ross,GUARDA RESULTADOS,MON%25=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,LYM=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,MON=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,NEU=33
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,EOS=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,BASO=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,RBC=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,HGB=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,HCT=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,MCV=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,MCH=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,MCHC=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,PLT=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,MPV=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,PDW=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,PCT=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,P_LCR=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,P_LCC=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,NRBC%25=3
+*************
+06/08/2020 14:56:43,ross,GUARDA RESULTADOS,NRBC=3
+*************
+06/08/2020 14:56:53,ross,GUARDA RESULTADOS,IGG_CUANH=0.001
+*************
+06/08/2020 14:56:53,ross,GUARDA RESULTADOS,IGM_CUANH=0.3
+*************
+06/08/2020 14:56:53,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+06/08/2020 14:57:22,ross,VALIDACION RESULTADO,PEDIDO=360/400101
+*************
+06/08/2020 14:57:22,ross,VALIDACION RESULTADO,PEDIDO=360/400149
+*************
+06/08/2020 14:57:22,ross,VALIDACION RESULTADO,PEDIDO=360/400150
+*************
+06/08/2020 14:57:22,ross,VALIDACION RESULTADO,PEDIDO=360/400151
+*************
+06/08/2020 14:57:22,ross,VALIDACION RESULTADO,PEDIDO=360/400476
+*************
+06/08/2020 14:57:22,ross,VALIDACION RESULTADO,PEDIDO=360/401105
+*************
+06/08/2020 14:57:34,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+06/08/2020 14:58:06,ross,ENVIO CORREO PACIENTE,PEDIDO=360
+*************
+07/08/2020 17:49:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 17:49:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 17:53:57,ross,ENVIO CORREO PACIENTE,PEDIDO=360
+*************
+07/08/2020 18:54:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 18:54:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 18:56:09,ross,01 GENERAR ORDEN,PEDIDO=361
+*************
+07/08/2020 18:56:09,ross,02 IMPRIMIR COD BARRAS,PEDIDO=361
+*************
+07/08/2020 18:56:52,ross,Actualiza FACTURA,FACTURA=211
+*************
+07/08/2020 18:56:52,ross,Ingresa FACTURA,FACTURA=211
+*************
+07/08/2020 18:56:53,ross,Insertar abono,Factura=211 Abono= 3
+*************
+07/08/2020 18:56:53,ross,Cancela FACTURA,FACTURA=211
+*************
+07/08/2020 18:56:55,ross,Registra Tx Factura,Factura=211
+*************
+07/08/2020 19:00:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:00:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:00:26,ross,Registra Tx Factura,Factura=211
+*************
+07/08/2020 19:03:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:03:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:04:04,ross,Registra Tx Factura,Factura=211
+*************
+07/08/2020 19:05:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:06:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:06:07,ross,Registra Tx Factura,Factura=211
+*************
+07/08/2020 19:08:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:08:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:11:08,ross,Registra Tx Factura,Factura=211
+*************
+07/08/2020 19:31:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:31:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:32:52,ross,ENVIO CORREO PACIENTE,PEDIDO=77
+*************
+07/08/2020 19:37:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:37:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:41:00,ross,ENVIO CORREO PACIENTE,PEDIDO=77
+*************
+07/08/2020 19:50:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 19:50:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 19:50:29,ross,ENVIO CORREO PACIENTE,PEDIDO=77
+*************
+07/08/2020 22:30:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 22:30:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 23:18:05,ross,01 GENERAR ORDEN,PEDIDO=1
+*************
+07/08/2020 23:18:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+07/08/2020 23:25:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 23:25:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 23:26:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2020 23:26:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/08/2020 23:34:01,ross,01 GENERAR ORDEN,PEDIDO=2
+*************
+07/08/2020 23:34:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+07/08/2020 23:37:12,ross,01 GENERAR ORDEN,PEDIDO=3
+*************
+07/08/2020 23:37:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+08/08/2020 15:02:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/08/2020 15:02:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/08/2020 15:03:04,ross,01 GENERAR ORDEN,PEDIDO=362
+*************
+08/08/2020 15:03:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=362
+*************
+08/08/2020 15:04:10,ross,GUARDA RESULTADOS,WBCH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,LYMH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,MONH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,NEUH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,EOSH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,BASOH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,RBCH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,HGBH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,HCTH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,MCVH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,MCHH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,PLTH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,MPVH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,PDWH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,PCTH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,P_LCRH=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,P_LCCH=33
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,NRBC%25H=3
+*************
+08/08/2020 15:04:11,ross,GUARDA RESULTADOS,NRBCH=3
+*************
+08/08/2020 15:04:22,ross,VALIDACION RESULTADO,PEDIDO=362/400101
+*************
+08/08/2020 15:04:22,ross,VALIDACION RESULTADO,PEDIDO=362/400149
+*************
+08/08/2020 15:09:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/08/2020 15:09:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/08/2020 15:09:30,ross,01 GENERAR ORDEN,PEDIDO=81
+*************
+08/08/2020 15:09:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=81
+*************
+08/08/2020 15:09:51,ross,VALIDACION RESULTADO,PEDIDO=81/400142
+*************
+08/08/2020 15:09:51,ross,VALIDACION RESULTADO,PEDIDO=81/400151
+*************
+08/08/2020 16:59:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/08/2020 16:59:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/08/2020 09:35:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2020 09:35:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/08/2020 09:36:24,ross,01 GENERAR ORDEN,PEDIDO=10
+*************
+09/08/2020 09:36:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10
+*************
+09/08/2020 09:51:22,ross,01 GENERAR ORDEN,PEDIDO=11
+*************
+09/08/2020 09:51:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=11
+*************
+09/08/2020 09:52:07,ross,01 GENERAR ORDEN,PEDIDO=12
+*************
+09/08/2020 09:52:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=12
+*************
+09/08/2020 09:54:55,ross,01 GENERAR ORDEN,PEDIDO=13
+*************
+09/08/2020 09:54:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+09/08/2020 09:55:11,ross,01 GENERAR ORDEN,PEDIDO=14
+*************
+09/08/2020 09:55:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+10/08/2020 10:47:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2020 10:47:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/08/2020 10:58:42,ross,01 GENERAR ORDEN,PEDIDO=15
+*************
+10/08/2020 10:58:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+10/08/2020 10:58:54,ross,01 GENERAR ORDEN,PEDIDO=16
+*************
+10/08/2020 10:58:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=16
+*************
+10/08/2020 10:59:11,ross,01 GENERAR ORDEN,PEDIDO=17
+*************
+10/08/2020 10:59:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=17
+*************
+10/08/2020 11:00:23,ross,Actualiza FACTURA,FACTURA=562
+*************
+10/08/2020 11:00:23,ross,Ingresa FACTURA,FACTURA=562
+*************
+10/08/2020 11:00:24,ross,Insertar abono,Factura=562 Abono= 55
+*************
+10/08/2020 11:00:24,ross,Cancela FACTURA,FACTURA=562
+*************
+10/08/2020 11:06:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2020 11:06:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/08/2020 11:06:41,ross,01 GENERAR ORDEN,PEDIDO=363
+*************
+10/08/2020 11:06:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=363
+*************
+10/08/2020 11:06:52,ross,01 GENERAR ORDEN,PEDIDO=364
+*************
+10/08/2020 11:06:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=364
+*************
+10/08/2020 11:08:22,ross,1 ANULA ORDEN,PEDIDO=364 MOTIVO: prueba
+*************
+10/08/2020 11:22:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2020 11:22:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/08/2020 11:22:58,ross,01 GENERAR ORDEN,PEDIDO=365
+*************
+10/08/2020 11:22:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=365
+*************
+10/08/2020 11:23:12,ross,Actualiza FACTURA,FACTURA=212
+*************
+10/08/2020 11:23:12,ross,Ingresa FACTURA,FACTURA=212
+*************
+10/08/2020 11:23:13,ross,Insertar abono,Factura=212 Abono= 8
+*************
+10/08/2020 11:23:13,ross,Cancela FACTURA,FACTURA=212
+*************
+10/08/2020 11:43:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2020 11:43:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/08/2020 11:43:45,ross,1 ANULA ORDEN,PEDIDO=365 MOTIVO: peruaba fac
+*************
+10/08/2020 16:04:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2020 16:04:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/08/2020 16:07:09,ross,01 GENERAR ORDEN,PEDIDO=366
+*************
+10/08/2020 16:07:09,ross,02 IMPRIMIR COD BARRAS,PEDIDO=366
+*************
+10/08/2020 16:07:50,ross,01 GENERAR ORDEN,PEDIDO=367
+*************
+10/08/2020 16:07:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=367
+*************
+10/08/2020 16:17:15,ross,Guardar palabra,PALABRA=VERDE
+*************
+10/08/2020 16:22:41,ross,01 GENERAR ORDEN,PEDIDO=368
+*************
+10/08/2020 16:22:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=368
+*************
+10/08/2020 16:23:05,ross,GUARDA RESULTADOS,IGG_CUANH=0.03
+*************
+10/08/2020 16:23:05,ross,GUARDA RESULTADOS,IGM_CUANH=0.09
+*************
+10/08/2020 16:23:05,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+10/08/2020 16:23:11,ross,VALIDACION RESULTADO,PEDIDO=368/401105
+*************
+10/08/2020 16:23:22,ross,IMPRIME POR AREA,PEDIDO=368
+*************
+11/08/2020 12:40:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/08/2020 12:40:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/08/2020 12:44:49,ross,Generar Paciente,Paciente=CARRANCO GUERRERO FERNANDO JAVIER
+*************
+11/08/2020 12:51:03,ross,01 GENERAR ORDEN,PEDIDO=369
+*************
+11/08/2020 12:51:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=369
+*************
+11/08/2020 12:55:15,ross,Actualiza FACTURA,FACTURA=213
+*************
+11/08/2020 12:55:16,ross,Ingresa FACTURA,FACTURA=213
+*************
+11/08/2020 12:55:16,ross,Insertar abono,Factura=213 Abono= 40
+*************
+11/08/2020 12:55:16,ross,Actualiza FACTURA,FACTURA=213/40
+*************
+11/08/2020 12:55:19,ross,Registra Tx Factura,Factura=213
+*************
+11/08/2020 12:55:25,ross,Registra Tx Factura,Factura=213
+*************
+11/08/2020 12:55:36,ross,Registra Tx Factura,Factura=213
+*************
+11/08/2020 12:56:16,ross,Insertar abono,Factura=213 Abono= 31
+*************
+11/08/2020 12:56:16,ross,Cancela FACTURA,FACTURA=213
+*************
+11/08/2020 12:58:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=369
+*************
+11/08/2020 13:02:48,ross,Nuevo Pedido IMPORTACION,CLINICA/370
+*************
+11/08/2020 13:02:48,ross,Generar Paciente,Paciente=GAVILANEZ TOMALA JEFFERSON JOSUE
+*************
+11/08/2020 13:02:48,ross,Nuevo Pedido IMPORTACION,CLINICA/371
+*************
+11/08/2020 13:02:48,ross,Generar Paciente,Paciente=YEPEZ AYALA BELEN MAXIMA
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/372
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=BRIONES NARANJO FLORA INES
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/373
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=RAMIREZ VERA ISABEL ROSALVA
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/374
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=JIMENEZ VILLAFUERTE ANGEL EFREN
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/375
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=VARGAS VALENCIA HUMBERTO MOISES
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/376
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=SANCHEZ MONTERO VILMA DE LA CRUZ
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/377
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=REINOSO PLUA HERMES BENEDICTO
+*************
+11/08/2020 13:02:49,ross,Nuevo Pedido IMPORTACION,CLINICA/378
+*************
+11/08/2020 13:02:49,ross,Generar Paciente,Paciente=ZAMBRANO RIQUERO ITALO MELITON
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/379
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=CASTRO ARRIAGA NATIVIDAD VERONICA
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/380
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=VERA LUCIO CRUZ FREDDY
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/381
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=MUÑOZ RIOS BERTHA PRIMITIVA
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/382
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=ORELLANA ORTIZ JORGE FELIPE
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/383
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=VALENZUELA SALTOS WALTER EDGAR
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/384
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=MUÑOZ CABRERA RUFINO JACINTO
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/385
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=GUEVARA POZO YULI JANETH
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/386
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=AYALA MORETA BERTHA NARCISA
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/387
+*************
+11/08/2020 13:02:50,ross,Generar Paciente,Paciente=CERVANTES GALARZA VICTOR VICENTE
+*************
+11/08/2020 13:02:50,ross,Nuevo Pedido IMPORTACION,CLINICA/388
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=QUINTONG HERRERA VIVIANA AUXILIADORA
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/389
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=LIRIO GANCHOZO RAMON LEONIDAS
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/390
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=FERNANDEZ RODRIGUEZ JAIME RAUL
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/391
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=SAAVEDRA AVILES MARCOS ANTONIO
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/392
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=LEON BAJAÑA FARID DONALDO
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/393
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES WILSON FERDINAND
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/394
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=HERNANDEZ VILLAGRAN ANATOLIO ABELARDO
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/395
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=ZAMORA COELLO AUREA LUCIA
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/396
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=SAAVEDRA AVILES FABRICIO XAVIER
+*************
+11/08/2020 13:02:51,ross,Nuevo Pedido IMPORTACION,CLINICA/397
+*************
+11/08/2020 13:02:51,ross,Generar Paciente,Paciente=OCAMPO CHAVEZ NELLY STEFANIA
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/398
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=FRANCO ESLAO JULIA ALEXANDRA
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/399
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=DOMINGUEZ DOMINGUEZ ERIOPAJITA JUSTINA
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/400
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=FLORES VERGARA FELIX ANTONIO
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/401
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=CABEZAS SELLAN RUFINA ARACELY
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/402
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=SANCHEZ GUERRA MARIANO AGUSTIN
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/403
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=HERNANDEZ DOMINGUEZ TERESA MARCELIA
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/404
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=MONCAYO ROBALINO VICTOR ANTONIO
+*************
+11/08/2020 13:02:52,ross,Nuevo Pedido IMPORTACION,CLINICA/405
+*************
+11/08/2020 13:02:52,ross,Generar Paciente,Paciente=MORANTE ROCAFUERTE ALIPIO
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/406
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=PARRAGA TOMALA ANGELA MARISOL
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/407
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=YEPEZ YEPEZ DORA ANGELICA
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/408
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=RODRIGUEZ MUÑOZ JUAN ARCADIO
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/409
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=ZAMBRANO OLVERA HERMES AGUSTIN
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/410
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=MAYORGA OBANDO DONATO EPIFANIO
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/411
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=CARBO SHIGUANGO ISRAEL ALFONSO
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/412
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=ASPIAZU MERA WILMER ISMAEL
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/413
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=CEPEDA ALBA EPIFANIA
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/414
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=AROCA BOBADILLA FANI LEYDY
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/415
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=BARCO CAICEDO JESSICA ROXANA
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/416
+*************
+11/08/2020 13:02:53,ross,Generar Paciente,Paciente=MORA FLORES TEMISTOCLE EDUARDO
+*************
+11/08/2020 13:02:53,ross,Nuevo Pedido IMPORTACION,CLINICA/417
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=SALTOS VINCES ANGELA FLORICELDA
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/418
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=MORAN MARMOLEJO JOSUE ORONCIO
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/419
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=RENDON CALBERTO MARINA LEONOR
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/420
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=JARA SALAZAR LUIS ENRIQUE
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/421
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=RODRIGUEZ ZAMBRANO ALEXANDRA JOHANNA
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/422
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=RODRIGUEZ LOOR FELIX ALBERTO
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/423
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=GAIBOR GAIBOR LUIS EDUARDO
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/424
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=ESCUDERO MONAR EDITH GUADALUPE
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/425
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=ARGUELLO AGUILAR ESTUARDO WILLIAM
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/426
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=AVILEZ ACOSTA JUANA ELENA
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/427
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES JULY ANNABELL
+*************
+11/08/2020 13:02:54,ross,Nuevo Pedido IMPORTACION,CLINICA/428
+*************
+11/08/2020 13:02:54,ross,Generar Paciente,Paciente=LOOR MONTOYA VICTOR JULIAN
+*************
+11/08/2020 13:02:55,ross,Nuevo Pedido IMPORTACION,CLINICA/429
+*************
+11/08/2020 13:02:55,ross,Generar Paciente,Paciente=GUAMAN DUCHI NARCISO
+*************
+11/08/2020 13:02:55,ross,Nuevo Pedido IMPORTACION,CLINICA/430
+*************
+11/08/2020 13:02:55,ross,Generar Paciente,Paciente=GARCIA LUCAS CRISTOBAL NICANOR
+*************
+11/08/2020 13:02:55,ross,Nuevo Pedido IMPORTACION,CLINICA/431
+*************
+11/08/2020 13:04:08,ross,1 MODIFICA ORDEN,PEDIDO=369
+*************
+11/08/2020 13:04:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=369
+*************
+11/08/2020 13:08:23,ross,IMPRIMIR LISTA TRABAJO,
+*************
+11/08/2020 13:10:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/08/2020 13:10:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/08/2020 13:10:48,ross,IMPRIMIR CONTRAORDEN,
+*************
+11/08/2020 13:11:23,ross,IMPRIMIR HOJA TRABAJO,
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,WBCH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,LYMH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,MONH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,NEUH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,EOSH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,BASOH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,RBCH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,HGBH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,HCTH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,MCVH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,MCHH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+11/08/2020 13:16:08,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,PLTH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,MPVH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,PDWH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,PCTH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,P_LCRH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,P_LCCH=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,NRBC%25H=2
+*************
+11/08/2020 13:16:09,ross,GUARDA RESULTADOS,NRBCH=2
+*************
+11/08/2020 13:16:49,ross,GUARDA RESULTADOS,IGG_CUANH=0.001
+*************
+11/08/2020 13:16:49,ross,GUARDA RESULTADOS,IGM_CUANH=0.80
+*************
+11/08/2020 13:16:49,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+11/08/2020 13:18:14,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALORES CONFIRMADOS
+*************
+11/08/2020 13:19:14,ross,VALIDACION RESULTADO,PEDIDO=369/400101
+*************
+11/08/2020 13:19:14,ross,VALIDACION RESULTADO,PEDIDO=369/400114
+*************
+11/08/2020 13:19:14,ross,VALIDACION RESULTADO,PEDIDO=369/400149
+*************
+11/08/2020 13:19:14,ross,VALIDACION RESULTADO,PEDIDO=369/400151
+*************
+11/08/2020 13:19:14,ross,VALIDACION RESULTADO,PEDIDO=369/400476
+*************
+11/08/2020 13:19:14,ross,VALIDACION RESULTADO,PEDIDO=369/401105
+*************
+11/08/2020 13:20:23,ross,IMPRIME POR AREA,PEDIDO=369
+*************
+11/08/2020 13:21:35,ross,IMPRIME TODO,PEDIDO=369
+*************
+11/08/2020 13:22:04,ross,IMPRIME POR EMAMEN,PEDIDO=369
+*************
+11/08/2020 13:22:20,ross,IMPRIME POR EMAMEN,PEDIDO=369
+*************
+11/08/2020 13:22:44,ross,IMPRIME SOBRE,PEDIDO=369
+*************
+11/08/2020 13:25:03,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=369 EMAIL NO VALIDO
+*************
+11/08/2020 13:33:21,ross,1 MODIFICA ORDEN,PEDIDO=369
+*************
+12/08/2020 14:08:52,,SUPERADO INTENTOS FALLIDO USR,
+*************
+12/08/2020 14:08:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2020 14:08:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/08/2020 14:09:13,ross,01 GENERAR ORDEN,PEDIDO=432
+*************
+12/08/2020 14:09:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=432
+*************
+12/08/2020 14:12:27,ross,Actualiza FACTURA,FACTURA=214
+*************
+12/08/2020 14:12:27,ross,Ingresa FACTURA,FACTURA=214
+*************
+12/08/2020 14:12:28,ross,Insertar abono,Factura=214 Abono= 13
+*************
+12/08/2020 14:12:28,ross,Cancela FACTURA,FACTURA=214
+*************
+12/08/2020 14:53:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2020 14:53:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/08/2020 14:54:02,ross,VALIDACION RESULTADO,PEDIDO=432/400149
+*************
+12/08/2020 14:54:02,ross,VALIDACION RESULTADO,PEDIDO=432/400150
+*************
+12/08/2020 14:54:02,ross,VALIDACION RESULTADO,PEDIDO=432/400151
+*************
+12/08/2020 14:54:02,ross,VALIDACION RESULTADO,PEDIDO=432/400476
+*************
+12/08/2020 21:51:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2020 21:51:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/08/2020 21:52:06,ross,01 GENERAR ORDEN,PEDIDO=433
+*************
+12/08/2020 21:52:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=433
+*************
+12/08/2020 21:52:18,ross,Actualiza FACTURA,FACTURA=215
+*************
+12/08/2020 21:52:18,ross,Ingresa FACTURA,FACTURA=215
+*************
+12/08/2020 21:52:19,ross,Insertar abono,Factura=215 Abono= 50
+*************
+12/08/2020 21:52:19,ross,Cancela FACTURA,FACTURA=215
+*************
+12/08/2020 22:05:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2020 22:05:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/08/2020 22:39:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2020 22:39:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 11:15:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 11:15:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 11:49:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 11:49:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 11:49:29,ross,Registra Tx Factura,Factura=115
+*************
+13/08/2020 11:52:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 11:52:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 11:52:25,ross,Registra Tx Factura,Factura=112
+*************
+13/08/2020 11:56:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 11:57:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 12:02:32,ross,Registra Tx Factura,Factura=112
+*************
+13/08/2020 12:06:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 12:06:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 12:06:52,ross,Registra Tx Factura,Factura=112
+*************
+13/08/2020 12:08:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 12:08:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 12:09:22,ross,Registra Tx Factura,Factura=112
+*************
+13/08/2020 12:09:31,ross,Registra Tx Factura,Factura=112
+*************
+13/08/2020 12:11:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 12:11:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 12:11:55,ross,Registra Tx Factura,Factura=115
+*************
+13/08/2020 12:15:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 12:15:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 12:15:18,ross,IMPRIME POR AREA,PEDIDO=124
+*************
+13/08/2020 12:15:32,ross,IMPRIME SOBRE,PEDIDO=124
+*************
+13/08/2020 12:15:49,ross,IMPRIMIR HOJA TRABAJO,
+*************
+13/08/2020 18:31:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 18:31:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 21:37:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 21:37:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 21:55:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 21:55:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 22:02:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 22:02:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 22:04:56,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/130
+*************
+13/08/2020 22:08:23,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/131
+*************
+13/08/2020 22:12:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 22:12:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 22:24:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 22:24:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 22:28:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 22:28:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 22:35:56,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/132
+*************
+13/08/2020 22:36:04,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/133
+*************
+13/08/2020 22:41:42,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/134
+*************
+13/08/2020 22:41:53,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/135
+*************
+13/08/2020 22:44:05,ross,01 GENERAR ORDEN,PEDIDO=136
+*************
+13/08/2020 22:44:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=136
+*************
+13/08/2020 22:46:21,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/137
+*************
+13/08/2020 22:46:37,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/138
+*************
+13/08/2020 22:47:33,ross,01 GENERAR ORDEN,PEDIDO=139
+*************
+13/08/2020 22:47:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=139
+*************
+13/08/2020 22:51:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 22:51:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 23:03:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 23:03:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 23:09:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 23:09:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 23:27:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 23:27:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 23:50:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 23:50:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/08/2020 23:58:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2020 23:58:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 00:02:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 00:02:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 00:04:43,ross,01 GENERAR ORDEN,PEDIDO=140
+*************
+14/08/2020 00:04:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=140
+*************
+14/08/2020 00:05:40,ross,01 GENERAR ORDEN,PEDIDO=141
+*************
+14/08/2020 00:05:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=141
+*************
+14/08/2020 00:07:11,ross,01 GENERAR ORDEN,PEDIDO=142
+*************
+14/08/2020 00:07:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=142
+*************
+14/08/2020 00:19:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 00:19:20,,Ingreso CONTRASE�A FALLIDO,
+*************
+14/08/2020 00:19:20,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 00:19:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 00:21:27,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/143
+*************
+14/08/2020 00:21:35,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/144
+*************
+14/08/2020 00:23:18,ross,01 GENERAR ORDEN,PEDIDO=145
+*************
+14/08/2020 00:23:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=145
+*************
+14/08/2020 14:25:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 14:25:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 18:03:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 18:04:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 19:53:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 19:53:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 19:54:07,ross,VALIDACION RESULTADO,PEDIDO=144/400142
+*************
+14/08/2020 19:54:08,ross,VALIDACION RESULTADO,PEDIDO=144/400149
+*************
+14/08/2020 19:54:08,ross,VALIDACION RESULTADO,PEDIDO=144/400151
+*************
+14/08/2020 19:57:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 19:57:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 19:59:54,ross,VALIDACION RESULTADO,PEDIDO=143/400142
+*************
+14/08/2020 19:59:57,ross,VALIDACION RESULTADO,PEDIDO=143/400149
+*************
+14/08/2020 20:00:00,ross,VALIDACION RESULTADO,PEDIDO=143/400151
+*************
+14/08/2020 20:10:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 20:10:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 20:27:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 20:27:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 20:39:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 20:39:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 20:47:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 20:47:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 21:12:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2020 21:12:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/08/2020 21:15:52,ross,Inserta usuario web,Paciente=2 PPACIENTE
+*************
+14/08/2020 21:24:34,ross,Inserta usuario web,Paciente=2 
+*************
+14/08/2020 21:25:10,ross,01 GENERAR ORDEN,PEDIDO=146
+*************
+14/08/2020 21:25:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=146
+*************
+14/08/2020 21:25:43,ross,VALIDACION RESULTADO,PEDIDO=146/400149
+*************
+14/08/2020 21:25:43,ross,VALIDACION RESULTADO,PEDIDO=146/400150
+*************
+14/08/2020 21:25:44,ross,VALIDACION RESULTADO,PEDIDO=146/400151
+*************
+14/08/2020 21:26:29,ross,Inserta usuario web,Paciente=5 MMORALES
+*************
+14/08/2020 21:27:40,ross,Actualiza Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+14/08/2020 21:28:57,ross,Inserta usuario web,Paciente=5 MMORALES
+*************
+15/08/2020 14:50:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2020 14:50:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/08/2020 15:23:27,ross,01 GENERAR ORDEN,PEDIDO=147
+*************
+15/08/2020 15:23:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=147
+*************
+15/08/2020 15:24:07,ross,GUARDA RESULTADOS,WBCH=2
+*************
+15/08/2020 15:24:07,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+15/08/2020 15:24:07,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+15/08/2020 15:24:07,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+15/08/2020 15:24:07,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+15/08/2020 15:24:07,ross,GUARDA RESULTADOS,BAS%25H=2
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,LYMH=2
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,MONH=2
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,NEUH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,EOSH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,BASH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,RBCH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,HGBH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,HCTH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,MCVH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,MCHH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,PLTH=4
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,MPVH=4
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,PDWH=4
+*************
+15/08/2020 15:24:08,ross,GUARDA RESULTADOS,PCTH=6
+*************
+15/08/2020 15:24:18,ross,GUARDA RESULTADOS,IGG_CUANTH=0.04
+*************
+15/08/2020 15:24:18,ross,GUARDA RESULTADOS,IGG_CANTIH=0.2
+*************
+15/08/2020 15:24:18,ross,GUARDA RESULTADOS,INTR_NCOVH=INTERPRETACION
+*************
+15/08/2020 15:24:27,ross,VALIDACION RESULTADO,PEDIDO=147/400101
+*************
+15/08/2020 15:24:27,ross,VALIDACION RESULTADO,PEDIDO=147/401105
+*************
+15/08/2020 15:54:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2020 15:54:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/08/2020 16:14:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2020 16:14:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/08/2020 16:17:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2020 16:17:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/08/2020 20:52:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2020 20:52:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 09:20:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 09:20:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 09:22:58,ross,01 GENERAR ORDEN,PEDIDO=148
+*************
+16/08/2020 09:22:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=148
+*************
+16/08/2020 09:24:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 09:24:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 09:48:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 09:48:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 09:51:25,ross,VALIDACION RESULTADO,PEDIDO=638/400140
+*************
+16/08/2020 09:51:26,ross,VALIDACION RESULTADO,PEDIDO=638/400141
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,ASPOH=
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,DENOH=
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,PHOH=
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+16/08/2020 09:51:34,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,UROOH=NORMAL
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,HGBOH=NEGATIVO
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,CELEPH=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,PIOO=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,BACOH=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,MOCOH=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,HEMOH=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,CCETOH=
+*************
+16/08/2020 09:51:35,ross,GUARDA RESULTADOS,CELRH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,ESP=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,OXAO=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CRIO=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CRISOH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CISFOH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,ASCOH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CILCE=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CIGO=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CILO=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CELPOH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+16/08/2020 09:51:36,ross,GUARDA RESULTADOS,OTROSO=
+*************
+16/08/2020 09:51:47,ross,GUARDA RESULTADOS,BACGNH=30
+*************
+16/08/2020 09:51:47,ross,GUARDA RESULTADOS,COCGPH=40
+*************
+16/08/2020 09:51:52,ross,VALIDACION RESULTADO,PEDIDO=638/400230
+*************
+16/08/2020 09:51:52,ross,VALIDACION RESULTADO,PEDIDO=638/400702
+*************
+16/08/2020 11:30:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 11:30:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 11:30:49,ross,IMPRIME POR AREA,PEDIDO=638
+*************
+16/08/2020 11:57:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 11:57:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 12:22:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 12:22:32,,Ingreso CONTRASE�A FALLIDO,
+*************
+16/08/2020 12:22:32,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 12:22:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 12:26:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 12:26:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 12:32:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 12:32:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 14:04:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 14:04:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 14:04:32,ross,Registra Tx Factura,Factura=546
+*************
+16/08/2020 14:04:49,ross,01 GENERAR ORDEN,PEDIDO=639
+*************
+16/08/2020 14:04:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=639
+*************
+16/08/2020 14:04:57,ross,Actualiza FACTURA,FACTURA=547
+*************
+16/08/2020 14:04:57,ross,Ingresa FACTURA,FACTURA=547
+*************
+16/08/2020 14:04:58,ross,Insertar abono,Factura=547 Abono= 53
+*************
+16/08/2020 14:04:58,ross,Cancela FACTURA,FACTURA=547
+*************
+16/08/2020 14:04:59,ross,Registra Tx Factura,Factura=547
+*************
+16/08/2020 14:23:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 14:23:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 14:23:25,ross,Registra Tx Factura,Factura=547
+*************
+16/08/2020 15:26:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/08/2020 15:26:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/08/2020 15:27:01,ross,Registra Tx Factura,Factura=547
+*************
+16/08/2020 15:28:07,ross,Registra Tx Factura,Factura=547
+*************
+17/08/2020 08:48:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 08:48:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 08:48:50,ross,01 GENERAR ORDEN,PEDIDO=640
+*************
+17/08/2020 08:48:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=640
+*************
+17/08/2020 08:49:28,ross,01 GENERAR ORDEN,PEDIDO=641
+*************
+17/08/2020 08:49:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=641
+*************
+17/08/2020 13:44:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 13:44:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 13:44:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=55
+*************
+17/08/2020 13:44:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=55
+*************
+17/08/2020 13:44:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=53
+*************
+17/08/2020 15:11:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 15:11:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 16:10:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 16:10:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 16:16:12,ross,Actualizar Convenio,Convenio=NEFROMEDIC
+*************
+17/08/2020 16:16:12,ross,Actualizar Secuencia,SECUENCIA=NEFROMEDIC/201/500
+*************
+17/08/2020 16:16:13,ross,Actualizar LISTA PRECIO=NEFROMEDIC,
+*************
+17/08/2020 16:16:43,ross,Actualizar Convenio,Convenio=BLENASTOR
+*************
+17/08/2020 16:16:43,ross,Actualizar Secuencia,SECUENCIA=BLENASTOR/151/200
+*************
+17/08/2020 16:16:44,ross,Actualizar LISTA PRECIO=BLENASTOR,
+*************
+17/08/2020 16:17:26,ross,Actualizar Convenio,Convenio=FAMILIA HERNANDEZ
+*************
+17/08/2020 16:17:26,ross,Actualizar Secuencia,SECUENCIA=FAMILIA HERNANDEZ/501/600
+*************
+17/08/2020 16:17:27,ross,Actualizar LISTA PRECIO=FAMILIA HERNANDEZ,
+*************
+17/08/2020 16:21:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 16:21:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 16:22:48,ross,Nuevo Perfil,PERFIL=PERFIL NEFRO HBS
+*************
+17/08/2020 16:25:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 16:25:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 16:34:00,ross,Generar Paciente,Paciente=CELA LUIS ROBERTO
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/56
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=QUIJANO QUILLUPANGUI MANUEL DE JESUS
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/57
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=SANGUCHO PILLAJO MARIA ANGELA
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/58
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=BALSECA MORA GLADYS MARIBEL
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/59
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=PINTO MERA VERNY MIGUEL
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/60
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=FIGUEROA ROCHE JULIO ANTONIO
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/61
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=MORA CAMUENDO LUIS ALBERTO
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/62
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=ICAZA LOPEZ JOSE LUIS
+*************
+17/08/2020 16:34:01,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/63
+*************
+17/08/2020 16:34:01,ross,Generar Paciente,Paciente=CAMACHO VIZCAINO MAURO FELIX
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/64
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=ARAUJO LOBO ARMANDO ATILIO
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/65
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=TOAPANTA VEGA LUIS CRISTOBAL
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/66
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=MALDONADO GALARZA CELSO ENRIQUE
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/67
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=CARTAGENA ZAVALA ALBA DOMITILA
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/68
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=BRAVO GARCIA JENNY ISABEL
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/69
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=YANTALEMA TODAY MARIA MANUELA
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/70
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=PACHECO ARMENDARIZ PATRICIO GUSTAVO
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/71
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=CRUZ HIDALGO MARIA ESTHELA
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/72
+*************
+17/08/2020 16:34:02,ross,Generar Paciente,Paciente=PILATASIG CHITALOGRO ANACLETO
+*************
+17/08/2020 16:34:02,ross,Nuevo Pedido IMPORTACION,NEFROMEDIC/73
+*************
+17/08/2020 19:16:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 19:16:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 19:17:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 19:17:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/149
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=GAVILANEZ TOMALA JEFFERSON JOSUE
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/150
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=YEPEZ AYALA BELEN MAXIMA
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/151
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=BRIONES NARANJO FLORA INES
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/152
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=RAMIREZ VERA ISABEL ROSALVA
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/153
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=JIMENEZ VILLAFUERTE ANGEL EFREN
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/154
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=VARGAS VALENCIA HUMBERTO MOISES
+*************
+17/08/2020 19:56:10,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/155
+*************
+17/08/2020 19:56:10,ross,Generar Paciente,Paciente=SANCHEZ MONTERO VILMA DE LA CRUZ
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/156
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=REINOSO PLUA HERMES BENEDICTO
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/157
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=ZAMBRANO RIQUERO ITALO MELITON
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/158
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=CASTRO ARRIAGA NATIVIDAD VERONICA
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/159
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=VERA LUCIO CRUZ FREDDY
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/160
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=MUÑOZ RIOS BERTHA PRIMITIVA
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/161
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=ORELLANA ORTIZ JORGE FELIPE
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/162
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=VALENZUELA SALTOS WALTER EDGAR
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/163
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=MUÑOZ CABRERA RUFINO JACINTO
+*************
+17/08/2020 19:56:11,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/164
+*************
+17/08/2020 19:56:11,ross,Generar Paciente,Paciente=GUEVARA POZO YULI JANETH
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/165
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=AYALA MORETA BERTHA NARCISA
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/166
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=CERVANTES GALARZA VICTOR VICENTE
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/167
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=QUINTONG HERRERA VIVIANA AUXILIADORA
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/168
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=LIRIO GANCHOZO RAMON LEONIDAS
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/169
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=FERNANDEZ RODRIGUEZ JAIME RAUL
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/170
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=SAAVEDRA AVILES MARCOS ANTONIO
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/171
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=LEON BAJAÑA FARID DONALDO
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/172
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES WILSON FERDINAND
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/173
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=HERNANDEZ VILLAGRAN ANATOLIO ABELARDO
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/174
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=ZAMORA COELLO AUREA LUCIA
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/175
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=SAAVEDRA AVILES FABRICIO XAVIER
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/176
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=OCAMPO CHAVEZ NELLY STEFANIA
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/177
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=FRANCO ESLAO JULIA ALEXANDRA
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/178
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=DOMINGUEZ DOMINGUEZ ERIOPAJITA JUSTINA
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/179
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=FLORES VERGARA FELIX ANTONIO
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/180
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=CABEZAS SELLAN RUFINA ARACELY
+*************
+17/08/2020 19:56:12,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/181
+*************
+17/08/2020 19:56:12,ross,Generar Paciente,Paciente=SANCHEZ GUERRA MARIANO AGUSTIN
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/182
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=HERNANDEZ DOMINGUEZ TERESA MARCELIA
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/183
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=MONCAYO ROBALINO VICTOR ANTONIO
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/184
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=MORANTE ROCAFUERTE ALIPIO
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/185
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=PARRAGA TOMALA ANGELA MARISOL
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/186
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=YEPEZ YEPEZ DORA ANGELICA
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/187
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=RODRIGUEZ MUÑOZ JUAN ARCADIO
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/188
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=ZAMBRANO OLVERA HERMES AGUSTIN
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/189
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=MAYORGA OBANDO DONATO EPIFANIO
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/190
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=CARBO SHIGUANGO ISRAEL ALFONSO
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/191
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=ASPIAZU MERA WILMER ISMAEL
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/192
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=CEPEDA ALBA EPIFANIA
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/193
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=AROCA BOBADILLA FANI LEYDY
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/194
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=BARCO CAICEDO JESSICA ROXANA
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/195
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=MORA FLORES TEMISTOCLE EDUARDO
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/196
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=SALTOS VINCES ANGELA FLORICELDA
+*************
+17/08/2020 19:56:13,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/197
+*************
+17/08/2020 19:56:13,ross,Generar Paciente,Paciente=MORAN MARMOLEJO JOSUE ORONCIO
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/198
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=RENDON CALBERTO MARINA LEONOR
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/199
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=JARA SALAZAR LUIS ENRIQUE
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/200
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=RODRIGUEZ ZAMBRANO ALEXANDRA JOHANNA
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/201
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=RODRIGUEZ LOOR FELIX ALBERTO
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/202
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=GAIBOR GAIBOR LUIS EDUARDO
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/203
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=ESCUDERO MONAR EDITH GUADALUPE
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/204
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=ARGUELLO AGUILAR ESTUARDO WILLIAM
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/205
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=AVILEZ ACOSTA JUANA ELENA
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/206
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES JULY ANNABELL
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/207
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=LOOR MONTOYA VICTOR JULIAN
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/208
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=GUAMAN DUCHI NARCISO
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/209
+*************
+17/08/2020 19:56:14,ross,Generar Paciente,Paciente=GARCIA LUCAS CRISTOBAL NICANOR
+*************
+17/08/2020 19:56:14,ross,Nuevo Pedido IMPORTACION,LABORATORIOS ASOCIADOS/210
+*************
+17/08/2020 20:01:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 20:01:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 20:16:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 20:16:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 20:18:32,ross,01 GENERAR ORDEN,PEDIDO=74
+*************
+17/08/2020 20:18:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=74
+*************
+17/08/2020 20:37:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2020 20:37:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/08/2020 20:38:02,ross,01 GENERAR ORDEN,PEDIDO=75
+*************
+17/08/2020 20:38:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=75
+*************
+18/08/2020 07:24:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 07:24:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 07:53:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 07:53:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 08:06:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 08:06:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 08:16:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 08:16:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 08:18:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 08:18:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 08:40:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 08:40:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 08:45:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 08:45:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 08:48:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 08:48:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:06:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:06:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:14:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:14:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:17:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:17:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:20:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:20:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:40:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:40:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:41:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:52:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:52:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:54:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:54:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 09:59:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 09:59:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:25:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:25:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:34:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:35:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:35:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:45:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:45:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:49:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:49:43,,Ingreso CONTRASE�A FALLIDO,
+*************
+18/08/2020 10:49:43,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:49:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:53:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:53:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 10:57:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 10:57:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 11:03:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 11:03:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 11:14:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 11:14:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 11:18:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 11:18:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 11:51:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 11:51:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 11:56:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 11:56:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 12:33:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 12:40:27,,Ingreso CONTRASE�A FALLIDO,
+*************
+18/08/2020 12:40:27,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 12:40:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 12:49:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 12:49:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 12:50:41,ross,01 GENERAR ORDEN,PEDIDO=277
+*************
+18/08/2020 12:50:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=277
+*************
+18/08/2020 12:50:50,ross,01 GENERAR ORDEN,PEDIDO=278
+*************
+18/08/2020 12:50:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=278
+*************
+18/08/2020 12:51:32,ross,GUARDA RESULTADOS,IGG_CUANH=0.001
+*************
+18/08/2020 12:51:32,ross,GUARDA RESULTADOS,IGM_CUANH=0.01
+*************
+18/08/2020 12:51:33,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+18/08/2020 12:51:39,ross,GUARDA RESULTADOS,IGG_CUANH=0.002
+*************
+18/08/2020 12:51:39,ross,GUARDA RESULTADOS,IGM_CUANH=0.02
+*************
+18/08/2020 12:51:39,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+18/08/2020 12:51:48,ross,VALIDACION RESULTADO,PEDIDO=277/401105
+*************
+18/08/2020 12:51:51,ross,VALIDACION RESULTADO,PEDIDO=278/401105
+*************
+18/08/2020 12:58:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 12:58:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 13:03:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 13:03:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 13:52:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 13:52:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:02:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:02:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:06:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:06:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:09:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:09:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:12:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:12:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:13:08,ross,01 GENERAR ORDEN,PEDIDO=279
+*************
+18/08/2020 14:13:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=279
+*************
+18/08/2020 14:13:24,ross,1 MODIFICA ORDEN,PEDIDO=279
+*************
+18/08/2020 14:13:51,ross,01 GENERAR ORDEN,PEDIDO=280
+*************
+18/08/2020 14:13:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=280
+*************
+18/08/2020 14:14:07,ross,01 GENERAR ORDEN,PEDIDO=281
+*************
+18/08/2020 14:14:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=281
+*************
+18/08/2020 14:14:21,ross,01 GENERAR ORDEN,PEDIDO=282
+*************
+18/08/2020 14:14:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=282
+*************
+18/08/2020 14:14:54,ross,VALIDACION RESULTADO,PEDIDO=279/400149
+*************
+18/08/2020 14:14:54,ross,VALIDACION RESULTADO,PEDIDO=279/400150
+*************
+18/08/2020 14:14:54,ross,VALIDACION RESULTADO,PEDIDO=279/400151
+*************
+18/08/2020 14:14:54,ross,VALIDACION RESULTADO,PEDIDO=279/400476
+*************
+18/08/2020 14:15:04,ross,VALIDACION RESULTADO,PEDIDO=280/400574
+*************
+18/08/2020 14:15:04,ross,VALIDACION RESULTADO,PEDIDO=280/401104
+*************
+18/08/2020 14:15:15,ross,VALIDACION RESULTADO,PEDIDO=281/400149
+*************
+18/08/2020 14:15:15,ross,VALIDACION RESULTADO,PEDIDO=281/400150
+*************
+18/08/2020 14:15:15,ross,VALIDACION RESULTADO,PEDIDO=281/400151
+*************
+18/08/2020 14:15:15,ross,VALIDACION RESULTADO,PEDIDO=281/400476
+*************
+18/08/2020 14:15:22,ross,VALIDACION RESULTADO,PEDIDO=282/400574
+*************
+18/08/2020 14:15:22,ross,VALIDACION RESULTADO,PEDIDO=282/401104
+*************
+18/08/2020 14:33:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:33:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:50:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:50:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:54:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:54:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:57:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:57:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:58:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 14:58:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 14:59:27,ross,1 ANULA ORDEN,PEDIDO=277 MOTIVO: ss
+*************
+18/08/2020 14:59:32,ross,1 ANULA ORDEN,PEDIDO=278 MOTIVO: sss
+*************
+18/08/2020 14:59:44,ross,1 MODIFICA ORDEN,PEDIDO=282
+*************
+18/08/2020 14:59:52,ross,1 MODIFICA ORDEN,PEDIDO=279
+*************
+18/08/2020 15:00:09,ross,1 MODIFICA ORDEN,PEDIDO=282
+*************
+18/08/2020 15:07:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 15:07:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 15:10:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 15:10:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 15:49:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 15:49:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 16:08:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 16:08:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 16:11:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 16:11:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 16:23:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 16:23:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 16:42:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 16:42:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 19:03:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 19:03:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 19:04:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 19:04:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 22:27:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 22:27:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 23:12:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2020 23:12:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/08/2020 23:12:46,ross,01 GENERAR ORDEN,PEDIDO=283
+*************
+18/08/2020 23:12:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=283
+*************
+18/08/2020 23:12:59,ross,01 GENERAR ORDEN,PEDIDO=284
+*************
+18/08/2020 23:12:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=284
+*************
+18/08/2020 23:13:11,ross,1 MODIFICA ORDEN,PEDIDO=284
+*************
+18/08/2020 23:13:22,ross,1 ANULA ORDEN,PEDIDO=284 MOTIVO: tetr
+*************
+18/08/2020 23:13:36,ross,01 GENERAR ORDEN,PEDIDO=285
+*************
+18/08/2020 23:13:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=285
+*************
+18/08/2020 23:14:06,ross,VALIDACION RESULTADO,PEDIDO=283/401096
+*************
+18/08/2020 23:14:16,ross,VALIDACION RESULTADO,PEDIDO=285/401096
+*************
+19/08/2020 08:02:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2020 08:02:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 08:02:41,ross,01 GENERAR ORDEN,PEDIDO=286
+*************
+19/08/2020 08:02:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=286
+*************
+19/08/2020 10:38:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2020 10:38:31,,Ingreso CONTRASE�A FALLIDO,
+*************
+19/08/2020 10:38:31,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 10:38:35,,Ingreso CONTRASE�A FALLIDO,
+*************
+19/08/2020 10:38:36,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 10:38:38,,Ingreso CONTRASE�A FALLIDO,
+*************
+19/08/2020 10:38:38,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 10:38:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 10:39:30,ross,01 GENERAR ORDEN,PEDIDO=293
+*************
+19/08/2020 10:39:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=293
+*************
+19/08/2020 20:55:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2020 20:55:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 21:08:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2020 21:08:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/08/2020 21:14:12,ross,Actualiza Test,Test=COPROCULTIVO
+*************
+20/08/2020 21:26:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/08/2020 21:26:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/08/2020 10:54:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2020 10:54:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/08/2020 10:54:16,ross,01 GENERAR ORDEN,PEDIDO=307
+*************
+21/08/2020 10:54:33,ross,Actualiza FACTURA,FACTURA=568
+*************
+21/08/2020 10:54:33,ross,Ingresa FACTURA,FACTURA=568
+*************
+21/08/2020 10:54:35,ross,Insertar abono,Factura=568 Abono= 59.25
+*************
+21/08/2020 10:54:35,ross,Cancela FACTURA,FACTURA=568
+*************
+21/08/2020 10:54:36,ross,Registra Tx Factura,Factura=568
+*************
+21/08/2020 12:10:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2020 12:10:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 10:01:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 10:01:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 10:03:36,ross,IMPRIME POR AREA,PEDIDO=368
+*************
+22/08/2020 10:14:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 10:14:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 10:19:09,ross,Generar Paciente,Paciente=CHACHA JARAMILLO CAROLINA LISSETH
+*************
+22/08/2020 10:23:34,ross,01 GENERAR ORDEN,PEDIDO=2508
+*************
+22/08/2020 10:25:20,ross,03 IMPRIMIR PEDIDO,PEDIDO=2508
+*************
+22/08/2020 10:31:23,ross,Actualiza FACTURA,FACTURA=16800
+*************
+22/08/2020 10:31:23,ross,Ingresa FACTURA,FACTURA=16800
+*************
+22/08/2020 10:31:23,ross,Insertar abono,Factura=16800 Abono= 30
+*************
+22/08/2020 10:31:23,ross,Actualiza FACTURA,FACTURA=16800/30
+*************
+22/08/2020 10:31:27,ross,Registra Tx Factura,Factura=16800
+*************
+22/08/2020 10:32:37,ross,Insertar abono,Factura=16800 Abono= 30
+*************
+22/08/2020 10:32:37,ross,Cancela FACTURA,FACTURA=16800
+*************
+22/08/2020 10:32:40,ross,Registra Tx Factura,Factura=16800
+*************
+22/08/2020 10:33:10,ross,Registra Tx Factura,Factura=16800
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2509
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=GAVILANEZ TOMALA JEFFERSON JOSUE
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2510
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=YEPEZ AYALA BELEN MAXIMA
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2511
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=BRIONES NARANJO FLORA INES
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2512
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=RAMIREZ VERA ISABEL ROSALVA
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2513
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=JIMENEZ VILLAFUERTE ANGEL EFREN
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2514
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=VARGAS VALENCIA HUMBERTO MOISES
+*************
+22/08/2020 10:36:33,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2515
+*************
+22/08/2020 10:36:33,ross,Generar Paciente,Paciente=SANCHEZ MONTERO VILMA DE LA CRUZ
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2516
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=REINOSO PLUA HERMES BENEDICTO
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2517
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=ZAMBRANO RIQUERO ITALO MELITON
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2518
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=CASTRO ARRIAGA NATIVIDAD VERONICA
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2519
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=VERA LUCIO CRUZ FREDDY
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2520
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=MUÑOZ RIOS BERTHA PRIMITIVA
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2521
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=ORELLANA ORTIZ JORGE FELIPE
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2522
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=VALENZUELA SALTOS WALTER EDGAR
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2523
+*************
+22/08/2020 10:36:34,ross,Generar Paciente,Paciente=MUÑOZ CABRERA RUFINO JACINTO
+*************
+22/08/2020 10:36:34,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2524
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=GUEVARA POZO YULI JANETH
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2525
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=AYALA MORETA BERTHA NARCISA
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2526
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=CERVANTES GALARZA VICTOR VICENTE
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2527
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=QUINTONG HERRERA VIVIANA AUXILIADORA
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2528
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=LIRIO GANCHOZO RAMON LEONIDAS
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2529
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=FERNANDEZ RODRIGUEZ JAIME RAUL
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2530
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=SAAVEDRA AVILES MARCOS ANTONIO
+*************
+22/08/2020 10:36:35,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2531
+*************
+22/08/2020 10:36:35,ross,Generar Paciente,Paciente=LEON BAJAÑA FARID DONALDO
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2532
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES WILSON FERDINAND
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2533
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=HERNANDEZ VILLAGRAN ANATOLIO ABELARDO
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2534
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=ZAMORA COELLO AUREA LUCIA
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2535
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=SAAVEDRA AVILES FABRICIO XAVIER
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2536
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=OCAMPO CHAVEZ NELLY STEFANIA
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2537
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=FRANCO ESLAO JULIA ALEXANDRA
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2538
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=DOMINGUEZ DOMINGUEZ ERIOPAJITA JUSTINA
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2539
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=FLORES VERGARA FELIX ANTONIO
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2540
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=CABEZAS SELLAN RUFINA ARACELY
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2541
+*************
+22/08/2020 10:36:36,ross,Generar Paciente,Paciente=SANCHEZ GUERRA MARIANO AGUSTIN
+*************
+22/08/2020 10:36:36,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2542
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=HERNANDEZ DOMINGUEZ TERESA MARCELIA
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2543
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=MONCAYO ROBALINO VICTOR ANTONIO
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2544
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=MORANTE ROCAFUERTE ALIPIO
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2545
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=PARRAGA TOMALA ANGELA MARISOL
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2546
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=YEPEZ YEPEZ DORA ANGELICA
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2547
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=RODRIGUEZ MUÑOZ JUAN ARCADIO
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2548
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=ZAMBRANO OLVERA HERMES AGUSTIN
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2549
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=MAYORGA OBANDO DONATO EPIFANIO
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2550
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=CARBO SHIGUANGO ISRAEL ALFONSO
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2551
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=ASPIAZU MERA WILMER ISMAEL
+*************
+22/08/2020 10:36:37,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2552
+*************
+22/08/2020 10:36:37,ross,Generar Paciente,Paciente=CEPEDA ALBA EPIFANIA
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2553
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=AROCA BOBADILLA FANI LEYDY
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2554
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=BARCO CAICEDO JESSICA ROXANA
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2555
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=MORA FLORES TEMISTOCLE EDUARDO
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2556
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=SALTOS VINCES ANGELA FLORICELDA
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2557
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=MORAN MARMOLEJO JOSUE ORONCIO
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2558
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=RENDON CALBERTO MARINA LEONOR
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2559
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=JARA SALAZAR LUIS ENRIQUE
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2560
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=RODRIGUEZ ZAMBRANO ALEXANDRA JOHANNA
+*************
+22/08/2020 10:36:38,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2561
+*************
+22/08/2020 10:36:38,ross,Generar Paciente,Paciente=RODRIGUEZ LOOR FELIX ALBERTO
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2562
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=GAIBOR GAIBOR LUIS EDUARDO
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2563
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=ESCUDERO MONAR EDITH GUADALUPE
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2564
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=ARGUELLO AGUILAR ESTUARDO WILLIAM
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2565
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=AVILEZ ACOSTA JUANA ELENA
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2566
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES JULY ANNABELL
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2567
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=LOOR MONTOYA VICTOR JULIAN
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2568
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=GUAMAN DUCHI NARCISO
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2569
+*************
+22/08/2020 10:36:39,ross,Generar Paciente,Paciente=GARCIA LUCAS CRISTOBAL NICANOR
+*************
+22/08/2020 10:36:39,ross,Nuevo Pedido IMPORTACION,FLEUROSA/2570
+*************
+22/08/2020 10:43:07,ross,IMPRIMIR CONTRAORDEN,
+*************
+22/08/2020 10:43:51,ross,IMPRIMIR LISTA TRABAJO,
+*************
+22/08/2020 10:44:10,ross,IMPRIMIR HOJA TRABAJO,
+*************
+22/08/2020 10:44:33,ross,IMPRIMIR CONTRAORDEN,
+*************
+22/08/2020 10:44:56,ross,IMPRIMIR HOJA TRABAJO,
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,Sep03=- SERIE BLANCA -
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,WBC=4
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,NEU=4
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,LYM=4
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,MONO=4
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,EOS=4
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,BASO=4
+*************
+22/08/2020 10:48:06,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,LYM%25=4
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,MONO%25=4
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,SEP01=- SERIE ROJA -
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,RBC=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,HGB=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,HCT=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,MCV=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,MCH=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,MCHC=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,RDW-SD=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,RDW-CV=5
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,SEP02=- PLAQUETAS -
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,PLT=6
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,MPV=6
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,PDW=6
+*************
+22/08/2020 10:48:07,ross,GUARDA RESULTADOS,PCT=6
+*************
+22/08/2020 10:48:08,ross,GUARDA RESULTADOS,PLCC=6
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,Sep03=- SERIE BLANCA -
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,WBC=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,NEU=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,LYM=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,MONO=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,EOS=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,BASO=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,LYM%25=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,MONO%25=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+22/08/2020 10:48:29,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,SEP01=- SERIE ROJA -
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,RBC=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,HGB=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,HCT=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,MCV=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,MCH=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,MCHC=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,RDW-SD=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,RDW-CV=5
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,SEP02=- PLAQUETAS -
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,PLT=6
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,MPV=6
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,PDW=6
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,PCT=6
+*************
+22/08/2020 10:48:30,ross,GUARDA RESULTADOS,PLCC=6
+*************
+22/08/2020 10:49:21,ross,GUARDA RESULTADOS,ANTIGMRAPH=POSITIVO
+*************
+22/08/2020 10:49:21,ross,GUARDA RESULTADOS,ANTIGGRAPIDAH=NEGATIVO
+*************
+22/08/2020 10:49:21,ross,GUARDA RESULTADOS,ANTIGG_INTH=- OBSERVACION -
+*************
+22/08/2020 10:51:26,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/SUERO LIPEMICO
+*************
+22/08/2020 10:56:16,ross,VALIDACION RESULTADO,PEDIDO=2508/400101
+*************
+22/08/2020 10:56:17,ross,VALIDACION RESULTADO,PEDIDO=2508/400114
+*************
+22/08/2020 10:56:18,ross,VALIDACION RESULTADO,PEDIDO=2508/400149
+*************
+22/08/2020 10:56:18,ross,VALIDACION RESULTADO,PEDIDO=2508/400150
+*************
+22/08/2020 10:56:18,ross,VALIDACION RESULTADO,PEDIDO=2508/400151
+*************
+22/08/2020 10:56:18,ross,VALIDACION RESULTADO,PEDIDO=2508/400476
+*************
+22/08/2020 10:56:18,ross,VALIDACION RESULTADO,PEDIDO=2508/401088
+*************
+22/08/2020 11:00:48,ross,IMPRIME POR AREA,PEDIDO=2508
+*************
+22/08/2020 11:02:22,ross,IMPRIME TODO,PEDIDO=2508
+*************
+22/08/2020 11:02:55,ross,IMPRIME POR EMAMEN,PEDIDO=2508
+*************
+22/08/2020 11:03:09,ross,IMPRIME POR EMAMEN,PEDIDO=2508
+*************
+22/08/2020 11:03:24,ross,IMPRIME POR EMAMEN,PEDIDO=2508
+*************
+22/08/2020 11:04:07,ross,IMPRIME SOBRE,PEDIDO=2508
+*************
+22/08/2020 11:09:16,ross,ENVIO CORREO PACIENTE,PEDIDO=2508
+*************
+22/08/2020 11:21:35,ross,Actualiza Test,Test=Elemental y Microscpico de Orina
+*************
+22/08/2020 11:24:10,ross,Modifica USR,USR=1
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:25:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 11:25:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:14,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+22/08/2020 11:26:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 11:26:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:17:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:17:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:18:07,ross,01 GENERAR ORDEN,PEDIDO=434
+*************
+22/08/2020 12:18:47,ross,Actualiza FACTURA,FACTURA=216
+*************
+22/08/2020 12:18:47,ross,Ingresa FACTURA,FACTURA=216
+*************
+22/08/2020 12:18:48,ross,Insertar abono,Factura=216 Abono= 63.5
+*************
+22/08/2020 12:18:48,ross,Cancela FACTURA,FACTURA=216
+*************
+22/08/2020 12:18:49,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 12:19:21,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 12:29:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:29:47,,Ingreso CONTRASE�A FALLIDO,
+*************
+22/08/2020 12:29:47,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:29:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:29:53,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 12:32:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:32:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:44:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:44:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:44:16,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 12:53:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:53:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:53:53,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 12:56:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:56:55,,Ingreso CONTRASE�A FALLIDO,
+*************
+22/08/2020 12:56:55,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:56:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:57:01,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 12:58:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 12:58:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 12:58:43,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 13:00:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 13:00:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 13:00:37,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 16:25:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 16:25:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 16:25:53,ross,Registra Tx Factura,Factura=216
+*************
+22/08/2020 17:32:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 17:32:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 17:32:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=434
+*************
+22/08/2020 17:38:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 17:38:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 17:38:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=434
+*************
+22/08/2020 19:16:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 19:16:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 19:18:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 19:18:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 19:18:28,ross,Inserta usuario web,Paciente=434 001
+*************
+22/08/2020 19:18:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=434
+*************
+22/08/2020 19:19:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 19:19:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 19:25:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/08/2020 19:25:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/08/2020 19:25:28,ross,Inserta usuario web,Paciente=434 RFLORES
+*************
+23/08/2020 11:23:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2020 11:23:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/08/2020 11:24:17,ross,IMPRIME TODO,PEDIDO=17
+*************
+23/08/2020 16:22:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2020 16:22:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/08/2020 16:37:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2020 16:37:32,,Ingreso CONTRASE�A FALLIDO,
+*************
+23/08/2020 16:37:32,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/08/2020 16:37:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 07:50:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 07:50:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 07:51:33,ross,01 GENERAR ORDEN,PEDIDO=435
+*************
+24/08/2020 07:51:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=435
+*************
+24/08/2020 07:51:48,ross,01 GENERAR ORDEN,PEDIDO=436
+*************
+24/08/2020 07:51:48,ross,02 IMPRIMIR COD BARRAS,PEDIDO=436
+*************
+24/08/2020 07:52:10,ross,01 GENERAR ORDEN,PEDIDO=437
+*************
+24/08/2020 07:52:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=437
+*************
+24/08/2020 09:50:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 09:50:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 09:51:39,ross,Inserta usuario web,Paciente=436 RFLORES
+*************
+24/08/2020 11:36:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 11:37:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 11:37:43,ross,Inserta usuario web,Paciente=392 JVALLEJO
+*************
+24/08/2020 11:41:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=386
+*************
+24/08/2020 12:59:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 12:59:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 13:32:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 13:32:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 15:15:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 15:15:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 15:52:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 15:52:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 16:08:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 16:08:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 16:12:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 16:12:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 16:12:57,ross,Inserta usuario web,Paciente=386 FCARDENAS
+*************
+24/08/2020 16:14:48,ross,02 IMPRIMIR COD BARRAS,PEDIDO=386
+*************
+24/08/2020 16:16:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=386
+*************
+24/08/2020 17:12:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 17:12:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 17:13:03,ross,Inserta usuario web,Paciente=389 NHERRERA
+*************
+24/08/2020 17:18:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/08/2020 17:18:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/08/2020 17:19:28,ross,Inserta usuario web,Paciente=390 SALARCON
+*************
+24/08/2020 17:21:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=390
+*************
+25/08/2020 08:41:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2020 09:19:29,,Ingreso CONTRASE�A FALLIDO,
+*************
+25/08/2020 09:19:29,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 09:19:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 09:29:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2020 09:29:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 10:00:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2020 10:00:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 10:07:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2020 10:07:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 10:08:40,ross,Inserta usuario web,Paciente=384 RMARTINEZ
+*************
+25/08/2020 14:04:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2020 14:04:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 14:19:09,ross,Inserta usuario web,Paciente=9210 RMARTINEZ
+*************
+25/08/2020 14:43:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2020 14:43:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/08/2020 14:45:37,ross,Inserta usuario web,Paciente=9058 MHERNANDEZ
+*************
+25/08/2020 14:46:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=51
+*************
+25/08/2020 14:47:48,ross,Inserta usuario web,Paciente=9058 MHERNANDEZ
+*************
+26/08/2020 13:38:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 13:38:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 13:39:11,ross,01 GENERAR ORDEN,PEDIDO=393
+*************
+26/08/2020 13:39:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=393
+*************
+26/08/2020 13:39:21,ross,Actualiza FACTURA,FACTURA=5185
+*************
+26/08/2020 13:39:21,ross,Ingresa FACTURA,FACTURA=5185
+*************
+26/08/2020 13:39:22,ross,Insertar abono,Factura=5185 Abono= 57
+*************
+26/08/2020 13:39:22,ross,Cancela FACTURA,FACTURA=5185
+*************
+26/08/2020 13:39:23,ross,Registra Tx Factura,Factura=5185
+*************
+26/08/2020 13:39:49,ross,Registra Tx Factura,Factura=5185
+*************
+26/08/2020 13:44:41,ross,01 GENERAR ORDEN,PEDIDO=394
+*************
+26/08/2020 13:44:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=394
+*************
+26/08/2020 13:45:13,ross,Actualiza FACTURA,FACTURA=5186
+*************
+26/08/2020 13:45:13,ross,Ingresa FACTURA,FACTURA=5186
+*************
+26/08/2020 13:45:14,ross,Insertar abono,Factura=5186 Abono= 41.5
+*************
+26/08/2020 13:45:14,ross,Cancela FACTURA,FACTURA=5186
+*************
+26/08/2020 13:45:16,ross,Registra Tx Factura,Factura=5186
+*************
+26/08/2020 14:43:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 14:43:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 14:43:21,ross,Registra Tx Factura,Factura=5186
+*************
+26/08/2020 14:48:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 14:48:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 14:48:23,ross,Registra Tx Factura,Factura=5186
+*************
+26/08/2020 16:11:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 16:11:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 21:49:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 21:49:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 21:49:33,ross,01 GENERAR ORDEN,PEDIDO=438
+*************
+26/08/2020 21:49:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=438
+*************
+26/08/2020 21:49:52,ross,VALIDACION RESULTADO,PEDIDO=438/400149
+*************
+26/08/2020 21:49:52,ross,VALIDACION RESULTADO,PEDIDO=438/400150
+*************
+26/08/2020 21:49:52,ross,VALIDACION RESULTADO,PEDIDO=438/400151
+*************
+26/08/2020 21:49:52,ross,VALIDACION RESULTADO,PEDIDO=438/400476
+*************
+26/08/2020 21:52:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 21:52:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 21:59:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 21:59:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 22:06:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 22:06:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 22:19:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 22:19:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/08/2020 22:31:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2020 22:31:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/08/2020 12:46:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2020 12:46:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/08/2020 14:38:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2020 14:38:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/08/2020 14:39:07,ross,01 GENERAR ORDEN,PEDIDO=439
+*************
+27/08/2020 14:39:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=439
+*************
+27/08/2020 14:39:28,ross,Actualiza FACTURA,FACTURA=217
+*************
+27/08/2020 14:39:28,ross,Ingresa FACTURA,FACTURA=217
+*************
+27/08/2020 14:39:33,ross,Insertar abono,Factura=217 Abono= 50.5
+*************
+27/08/2020 14:39:33,ross,Cancela FACTURA,FACTURA=217
+*************
+27/08/2020 14:43:27,ross,Registra Tx Factura,Factura=217
+*************
+27/08/2020 14:43:34,ross,Registra Tx Factura,Factura=217
+*************
+27/08/2020 14:43:37,ross,Registra Tx Factura,Factura=217
+*************
+27/08/2020 14:43:40,ross,Registra Tx Factura,Factura=217
+*************
+27/08/2020 14:43:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=439
+*************
+27/08/2020 14:43:47,ross,Inserta usuario web,Paciente=336 MMORALES
+*************
+27/08/2020 14:43:51,ross,Inserta usuario web,Paciente=336 MMORALES
+*************
+27/08/2020 14:59:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2020 14:59:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/08/2020 15:21:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2020 15:22:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/08/2020 15:27:15,ross,Generar Paciente,Paciente=SALAZAR HIDALGO CHRISTIAN MARCELO
+*************
+27/08/2020 15:32:39,ross,01 GENERAR ORDEN,PEDIDO=440
+*************
+27/08/2020 15:32:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=440
+*************
+27/08/2020 15:34:29,ross,1 MODIFICA ORDEN,PEDIDO=440
+*************
+27/08/2020 15:35:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=440
+*************
+27/08/2020 15:35:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=440
+*************
+27/08/2020 15:35:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=440
+*************
+27/08/2020 15:35:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=440
+*************
+27/08/2020 15:39:59,ross,Actualiza FACTURA,FACTURA=218
+*************
+27/08/2020 15:39:59,ross,Ingresa FACTURA,FACTURA=218
+*************
+27/08/2020 15:39:59,ross,Insertar abono,Factura=218 Abono= 50
+*************
+27/08/2020 15:39:59,ross,Actualiza FACTURA,FACTURA=218/50
+*************
+27/08/2020 15:40:04,ross,Registra Tx Factura,Factura=218
+*************
+27/08/2020 15:40:37,ross,Registra Tx Factura,Factura=218
+*************
+27/08/2020 15:41:37,ross,Insertar abono,Factura=218 Abono= 29
+*************
+27/08/2020 15:41:37,ross,Cancela FACTURA,FACTURA=218
+*************
+27/08/2020 15:41:43,ross,Registra Tx Factura,Factura=218
+*************
+27/08/2020 15:43:07,ross,03 IMPRIMIR PEDIDO,PEDIDO=440
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/441
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/442
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/443
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/444
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/445
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/446
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/447
+*************
+27/08/2020 15:45:00,ross,Nuevo Pedido IMPORTACION,LABORATORIO/448
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/449
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/450
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/451
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/452
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/453
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/454
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/455
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/456
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/457
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/458
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/459
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/460
+*************
+27/08/2020 15:45:01,ross,Nuevo Pedido IMPORTACION,LABORATORIO/461
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/462
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/463
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/464
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/465
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/466
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/467
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/468
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/469
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/470
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/471
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/472
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/473
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/474
+*************
+27/08/2020 15:45:02,ross,Nuevo Pedido IMPORTACION,LABORATORIO/475
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/476
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/477
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/478
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/479
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/480
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/481
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/482
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/483
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/484
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/485
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/486
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/487
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/488
+*************
+27/08/2020 15:45:03,ross,Nuevo Pedido IMPORTACION,LABORATORIO/489
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/490
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/491
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/492
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/493
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/494
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/495
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/496
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/497
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/498
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/499
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/500
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/501
+*************
+27/08/2020 15:45:04,ross,Nuevo Pedido IMPORTACION,LABORATORIO/502
+*************
+27/08/2020 15:49:01,ross,IMPRIMIR CONTRAORDEN,
+*************
+27/08/2020 15:49:32,ross,IMPRIMIR LISTA TRABAJO,
+*************
+27/08/2020 15:50:21,ross,IMPRIMIR HOJA TRABAJO,
+*************
+27/08/2020 15:55:18,ross,GUARDA RESULTADOS,WBCH=2
+*************
+27/08/2020 15:55:18,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+27/08/2020 15:55:18,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+27/08/2020 15:55:18,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,LYMH=2
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,MONH=2
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,NEUH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,EOSH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,BASOH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,RBCH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,HGBH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,HCTH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,MCVH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,MCHH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,PLTH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,MPVH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,PDWH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,PCTH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,P_LCRH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,P_LCCH=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,NRBC%25H=3
+*************
+27/08/2020 15:55:19,ross,GUARDA RESULTADOS,NRBCH=3
+*************
+27/08/2020 15:56:00,ross,GUARDA RESULTADOS,IGG_CUANH=0.002
+*************
+27/08/2020 15:56:00,ross,GUARDA RESULTADOS,IGM_CUANH=0.90
+*************
+27/08/2020 15:56:00,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,DENO=1.020
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,PHO=5
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+27/08/2020 15:56:49,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,UROOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,HGBOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CELEPH=++
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,HEMOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,BACOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,MOCOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,URO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,FOO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,OXAO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CRIO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CILO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CIGO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CILCE=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,ESP=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,ASCOH=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,OTROSO=
+*************
+27/08/2020 15:56:50,ross,GUARDA RESULTADOS,CCETO=
+*************
+27/08/2020 15:58:49,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALORES CONFIRMADOS
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/400101
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/400114
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/400149
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/400150
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/400151
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/400230
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/401104
+*************
+27/08/2020 15:59:27,ross,VALIDACION RESULTADO,PEDIDO=440/401105
+*************
+27/08/2020 16:01:06,ross,IMPRIME POR AREA,PEDIDO=440
+*************
+27/08/2020 16:02:23,ross,IMPRIME TODO,PEDIDO=440
+*************
+27/08/2020 16:02:59,ross,IMPRIME POR EMAMEN,PEDIDO=440
+*************
+27/08/2020 16:03:16,ross,IMPRIME POR EMAMEN,PEDIDO=440
+*************
+27/08/2020 16:03:43,ross,IMPRIME SOBRE,PEDIDO=440
+*************
+27/08/2020 16:09:10,ross,ENVIO CORREO PACIENTE,PEDIDO=440
+*************
+28/08/2020 14:06:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 14:06:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 14:17:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 14:17:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 14:32:18,ross,01 GENERAR ORDEN,PEDIDO=925
+*************
+28/08/2020 14:32:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=925
+*************
+28/08/2020 14:33:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=925
+*************
+28/08/2020 14:40:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 14:52:57,,Ingreso CONTRASE�A FALLIDO,
+*************
+28/08/2020 14:52:57,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 14:53:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 14:53:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=925
+*************
+28/08/2020 14:54:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 14:54:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 15:08:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 15:08:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 15:48:21,ross,1 ANULA ORDEN,PEDIDO=253 MOTIVO: no
+*************
+28/08/2020 15:53:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 15:53:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 15:57:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 15:57:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 15:59:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 15:59:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 16:02:15,ross,01 GENERAR ORDEN,PEDIDO=926
+*************
+28/08/2020 16:02:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=926
+*************
+28/08/2020 16:02:32,ross,1 ANULA ORDEN,PEDIDO=925 MOTIVO: post
+*************
+28/08/2020 16:03:06,ross,Actualiza Paciente,Paciente=PRUEBA PRUEBA PACIENTE PACIENTE
+*************
+28/08/2020 16:03:41,ross,01 GENERAR ORDEN,PEDIDO=927
+*************
+28/08/2020 16:03:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=927
+*************
+28/08/2020 16:04:05,ross,VALIDACION RESULTADO,PEDIDO=926/400149
+*************
+28/08/2020 16:04:05,ross,VALIDACION RESULTADO,PEDIDO=926/400150
+*************
+28/08/2020 16:04:05,ross,VALIDACION RESULTADO,PEDIDO=926/400151
+*************
+28/08/2020 16:04:05,ross,VALIDACION RESULTADO,PEDIDO=926/400476
+*************
+28/08/2020 16:04:13,ross,VALIDACION RESULTADO,PEDIDO=927/400185
+*************
+28/08/2020 16:04:13,ross,VALIDACION RESULTADO,PEDIDO=927/400186
+*************
+28/08/2020 16:04:13,ross,VALIDACION RESULTADO,PEDIDO=927/401104
+*************
+28/08/2020 16:17:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 16:17:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 16:18:14,ross,1 MODIFICA ORDEN,PEDIDO=927
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,WBCH=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,LYMH=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,MONH=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,NEUH=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,EOSH=3
+*************
+28/08/2020 16:18:41,ross,GUARDA RESULTADOS,BASOH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,RBCH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,HGBH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,HCTH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,MCVH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,MCHH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,PLTH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,MPVH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,PDWH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,PCTH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,P_LCRH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,P_LCCH=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,NRBC%25H=3
+*************
+28/08/2020 16:18:42,ross,GUARDA RESULTADOS,NRBCH=3
+*************
+28/08/2020 16:18:55,ross,VALIDACION RESULTADO,PEDIDO=927/400101
+*************
+28/08/2020 16:25:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 16:25:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/08/2020 16:45:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 16:55:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/08/2020 16:55:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 10:00:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 10:00:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 10:05:59,ross,Generar Paciente,Paciente=MATHEU VASCO DANIELA PAULINA
+*************
+29/08/2020 10:10:05,ross,01 GENERAR ORDEN,PEDIDO=928
+*************
+29/08/2020 10:10:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=928
+*************
+29/08/2020 10:12:06,ross,Actualiza FACTURA,FACTURA=5185
+*************
+29/08/2020 10:12:07,ross,Ingresa FACTURA,FACTURA=5185
+*************
+29/08/2020 10:12:07,ross,Insertar abono,Factura=5185 Abono= 35
+*************
+29/08/2020 10:12:07,ross,Actualiza FACTURA,FACTURA=5185/35
+*************
+29/08/2020 10:12:10,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:12:53,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:13:45,ross,Insertar abono,Factura=5185 Abono= 35
+*************
+29/08/2020 10:13:46,ross,Cancela FACTURA,FACTURA=5185
+*************
+29/08/2020 10:13:49,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:13:55,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:14:10,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:14:22,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:14:34,ross,Registra Tx Factura,Factura=5185
+*************
+29/08/2020 10:18:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=928
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/929
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=GAVILANEZ TOMALA JEFFERSON JOSUE
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/930
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=YEPEZ AYALA BELEN MAXIMA
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/931
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=BRIONES NARANJO FLORA INES
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/932
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=RAMIREZ VERA ISABEL ROSALVA
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/933
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=JIMENEZ VILLAFUERTE ANGEL EFREN
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/934
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=VARGAS VALENCIA HUMBERTO MOISES
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/935
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=SANCHEZ MONTERO VILMA DE LA CRUZ
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/936
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=REINOSO PLUA HERMES BENEDICTO
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/937
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=ZAMBRANO RIQUERO ITALO MELITON
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/938
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=CASTRO ARRIAGA NATIVIDAD VERONICA
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/939
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=VERA LUCIO CRUZ FREDDY
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/940
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=MUÑOZ RIOS BERTHA PRIMITIVA
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/941
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=ORELLANA ORTIZ JORGE FELIPE
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/942
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=VALENZUELA SALTOS WALTER EDGAR
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/943
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=MUÑOZ CABRERA RUFINO JACINTO
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/944
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=GUEVARA POZO YULI JANETH
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/945
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=AYALA MORETA BERTHA NARCISA
+*************
+29/08/2020 10:24:32,ross,Nuevo Pedido IMPORTACION,BLENASTOR/946
+*************
+29/08/2020 10:24:32,ross,Generar Paciente,Paciente=CERVANTES GALARZA VICTOR VICENTE
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/947
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=QUINTONG HERRERA VIVIANA AUXILIADORA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/948
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=LIRIO GANCHOZO RAMON LEONIDAS
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/949
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=FERNANDEZ RODRIGUEZ JAIME RAUL
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/950
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=SAAVEDRA AVILES MARCOS ANTONIO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/951
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=LEON BAJAÑA FARID DONALDO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/952
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES WILSON FERDINAND
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/953
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=HERNANDEZ VILLAGRAN ANATOLIO ABELARDO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/954
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=ZAMORA COELLO AUREA LUCIA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/955
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=SAAVEDRA AVILES FABRICIO XAVIER
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/956
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=OCAMPO CHAVEZ NELLY STEFANIA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/957
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=FRANCO ESLAO JULIA ALEXANDRA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/958
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=DOMINGUEZ DOMINGUEZ ERIOPAJITA JUSTINA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/959
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=FLORES VERGARA FELIX ANTONIO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/960
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=CABEZAS SELLAN RUFINA ARACELY
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/961
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=SANCHEZ GUERRA MARIANO AGUSTIN
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/962
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=HERNANDEZ DOMINGUEZ TERESA MARCELIA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/963
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=MONCAYO ROBALINO VICTOR ANTONIO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/964
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=MORANTE ROCAFUERTE ALIPIO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/965
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=PARRAGA TOMALA ANGELA MARISOL
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/966
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=YEPEZ YEPEZ DORA ANGELICA
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/967
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=RODRIGUEZ MUÑOZ JUAN ARCADIO
+*************
+29/08/2020 10:24:33,ross,Nuevo Pedido IMPORTACION,BLENASTOR/968
+*************
+29/08/2020 10:24:33,ross,Generar Paciente,Paciente=ZAMBRANO OLVERA HERMES AGUSTIN
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/969
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=MAYORGA OBANDO DONATO EPIFANIO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/970
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=CARBO SHIGUANGO ISRAEL ALFONSO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/971
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=ASPIAZU MERA WILMER ISMAEL
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/972
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=CEPEDA ALBA EPIFANIA
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/973
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=AROCA BOBADILLA FANI LEYDY
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/974
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=BARCO CAICEDO JESSICA ROXANA
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/975
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=MORA FLORES TEMISTOCLE EDUARDO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/976
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=SALTOS VINCES ANGELA FLORICELDA
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/977
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=MORAN MARMOLEJO JOSUE ORONCIO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/978
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=RENDON CALBERTO MARINA LEONOR
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/979
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=JARA SALAZAR LUIS ENRIQUE
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/980
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=RODRIGUEZ ZAMBRANO ALEXANDRA JOHANNA
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/981
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=RODRIGUEZ LOOR FELIX ALBERTO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/982
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=GAIBOR GAIBOR LUIS EDUARDO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/983
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=ESCUDERO MONAR EDITH GUADALUPE
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/984
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=ARGUELLO AGUILAR ESTUARDO WILLIAM
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/985
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=AVILEZ ACOSTA JUANA ELENA
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/986
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=RAMIREZ BENAVIDES JULY ANNABELL
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/987
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=LOOR MONTOYA VICTOR JULIAN
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/988
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=GUAMAN DUCHI NARCISO
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/989
+*************
+29/08/2020 10:24:34,ross,Generar Paciente,Paciente=GARCIA LUCAS CRISTOBAL NICANOR
+*************
+29/08/2020 10:24:34,ross,Nuevo Pedido IMPORTACION,BLENASTOR/990
+*************
+29/08/2020 10:30:45,ross,IMPRIMIR CONTRAORDEN,
+*************
+29/08/2020 10:31:08,ross,IMPRIMIR LISTA TRABAJO,
+*************
+29/08/2020 10:31:27,ross,IMPRIMIR HOJA TRABAJO,
+*************
+29/08/2020 10:32:09,ross,IMPRIMIR HOJA TRABAJO,
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,WBC=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,MON%25=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,LYM=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,MON=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,NEU=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,EOS=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,BASO=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,RBC=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,HGB=3
+*************
+29/08/2020 10:39:44,ross,GUARDA RESULTADOS,HCT=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,MCV=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,MCH=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,MCHC=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,PLT=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,MPV=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,PDW=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,PCT=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,P_LCR=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,P_LCC=33
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,NRBC%25=3
+*************
+29/08/2020 10:39:45,ross,GUARDA RESULTADOS,NRBC=3
+*************
+29/08/2020 10:41:22,ross,GUARDA RESULTADOS,IGG_CUANH=0.001
+*************
+29/08/2020 10:41:22,ross,GUARDA RESULTADOS,IGM_CUANH=0.98
+*************
+29/08/2020 10:41:22,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/400101
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/400114
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/400149
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/400150
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/400151
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/400476
+*************
+29/08/2020 10:43:40,ross,VALIDACION RESULTADO,PEDIDO=928/401105
+*************
+29/08/2020 10:44:28,ross,IMPRIME POR AREA,PEDIDO=928
+*************
+29/08/2020 10:45:48,ross,IMPRIME TODO,PEDIDO=928
+*************
+29/08/2020 10:46:24,ross,IMPRIME POR EMAMEN,PEDIDO=928
+*************
+29/08/2020 10:46:42,ross,IMPRIME POR EMAMEN,PEDIDO=928
+*************
+29/08/2020 10:46:55,ross,IMPRIME SOBRE,PEDIDO=928
+*************
+29/08/2020 10:58:35,ross,ENVIO CORREO PACIENTE,PEDIDO=928
+*************
+29/08/2020 12:50:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 12:50:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 12:53:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 12:53:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 12:58:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 12:58:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 13:04:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 13:04:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 13:10:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 13:10:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 18:59:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 18:59:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 19:02:20,ross,Actualiza Test,Test=IGG ANTICUERPO
+*************
+29/08/2020 19:03:49,ross,Actualiza Test,Test=IGM ANTICUERPO
+*************
+29/08/2020 19:04:53,ross,Actualiza Test,Test=INTERPRETACION
+*************
+29/08/2020 19:05:51,ross,Actualizar Rango Multiple,Test= 1245 Rango=
+*************
+29/08/2020 19:06:22,ross,Actualizar Rango Multiple,Test= 1244 Rango=
+*************
+29/08/2020 19:07:57,ross,Actualiza Test,Test=INTERPRETACION
+*************
+29/08/2020 20:34:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 20:34:49,,Ingreso CONTRASE�A FALLIDO,
+*************
+29/08/2020 20:34:49,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 20:34:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 20:35:05,ross,1 MODIFICA ORDEN,PEDIDO=928
+*************
+29/08/2020 20:35:32,ross,GUARDA RESULTADOS,IGG_CUANH=0.001
+*************
+29/08/2020 20:35:32,ross,GUARDA RESULTADOS,IGM_CUANH=0.07
+*************
+29/08/2020 20:35:32,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+29/08/2020 20:35:42,ross,VALIDACION RESULTADO,PEDIDO=928/401105
+*************
+29/08/2020 20:50:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 20:50:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 20:50:57,ross,1 MODIFICA ORDEN,PEDIDO=928
+*************
+29/08/2020 20:51:32,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+29/08/2020 20:51:32,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+29/08/2020 20:51:32,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+29/08/2020 20:51:32,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,PHO=5
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,UROOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,HGBOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CELEPH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,LEUC_EMO1H=+++
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,PIOO=25-30
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,HEMOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,BACOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,MOCOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,URO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,FOO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,OXAO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CRIO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CILO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CIGO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CILCE=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,ESP=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,ASCOH=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,OTROSO=
+*************
+29/08/2020 20:51:33,ross,GUARDA RESULTADOS,CCETO=
+*************
+29/08/2020 20:51:50,ross,VALIDACION RESULTADO,PEDIDO=928/400172
+*************
+29/08/2020 20:51:50,ross,VALIDACION RESULTADO,PEDIDO=928/400230
+*************
+29/08/2020 20:53:37,ross,Actualiza Test,Test=FSH 
+*************
+29/08/2020 20:53:44,ross,IMPRIME POR AREA,PEDIDO=928
+*************
+29/08/2020 20:55:13,ross,1 MODIFICA ORDEN,PEDIDO=928
+*************
+29/08/2020 20:55:32,ross,VALIDACION RESULTADO,PEDIDO=928/400172
+*************
+29/08/2020 20:56:56,ross,01 GENERAR ORDEN,PEDIDO=991
+*************
+29/08/2020 20:56:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=991
+*************
+29/08/2020 20:58:18,ross,Actualizar Rango Multiple,Test= 400172 Rango=MUJERES:                     
+ FASE FOLICULAR:  3.0 - 10.0
+ FASE OVULATORIA: 5.0 - 20.0
+ FASE LUTEA:      1.0 - 10.0
+ POSTMENOPAUSIA:  Hasta 160.0
+---------------------------------
+
+*************
+29/08/2020 20:58:54,ross,Actualiza Test,Test=FSH 
+*************
+29/08/2020 20:59:13,ross,VALIDACION RESULTADO,PEDIDO=991/400172
+*************
+29/08/2020 20:59:20,ross,IMPRIME POR AREA,PEDIDO=991
+*************
+29/08/2020 21:09:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 21:09:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 21:10:30,ross,01 GENERAR ORDEN,PEDIDO=503
+*************
+29/08/2020 21:10:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=503
+*************
+29/08/2020 21:11:19,ross,VALIDACION RESULTADO,PEDIDO=503/400173
+*************
+29/08/2020 21:11:19,ross,VALIDACION RESULTADO,PEDIDO=503/400230
+*************
+29/08/2020 21:11:19,ross,VALIDACION RESULTADO,PEDIDO=503/400672
+*************
+29/08/2020 21:11:19,ross,VALIDACION RESULTADO,PEDIDO=503/400897
+*************
+29/08/2020 21:11:19,ross,VALIDACION RESULTADO,PEDIDO=503/401070
+*************
+29/08/2020 21:15:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 21:15:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 21:16:14,ross,Actualizar Rango Multiple,Test= 400173 Rango=Hasta: 35.0
+
+*************
+29/08/2020 21:16:37,ross,1 MODIFICA ORDEN,PEDIDO=503
+*************
+29/08/2020 21:16:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=503
+*************
+29/08/2020 21:17:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 21:17:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 21:17:47,ross,VALIDACION RESULTADO,PEDIDO=503/400173
+*************
+29/08/2020 21:21:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 21:21:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/08/2020 21:23:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2020 21:23:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 17:18:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 17:18:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 17:19:36,ross,01 GENERAR ORDEN,PEDIDO=504
+*************
+30/08/2020 17:19:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=504
+*************
+30/08/2020 17:47:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 17:47:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 17:49:11,ross,Inserta usuario web,Paciente=8 RFLORES
+*************
+30/08/2020 18:00:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 18:00:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 18:00:30,ross,Inserta usuario web,Paciente=8 RFLORES
+*************
+30/08/2020 18:08:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 18:08:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 18:08:21,ross,Inserta usuario web,Paciente=8 RFLORES
+*************
+30/08/2020 19:03:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 19:03:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 19:03:37,ross,Inserta usuario web,Paciente=8 RFLORES
+*************
+30/08/2020 19:05:41,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+30/08/2020 19:05:56,ross,Inserta usuario web,Paciente=8 RFLORES
+*************
+30/08/2020 19:08:49,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+30/08/2020 19:11:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 19:11:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 19:12:02,ross,1 ANULA ORDEN,PEDIDO=504 MOTIVO: prueba
+*************
+30/08/2020 19:12:20,ross,01 GENERAR ORDEN,PEDIDO=505
+*************
+30/08/2020 19:12:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=505
+*************
+30/08/2020 19:44:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 19:44:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 19:53:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 19:53:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 19:53:29,ross,1 ANULA ORDEN,PEDIDO=503EMOºPROGESTERONAºIgEºESTRADIOL (E2)ºPROLACTINAº MOTIVO: refn
+*************
+30/08/2020 19:55:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 19:55:59,,Ingreso CONTRASE�A FALLIDO,
+*************
+30/08/2020 19:55:59,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 19:56:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 20:18:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 20:18:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 20:22:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2020 20:22:17,,Ingreso CONTRASE�A FALLIDO,
+*************
+30/08/2020 20:22:17,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/08/2020 20:22:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 11:32:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 11:32:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 11:32:49,ross,01 GENERAR ORDEN,PEDIDO=506
+*************
+31/08/2020 11:32:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=506
+*************
+31/08/2020 11:33:40,ross,IMPRIME POR AREA,PEDIDO=506
+*************
+31/08/2020 11:36:05,ross,1 MODIFICA ORDEN,PEDIDO=506
+*************
+31/08/2020 11:36:45,ross,IMPRIME POR AREA,PEDIDO=506
+*************
+31/08/2020 11:36:54,ross,IMPRIME TODO,PEDIDO=506
+*************
+31/08/2020 11:38:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 11:38:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 11:39:01,ross,01 GENERAR ORDEN,PEDIDO=507
+*************
+31/08/2020 11:39:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=507
+*************
+31/08/2020 11:42:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 11:42:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 11:42:51,ross,1 MODIFICA ORDEN,PEDIDO=507
+*************
+31/08/2020 11:46:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 11:46:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 11:46:45,ross,01 GENERAR ORDEN,PEDIDO=992
+*************
+31/08/2020 11:46:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=992
+*************
+31/08/2020 11:47:14,ross,IMPRIME POR AREA,PEDIDO=992
+*************
+31/08/2020 11:58:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 11:58:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 11:58:52,ross,01 GENERAR ORDEN,PEDIDO=993
+*************
+31/08/2020 11:58:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=993
+*************
+31/08/2020 12:02:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 12:02:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 12:02:48,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+31/08/2020 12:03:18,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+31/08/2020 13:50:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 13:50:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 16:25:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/08/2020 16:25:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/08/2020 16:26:24,ross,01 GENERAR ORDEN,PEDIDO=1308
+*************
+31/08/2020 16:26:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1308
+*************

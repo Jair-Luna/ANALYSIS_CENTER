@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_conteoXedad" targetNamespace="http://tempuri.org/dts_conteoXedad.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_conteoXedad.xsd" xmlns:mstns="http://tempuri.org/dts_conteoXedad.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_conteoXedad" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="XEDAD">
+					<xs:complexType>
+						<xs:sequence />
+						<xs:attribute name="fechai" type="xs:date" />
+						<xs:attribute name="fechaf" type="xs:date" />
+						<xs:attribute name="area" type="xs:string" />
+						<xs:attribute name="tes_nombre" type="xs:string" />
+						<xs:attribute name="conteo" type="xs:integer" />
+						<xs:attribute name="rangosn" type="xs:string" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

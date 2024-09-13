@@ -1,0 +1,2 @@
+delete usuario_web 
+where CONVERT(varchar(10),usu_fecVence, 102)<CONVERT(varchar(10),GETDATE(), 102)

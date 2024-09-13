@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_pedido" targetNamespace="http://tempuri.org/dts_pedido.xsd" xmlns:mstns="http://tempuri.org/dts_pedido.xsd" xmlns="http://tempuri.org/dts_pedido.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_pedido" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_UserDSName="dts_pedido" msprop:Generator_DataSetName="dts_pedido">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PEDIDO" msprop:Generator_UserTableName="PEDIDO" msprop:Generator_RowDeletedName="PEDIDORowDeleted" msprop:Generator_RowChangedName="PEDIDORowChanged" msprop:Generator_RowClassName="PEDIDORow" msprop:Generator_RowChangingName="PEDIDORowChanging" msprop:Generator_RowEvArgName="PEDIDORowChangeEvent" msprop:Generator_RowEvHandlerName="PEDIDORowChangeEventHandler" msprop:Generator_TableClassName="PEDIDODataTable" msprop:Generator_TableVarName="tablePEDIDO" msprop:Generator_RowDeletingName="PEDIDORowDeleting" msprop:Generator_TablePropName="PEDIDO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PED_ID" msprop:Generator_UserColumnName="PED_ID" msprop:Generator_ColumnVarNameInTable="columnPED_ID" msprop:Generator_ColumnPropNameInRow="PED_ID" msprop:Generator_ColumnPropNameInTable="PED_IDColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="PED_FECING" msprop:Generator_UserColumnName="PED_FECING" msprop:Generator_ColumnVarNameInTable="columnPED_FECING" msprop:Generator_ColumnPropNameInRow="PED_FECING" msprop:Generator_ColumnPropNameInTable="PED_FECINGColumn" type="xs:date" minOccurs="0" />
+              <xs:element name="PED_MEDICACION" msprop:Generator_UserColumnName="PED_MEDICACION" msprop:Generator_ColumnVarNameInTable="columnPED_MEDICACION" msprop:Generator_ColumnPropNameInRow="PED_MEDICACION" msprop:Generator_ColumnPropNameInTable="PED_MEDICACIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_ANTECEDENTE" msprop:Generator_UserColumnName="PED_ANTECEDENTE" msprop:Generator_ColumnVarNameInTable="columnPED_ANTECEDENTE" msprop:Generator_ColumnPropNameInRow="PED_ANTECEDENTE" msprop:Generator_ColumnPropNameInTable="PED_ANTECEDENTEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_TIPO" msprop:Generator_UserColumnName="PED_TIPO" msprop:Generator_ColumnVarNameInTable="columnPED_TIPO" msprop:Generator_ColumnPropNameInRow="PED_TIPO" msprop:Generator_ColumnPropNameInTable="PED_TIPOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_APELLIDO" msprop:Generator_UserColumnName="PAC_APELLIDO" msprop:Generator_ColumnVarNameInTable="columnPAC_APELLIDO" msprop:Generator_ColumnPropNameInRow="PAC_APELLIDO" msprop:Generator_ColumnPropNameInTable="PAC_APELLIDOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_NOMBRE" msprop:Generator_UserColumnName="PAC_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnPAC_NOMBRE" msprop:Generator_ColumnPropNameInRow="PAC_NOMBRE" msprop:Generator_ColumnPropNameInTable="PAC_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_DOC" msprop:Generator_UserColumnName="PAC_DOC" msprop:Generator_ColumnVarNameInTable="columnPAC_DOC" msprop:Generator_ColumnPropNameInRow="PAC_DOC" msprop:Generator_ColumnPropNameInTable="PAC_DOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_DIRECCION" msprop:Generator_UserColumnName="PAC_DIRECCION" msprop:Generator_ColumnVarNameInTable="columnPAC_DIRECCION" msprop:Generator_ColumnPropNameInRow="PAC_DIRECCION" msprop:Generator_ColumnPropNameInTable="PAC_DIRECCIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_FONO" msprop:Generator_UserColumnName="PAC_FONO" msprop:Generator_ColumnVarNameInTable="columnPAC_FONO" msprop:Generator_ColumnPropNameInRow="PAC_FONO" msprop:Generator_ColumnPropNameInTable="PAC_FONOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MED_NOMBRE" msprop:Generator_UserColumnName="MED_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnMED_NOMBRE" msprop:Generator_ColumnPropNameInRow="MED_NOMBRE" msprop:Generator_ColumnPropNameInTable="MED_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CON_NOMBRE" msprop:Generator_UserColumnName="CON_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnCON_NOMBRE" msprop:Generator_ColumnPropNameInRow="CON_NOMBRE" msprop:Generator_ColumnPropNameInTable="CON_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LAB_NOMBRE" msprop:Generator_UserColumnName="LAB_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnLAB_NOMBRE" msprop:Generator_ColumnPropNameInRow="LAB_NOMBRE" msprop:Generator_ColumnPropNameInTable="LAB_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PEE_CANTIDAD" msprop:Generator_UserColumnName="PEE_CANTIDAD" msprop:Generator_ColumnVarNameInTable="columnPEE_CANTIDAD" msprop:Generator_ColumnPropNameInRow="PEE_CANTIDAD" msprop:Generator_ColumnPropNameInTable="PEE_CANTIDADColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="PRUEBA" msprop:Generator_UserColumnName="PRUEBA" msprop:Generator_ColumnVarNameInTable="columnPRUEBA" msprop:Generator_ColumnPropNameInRow="PRUEBA" msprop:Generator_ColumnPropNameInTable="PRUEBAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ped_turno" msprop:Generator_UserColumnName="ped_turno" msprop:Generator_ColumnVarNameInTable="columnped_turno" msprop:Generator_ColumnPropNameInRow="ped_turno" msprop:Generator_ColumnPropNameInTable="ped_turnoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LIP_PRECIO" msprop:Generator_UserColumnName="LIP_PRECIO" msprop:Generator_ColumnPropNameInRow="LIP_PRECIO" msprop:Generator_ColumnVarNameInTable="columnLIP_PRECIO" msprop:Generator_ColumnPropNameInTable="LIP_PRECIOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="edad" msprop:Generator_UserColumnName="edad" msprop:Generator_ColumnVarNameInTable="columnedad" msprop:Generator_ColumnPropNameInRow="edad" msprop:Generator_ColumnPropNameInTable="edadColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_NUMAUX" msprop:Generator_UserColumnName="PED_NUMAUX" msprop:Generator_ColumnPropNameInRow="PED_NUMAUX" msprop:Generator_ColumnVarNameInTable="columnPED_NUMAUX" msprop:Generator_ColumnPropNameInTable="PED_NUMAUXColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

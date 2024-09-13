@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_conteoXareas" targetNamespace="http://tempuri.org/dts_conteoXareas.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_conteoXareas.xsd" xmlns:mstns="http://tempuri.org/dts_conteoXareas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_conteoXareas" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="EST_AREA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="fechai" type="xs:date" minOccurs="0" />
+							<xs:element name="fechaf" type="xs:date" minOccurs="0" />
+							<xs:element name="conteo" type="xs:integer" minOccurs="0" />
+							<xs:element name="tes_id" type="xs:integer" minOccurs="0" />
+							<xs:element name="test" type="xs:string" minOccurs="0" />
+							<xs:element name="area" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

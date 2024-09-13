@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_paciente" targetNamespace="http://tempuri.org/dts_paciente.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_paciente.xsd" xmlns:mstns="http://tempuri.org/dts_paciente.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_paciente" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="PACIENTE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PAC_ID" type="xs:long" minOccurs="0" />
+							<xs:element name="CIU_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_DOC" type="xs:string" minOccurs="0" />
+							<xs:element name="DOCUMENTO" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_APELLIDO" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_FONO" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_MAIL" type="xs:string" minOccurs="0" />
+							<xs:element name="SEXO" type="xs:string" minOccurs="0" />
+							<xs:element name="PAC_FECNAC" type="xs:date" minOccurs="0" />
+							<xs:element name="PAC_OBS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="complexType1">
+		<xs:sequence>
+			<xs:element name="PAC_ID" type="xs:long" minOccurs="0" />
+			<xs:element name="PAC_DOC" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_APELLIDO" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_NOMBRE" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_DIRECCION" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_FONO" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_MAIL" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_SEXO" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_FECNAC" type="xs:date" minOccurs="0" />
+			<xs:element name="PAC_OBS" type="xs:string" minOccurs="0" />
+			<xs:element name="PAC_TIPODOC" type="xs:string" minOccurs="0" />
+			<xs:element name="CIU_NOMBRE" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

@@ -1,0 +1,2662 @@
+01/04/2022 17:55:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 17:55:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 17:55:22,ross,Registra Tx Factura,Factura=8
+*************
+01/04/2022 18:49:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 18:49:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 18:49:43,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=41
+*************
+01/04/2022 18:49:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=41
+*************
+01/04/2022 18:51:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 18:51:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 18:51:16,ross,Registra Tx Factura,Factura=8
+*************
+01/04/2022 18:53:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 18:53:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 18:53:29,ross,Registra Tx Factura,Factura=8
+*************
+01/04/2022 18:54:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 18:54:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 18:54:42,ross,Registra Tx Factura,Factura=8
+*************
+01/04/2022 19:15:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 19:15:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 19:15:26,ross,Registra Tx Factura,Factura=8
+*************
+01/04/2022 19:30:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2022 19:30:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/04/2022 19:30:14,ross,Registra Tx Factura,Factura=8
+*************
+04/04/2022 10:30:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 10:30:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 10:31:46,ross,IMPRIME POR AREA,PEDIDO=141
+*************
+04/04/2022 10:33:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 10:33:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 10:33:21,ross,IMPRIME POR AREA,PEDIDO=133
+*************
+04/04/2022 10:33:44,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 10:50:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 10:50:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 10:50:22,ross,IMPRIME TODO,PEDIDO=141
+*************
+04/04/2022 10:50:35,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 10:50:50,ross,IMPRIME TODO,PEDIDO=25
+*************
+04/04/2022 10:51:21,ross,1 MODIFICA ORDENNORMAL,PEDIDO=133
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,COLOH=AMARILLO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,PHO=5
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,ASCOH=
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+04/04/2022 10:51:57,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,HGBOH=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CELPOH=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CELEPH=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,PIOO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,HEMOH=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,MOCOH=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,LEVA_ORINA=+
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,URO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,FOO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,OXAO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CRIO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CILO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CIGO=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,CILCE=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,ESP=
+*************
+04/04/2022 10:51:58,ross,GUARDA RESULTADOS,OTROSO=
+*************
+04/04/2022 10:52:04,ross,VALIDACION RESULTADO,PEDIDO=133/400230
+*************
+04/04/2022 10:52:23,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 10:53:22,ross,1 MODIFICA ORDENNORMAL,PEDIDO=133
+*************
+04/04/2022 10:53:56,ross,VALIDACION RESULTADO,PEDIDO=133/401104
+*************
+04/04/2022 10:54:19,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 10:55:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 10:55:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 10:55:39,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 10:56:04,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 10:58:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 10:58:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 10:58:26,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 11:07:29,ross,Modifica USR,USR=1
+*************
+04/04/2022 11:15:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 11:15:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 11:15:51,ross,Modifica USR,USR=1
+*************
+04/04/2022 11:16:09,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 11:28:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 11:28:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 11:28:45,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 11:41:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 11:41:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 11:41:28,ross,IMPRIME TODO,PEDIDO=133
+*************
+04/04/2022 20:00:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 20:00:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 20:01:57,ross,Actualiza Test,Test=RX TORAX
+*************
+04/04/2022 20:02:17,ross,Nuevo Test en Lista de Precios,Test=401172 15  NORMAL
+*************
+04/04/2022 20:02:17,ross,Nuevo Test en Lista de Precios,Test=401172 15  URGENCIA
+*************
+04/04/2022 20:02:17,ross,Nuevo Test en Lista de Precios,Test=401172 15  OCUPACIONAL
+*************
+04/04/2022 20:02:17,ross,Nuevo Test en Lista de Precios,Test=401172 15  DRA. DIANA PORCENTAJE 25
+*************
+04/04/2022 20:02:17,ross,Nuevo Test en Lista de Precios,Test=401172 15  SEGUROS
+*************
+04/04/2022 20:02:17,ross,Nuevo Test en Lista de Precios,Test=401172 15  ZIRUX
+*************
+04/04/2022 20:02:17,ross,INGRESA TEST,TEST=RX COLUMNA
+*************
+04/04/2022 20:02:17,ross,Actualiza Test,Test=RX COLUMNA
+*************
+04/04/2022 20:03:15,ross,Nuevo Test en Lista de Precios,Test=401173 9  NORMAL
+*************
+04/04/2022 20:03:15,ross,Nuevo Test en Lista de Precios,Test=401173 9  URGENCIA
+*************
+04/04/2022 20:03:15,ross,Nuevo Test en Lista de Precios,Test=401173 9  OCUPACIONAL
+*************
+04/04/2022 20:03:15,ross,Nuevo Test en Lista de Precios,Test=401173 9  DRA. DIANA PORCENTAJE 25
+*************
+04/04/2022 20:03:15,ross,Nuevo Test en Lista de Precios,Test=401173 9  SEGUROS
+*************
+04/04/2022 20:03:15,ross,Nuevo Test en Lista de Precios,Test=401173 9  ZIRUX
+*************
+04/04/2022 20:03:15,ross,INGRESA TEST,TEST=RX PERIAPICAL
+*************
+04/04/2022 20:03:15,ross,Actualiza Test,Test=RX PERIAPICAL
+*************
+04/04/2022 20:03:35,ross,Nueva Area,Area=ODONTOLOGIA
+*************
+04/04/2022 20:04:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=247
+*************
+04/04/2022 20:04:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=247
+*************
+04/04/2022 20:05:19,ross,Actualiza Test,Test=RX PERIAPICAL
+*************
+04/04/2022 20:06:06,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 401173,,PEDIDO=247
+*************
+04/04/2022 20:08:06,ross,Nuevo Test en Lista de Precios,Test=401174 18  NORMAL
+*************
+04/04/2022 20:08:06,ross,Nuevo Test en Lista de Precios,Test=401174 18  URGENCIA
+*************
+04/04/2022 20:08:06,ross,Nuevo Test en Lista de Precios,Test=401174 18  OCUPACIONAL
+*************
+04/04/2022 20:08:06,ross,Nuevo Test en Lista de Precios,Test=401174 18  DRA. DIANA PORCENTAJE 25
+*************
+04/04/2022 20:08:06,ross,Nuevo Test en Lista de Precios,Test=401174 18  SEGUROS
+*************
+04/04/2022 20:08:06,ross,Nuevo Test en Lista de Precios,Test=401174 18  ZIRUX
+*************
+04/04/2022 20:08:06,ross,INGRESA TEST,TEST=ECO PROSTATICO
+*************
+04/04/2022 20:08:06,ross,Actualiza Test,Test=ECO PROSTATICO
+*************
+04/04/2022 20:08:28,ross,1 MODIFICA ORDENNORMAL,PEDIDO=247
+*************
+04/04/2022 20:08:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401120,,PEDIDO=248
+*************
+04/04/2022 20:08:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=248
+*************
+04/04/2022 20:11:17,ross,Modifica USR,USR=3
+*************
+04/04/2022 20:11:32,ross,Modifica USR,USR=3
+*************
+04/04/2022 20:48:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 20:48:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,WBCH=5
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,NEUH=5
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,LYMH=5
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,MONH=5
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,EOSH=5
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,BASOH=5
+*************
+04/04/2022 20:49:42,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,EOS%25H=55
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,RBCH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,HCTH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,HGBH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,MCVH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,MCHH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,RDW-CVH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,PLTH=5
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,MPVH=6
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,PDWH=6
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,PCTH=6
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+04/04/2022 20:49:43,ross,GUARDA RESULTADOS,P-LCCH=6
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400101
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400140
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400141
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400149
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400150
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400151
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400185
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400186
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/400476
+*************
+04/04/2022 20:50:21,ross,VALIDACION RESULTADO,PEDIDO=247/401104
+*************
+04/04/2022 21:02:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2022 21:02:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/04/2022 8:17:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2022 8:17:01,321,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/04/2022 8:17:38,321,GUARDA RESULTADOS,RXCOL1H=
+*************
+05/04/2022 8:17:43,321,GUARDA RESULTADOS,ECOPROSH=
+*************
+05/04/2022 8:17:59,321,GUARDA RESULTADOS,ECOPROSH=
+*************
+05/04/2022 8:18:11,321,GUARDA RESULTADOS,RXPERIOPICAL1H=
+*************
+05/04/2022 8:18:27,321,VALIDACION RESULTADO,PEDIDO=247/401172
+*************
+05/04/2022 8:18:27,321,VALIDACION RESULTADO,PEDIDO=247/401173
+*************
+05/04/2022 8:18:27,321,VALIDACION RESULTADO,PEDIDO=247/401174
+*************
+05/04/2022 8:18:49,321,GUARDA RESULTADOS,rxtH=
+*************
+05/04/2022 8:18:55,321,VALIDACION RESULTADO,PEDIDO=248/401120
+*************
+05/04/2022 15:08:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2022 15:08:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/04/2022 15:15:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2022 15:15:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/04/2022 15:21:23,ross,Generar Paciente,Paciente=MENDOZA IPIALES SARA BEATRIZ
+*************
+05/04/2022 15:28:20,ross,01 GENERAR ORDEN  ZIRUX EXAMENES: 400101,401104,400149,400150,400476,400151,400230,,PEDIDO=249
+*************
+05/04/2022 15:28:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=249
+*************
+05/04/2022 15:30:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=249
+*************
+05/04/2022 15:30:12,ross,03 IMPRIMIR PEDIDO,PEDIDO=249
+*************
+05/04/2022 15:32:21,ross,Actualiza FACTURA,FACTURA=9
+*************
+05/04/2022 15:32:21,ross,Ingresa FACTURA,FACTURA=9
+*************
+05/04/2022 15:32:21,ross,Insertar abono,Factura=9 Abono= 20
+*************
+05/04/2022 15:32:21,ross,Actualiza FACTURA,FACTURA=9/20
+*************
+05/04/2022 15:32:31,ross,Registra Tx Factura,Factura=9
+*************
+05/04/2022 15:32:36,ross,Registra Tx Factura,Factura=9
+*************
+05/04/2022 15:34:11,ross,Insertar abono,Factura=9 Abono= 12.19
+*************
+05/04/2022 15:34:11,ross,Cancela FACTURA,FACTURA=9
+*************
+05/04/2022 15:34:20,ross,Registra Tx Factura,Factura=9
+*************
+05/04/2022 15:34:24,ross,Registra Tx Factura,Factura=9
+*************
+05/04/2022 15:36:03,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,400101,,PEDIDO=250
+*************
+05/04/2022 15:36:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=250
+*************
+05/04/2022 15:37:58,ross,1 MODIFICA ORDENNORMAL,PEDIDO=250
+*************
+05/04/2022 15:38:02,ross,02 IMPRIMIR COD BARRAS,PEDIDO=250
+*************
+05/04/2022 15:38:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=250
+*************
+05/04/2022 15:38:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=250
+*************
+05/04/2022 15:38:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=250
+*************
+05/04/2022 15:38:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=250
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,WBC=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,NEU=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,LYM=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,MON=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,EOS=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,BASO=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,MON%25=3
+*************
+05/04/2022 15:47:27,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,RBC=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,HCT=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,HGB=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,MCV=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,MCH=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,MCHC=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,RDW-CV=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,RDW-SD=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,PLT=3
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,MPV=44
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,PDW=4
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,PCT=44
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,P-LCR=4
+*************
+05/04/2022 15:47:28,ross,GUARDA RESULTADOS,P-LCC=4
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,COLOH=AMBAR
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,ASPOH=LIGERAMENTE TURBIO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,DENO=1.010
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,PHO=5
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,ASCOH=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,HGBOH=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,CELPOH=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,CELEPH=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,LEUC_EMO1H=1-2
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,PIOO=
+*************
+05/04/2022 15:49:03,ross,GUARDA RESULTADOS,HEMOH=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,MOCOH=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,URO=++
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,FOO=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,OXAO=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,CRIO=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,CILO=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,CIGO=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,CILCE=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,ESP=
+*************
+05/04/2022 15:49:04,ross,GUARDA RESULTADOS,OTROSO=
+*************
+05/04/2022 15:50:52,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES:        Suero lipemico
+*************
+05/04/2022 15:52:19,ross,VALIDACION RESULTADO,PEDIDO=249/400101
+*************
+05/04/2022 15:52:19,ross,VALIDACION RESULTADO,PEDIDO=249/400149
+*************
+05/04/2022 15:52:20,ross,VALIDACION RESULTADO,PEDIDO=249/400150
+*************
+05/04/2022 15:52:20,ross,VALIDACION RESULTADO,PEDIDO=249/400151
+*************
+05/04/2022 15:52:20,ross,VALIDACION RESULTADO,PEDIDO=249/400230
+*************
+05/04/2022 15:52:20,ross,VALIDACION RESULTADO,PEDIDO=249/400476
+*************
+05/04/2022 15:52:20,ross,VALIDACION RESULTADO,PEDIDO=249/401104
+*************
+05/04/2022 15:57:09,ross,IMPRIME POR AREA,PEDIDO=249
+*************
+05/04/2022 15:59:12,ross,IMPRIME TODO,PEDIDO=249
+*************
+05/04/2022 16:00:07,ross,IMPRIME POR EMAMEN,PEDIDO=249
+*************
+05/04/2022 16:00:40,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=249
+*************
+05/04/2022 16:00:51,ross,IMPRIME SOBRE,PEDIDO=249
+*************
+05/04/2022 16:05:20,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=249 EMAIL NO VALIDO
+*************
+05/04/2022 16:08:23,ross,Actualizar Rango Unico,Test=400149 Rango=0-200
+*************
+05/04/2022 16:12:16,ross,IMPRIME TODO,PEDIDO=14
+*************
+05/04/2022 16:12:36,ross,IMPRIME POR AREA,PEDIDO=14
+*************
+06/04/2022 8:21:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2022 8:21:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/04/2022 8:33:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2022 8:33:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/04/2022 8:40:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2022 8:40:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/04/2022 8:52:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2022 8:52:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/04/2022 15:08:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2022 15:08:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/04/2022 15:12:53,ross,Generar Paciente,Paciente=FLORES BRAVO RUTH MARIA
+*************
+06/04/2022 15:19:53,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401104,400149,400150,400476,400151,400230,401120,,PEDIDO=251
+*************
+06/04/2022 15:19:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=251
+*************
+06/04/2022 15:25:31,ross,Actualiza FACTURA,FACTURA=10
+*************
+06/04/2022 15:25:31,ross,Ingresa FACTURA,FACTURA=10
+*************
+06/04/2022 15:25:31,ross,Insertar abono,Factura=10 Abono= 20
+*************
+06/04/2022 15:25:31,ross,Actualiza FACTURA,FACTURA=10/20
+*************
+06/04/2022 15:25:33,ross,Registra Tx Factura,Factura=10
+*************
+06/04/2022 15:25:59,ross,Registra Tx Factura,Factura=10
+*************
+06/04/2022 15:27:17,ross,Insertar abono,Factura=10 Abono= 20.9
+*************
+06/04/2022 15:27:17,ross,Cancela FACTURA,FACTURA=10
+*************
+06/04/2022 15:27:19,ross,Registra Tx Factura,Factura=10
+*************
+06/04/2022 15:27:24,ross,Registra Tx Factura,Factura=10
+*************
+06/04/2022 15:27:32,ross,Registra Tx Factura,Factura=10
+*************
+06/04/2022 15:28:29,ross,03 IMPRIMIR PEDIDO,PEDIDO=251
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/252
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/253
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/254
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/255
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/256
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/257
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/258
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/259
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/260
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/261
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/262
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/263
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/264
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/265
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/266
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/267
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/268
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/269
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/270
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/271
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/272
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/273
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/274
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/275
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/276
+*************
+06/04/2022 15:32:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/277
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/278
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/279
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/280
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/281
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/282
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/283
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/284
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/285
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/286
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/287
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/288
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/289
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/290
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/291
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/292
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/293
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/294
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/295
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/296
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/297
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/298
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/299
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/300
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/301
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/302
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/303
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/304
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/305
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/306
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/307
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/308
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/309
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/310
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/311
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/312
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/313
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/314
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/315
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/316
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/317
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/318
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/319
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/320
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/321
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/322
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/323
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/324
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/325
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/326
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/327
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/328
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/329
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/330
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/331
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/332
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/333
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/334
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/335
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/336
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/337
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/338
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/339
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/340
+*************
+06/04/2022 15:32:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/341
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/342
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/343
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/344
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/345
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/346
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/347
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/348
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/349
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/350
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/351
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/352
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/353
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/354
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/355
+*************
+06/04/2022 15:32:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/356
+*************
+06/04/2022 15:35:36,ross,IMPRIMIR CONTRAORDEN,
+*************
+06/04/2022 15:35:43,ross,IMPRIMIR CONTRAORDEN,
+*************
+06/04/2022 15:35:56,ross,IMPRIMIR LISTA TRABAJO,
+*************
+06/04/2022 15:36:07,ross,IMPRIMIR HOJA TRABAJO,
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,WBC=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,NEU=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,LYM=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,MON=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,EOS=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,BASO=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,MON%25=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,RBC=4
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,HCT=4
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,HGB=4
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,MCV=4
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,MCH=4
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,MCHC=4
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,RDW-CV=5
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,RDW-SD=5
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,PLT=555
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,MPV=
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,PDW=7
+*************
+06/04/2022 15:40:06,ross,GUARDA RESULTADOS,PCT=7
+*************
+06/04/2022 15:40:07,ross,GUARDA RESULTADOS,P-LCR=7
+*************
+06/04/2022 15:40:07,ross,GUARDA RESULTADOS,P-LCC=7
+*************
+06/04/2022 15:40:59,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+06/04/2022 15:40:59,ross,GUARDA RESULTADOS,COLOH=AMBAR
+*************
+06/04/2022 15:40:59,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,PHO=7.0
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,ASCOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,NITO=POSITIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,HGBOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CELPOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CELEPH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,HEMOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,MOCOH=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,URO=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,FOO=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,OXAO=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CRIO=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CILO=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CIGO=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,CILCE=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,ESP=
+*************
+06/04/2022 15:41:00,ross,GUARDA RESULTADOS,OTROSO=
+*************
+06/04/2022 15:42:18,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACION: Suero lipemico
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/400101
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/400149
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/400150
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/400151
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/400230
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/400476
+*************
+06/04/2022 15:43:44,ross,VALIDACION RESULTADO,PEDIDO=251/401104
+*************
+06/04/2022 15:45:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2022 15:45:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/04/2022 15:47:00,ross,IMPRIME POR AREA,PEDIDO=251
+*************
+06/04/2022 15:48:56,ross,IMPRIME TODO,PEDIDO=251
+*************
+06/04/2022 15:49:35,ross,IMPRIME POR EMAMEN,PEDIDO=251
+*************
+06/04/2022 15:49:51,ross,IMPRIME SOBRE,PEDIDO=251
+*************
+06/04/2022 15:55:30,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=251 EMAIL NO VALIDO
+*************
+06/04/2022 16:20:59,ross,IMPRIME TODO,PEDIDO=251
+*************
+08/04/2022 12:39:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2022 12:39:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/04/2022 13:28:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2022 13:28:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/04/2022 13:29:15,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401172,401173,,PEDIDO=357
+*************
+08/04/2022 13:29:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=357
+*************
+08/04/2022 13:45:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401172,401173,,PEDIDO=358
+*************
+08/04/2022 13:45:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=358
+*************
+08/04/2022 13:51:44,ross,VALIDACION RESULTADO,PEDIDO=358/400149
+*************
+08/04/2022 13:51:44,ross,VALIDACION RESULTADO,PEDIDO=358/400150
+*************
+08/04/2022 13:51:44,ross,VALIDACION RESULTADO,PEDIDO=358/400151
+*************
+08/04/2022 13:51:44,ross,VALIDACION RESULTADO,PEDIDO=358/400476
+*************
+08/04/2022 14:33:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2022 14:33:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/04/2022 9:06:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/04/2022 9:06:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/04/2022 9:06:49,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401172,401173,,PEDIDO=359
+*************
+09/04/2022 9:06:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=359
+*************
+09/04/2022 9:11:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/04/2022 9:11:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 19:06:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 19:06:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 19:07:08,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401172,401173,,PEDIDO=360
+*************
+10/04/2022 19:07:09,ross,02 IMPRIMIR COD BARRAS,PEDIDO=360
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,WBCH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,NEUH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,LYMH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,MONH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,EOSH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,BASOH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,LYM%25H=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,EOS%25H=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,BASO%25H=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,RBCH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,HCTH=99
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,HGBH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,MCVH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,MCHH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,MCHCH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,RDW-CVH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,RDW-SDH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,PLTH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,MPVH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,PDWH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,PCTH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,P-LCRH=9
+*************
+10/04/2022 19:08:17,ross,GUARDA RESULTADOS,P-LCCH=9
+*************
+10/04/2022 19:08:52,ross,VALIDACION RESULTADO,PEDIDO=360/400101
+*************
+10/04/2022 19:08:52,ross,VALIDACION RESULTADO,PEDIDO=360/400149
+*************
+10/04/2022 19:08:52,ross,VALIDACION RESULTADO,PEDIDO=360/400150
+*************
+10/04/2022 19:08:52,ross,VALIDACION RESULTADO,PEDIDO=360/400151
+*************
+10/04/2022 19:08:52,ross,VALIDACION RESULTADO,PEDIDO=360/400476
+*************
+10/04/2022 20:20:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 20:20:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 20:30:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 20:30:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 21:00:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 21:00:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 21:10:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 21:10:26,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/04/2022 21:10:26,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 21:10:29,321,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 21:19:10,321,GUARDA RESULTADOS,RXCOL1H=
+*************
+10/04/2022 21:19:24,321,GUARDA RESULTADOS,RXPERIOPICAL1H=
+*************
+10/04/2022 21:19:44,321,VALIDACION RESULTADO,PEDIDO=360/401172
+*************
+10/04/2022 21:19:44,321,VALIDACION RESULTADO,PEDIDO=360/401173
+*************
+10/04/2022 21:27:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 21:27:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 21:30:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 21:30:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 22:10:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 22:10:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 22:13:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 22:13:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 22:18:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 22:18:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 22:25:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 22:25:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 22:25:48,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+10/04/2022 22:26:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 22:26:22,321,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2022 22:26:36,321,IMPRIME POR AREA,PEDIDO=360
+*************
+10/04/2022 22:30:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2022 22:30:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:06:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:06:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:07:01,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+11/04/2022 11:15:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:15:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:15:43,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+11/04/2022 11:21:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:21:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:22:05,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+11/04/2022 11:30:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:30:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:30:58,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+11/04/2022 11:37:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:37:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:37:14,ross,IMPRIME POR AREA,PEDIDO=360
+*************
+11/04/2022 11:42:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:42:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:42:46,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,,PEDIDO=361
+*************
+11/04/2022 11:42:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=361
+*************
+11/04/2022 11:45:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 11:45:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,WBCH=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,NEUH=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,LYMH=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,MONH=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,EOSH=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,BASOH=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+11/04/2022 11:45:34,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,RBCH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,HCTH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,HGBH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,MCVH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,MCHH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,RDW-CVH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,PLTH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,MPVH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,PDWH=5
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,PCTH=6
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/04/2022 11:45:35,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+11/04/2022 11:45:44,ross,VALIDACION RESULTADO,PEDIDO=361/400101
+*************
+11/04/2022 11:45:44,ross,VALIDACION RESULTADO,PEDIDO=361/400149
+*************
+11/04/2022 11:45:44,ross,VALIDACION RESULTADO,PEDIDO=361/400150
+*************
+11/04/2022 11:45:44,ross,VALIDACION RESULTADO,PEDIDO=361/400151
+*************
+11/04/2022 11:45:44,ross,VALIDACION RESULTADO,PEDIDO=361/400476
+*************
+11/04/2022 11:45:58,ross,IMPRIME POR AREA,PEDIDO=361
+*************
+11/04/2022 17:29:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2022 17:29:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/04/2022 7:58:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/04/2022 7:58:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/04/2022 9:00:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/04/2022 9:00:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/04/2022 9:00:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401172,401173,,PEDIDO=362
+*************
+12/04/2022 9:00:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=362
+*************
+12/04/2022 9:00:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401172,,PEDIDO=363
+*************
+12/04/2022 9:00:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=363
+*************
+12/04/2022 9:01:31,ross,01 GENERAR ORDEN  ZIRUX EXAMENES: 400524,400191,400836,400197,,PEDIDO=364
+*************
+12/04/2022 9:01:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=364
+*************
+12/04/2022 9:16:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/04/2022 9:16:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/04/2022 10:30:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/04/2022 10:30:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/04/2022 10:53:44,ross,Actualiza FACTURA,FACTURA=11
+*************
+12/04/2022 10:53:44,ross,Ingresa FACTURA,FACTURA=11
+*************
+12/04/2022 10:53:45,ross,Insertar abono,Factura=11 Abono= 44.65
+*************
+12/04/2022 10:53:45,ross,Cancela FACTURA,FACTURA=11
+*************
+12/04/2022 17:56:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/04/2022 17:56:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2022 8:51:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2022 8:51:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 12:15:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 12:15:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 15:24:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 15:24:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 15:33:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 15:33:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 15:35:45,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+14/04/2022 15:35:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401172,401173,,PEDIDO=1
+*************
+14/04/2022 15:35:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+14/04/2022 15:36:27,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+14/04/2022 15:36:43,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401172,401171,,PEDIDO=2
+*************
+14/04/2022 15:36:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+14/04/2022 15:41:22,ross,01 GENERAR ORDEN  ZIRUX EXAMENES: 400524,400191,400836,400197,401172,,PEDIDO=3
+*************
+14/04/2022 15:41:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+14/04/2022 15:50:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 15:50:46,,Ingreso CONTRASEÑA FALLIDO,
+*************
+14/04/2022 15:50:46,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 15:50:46,321,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 16:01:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 16:01:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 16:40:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 16:40:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 17:37:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 17:37:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 17:45:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 17:45:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 18:01:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 18:02:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 18:46:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 18:46:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 18:49:19,ross,Generar Paciente,Paciente=ALMEIDA REINA AMELIA EDELMIRA
+*************
+14/04/2022 18:53:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 18:53:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 18:53:44,ross,Nuevo Pedido IMPORTACION,NORMAL/4
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=BENITES VALENCIA AUGUSTOA ARCADIO
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/5
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=FUENTES MIRANDA BENIGNO ANDRES
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/6
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=GAIBOR ERAZO CARLOS HUMBERTO
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/7
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=JARAMILLO PACHECO MANUEL EDUARDO
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/8
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=LEON BARZALLO MARIA DE LOURDES
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/9
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=LOPEZ ESCUDERO KEVIN JOEL
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/10
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=MEJIA VERGARA MAGALY MARGARITA
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/11
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=PALACIOS LEBRO PEDRO DAMIAN
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/12
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=PIZA SILVA JIMMY JAVIER
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/13
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=SALAS ARIAS AMADA APOLONIA
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/14
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=SANTOS NAULA JOSE DANIEL
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/15
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=SUAREZ VERA JOSE AGUSTIN
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/16
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=VARGAS ALVARADO EDUARDO ELADIO
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/17
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=VILLANAR VASQUEZ JUAN ARTEMIO
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/18
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=AQUINO HERRERA VIDAL VALENTIN
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/19
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=CANDO MESTANZA LUIS HOMERO
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/20
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=CARBO POZO PEDRO AGUSTIN
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/21
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=CARRASCO MOROCHO IRIS DE JESUS
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/22
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=CHANALATA CUVI IRENE SOLANDI
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/23
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=FRANCO MONCADA RINA ELIZABETH
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/24
+*************
+14/04/2022 18:53:45,ross,Generar Paciente,Paciente=JARAMILLO MORAN ROLANDO ANDRES
+*************
+14/04/2022 18:53:45,ross,Nuevo Pedido IMPORTACION,NORMAL/25
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=LOPEZ ANGAMARCA ERICK JOEL
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/26
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=RAMOS ESPINOZA RUBEN DARIO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/27
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=RAMOS PAREDES NORMA YOLANDA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/28
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=SANCHEZ MANZABA VICENTA NARCISA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/29
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=VARGAS BERRUZ ROMULO FRANCISCO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/30
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=VARGAS OCHOA ARNULFO BENIGNO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/31
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=YEPEZ LINDAO JUANITA DEL PILAR
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/32
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=AGUILAR LIMONES JOSE HUMBERTO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/33
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=ALCIVAR VALERO MANUELA DE JESUS
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/34
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=ARIAS RONQUILLO CECILIA JOHANA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/35
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=BRAVO GOMEZ ZOILA MARIA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/36
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=CAMPOVERDE ICAZA JOSE LIONSO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/37
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=FLORES VALLEJO NORMA CRISTINA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/38
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=GUEVARA ABARCA HUGO EFRAIN
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/39
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=HUACON MILLAN GERMANIA SOFIA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/40
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=MERINO ESPINOZA MARILYN MILAGROS
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/41
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=MONTIEL CERVANTES FELIX
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/42
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=BAJAÑA LUIZ VICENTE HUMBERTO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/43
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=PALACIOS CABEZAS NENA ELAIS
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/44
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=PAREDES ARIAS CARLOS EDUARDO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/45
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=PONCE CEDÑO MARIA CELESTE
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/46
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=SANTANA ROCAFUERTE PEDRO CELESTINO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/47
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=TORRES CASTRO FREDDY BONIFACIO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/48
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=CASTRO MORAN GUIDO
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/49
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=ACOSTA NAVAS MERCEDES ISABEL
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/50
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=GARCIA YEPEZ VICTOR
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/51
+*************
+14/04/2022 18:53:46,ross,Generar Paciente,Paciente=FRANCO ALMEIDA JUANA AURORA
+*************
+14/04/2022 18:53:46,ross,Nuevo Pedido IMPORTACION,NORMAL/52
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=CALEÑO HIDALGO LUGIA BOLIVAR
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/53
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=PACHECO ARTIAGA LUCY ANGELICA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/54
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ALCIVAR ESTRELLA ANGELA ESPERANZA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/55
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=MIRANDA ORDOÑEZ HERMENEGILDO ROBERTO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/56
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ORTIZ MURILLO PEDRO HUMBERTO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/57
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=TOAPANTA CONTRERAS LINNER DEL ROSARIO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/58
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=VERA BARAHONA GERMANIA ARCADIA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/59
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ZAMBRANO MORA REGINA LUCIA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/60
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ROJAS UVE LUCIA FERNANDA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/61
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=GAROFALO GUILLIN VICTOR ROBERTO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/62
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ACURIO MEJIA JOSE VICENTE
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/63
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ACURIO SANTIN GUSTAVO RODRIGO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/64
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ALVARADO ICAZA LORENZO ANTONIO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/65
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=ALVARADO VERA MANUEL HUMBERTO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/66
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=BAEZ GARCIA BRIGIE JAZMIN
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/67
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=BARBOTO RUIZ MIGUEL EVANGELISTA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/68
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=BRAVO POVEDA VICENTE FRANKLIN
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/69
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=BRIONES BUSTAMANTE YINA PATRICIA
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/70
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=CADENA MENDEZ BLANCA EMPERATRIZ
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/71
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=CARRASCO SANTILLAN CARLOS PLUTARCO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/72
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=COELLO LEON SERGIO ROMULO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/73
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=DIAZ ESLAO MARCOS ALBERTO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/74
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=GARAICOA LOOR ANDRES FRANCISCO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/75
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=GARCIA PONCE JOHANNA ROCIO
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/76
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=GUERRERO LEAL BERTHA MARILU
+*************
+14/04/2022 18:53:47,ross,Nuevo Pedido IMPORTACION,NORMAL/77
+*************
+14/04/2022 18:53:47,ross,Generar Paciente,Paciente=MENDOZA BAYAS ANGEL RICARDO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/78
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=MENENDEZ HURTADO ORLANDO XAVIER
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/79
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=MORA VITE DARWIN VICENTE
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/80
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=SANCHEZ SEGUNDO BOLIVAR
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/81
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=SARCO SALAZAR LUIS FERNANDO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/82
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=SILVA TAPIA JULIO JACINTO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/83
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=SILVA TOMALA ROSA VIRGINIA
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/84
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=TORRES CEREZO JULIA DEL CARMEN
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/85
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=VACA PIZA GLADIS BENITA
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/86
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=VALENCIA CASTILLO MARIO GEOVANNY
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/87
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=VARGAS ESPINOZA PEDRO DARIO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/88
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=VITE AYALA TEODORO FRANCISCO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/89
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=VITE PAZ ANGELA HAYDEE
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/90
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=RIVERA BARCO MARIANA DE JESUS
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/91
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA JOSE ALBERTO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/92
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=LUQUE MORAN JULIA FELIPA
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/93
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=QUINGA GUTIERREZ LUIS ALBERTO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/94
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=RODRIGUEZ MORA ANA PILAR
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/95
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=CAICEDO RIVADENEIRA RAFAELA EMILIA
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/96
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA MIGUEL ALBERTO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/97
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=CARPIO MONTOYA PEDRO FELIX
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/98
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=CELI ARIAS WELLINGTON ANTONIO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/99
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=CRUZ REYES MARTHA DEL ROCIO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/100
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=DE LA CRUZ VERA WILSON LAUTARO
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/101
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=ELIZONDO VERA NELLY POMPELLA
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/102
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=ESPIN JARA FREDDY ENRIQUE
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/103
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=MARTINEZ SANTILLAN MERCEDES AIDA
+*************
+14/04/2022 18:53:48,ross,Nuevo Pedido IMPORTACION,NORMAL/104
+*************
+14/04/2022 18:53:48,ross,Generar Paciente,Paciente=MINDIOLA BURGOS KLEBER ANTONIO
+*************
+14/04/2022 18:53:49,ross,Nuevo Pedido IMPORTACION,NORMAL/105
+*************
+14/04/2022 18:53:49,ross,Generar Paciente,Paciente=MORAN TORRES ADALBERTO RAMON
+*************
+14/04/2022 18:53:49,ross,Nuevo Pedido IMPORTACION,NORMAL/106
+*************
+14/04/2022 18:53:49,ross,Generar Paciente,Paciente=OLAYA ACOSTA JORGE JAVIER
+*************
+14/04/2022 18:53:49,ross,Nuevo Pedido IMPORTACION,NORMAL/107
+*************
+14/04/2022 18:53:49,ross,Generar Paciente,Paciente=VILLANAR MONTALVO LUIS ANTONIO
+*************
+14/04/2022 18:53:49,ross,Nuevo Pedido IMPORTACION,NORMAL/108
+*************
+14/04/2022 18:56:06,ross,Nuevo Pedido IMPORTACION,NORMAL/109
+*************
+14/04/2022 18:56:07,ross,Nuevo Pedido IMPORTACION,NORMAL/110
+*************
+14/04/2022 18:56:14,ross,Nuevo Pedido IMPORTACION,NORMAL/111
+*************
+14/04/2022 18:57:47,ross,Nuevo Pedido IMPORTACION,NORMAL/112
+*************
+14/04/2022 19:00:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 19:00:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 19:05:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 19:05:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 19:05:47,ross,Eliminar Perfil,75
+*************
+14/04/2022 19:06:29,ross,Eliminar Perfil,74
+*************
+14/04/2022 19:13:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 19:13:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2022 19:48:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2022 19:48:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:04:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:04:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:05:33,ross,Actualizar Convenio,Convenio=ZIRUX
+*************
+16/04/2022 20:05:34,ross,Actualizar Secuencia,SECUENCIA=ZIRUX/1401/1500
+*************
+16/04/2022 20:05:35,ross,Actualizar LISTA PRECIO=ZIRUX,
+*************
+16/04/2022 20:05:40,ross,Actualizar pedido en convenio =ZIRUX,
+*************
+16/04/2022 20:13:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:13:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:18:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:18:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:25:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:25:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:35:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:35:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:37:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:37:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 20:38:30,ross,Generar Paciente,Paciente=ROSSVAN EMILIO FLORES NARANJO
+*************
+16/04/2022 20:59:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 20:59:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 21:08:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 21:08:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/04/2022 21:41:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2022 21:41:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2022 11:04:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2022 11:04:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2022 11:07:59,ross,Actualizar Convenio,Convenio=ZIRUX
+*************
+18/04/2022 11:07:59,ross,Actualizar Secuencia,SECUENCIA=ZIRUX/1401/1500
+*************
+18/04/2022 11:07:59,ross,Actualizar LISTA PRECIO=ZIRUX,
+*************
+18/04/2022 11:08:01,ross,Actualizar pedido en convenio =ZIRUX,
+*************
+18/04/2022 12:05:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2022 12:05:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2022 12:08:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2022 12:08:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2022 12:42:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2022 12:42:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2022 12:44:34,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400524,400191,400836,400197,,PEDIDO=1
+*************
+20/04/2022 12:44:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+20/04/2022 12:44:56,ross,Actualiza FACTURA,FACTURA=2
+*************
+20/04/2022 12:44:56,ross,Ingresa FACTURA,FACTURA=2
+*************
+20/04/2022 12:44:58,ross,Insertar abono,Factura=2 Abono= 0
+*************
+20/04/2022 12:44:58,ross,Pendiente FACTURA,FACTURA=2
+*************
+20/04/2022 12:46:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400772,400601,400781,400244,400230,,PEDIDO=2
+*************
+20/04/2022 12:46:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+20/04/2022 12:46:56,ross,Actualiza FACTURA,FACTURA=3
+*************
+20/04/2022 12:46:56,ross,Ingresa FACTURA,FACTURA=3
+*************
+20/04/2022 12:46:58,ross,Insertar abono,Factura=3 Abono= 48.4
+*************
+20/04/2022 12:46:58,ross,Cancela FACTURA,FACTURA=3
+*************
+20/04/2022 13:04:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2022 13:04:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2022 13:05:06,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+20/04/2022 13:05:21,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400185,400186,400524,400191,400836,400197,,PEDIDO=3
+*************
+20/04/2022 13:05:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+20/04/2022 13:05:29,ross,Actualiza FACTURA,FACTURA=4
+*************
+20/04/2022 13:05:29,ross,Ingresa FACTURA,FACTURA=4
+*************
+20/04/2022 13:06:10,ross,Insertar abono,Factura=4 Abono= 0
+*************
+20/04/2022 13:06:10,ross,Pendiente FACTURA,FACTURA=4
+*************
+20/04/2022 13:06:23,ross,Insertar abono,Factura=4 Abono= 0
+*************
+20/04/2022 13:08:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2022 13:08:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2022 13:09:30,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400191,400836,400197,400292,400296,400153,400149,400101,,PEDIDO=4
+*************
+20/04/2022 13:09:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+20/04/2022 13:09:36,ross,Actualiza FACTURA,FACTURA=5
+*************
+20/04/2022 13:09:36,ross,Ingresa FACTURA,FACTURA=5
+*************
+20/04/2022 13:09:44,ross,Insertar abono,Factura=5 Abono= 0
+*************
+20/04/2022 13:09:47,ross,Pendiente FACTURA,FACTURA=5
+*************
+20/04/2022 13:11:21,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+20/04/2022 13:11:28,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=1
+*************
+20/04/2022 13:11:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+20/04/2022 13:11:48,ross,Actualiza FACTURA,FACTURA=2
+*************
+20/04/2022 13:11:48,ross,Ingresa FACTURA,FACTURA=2
+*************
+20/04/2022 13:11:52,ross,Insertar abono,Factura=2 Abono= 0
+*************
+20/04/2022 13:11:52,ross,Pendiente FACTURA,FACTURA=2
+*************
+20/04/2022 13:12:16,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+20/04/2022 13:12:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400292,400296,400153,400149,400101,,PEDIDO=2
+*************
+20/04/2022 13:12:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+20/04/2022 13:12:30,ross,Actualiza FACTURA,FACTURA=3
+*************
+20/04/2022 13:12:30,ross,Ingresa FACTURA,FACTURA=3
+*************
+20/04/2022 13:12:33,ross,Insertar abono,Factura=3 Abono= 0
+*************
+20/04/2022 13:12:33,ross,Pendiente FACTURA,FACTURA=3
+*************
+22/04/2022 9:32:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/04/2022 9:32:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/04/2022 9:33:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401104,400185,400186,,PEDIDO=3
+*************
+22/04/2022 9:33:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,WBCH=3
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,NEUH=3
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,LYMH=3
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,MONH=3
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,EOSH=4
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,BASOH=4
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,MON%25H=4
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,RBCH=5
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,HCTH=5
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,HGBH=5
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,MCVH=66
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,MCHH=6
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,RDW-CVH=6
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,RDW-SDH=66
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,PLTH=333
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,MPVH=7
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,PDWH=7
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,PCTH=7
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,P-LCRH=7
+*************
+22/04/2022 9:33:56,ross,GUARDA RESULTADOS,P-LCCH=7
+*************
+22/04/2022 9:34:30,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Suero lipemico
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400101
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400149
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400150
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400151
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400185
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400186
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/400476
+*************
+22/04/2022 9:34:33,ross,VALIDACION RESULTADO,PEDIDO=3/401104
+*************
+22/04/2022 9:36:10,ross,Modifica USR,USR=1
+*************
+24/04/2022 7:58:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 7:58:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 7:59:01,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=4
+*************
+24/04/2022 7:59:02,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+24/04/2022 8:02:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:02:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:06:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:06:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:07:17,ross,1 MODIFICA ORDENNORMAL,PEDIDO=4
+*************
+24/04/2022 8:07:39,ross,Actualiza FACTURA,FACTURA=4
+*************
+24/04/2022 8:07:39,ross,Ingresa FACTURA,FACTURA=4
+*************
+24/04/2022 8:07:41,ross,Insertar abono,Factura=4 Abono= 64.75
+*************
+24/04/2022 8:07:41,ross,Cancela FACTURA,FACTURA=4
+*************
+24/04/2022 8:11:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:11:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:11:54,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:13:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:13:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:14:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:14:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:19:35,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+24/04/2022 8:19:35,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:20:05,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:20:28,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:25:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:25:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:25:21,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:25:38,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:27:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 8:27:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 8:27:43,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:27:51,ross,Registra Tx Factura,Factura=4
+*************
+24/04/2022 8:28:13,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=5
+*************
+24/04/2022 8:28:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+24/04/2022 8:28:21,ross,Actualiza FACTURA,FACTURA=5
+*************
+24/04/2022 8:28:21,ross,Ingresa FACTURA,FACTURA=5
+*************
+24/04/2022 8:28:21,ross,Insertar abono,Factura=5 Abono= 30
+*************
+24/04/2022 8:28:21,ross,Actualiza FACTURA,FACTURA=5/30
+*************
+24/04/2022 8:28:24,ross,Registra Tx Factura,Factura=5
+*************
+24/04/2022 9:51:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2022 9:51:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2022 9:52:01,ross,VALIDACION RESULTADO,PEDIDO=5/400191
+*************
+24/04/2022 9:52:07,ross,VALIDACION RESULTADO,PEDIDO=5/400197
+*************
+24/04/2022 9:52:11,ross,VALIDACION RESULTADO,PEDIDO=5/400524
+*************
+24/04/2022 9:52:15,ross,VALIDACION RESULTADO,PEDIDO=5/400836
+*************
+24/04/2022 10:08:38,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=6
+*************
+24/04/2022 10:08:38,ross,02 IMPRIMIR COD BARRAS,PEDIDO=06
+*************
+24/04/2022 10:09:03,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+24/04/2022 10:09:03,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,SINTCH=
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,LUGARDH=
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,FECHACOVH=
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,PRUEBH=
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,INTERVA REFEH=- intevalo
+*************
+24/04/2022 10:09:04,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+24/04/2022 10:09:14,ross,VALIDACION RESULTADO,PEDIDO=6/401144
+*************
+25/04/2022 9:35:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 9:35:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 11:20:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 11:20:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 11:21:41,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401172,401120,,PEDIDO=7
+*************
+25/04/2022 11:21:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+25/04/2022 11:22:16,ross,Modifica USR,USR=1
+*************
+25/04/2022 11:26:46,ross,GUARDA RESULTADOS,rxtH=
+*************
+25/04/2022 11:27:04,ross,GUARDA RESULTADOS,RXCOL1H=
+*************
+25/04/2022 11:27:18,ross,VALIDACION RESULTADO,PEDIDO=7/401120
+*************
+25/04/2022 11:27:18,ross,VALIDACION RESULTADO,PEDIDO=7/401172
+*************
+25/04/2022 18:28:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 18:28:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 18:29:48,ross,GUARDA NOTA AREA,AREA EXAMEN =80/VALORES CONFIRMAODS
+*************
+25/04/2022 18:32:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 18:32:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 19:29:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 19:29:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 19:48:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 19:48:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 19:54:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 19:54:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 20:17:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 20:17:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 20:20:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 20:20:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 20:33:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 20:33:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 20:37:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2022 20:37:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2022 20:37:45,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401172,401173,,PEDIDO=8
+*************
+25/04/2022 20:37:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+25/04/2022 20:39:13,ross,GUARDA RESULTADOS,RXCOL1H=
+*************
+25/04/2022 20:39:21,ross,GUARDA RESULTADOS,RXPERIOPICAL1H=
+*************
+25/04/2022 20:41:29,ross,VALIDACION RESULTADO,PEDIDO=8/400149
+*************
+25/04/2022 20:41:29,ross,VALIDACION RESULTADO,PEDIDO=8/400150
+*************
+25/04/2022 20:41:30,ross,VALIDACION RESULTADO,PEDIDO=8/400151
+*************
+25/04/2022 20:41:30,ross,VALIDACION RESULTADO,PEDIDO=8/400476
+*************
+25/04/2022 20:41:30,ross,VALIDACION RESULTADO,PEDIDO=8/401172
+*************
+25/04/2022 20:41:30,ross,VALIDACION RESULTADO,PEDIDO=8/401173
+*************
+26/04/2022 9:52:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 9:53:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 9:57:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 9:57:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 10:02:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 10:02:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 12:07:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 12:07:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 12:24:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 12:24:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 12:27:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 12:27:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 14:11:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 14:11:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 14:14:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 14:14:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 14:49:56,ross,LEE PDF,Busca base64
+*************
+26/04/2022 14:50:33,ross,LEE PDF,Busca base64
+*************
+26/04/2022 14:50:53,ross,LEE PDF,Busca base64
+*************
+26/04/2022 14:52:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 14:52:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 14:52:29,ross,LEE PDF,Busca base64
+*************
+26/04/2022 14:52:42,ross,LEE PDF,Busca base64
+*************
+26/04/2022 14:54:23,ross,LEE PDF,Busca base64
+*************
+26/04/2022 14:55:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 14:55:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 14:58:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 14:58:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 14:59:43,ross,LEE PDF,Busca base64
+*************
+26/04/2022 15:00:00,ross,LEE PDF,Busca base64
+*************
+26/04/2022 15:00:21,ross,LEE PDF,Busca base64
+*************
+26/04/2022 15:00:33,ross,LEE PDF,Busca base64
+*************
+26/04/2022 15:04:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 15:04:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 15:04:25,ross,LEE PDF,Busca base64
+*************
+26/04/2022 15:04:33,ross,LEE PDF,Busca base64
+*************
+26/04/2022 15:04:44,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+26/04/2022 15:40:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 15:40:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 15:54:19,ross,Actualiza FACTURA,FACTURA=6
+*************
+26/04/2022 15:54:19,ross,Ingresa FACTURA,FACTURA=6
+*************
+26/04/2022 15:57:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 15:58:58,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26/04/2022 15:58:58,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 15:59:00,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26/04/2022 15:59:00,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 15:59:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 16:00:16,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=9
+*************
+26/04/2022 16:00:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=09
+*************
+26/04/2022 16:00:31,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=10
+*************
+26/04/2022 16:00:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10
+*************
+26/04/2022 16:00:58,ross,Actualiza FACTURA,FACTURA=7
+*************
+26/04/2022 16:00:58,ross,Ingresa FACTURA,FACTURA=7
+*************
+26/04/2022 16:00:59,ross,Insertar abono,Factura=7 Abono= 0
+*************
+26/04/2022 16:00:59,ross,Pendiente FACTURA,FACTURA=7
+*************
+26/04/2022 16:01:21,ross,Actualiza FACTURA,FACTURA=8
+*************
+26/04/2022 16:01:21,ross,Ingresa FACTURA,FACTURA=8
+*************
+26/04/2022 16:01:23,ross,Insertar abono,Factura=8 Abono= 3
+*************
+26/04/2022 16:01:23,ross,Cancela FACTURA,FACTURA=8
+*************
+26/04/2022 16:06:31,ross,Insertar abono,Factura=9 Abono= 12.65
+*************
+26/04/2022 16:06:31,ross,Cancela FACTURA,FACTURA=9
+*************
+26/04/2022 16:07:01,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=11
+*************
+26/04/2022 16:07:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=11
+*************
+26/04/2022 16:18:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 16:18:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 16:18:21,ross,IMPRIME POR AREA,PEDIDO=5
+*************
+26/04/2022 16:24:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 16:24:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 16:25:29,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+26/04/2022 16:32:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 16:32:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 16:32:40,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+26/04/2022 16:35:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 16:35:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 16:35:40,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+26/04/2022 17:06:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 17:06:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 17:07:03,ross,IMPRIME TODO,PEDIDO=3
+*************
+26/04/2022 17:07:25,ross,IMPRIME POR AREA,PEDIDO=5
+*************
+26/04/2022 17:07:31,ross,IMPRIME TODO,PEDIDO=5
+*************
+26/04/2022 17:07:43,ross,IMPRIME TODO,PEDIDO=6
+*************
+26/04/2022 17:07:57,ross,IMPRIME TODO,PEDIDO=8
+*************
+26/04/2022 17:10:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 17:10:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 17:11:02,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+26/04/2022 17:11:15,ross,IMPRIME TODO,PEDIDO=3
+*************
+26/04/2022 17:12:28,ross,1 MODIFICA ORDENNORMAL,PEDIDO=3
+*************
+26/04/2022 17:13:07,ross,VALIDACION RESULTADO,PEDIDO=3/400194
+*************
+26/04/2022 17:13:07,ross,VALIDACION RESULTADO,PEDIDO=3/400195
+*************
+26/04/2022 17:13:07,ross,VALIDACION RESULTADO,PEDIDO=3/400667
+*************
+26/04/2022 17:13:07,ross,VALIDACION RESULTADO,PEDIDO=3/400793
+*************
+26/04/2022 17:14:11,ross,IMPRIME TODO,PEDIDO=3
+*************
+26/04/2022 17:18:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 17:18:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 17:18:43,ross,IMPRIME TODO,PEDIDO=3
+*************
+26/04/2022 17:34:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2022 17:34:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/04/2022 17:34:50,ross,IMPRIME TODO,PEDIDO=3
+*************
+28/04/2022 8:32:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2022 8:32:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2022 8:33:27,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+28/04/2022 8:39:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2022 8:39:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2022 8:40:12,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+28/04/2022 8:45:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2022 8:45:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2022 8:46:04,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+28/04/2022 8:48:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2022 8:48:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2022 8:48:22,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+28/04/2022 11:48:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2022 11:48:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/04/2022 11:54:05,ross,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************
+12/04/2022 11:55:31,ross,GUARDA CUTANEAS,2
+*************

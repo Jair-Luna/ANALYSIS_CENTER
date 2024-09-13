@@ -1,0 +1,2443 @@
+02/07/2021 19:40:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/07/2021 19:40:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/07/2021 19:41:34,ross,Nuevo Convenio,Convenio=TRUESOLUTIONS
+*************
+02/07/2021 19:41:34,ross,Guardar secuencia,SECUENCIA=TRUESOLUTIONS/2101/2200
+*************
+02/07/2021 20:07:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/07/2021 20:07:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/07/2021 20:08:07,ross,01 GENERAR ORDEN  TRUESOLUTIONS EXAMENES: 400151,,PEDIDO=32
+*************
+02/07/2021 20:08:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=32
+*************
+02/07/2021 20:08:42,ross,VALIDACION RESULTADO,PEDIDO=32/400151
+*************
+05/07/2021 19:36:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/07/2021 19:36:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2021 20:15:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2021 20:16:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2021 11:50:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2021 11:50:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2021 12:04:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2021 12:04:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2021 12:09:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2021 12:09:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2021 12:55:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2021 12:55:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2021 17:16:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2021 17:16:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 09:39:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 09:39:07,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/07/2021 09:39:07,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 09:39:10,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/07/2021 09:39:10,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 09:39:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 09:39:54,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+08/07/2021 09:40:14,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401116,,PEDIDO=33
+*************
+08/07/2021 09:40:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=33
+*************
+08/07/2021 09:51:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 09:51:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 10:44:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 10:44:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 10:59:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 11:00:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 13:51:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 13:51:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 14:57:53,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+08/07/2021 15:12:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 15:12:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 15:12:48,ross,1 MODIFICA ORDENNORMAL,PEDIDO=33
+*************
+08/07/2021 15:13:04,ross,1 MODIFICA ORDENNORMAL,PEDIDO=33
+*************
+08/07/2021 17:09:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2021 17:09:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2021 17:10:17,ross,01 GENERAR ORDEN  AUTOMOTORS EXAMENES: 400151,,PEDIDO=34
+*************
+08/07/2021 17:10:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=34
+*************
+08/07/2021 17:10:35,ross,VALIDACION RESULTADO,PEDIDO=34/400151
+*************
+12/07/2021 18:01:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 18:01:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 18:09:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 18:09:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 18:32:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 18:32:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 18:36:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 18:36:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 18:37:41,ross,Nuevo Convenio,Convenio=FOSNECA
+*************
+12/07/2021 18:37:41,ross,Guardar secuencia,SECUENCIA=FOSNECA/2201/2300
+*************
+12/07/2021 18:53:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 18:53:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 18:59:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 18:59:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 19:04:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 19:04:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 19:05:49,ross,Nuevo Convenio,Convenio=REVIR
+*************
+12/07/2021 19:05:58,ross,Guardar secuencia,SECUENCIA=REVIR/2301/2400
+*************
+12/07/2021 20:11:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 20:11:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 20:13:26,ross,Nuevo Convenio,Convenio=MC
+*************
+12/07/2021 20:13:26,ross,Guardar secuencia,SECUENCIA=MC/2401/2500
+*************
+12/07/2021 20:17:28,ross,VALIDACION RESULTADO,PEDIDO=3/400149
+*************
+12/07/2021 20:17:28,ross,VALIDACION RESULTADO,PEDIDO=3/400150
+*************
+12/07/2021 20:17:28,ross,VALIDACION RESULTADO,PEDIDO=3/400151
+*************
+12/07/2021 20:17:28,ross,VALIDACION RESULTADO,PEDIDO=3/400476
+*************
+12/07/2021 20:18:15,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+12/07/2021 21:22:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 21:22:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 21:48:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 21:48:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 21:48:33,ross,Actualizar Convenio,Convenio=FOSNECA
+*************
+12/07/2021 21:48:33,ross,Actualizar Secuencia,SECUENCIA=FOSNECA/2201/2300
+*************
+12/07/2021 21:49:05,ross,Actualizar LISTA PRECIO=FOSNECA,
+*************
+12/07/2021 21:50:47,ross,Actualizar Convenio,Convenio=FOSNECA
+*************
+12/07/2021 21:50:47,ross,Actualizar Secuencia,SECUENCIA=FOSNECA/2201/2300
+*************
+12/07/2021 21:51:03,ross,Actualizar LISTA PRECIO=FOSNECA,
+*************
+12/07/2021 21:58:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 21:58:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:02:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:02:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:12:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:12:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:17:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:17:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:18:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:18:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:22:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:22:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:23:58,ross,Actualizar Convenio,Convenio=TRUESOLUTIONS
+*************
+12/07/2021 22:23:58,ross,Actualizar Secuencia,SECUENCIA=TRUESOLUTIONS/2101/2200
+*************
+12/07/2021 22:24:00,ross,Actualizar LISTA PRECIO=TRUESOLUTIONS,
+*************
+12/07/2021 22:25:39,ross,Actualizar Convenio,Convenio=WESTER
+*************
+12/07/2021 22:25:39,ross,Actualizar Secuencia,SECUENCIA=WESTER/2001/2100
+*************
+12/07/2021 22:25:41,ross,Actualizar LISTA PRECIO=WESTER,
+*************
+12/07/2021 22:26:24,ross,Actualizar Convenio,Convenio=BIOMUJER
+*************
+12/07/2021 22:26:24,ross,Actualizar Secuencia,SECUENCIA=BIOMUJER/1901/2000
+*************
+12/07/2021 22:26:25,ross,Actualizar LISTA PRECIO=BIOMUJER,
+*************
+12/07/2021 22:52:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:52:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 22:52:35,ross,Actualizar Convenio,Convenio=FOSNECA
+*************
+12/07/2021 22:52:35,ross,Actualizar Secuencia,SECUENCIA=FOSNECA/2201/2300
+*************
+12/07/2021 22:52:35,ross,Actualizar LISTA PRECIO=FOSNECA,
+*************
+12/07/2021 22:58:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 22:58:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:22:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:22:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:23:09,ross,Actualizar Convenio,Convenio=BIOMUJER
+*************
+12/07/2021 23:23:09,ross,Actualizar Secuencia,SECUENCIA=BIOMUJER/1901/2000
+*************
+12/07/2021 23:23:11,ross,Actualizar LISTA PRECIO=BIOMUJER,
+*************
+12/07/2021 23:25:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:25:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:32:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:32:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:43:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:43:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:47:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:47:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:51:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:51:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:51:24,ross,Actualizar Convenio,Convenio=AUTOMOTORS
+*************
+12/07/2021 23:51:24,ross,Actualizar Secuencia,SECUENCIA=AUTOMOTORS/14000/14200
+*************
+12/07/2021 23:51:26,ross,Actualizar LISTA PRECIO=AUTOMOTORS,
+*************
+12/07/2021 23:51:55,ross,Actualizar Convenio,Convenio=AUTOMOTORS
+*************
+12/07/2021 23:51:55,ross,Actualizar Secuencia,SECUENCIA=AUTOMOTORS/14000/14200
+*************
+12/07/2021 23:51:58,ross,Actualizar LISTA PRECIO=AUTOMOTORS,
+*************
+12/07/2021 23:52:32,ross,Actualizar Convenio,Convenio=FYBECA
+*************
+12/07/2021 23:52:32,ross,Actualizar Secuencia,SECUENCIA=FYBECA/1201/1400
+*************
+12/07/2021 23:52:34,ross,Actualizar LISTA PRECIO=FYBECA,
+*************
+12/07/2021 23:53:32,ross,Actualizar Convenio,Convenio=FYBECA
+*************
+12/07/2021 23:53:32,ross,Actualizar Secuencia,SECUENCIA=FYBECA/1201/1400
+*************
+12/07/2021 23:53:35,ross,Actualizar LISTA PRECIO=FYBECA,
+*************
+12/07/2021 23:58:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2021 23:58:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2021 23:58:56,ross,Actualizar Convenio,Convenio=NOCHES
+*************
+12/07/2021 23:58:56,ross,Actualizar Secuencia,SECUENCIA=NOCHES/1001/1200
+*************
+12/07/2021 23:59:00,ross,Actualizar LISTA PRECIO=NOCHES,
+*************
+13/07/2021 00:06:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 00:06:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 00:06:40,ross,Actualizar Convenio,Convenio=URGENCIA
+*************
+13/07/2021 00:07:20,ross,Actualizar Secuencia,SECUENCIA=URGENCIA/5000/6000
+*************
+13/07/2021 00:07:28,ross,Actualizar LISTA PRECIO=URGENCIA,
+*************
+13/07/2021 00:10:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 00:10:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 00:11:18,ross,Actualizar Convenio,Convenio=IESS
+*************
+13/07/2021 00:11:20,ross,Actualizar Secuencia,SECUENCIA=IESS/1401/1600
+*************
+13/07/2021 00:11:21,ross,Actualizar LISTA PRECIO=IESS,
+*************
+13/07/2021 11:48:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 11:48:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 11:48:50,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+13/07/2021 16:23:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 16:23:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 16:23:49,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+13/07/2021 16:23:56,ross,IMPRIME TODO,PEDIDO=3
+*************
+13/07/2021 16:24:38,ross,IMPRIME POR EMAMEN,PEDIDO=3
+*************
+13/07/2021 18:05:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 18:05:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 18:05:50,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401119,401115,,PEDIDO=35
+*************
+13/07/2021 18:05:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=35
+*************
+13/07/2021 18:10:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 18:10:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 18:42:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 18:42:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 18:43:23,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+13/07/2021 18:45:14,ross,1 MODIFICA ORDENNORMAL,PEDIDO=35
+*************
+13/07/2021 18:45:48,ross,VALIDACION RESULTADO,PEDIDO=35/400149
+*************
+13/07/2021 18:45:48,ross,VALIDACION RESULTADO,PEDIDO=35/400150
+*************
+13/07/2021 18:45:48,ross,VALIDACION RESULTADO,PEDIDO=35/400151
+*************
+13/07/2021 18:45:48,ross,VALIDACION RESULTADO,PEDIDO=35/400476
+*************
+13/07/2021 18:51:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 18:51:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 19:31:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 19:31:16,,Ingreso CONTRASEÑA FALLIDO,
+*************
+13/07/2021 19:31:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 19:31:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 20:03:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 20:03:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 20:29:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2021 20:29:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2021 20:32:39,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401116,401115,401119,,PEDIDO=36
+*************
+13/07/2021 20:32:40,ross,02 IMPRIMIR COD BARRAS,PEDIDO=36
+*************
+13/07/2021 20:44:53,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Valores confirmados
+*************
+14/07/2021 16:51:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 16:51:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 16:51:42,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=37
+*************
+14/07/2021 16:51:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=37
+*************
+14/07/2021 16:52:04,ross,VALIDACION RESULTADO,PEDIDO=37/400151
+*************
+14/07/2021 18:29:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 18:29:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 18:30:26,ross,Nuevo Convenio,Convenio=RRFF
+*************
+14/07/2021 18:30:26,ross,Guardar secuencia,SECUENCIA=RRFF/2501/1600
+*************
+14/07/2021 21:07:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:07:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:13:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:13:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:14:03,ross,Eliminar Convenio,Convenio0RRFF
+*************
+14/07/2021 21:14:03,ross,Elimina Lista de Precios,Lista Precio=RRFF
+*************
+14/07/2021 21:14:03,ross,Eliminar Secuencia,SECUENCIA=RRFF
+*************
+14/07/2021 21:15:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:15:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:15:53,ross,Eliminar Convenio,Convenio0MC
+*************
+14/07/2021 21:15:53,ross,Elimina Lista de Precios,Lista Precio=MC
+*************
+14/07/2021 21:15:53,ross,Eliminar Secuencia,SECUENCIA=MC
+*************
+14/07/2021 21:23:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:23:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:27:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:27:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:33:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:33:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:50:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:50:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:55:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 21:55:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 21:57:05,ross,Nuevo Convenio,Convenio=SUPER 12
+*************
+14/07/2021 21:57:21,ross,Guardar secuencia,SECUENCIA=SUPER 12/2401/2500
+*************
+14/07/2021 22:23:37,ross,Actualizar Convenio,Convenio=NORMAL
+*************
+14/07/2021 22:23:37,ross,Actualizar Secuencia,SECUENCIA=NORMAL/1/1000
+*************
+14/07/2021 22:23:37,ross,Actualizar LISTA PRECIO=NORMAL,
+*************
+14/07/2021 22:32:34,ross,IMPRIME POR AREA,PEDIDO=37
+*************
+14/07/2021 22:34:13,ross,IMPRIME POR AREA,PEDIDO=37
+*************
+14/07/2021 22:42:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 22:42:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 22:43:17,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401115,401119,401116,,PEDIDO=38
+*************
+14/07/2021 22:43:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+14/07/2021 22:44:25,ross,VALIDACION RESULTADO,PEDIDO=38/400149
+*************
+14/07/2021 22:44:25,ross,VALIDACION RESULTADO,PEDIDO=38/400150
+*************
+14/07/2021 22:44:25,ross,VALIDACION RESULTADO,PEDIDO=38/400151
+*************
+14/07/2021 22:44:25,ross,VALIDACION RESULTADO,PEDIDO=38/400476
+*************
+14/07/2021 22:58:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 22:58:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:12:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 23:12:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:17:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 23:17:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:27:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 23:27:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:30:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 23:30:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:38:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 23:38:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:42:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2021 23:42:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2021 23:43:02,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+14/07/2021 23:43:13,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+14/07/2021 23:43:42,ross,VALIDACION RESULTADO,PEDIDO=38/401115
+*************
+14/07/2021 23:43:42,ross,VALIDACION RESULTADO,PEDIDO=38/401119
+*************
+15/07/2021 11:58:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2021 11:58:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2021 17:44:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2021 17:44:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2021 17:48:26,ross,Generar Paciente,Paciente=RAMIREZ PAGUAY FERNANDO CARLOS
+*************
+15/07/2021 17:51:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,,PEDIDO=39
+*************
+15/07/2021 17:51:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=39
+*************
+15/07/2021 17:53:04,ross,Actualiza FACTURA,FACTURA=6
+*************
+15/07/2021 17:53:04,ross,Ingresa FACTURA,FACTURA=6
+*************
+15/07/2021 17:53:04,ross,Insertar abono,Factura=6 Abono= 10
+*************
+15/07/2021 17:53:04,ross,Actualiza FACTURA,FACTURA=6/10
+*************
+15/07/2021 17:53:14,ross,Registra Tx Factura,Factura=6
+*************
+15/07/2021 17:53:46,ross,Registra Tx Factura,Factura=6
+*************
+15/07/2021 17:53:54,ross,Registra Tx Factura,Factura=6
+*************
+15/07/2021 17:55:12,ross,Insertar abono,Factura=6 Abono= 12.5
+*************
+15/07/2021 17:55:12,ross,Cancela FACTURA,FACTURA=6
+*************
+15/07/2021 17:55:16,ross,Registra Tx Factura,Factura=6
+*************
+15/07/2021 17:55:29,ross,Registra Tx Factura,Factura=6
+*************
+15/07/2021 17:55:33,ross,Registra Tx Factura,Factura=6
+*************
+15/07/2021 17:56:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=39
+*************
+15/07/2021 17:56:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=39
+*************
+15/07/2021 17:58:38,ross,IMPRIMIR CONTRAORDEN,
+*************
+15/07/2021 17:58:57,ross,IMPRIMIR LISTA TRABAJO,
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,WBCH=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,NEUH=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,LYMH=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,MONH=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,EOSH=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,BASOH=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,MON%25H=23
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,RBCH=3
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,HCTH=3
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,HGBH=3
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,VCMH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,HCMH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,CHCMH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,RDW_CVH=44
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,RDW_SDH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,PLTH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,MPVH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,PDWH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,PCTH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,P_LCRH=4
+*************
+15/07/2021 18:05:45,ross,GUARDA RESULTADOS,P_LCCH=4
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,COLO=AMBAR
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,ASPOH=LIGERAMENTE TURBIO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,DENO=1.020
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,PHO=5
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,UROOH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,HGBOH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,CELEPH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,PIOO=8-10
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,HEMOH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,BACOH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,MOCOH=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,URO=
+*************
+15/07/2021 18:06:58,ross,GUARDA RESULTADOS,FOO=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,OXAO=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,CRIO=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,CILO=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,CIGO=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,CILCE=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,ESP=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,ASCOH=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,OTROSO=
+*************
+15/07/2021 18:06:59,ross,GUARDA RESULTADOS,CCETO=
+*************
+15/07/2021 18:08:31,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+15/07/2021 18:09:10,ross,VALIDACION RESULTADO,PEDIDO=39/400149
+*************
+15/07/2021 18:09:11,ross,VALIDACION RESULTADO,PEDIDO=39/400150
+*************
+15/07/2021 18:09:11,ross,VALIDACION RESULTADO,PEDIDO=39/400151
+*************
+15/07/2021 18:09:11,ross,VALIDACION RESULTADO,PEDIDO=39/400476
+*************
+15/07/2021 18:11:21,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+15/07/2021 18:12:26,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+15/07/2021 18:12:40,ross,IMPRIME TODO,PEDIDO=39
+*************
+15/07/2021 18:14:23,ross,IMPRIME POR EMAMEN,PEDIDO=39
+*************
+15/07/2021 18:14:36,ross,IMPRIME SOBRE,PEDIDO=39
+*************
+15/07/2021 18:20:20,ross,ENVIO CORREO PACIENTE,PEDIDO=39
+*************
+15/07/2021 18:23:37,ross,Generar Paciente,Paciente=GOMEZ PEREZ JUAN ALIAMÑA
+*************
+15/07/2021 18:24:27,ross,Actualiza Paciente,Paciente=GOMEZ PEREZ JUAN ALIAMÑA
+*************
+15/07/2021 18:26:56,ross,Generar Paciente,Paciente=FLROES NARANO EMILIO JOSE
+*************
+15/07/2021 18:28:13,ross,Actualiza Paciente,Paciente=FLORES NARANO EMILIO JOSE
+*************
+15/07/2021 18:35:05,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIOENS:  MUESTRA HEMOLIZADA
+*************
+15/07/2021 18:35:23,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+15/07/2021 18:37:58,ross,Actualizar Rango Unico,Test=11 Rango=5-12
+*************
+15/07/2021 18:45:09,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=40
+*************
+15/07/2021 18:45:09,ross,02 IMPRIMIR COD BARRAS,PEDIDO=40
+*************
+15/07/2021 18:47:03,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+16/07/2021 09:00:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 09:00:27,,Ingreso CONTRASEÑA FALLIDO,
+*************
+16/07/2021 09:00:27,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 09:00:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:01:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 15:01:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:02:08,ross,Generar Paciente,Paciente=PACIENTE PRUEBA
+*************
+16/07/2021 15:02:24,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=41
+*************
+16/07/2021 15:02:24,ross,02 IMPRIMIR COD BARRAS,PEDIDO=41
+*************
+16/07/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=41/400151
+*************
+16/07/2021 15:10:57,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=42
+*************
+16/07/2021 15:10:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=42
+*************
+16/07/2021 15:11:11,ross,VALIDACION RESULTADO,PEDIDO=42/400151
+*************
+16/07/2021 15:16:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 15:16:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:23:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 15:23:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:25:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 15:25:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:25:42,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+16/07/2021 15:25:42,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+16/07/2021 15:27:12,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+16/07/2021 15:37:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 15:37:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:38:05,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+16/07/2021 15:41:30,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+16/07/2021 15:45:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 15:45:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 15:47:44,ross,ENVIO CORREO PACIENTE,PEDIDO=42
+*************
+16/07/2021 16:09:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 16:09:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 16:16:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 16:16:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 16:17:22,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+16/07/2021 18:02:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2021 18:02:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2021 18:03:10,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401104,400141,400140,400148,,PEDIDO=43
+*************
+16/07/2021 18:03:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=43
+*************
+16/07/2021 18:58:14,ross,1 MODIFICA ORDENNORMAL,PEDIDO=43
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,WBCH=6
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,NEUH=3.7
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,LYMH=1.9
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,MONH=
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,EOSH=0.4
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,BASOH=
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,NEU%25H=61.7
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,LYM%25H=31.9
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,MON%25H=
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,EOS%25H=6.4
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,RBCH=4.51
+*************
+16/07/2021 19:10:10,ross,GUARDA RESULTADOS,HCTH=28
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,HGBH=7.6
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,VCMH=62.1
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,HCMH=16.8
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,CHCMH=27.1
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,RDW_CVH=46.1
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,RDW_SDH=20.9
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,PLTH=557
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,MPVH=7.9
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,PDWH=15.7
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,PCTH=0.44
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,P_LCRH=
+*************
+16/07/2021 19:10:11,ross,GUARDA RESULTADOS,P_LCCH=
+*************
+19/07/2021 17:04:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2021 17:04:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2021 17:05:54,ross,Actualizar Perfil,PERFIL=PERFIL CARDIACO
+*************
+19/07/2021 17:06:28,ross,Nuevo Perfil,PERFIL=PERFIL NUEVO
+*************
+21/07/2021 06:45:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2021 06:45:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2021 09:21:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2021 09:21:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2021 09:41:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2021 09:41:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2021 09:41:57,ross,IMPRIME POR AREA,PEDIDO=34
+*************
+21/07/2021 10:21:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2021 10:21:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2021 10:23:44,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+22/07/2021 09:32:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2021 09:32:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2021 09:33:31,ross,Generar Paciente,Paciente=PACIENTE PRUEBA ADULTO MUJER
+*************
+22/07/2021 09:34:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2021 09:34:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2021 09:37:09,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=44
+*************
+22/07/2021 09:37:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=44
+*************
+22/07/2021 11:32:24,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400819,,PEDIDO=45
+*************
+22/07/2021 11:32:24,ross,02 IMPRIMIR COD BARRAS,PEDIDO=45
+*************
+22/07/2021 11:49:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2021 11:49:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2021 12:18:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2021 12:18:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2021 15:18:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2021 15:18:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2021 15:20:54,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401115,401116,401119,,PEDIDO=46
+*************
+22/07/2021 15:20:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=46
+*************
+22/07/2021 15:21:44,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALORES CONFIRMADOS
+*************
+22/07/2021 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=46/400149
+*************
+22/07/2021 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=46/400150
+*************
+22/07/2021 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=46/400151
+*************
+22/07/2021 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=46/400476
+*************
+22/07/2021 15:24:18,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+22/07/2021 15:24:40,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+22/07/2021 15:27:21,ross,GUARDA RESULTADOS,OPTOMETRIAH=APP: 1
+AFP: 2
+
+ANTECEDENTES OFTALMOLOGICOS
+3
+AVSC OD: 4
+AVSC OI: 5
+AVSCC OD: 6
+AVSCC OI: 7
+
+VISION COLORES
+OD: 8
+OI: 9
+
+REFRACCION: 
+OD: 10
+OI: 11
+ADD: 12
+
+DIAGNOSTICO: 
+13
+PLAN: 
+14
+
+*************
+22/07/2021 17:15:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2021 17:15:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2021 17:16:16,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401115,401119,,PEDIDO=1
+*************
+22/07/2021 17:16:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,WBCH=3
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,NEUH=3
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,LYMH=3
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,MONH=3
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,EOSH=4
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,BASOH=4
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,RBCH=6
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,HCTH=6
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,HGBH=6
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,VCMH=6
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,HCMH=7
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,CHCMH=7
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,RDW_CVH=7
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,RDW_SDH=7
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,PLTH=8
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,MPVH=8
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,PDWH=8
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,PCTH=9
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,P_LCRH=9
+*************
+22/07/2021 17:16:42,ross,GUARDA RESULTADOS,P_LCCH=9
+*************
+22/07/2021 17:17:04,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALORES CONFIRMADOS
+*************
+22/07/2021 17:17:07,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+22/07/2021 17:17:07,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+22/07/2021 17:17:07,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+22/07/2021 17:17:07,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+22/07/2021 17:31:12,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=1
+*************
+22/07/2021 17:31:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+22/07/2021 17:31:37,ross,1 MODIFICA ORDENNORMAL,PEDIDO=1
+*************
+22/07/2021 17:33:00,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401115,401119,,PEDIDO=1
+*************
+22/07/2021 17:33:00,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,WBCH=4
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,NEUH=4
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,LYMH=4
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,MONH=4
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,EOSH=5
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,BASOH=5
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,BASO%25H=67
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,RBCH=7
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,HCTH=7
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,HGBH=8
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,VCMH=8
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,HCMH=8
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,CHCMH=9
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,PLTH=2
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,MPVH=2
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,PDWH=3
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,PCTH=33
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,P_LCRH=4
+*************
+22/07/2021 17:33:49,ross,GUARDA RESULTADOS,P_LCCH=4
+*************
+22/07/2021 17:34:58,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+22/07/2021 17:34:58,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+22/07/2021 17:34:58,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+22/07/2021 17:34:58,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+22/07/2021 19:39:10,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+22/07/2021 19:39:56,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+22/07/2021 20:17:34,ross,VALIDACION RESULTADO,PEDIDO=1/401115
+*************
+22/07/2021 20:17:34,ross,VALIDACION RESULTADO,PEDIDO=1/401119
+*************
+24/07/2021 10:52:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/07/2021 10:52:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/07/2021 10:53:18,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+24/07/2021 11:04:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/07/2021 11:04:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/07/2021 11:11:00,ross,Generar Paciente,Paciente=MARIN FLORES KATHERINE MICHELLE
+*************
+24/07/2021 11:17:14,ross,01 GENERAR ORDEN  KIA EXAMENES: 400292,400296,400153,400101,401144,400230,401104,,PEDIDO=2
+*************
+24/07/2021 11:17:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+24/07/2021 11:21:50,ross,1 MODIFICA ORDEN KIA EXAMENES: 400292,400296,400153,400149,400101,,PEDIDO=2
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/3
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/4
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/5
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/6
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/7
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/8
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/9
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/10
+*************
+24/07/2021 11:25:18,ross,Nuevo Pedido IMPORTACION,FYBECA/11
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/12
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/13
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/14
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/15
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/16
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/17
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/18
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/19
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/20
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/21
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/22
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/23
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/24
+*************
+24/07/2021 11:25:19,ross,Nuevo Pedido IMPORTACION,FYBECA/25
+*************
+24/07/2021 11:25:20,ross,Nuevo Pedido IMPORTACION,FYBECA/26
+*************
+24/07/2021 11:31:41,ross,IMPRIMIR CONTRAORDEN,
+*************
+24/07/2021 11:31:48,ross,IMPRIMIR CONTRAORDEN,
+*************
+24/07/2021 11:32:15,ross,IMPRIMIR LISTA TRABAJO,
+*************
+24/07/2021 11:32:53,ross,IMPRIMIR HOJA TRABAJO,
+*************
+24/07/2021 11:36:44,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+24/07/2021 11:36:44,ross,GUARDA RESULTADOS,COLO=PAJIZO
+*************
+24/07/2021 11:36:44,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+24/07/2021 11:36:44,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,PHO=8.0
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,LEUOH=++
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,PROTOH=100
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,UROOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,HGBOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CELPOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CELEPH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,PIOO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,HEMOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,BACOH=++
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,MOCOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,URO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,FOO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,OXAO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CRIO=++
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CILO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CIGO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CILCE=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,ESP=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,ASCOH=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,OTROSO=
+*************
+24/07/2021 11:36:45,ross,GUARDA RESULTADOS,CCETO=++
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,COLCH=MARRON
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,CONSCH=DURA
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,Ph=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,SANC2=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,VMICC2=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,RAC2=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,RVCH=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,LEVC2H=++
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,FBACC2H=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,PIOCH=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,HMCRPH=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,INVPAC2H=-INV. DE PARASITOS-
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,AMBHC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,ACOLI=QUISTES +
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,TENCP1=QUISTES ++
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,LANDC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,NANAC1=
+*************
+24/07/2021 11:37:22,ross,GUARDA RESULTADOS,OTRCCH=
+*************
+24/07/2021 11:38:11,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALOR CONFIRMADO
+*************
+24/07/2021 11:38:35,ross,VALIDACION RESULTADO,PEDIDO=2/401104
+*************
+24/07/2021 11:38:35,ross,VALIDACION RESULTADO,PEDIDO=2/401144
+*************
+24/07/2021 11:40:37,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+24/07/2021 11:41:13,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+24/07/2021 11:41:46,ross,IMPRIME TODO,PEDIDO=2
+*************
+24/07/2021 11:42:25,ross,IMPRIME POR EMAMEN,PEDIDO=2
+*************
+24/07/2021 11:42:56,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=2
+*************
+24/07/2021 11:43:10,ross,IMPRIME SOBRE,PEDIDO=2
+*************
+24/07/2021 11:47:39,ross,ENVIO CORREO PACIENTE,PEDIDO=2
+*************
+26/07/2021 10:52:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2021 10:52:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2021 11:34:22,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,401104,400141,401119,401115,,PEDIDO=27
+*************
+26/07/2021 11:34:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=27
+*************
+26/07/2021 11:35:03,ross,VALIDACION RESULTADO,PEDIDO=27/400141
+*************
+26/07/2021 11:35:03,ross,VALIDACION RESULTADO,PEDIDO=27/400151
+*************
+26/07/2021 11:35:03,ross,VALIDACION RESULTADO,PEDIDO=27/401104
+*************
+26/07/2021 11:37:03,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+26/07/2021 11:37:35,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+26/07/2021 11:40:24,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+26/07/2021 11:41:11,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+26/07/2021 16:38:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2021 16:38:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2021 16:38:36,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=28
+*************
+26/07/2021 16:38:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=28
+*************
+26/07/2021 16:57:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2021 16:57:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2021 17:09:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2021 17:09:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2021 17:10:44,ross,1 MODIFICA ORDENNORMAL,PEDIDO=28
+*************
+26/07/2021 20:01:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2021 20:01:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 09:29:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 09:29:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 10:34:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 10:34:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 10:36:28,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401104,400141,400140,400148,401119,401115,,PEDIDO=29
+*************
+27/07/2021 10:36:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=29
+*************
+27/07/2021 10:38:20,ross,IMPRIME POR AREA,PEDIDO=27
+*************
+27/07/2021 11:11:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 11:11:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 11:16:50,ross,Generar Paciente,Paciente=IDROVO SORIANO ALBA BELEN
+*************
+27/07/2021 11:20:16,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401105,400230,400244,,PEDIDO=30
+*************
+27/07/2021 11:20:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=30
+*************
+27/07/2021 11:23:02,ross,Actualiza FACTURA,FACTURA=7
+*************
+27/07/2021 11:23:02,ross,Ingresa FACTURA,FACTURA=7
+*************
+27/07/2021 11:23:02,ross,Insertar abono,Factura=7 Abono= 25
+*************
+27/07/2021 11:23:02,ross,Actualiza FACTURA,FACTURA=7/25
+*************
+27/07/2021 11:23:08,ross,Registra Tx Factura,Factura=7
+*************
+27/07/2021 11:24:44,ross,Insertar abono,Factura=7 Abono= 25
+*************
+27/07/2021 11:24:44,ross,Cancela FACTURA,FACTURA=7
+*************
+27/07/2021 11:24:46,ross,Registra Tx Factura,Factura=7
+*************
+27/07/2021 11:25:09,ross,Registra Tx Factura,Factura=7
+*************
+27/07/2021 11:25:19,ross,Registra Tx Factura,Factura=7
+*************
+27/07/2021 11:26:55,ross,03 IMPRIMIR PEDIDO,PEDIDO=30
+*************
+27/07/2021 11:27:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=30
+*************
+27/07/2021 11:33:57,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/31
+*************
+27/07/2021 11:33:57,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/32
+*************
+27/07/2021 11:33:57,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/33
+*************
+27/07/2021 11:33:57,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/34
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/35
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/36
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/37
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/38
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/39
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/40
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/41
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/42
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/43
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/44
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/45
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/46
+*************
+27/07/2021 11:33:58,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/47
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/48
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/49
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/50
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/51
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/52
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/53
+*************
+27/07/2021 11:33:59,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/54
+*************
+27/07/2021 11:35:01,ross,IMPRIMIR CONTRAORDEN,
+*************
+27/07/2021 11:35:56,ross,IMPRIMIR LISTA TRABAJO,
+*************
+27/07/2021 11:36:26,ross,IMPRIMIR HOJA TRABAJO,
+*************
+27/07/2021 11:37:28,ross,IMPRIMIR CONTRAORDEN,
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,WBC=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,NEU=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,LYM=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,MON=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,EOS=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,BASO=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,MON%25=33
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,RBC=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,HCT=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,HGB=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,VCM=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,HCM=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,CHCM=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,PLT=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,MPV=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,PDW=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,PCT=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,P_LCR=3
+*************
+27/07/2021 11:39:58,ross,GUARDA RESULTADOS,P_LCC=3
+*************
+27/07/2021 11:41:22,ross,GUARDA RESULTADOS,IGG_CUANH=0.23
+*************
+27/07/2021 11:41:22,ross,GUARDA RESULTADOS,IGM_CUANH=1.45
+*************
+27/07/2021 11:41:22,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,COLO=ROJO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,DENO=1.025
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,PHO=7.0
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,UROOH=
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+27/07/2021 11:42:12,ross,GUARDA RESULTADOS,HGBOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CELEPH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,PIOO=8-10
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,HEMOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,BACOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,MOCOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,LEVA_ORINA=++
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,URO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,FOO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,OXAO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CRIO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CILO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CIGO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CILCE=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,ESP=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,ASCOH=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,OTROSO=
+*************
+27/07/2021 11:42:13,ross,GUARDA RESULTADOS,CCETO=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,COLCH=AMARILLA
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,ASPECTO=MUCOIDE
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,CONSCH=LIQUIDA
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,Ph=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,SANC2=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,VMICC2=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,RAC2=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,RVCH=+++
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,LEVC2H=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,FBACC2H=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,PIOCH=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,HMCRPH=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,INVPAC2H=-INV. DE PARASITOS-
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,AMBHC1=QUISTES +++
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,ACOLI=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,CHILOMASTIX=QUISTES +++
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,TENCP1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,LANDC1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,YODAMEBA=HUEVOS +
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,NANAC1=
+*************
+27/07/2021 11:42:40,ross,GUARDA RESULTADOS,OTRCCH=
+*************
+27/07/2021 11:45:46,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+27/07/2021 11:47:02,ross,VALIDACION RESULTADO,PEDIDO=30/400149
+*************
+27/07/2021 11:47:02,ross,VALIDACION RESULTADO,PEDIDO=30/400150
+*************
+27/07/2021 11:47:02,ross,VALIDACION RESULTADO,PEDIDO=30/400151
+*************
+27/07/2021 11:47:02,ross,VALIDACION RESULTADO,PEDIDO=30/400476
+*************
+27/07/2021 11:49:16,ross,IMPRIME POR AREA,PEDIDO=30
+*************
+27/07/2021 11:53:08,ross,IMPRIME TODO,PEDIDO=30
+*************
+27/07/2021 12:03:51,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401115,401119,400149,400150,400476,400151,,PEDIDO=55
+*************
+27/07/2021 12:03:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=55
+*************
+27/07/2021 12:04:54,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+27/07/2021 12:05:14,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+27/07/2021 12:05:27,ross,VALIDACION RESULTADO,PEDIDO=55/401115
+*************
+27/07/2021 12:05:27,ross,VALIDACION RESULTADO,PEDIDO=55/401119
+*************
+27/07/2021 17:18:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 17:18:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 17:20:17,ross,1 MODIFICA ORDENNORMAL,PEDIDO=55
+*************
+27/07/2021 17:21:18,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=56
+*************
+27/07/2021 17:21:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=56
+*************
+27/07/2021 17:28:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 17:28:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 17:32:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 17:32:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,WBCH=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,NEUH=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,LYMH=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,MONH=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,EOSH=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,BASOH=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,RBCH=3
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,HCTH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,HGBH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,VCMH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,HCMH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,CHCMH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,RDW_CVH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,RDW_SDH=4
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,PLTH=5
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,MPVH=5
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,PDWH=5
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,PCTH=6
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,P_LCRH=6
+*************
+27/07/2021 17:34:17,ross,GUARDA RESULTADOS,P_LCCH=8
+*************
+27/07/2021 17:36:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 17:36:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 19:37:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 19:37:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 19:41:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 19:41:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,WBCH=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,NEUH=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,LYMH=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,MONH=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,EOSH=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,BASOH=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,RBCH=3
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,HCTH=4
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,HGBH=4
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,VCMH=4
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,HCMH=4
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,CHCMH=4
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,RDW_CVH=4
+*************
+27/07/2021 19:42:48,ross,GUARDA RESULTADOS,RDW_SDH=4
+*************
+27/07/2021 19:42:49,ross,GUARDA RESULTADOS,PLTH=5
+*************
+27/07/2021 19:42:49,ross,GUARDA RESULTADOS,MPVH=5
+*************
+27/07/2021 19:42:49,ross,GUARDA RESULTADOS,PDWH=5
+*************
+27/07/2021 19:42:49,ross,GUARDA RESULTADOS,PCTH=6
+*************
+27/07/2021 19:42:49,ross,GUARDA RESULTADOS,P_LCRH=6
+*************
+27/07/2021 19:42:49,ross,GUARDA RESULTADOS,P_LCCH=8
+*************
+27/07/2021 19:50:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 19:50:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 20:19:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 20:19:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 20:26:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 20:26:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 20:30:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 20:30:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 20:34:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 20:34:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 20:38:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 20:39:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 20:59:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 20:59:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 21:14:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 21:14:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 21:45:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 21:45:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 22:31:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 22:31:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 22:51:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 22:51:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 23:00:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 23:00:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 23:05:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 23:05:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 23:10:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 23:10:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 23:16:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 23:16:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 23:21:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 23:21:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2021 23:27:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2021 23:27:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/07/2021 21:09:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/07/2021 21:09:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/07/2021 21:26:40,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=57
+*************
+28/07/2021 21:26:40,ross,02 IMPRIMIR COD BARRAS,PEDIDO=57
+*************
+28/07/2021 21:32:29,ross,VALIDACION RESULTADO,PEDIDO=57/400151
+*************
+29/07/2021 14:50:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2021 14:50:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2021 14:53:12,ross,Generar Paciente,Paciente=CARDENAS AGUILAR GARY JAVIER
+*************
+29/07/2021 14:53:54,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401115,401119,400149,400150,400476,400151,,PEDIDO=58
+*************
+29/07/2021 14:53:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=58
+*************
+29/07/2021 14:54:48,ross,Actualiza FACTURA,FACTURA=8
+*************
+29/07/2021 14:54:48,ross,Ingresa FACTURA,FACTURA=8
+*************
+29/07/2021 14:54:50,ross,Insertar abono,Factura=8 Abono= 65
+*************
+29/07/2021 14:54:51,ross,Cancela FACTURA,FACTURA=8
+*************
+29/07/2021 14:54:53,ross,Registra Tx Factura,Factura=8
+*************
+29/07/2021 14:57:19,ross,Nuevo Pedido IMPORTACION,FYBECA/59
+*************
+29/07/2021 14:57:19,ross,Nuevo Pedido IMPORTACION,FYBECA/60
+*************
+29/07/2021 14:57:19,ross,Nuevo Pedido IMPORTACION,FYBECA/61
+*************
+29/07/2021 14:57:20,ross,Nuevo Pedido IMPORTACION,FYBECA/62
+*************
+29/07/2021 14:57:20,ross,Nuevo Pedido IMPORTACION,FYBECA/63
+*************
+29/07/2021 14:57:20,ross,Nuevo Pedido IMPORTACION,FYBECA/64
+*************
+29/07/2021 14:57:20,ross,Nuevo Pedido IMPORTACION,FYBECA/65
+*************
+29/07/2021 14:57:20,ross,Nuevo Pedido IMPORTACION,FYBECA/66
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/67
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/68
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/69
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/70
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/71
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/72
+*************
+29/07/2021 14:57:21,ross,Nuevo Pedido IMPORTACION,FYBECA/73
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/74
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/75
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/76
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/77
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/78
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/79
+*************
+29/07/2021 14:57:22,ross,Nuevo Pedido IMPORTACION,FYBECA/80
+*************
+29/07/2021 14:57:23,ross,Nuevo Pedido IMPORTACION,FYBECA/81
+*************
+29/07/2021 14:57:23,ross,Nuevo Pedido IMPORTACION,FYBECA/82
+*************
+29/07/2021 15:00:49,ross,Elimina Lista de Precios,Lista Precio=REFERIDOS
+*************
+29/07/2021 15:04:01,ross,AGENDAMIENTO,PEDIDO=83
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,WBCH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,NEUH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,LYMH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,MONH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,EOSH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,BASOH=
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,RBCH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,HCTH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,HGBH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,VCMH=
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,HCMH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,CHCMH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,PLTH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,MPVH=3
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,PDWH=
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,PCTH=
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,P_LCRH=
+*************
+29/07/2021 15:04:27,ross,GUARDA RESULTADOS,P_LCCH=
+*************
+29/07/2021 15:06:04,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+29/07/2021 15:06:23,ross,VALIDACION RESULTADO,PEDIDO=58/400149
+*************
+29/07/2021 15:06:23,ross,VALIDACION RESULTADO,PEDIDO=58/400150
+*************
+29/07/2021 15:06:23,ross,VALIDACION RESULTADO,PEDIDO=58/400151
+*************
+29/07/2021 15:06:23,ross,VALIDACION RESULTADO,PEDIDO=58/400476
+*************
+29/07/2021 15:06:45,ross,IMPRIME TODO,PEDIDO=58
+*************
+29/07/2021 15:09:10,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=58 EMAIL NO VALIDO
+*************
+30/07/2021 13:00:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/07/2021 13:00:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/07/2021 13:11:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/07/2021 13:11:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/07/2021 13:12:18,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=84
+*************
+30/07/2021 13:12:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=84
+*************
+30/07/2021 13:13:01,ross,1 MODIFICA ORDENNORMAL,PEDIDO=84
+*************
+30/07/2021 13:36:52,ross,Actualiza Test,Test=V.C.M
+*************
+30/07/2021 13:37:13,ross,Actualiza Test,Test=H.C.M
+*************
+30/07/2021 13:37:30,ross,Actualiza Test,Test=C.H.C.M.
+*************
+30/07/2021 13:37:59,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400101,,PEDIDO=84
+*************
+30/07/2021 15:12:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/07/2021 15:12:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/07/2021 15:12:54,ross,Actualiza Test,Test=V.C.M
+*************
+30/07/2021 15:13:30,ross,Actualiza Test,Test=RDW_ CV
+*************
+30/07/2021 15:13:43,ross,Actualiza Test,Test=RDW_ SD
+*************
+30/07/2021 15:14:11,ross,Actualiza Test,Test=P_LCR
+*************
+30/07/2021 15:14:23,ross,Actualiza Test,Test=P_LCC
+*************
+30/07/2021 15:14:44,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400101,,PEDIDO=84
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,WBCH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,NEUH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,LYMH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,MONH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,EOSH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,BASOH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,NEU%25H=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,MON%25H=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,RBCH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,HCTH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,HGBH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,VCMH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,MCHH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,MCHCH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,RDW-CVH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,RDW-SDH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,PLTH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,MPVH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,PDWH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,PCTH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+30/07/2021 15:44:03,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+30/07/2021 16:30:06,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=85
+*************
+30/07/2021 16:30:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=85
+*************
+30/07/2021 16:30:28,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401104,400141,400151,,PEDIDO=86
+*************
+30/07/2021 16:30:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=86
+*************
+30/07/2021 16:30:56,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400141,400148,400140,401104,,PEDIDO=87
+*************
+30/07/2021 16:30:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=87
+*************
+30/07/2021 16:31:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401104,400141,400140,400148,,PEDIDO=88
+*************
+30/07/2021 16:31:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=88
+*************
+30/07/2021 16:31:54,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401104,400141,400140,400151,,PEDIDO=89
+*************
+30/07/2021 16:31:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=89
+*************
+30/07/2021 16:51:49,ross,Actualiza Test,Test=V.C.M
+*************
+30/07/2021 16:54:54,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400101,,PEDIDO=84
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,WBCH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,NEUH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,LYMH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,MONH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,EOSH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,BASOH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,NEU%25H=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,MON%25H=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,RBCH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,HCTH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,HGBH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,MCVH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,MCHH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,MCHCH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,RDW-CVH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,RDW-SDH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,PLTH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,MPVH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,PDWH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,PCTH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+30/07/2021 17:24:23,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+30/07/2021 19:45:12,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+30/07/2021 19:45:47,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400101,,PEDIDO=84
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,WBCH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,NEUH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,LYMH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,MONH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,EOSH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,BASOH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,NEU%25H=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,MON%25H=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,RBCH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,HCTH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,HGBH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,MCVH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,MCHH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,MCHCH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,RDW-CVH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,RDW-SDH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,PLTH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,MPVH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,PDWH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,PCTH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+30/07/2021 19:47:48,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+31/07/2021 13:46:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=84
+*************
+31/07/2021 13:49:02,ross,Actualiza Test,Test=CREATININA
+*************
+12/07/2021 11:50:19,ross,Nuevo Pedido PRE CARGA,NORMAL/1
+*************
+12/07/2021 11:52:04,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:06,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:07,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:08,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:09,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:10,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:11,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:12,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:13,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:14,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:15,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:16,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:17,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:18,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:19,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************
+12/07/2021 11:52:20,ross,GUARDA CUTANEAS,1
+*************

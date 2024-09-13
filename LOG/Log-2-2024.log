@@ -1,0 +1,3096 @@
+01/02/2024 8:25:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 8:25:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 8:26:33,ross,Nuevo Convenio,Convenio=DRA. SANDI MENDOZA
+*************
+01/02/2024 8:26:34,ross,Guardar secuencia,SECUENCIA=DRA. SANDI MENDOZA/1301/1400
+*************
+01/02/2024 8:27:17,ross,Nuevo Convenio,Convenio=CEMEDEFA
+*************
+01/02/2024 8:27:17,ross,Guardar secuencia,SECUENCIA=CEMEDEFA/1401/1500
+*************
+01/02/2024 8:28:13,ross,Nuevo Convenio,Convenio=MEDES
+*************
+01/02/2024 8:28:13,ross,Guardar secuencia,SECUENCIA=MEDES/1501/1600
+*************
+01/02/2024 8:28:33,ross,Nuevo Convenio,Convenio=CEMEDEFA
+*************
+01/02/2024 8:28:33,ross,Guardar secuencia,SECUENCIA=CEMEDEFA/1601/1700
+*************
+01/02/2024 8:28:44,ross,Nuevo Convenio,Convenio=MUNDO
+*************
+01/02/2024 8:28:44,ross,Guardar secuencia,SECUENCIA=MUNDO/1701/1800
+*************
+01/02/2024 8:29:09,ross,01 GENERAR ORDEN  DRA. SANDI MENDOZA EXAMENES: 400151,,PEDIDO=35
+*************
+01/02/2024 8:29:26,ross,01 GENERAR ORDEN  CEMEDEFA EXAMENES: 400149,,PEDIDO=36
+*************
+01/02/2024 8:29:46,ross,01 GENERAR ORDEN  MEDES EXAMENES: 400151,,PEDIDO=37
+*************
+01/02/2024 8:30:10,ross,01 GENERAR ORDEN  CEMEDEFA EXAMENES: 400151,,PEDIDO=38
+*************
+01/02/2024 8:30:36,ross,GUARDA RESULTADOS,TGLH=12
+*************
+01/02/2024 8:53:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 8:53:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 8:53:57,ross,GUARDA RESULTADOS,COLH=13
+*************
+01/02/2024 8:54:01,ross,VALIDACION RESULTADO,PEDIDO=36/400149
+*************
+01/02/2024 8:54:02,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:02,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:05,ross,GUARDA RESULTADOS,TGLH=12
+*************
+01/02/2024 8:54:07,ross,VALIDACION RESULTADO,PEDIDO=35/400151
+*************
+01/02/2024 8:54:07,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:07,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:12,ross,GUARDA RESULTADOS,TGLH=14
+*************
+01/02/2024 8:54:14,ross,VALIDACION RESULTADO,PEDIDO=37/400151
+*************
+01/02/2024 8:54:14,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:15,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:29,ross,GUARDA RESULTADOS,TGLH=15
+*************
+01/02/2024 8:54:30,ross,VALIDACION RESULTADO,PEDIDO=38/400151
+*************
+01/02/2024 8:54:31,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 8:54:31,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:02:30,ross,GUARDA RESULTADOS,TGLH=12
+*************
+01/02/2024 9:02:32,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:02:32,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:30:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 9:30:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 9:30:36,ross,GUARDA RESULTADOS,TGLH=12
+*************
+01/02/2024 9:30:38,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:43:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 9:44:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 9:54:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 9:54:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 9:54:25,ross,GUARDA RESULTADOS,TGLH=12
+*************
+01/02/2024 9:54:29,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:54:37,ross,GUARDA RESULTADOS,COLH=13
+*************
+01/02/2024 9:54:47,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:54:56,ross,GUARDA RESULTADOS,TGLH=14
+*************
+01/02/2024 9:55:05,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:55:12,ross,GUARDA RESULTADOS,TGLH=15
+*************
+01/02/2024 9:55:13,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 9:59:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 9:59:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 10:00:21,ross,GUARDA RESULTADOS,TGLH=12
+*************
+01/02/2024 10:00:23,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 10:00:43,ross,GUARDA RESULTADOS,COLH=13
+*************
+01/02/2024 10:00:49,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 10:01:05,ross,GUARDA RESULTADOS,TGLH=14
+*************
+01/02/2024 10:01:07,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 10:01:11,ross,GUARDA RESULTADOS,TGLH=15
+*************
+01/02/2024 10:01:13,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 10:02:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 10:03:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 10:03:14,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+01/02/2024 10:03:37,ross,IMPRIME POR AREA,PEDIDO=36
+*************
+01/02/2024 10:03:44,ross,IMPRIME POR AREA,PEDIDO=37
+*************
+01/02/2024 10:03:51,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+01/02/2024 10:04:30,ross,Actualizar Convenio,Convenio=DRA. SAMI MENDOZA
+*************
+01/02/2024 10:04:30,ross,Actualizar Secuencia,SECUENCIA=DRA. SAMI MENDOZA/1301/1400
+*************
+01/02/2024 10:04:30,ross,Actualizar LISTA PRECIO=DRA. SAMI MENDOZA,
+*************
+01/02/2024 10:04:33,ross,Actualizar pedido en convenio =DRA. SAMI MENDOZA,
+*************
+01/02/2024 10:05:57,ross,Nuevo Convenio,Convenio=RENAL
+*************
+01/02/2024 10:05:57,ross,Guardar secuencia,SECUENCIA=RENAL/1801/1900
+*************
+01/02/2024 10:06:12,ross,Eliminar Convenio,Convenio0CEMEDEFA
+*************
+01/02/2024 10:06:12,ross,Elimina Lista de Precios,Lista Precio=CEMEDEFA
+*************
+01/02/2024 10:06:12,ross,Eliminar Secuencia,SECUENCIA=CEMEDEFA
+*************
+01/02/2024 10:08:23,ross,Nuevo Convenio,Convenio=CEMEDEFA
+*************
+01/02/2024 10:08:26,ross,Guardar secuencia,SECUENCIA=CEMEDEFA/1401/1500
+*************
+01/02/2024 10:20:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 10:20:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 10:20:14,ross,GUARDA RESULTADOS,TGLH=15
+*************
+01/02/2024 10:20:17,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 11:01:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 11:01:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 11:05:02,ross,01 GENERAR ORDEN  DRA. SAMI MENDOZA EXAMENES: 400151,,PEDIDO=39
+*************
+01/02/2024 11:05:21,ross,GUARDA RESULTADOS,TGLH=167
+*************
+01/02/2024 11:05:22,ross,VALIDACION RESULTADO,PEDIDO=39/400151
+*************
+01/02/2024 11:05:22,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 11:06:02,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+01/02/2024 11:06:07,ross,IMPRIME TODO,PEDIDO=39
+*************
+01/02/2024 11:09:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 11:09:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 11:09:24,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+01/02/2024 11:09:28,ross,IMPRIME TODO,PEDIDO=39
+*************
+01/02/2024 11:55:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 11:55:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 11:55:39,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+01/02/2024 11:55:45,ross,IMPRIME TODO,PEDIDO=39
+*************
+01/02/2024 12:07:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:07:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 12:07:38,ross,01 GENERAR ORDEN  DRA. SAMI MENDOZA EXAMENES: 400149,400150,400476,400151,400295,,PEDIDO=40
+*************
+01/02/2024 12:07:53,ross,GUARDA RESULTADOS,COLH=1
+*************
+01/02/2024 12:07:53,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+01/02/2024 12:07:53,ross,GUARDA RESULTADOS,LDLH=3
+*************
+01/02/2024 12:07:53,ross,GUARDA RESULTADOS,TGLH=4
+*************
+01/02/2024 12:07:55,ross,VALIDACION RESULTADO,PEDIDO=40/400149
+*************
+01/02/2024 12:07:55,ross,VALIDACION RESULTADO,PEDIDO=40/400150
+*************
+01/02/2024 12:07:55,ross,VALIDACION RESULTADO,PEDIDO=40/400151
+*************
+01/02/2024 12:07:55,ross,VALIDACION RESULTADO,PEDIDO=40/400476
+*************
+01/02/2024 12:07:55,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:08:07,ross,IMPRIME POR AREA,PEDIDO=40
+*************
+01/02/2024 12:09:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:09:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 12:09:59,ross,GUARDA RESULTADOS,COLH=1
+*************
+01/02/2024 12:09:59,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+01/02/2024 12:09:59,ross,GUARDA RESULTADOS,LDLH=3
+*************
+01/02/2024 12:09:59,ross,GUARDA RESULTADOS,TGLH=4
+*************
+01/02/2024 12:10:01,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:10:12,ross,IMPRIME POR AREA,PEDIDO=40
+*************
+01/02/2024 12:19:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:19:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 12:19:53,ross,GUARDA RESULTADOS,COLH=1
+*************
+01/02/2024 12:19:53,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+01/02/2024 12:19:53,ross,GUARDA RESULTADOS,LDLH=3
+*************
+01/02/2024 12:19:53,ross,GUARDA RESULTADOS,TGLH=4
+*************
+01/02/2024 12:19:55,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:20:02,ross,GUARDA RESULTADOS,COLH=1
+*************
+01/02/2024 12:20:02,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+01/02/2024 12:20:02,ross,GUARDA RESULTADOS,LDLH=3
+*************
+01/02/2024 12:20:02,ross,GUARDA RESULTADOS,TGLH=4
+*************
+01/02/2024 12:20:03,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:22:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:22:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 12:22:17,ross,IMPRIME POR AREA,PEDIDO=35
+*************
+01/02/2024 12:22:24,ross,IMPRIME POR AREA,PEDIDO=36
+*************
+01/02/2024 12:22:31,ross,IMPRIME POR AREA,PEDIDO=37
+*************
+01/02/2024 12:22:36,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+01/02/2024 12:22:43,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+01/02/2024 12:22:51,ross,IMPRIME POR AREA,PEDIDO=40
+*************
+01/02/2024 12:24:32,ross,Actualizar Convenio,Convenio=RENALVIDA
+*************
+01/02/2024 12:24:32,ross,Actualizar Secuencia,SECUENCIA=RENALVIDA/1801/1900
+*************
+01/02/2024 12:24:32,ross,Actualizar LISTA PRECIO=RENALVIDA,
+*************
+01/02/2024 12:24:33,ross,Actualizar pedido en convenio =RENALVIDA,
+*************
+01/02/2024 12:24:52,ross,01 GENERAR ORDEN  RENALVIDA EXAMENES: 400149,,PEDIDO=41
+*************
+01/02/2024 12:25:08,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+01/02/2024 12:25:09,ross,VALIDACION RESULTADO,PEDIDO=41/400149
+*************
+01/02/2024 12:25:10,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:25:18,ross,IMPRIME POR AREA,PEDIDO=41
+*************
+01/02/2024 12:25:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400185,400186,,PEDIDO=42
+*************
+01/02/2024 12:26:02,ross,GUARDA RESULTADOS,ASTH=12
+*************
+01/02/2024 12:26:02,ross,GUARDA RESULTADOS,ALTH=24
+*************
+01/02/2024 12:26:04,ross,VALIDACION RESULTADO,PEDIDO=42/400185
+*************
+01/02/2024 12:26:04,ross,VALIDACION RESULTADO,PEDIDO=42/400186
+*************
+01/02/2024 12:26:04,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:26:11,ross,IMPRIME POR AREA,PEDIDO=42
+*************
+01/02/2024 12:26:57,ross,01 GENERAR ORDEN  FYBECA EXAMENES: 400154,,PEDIDO=43
+*************
+01/02/2024 12:27:11,ross,GUARDA RESULTADOS,TPRHH=3.2
+*************
+01/02/2024 12:27:12,ross,VALIDACION RESULTADO,PEDIDO=43/400154
+*************
+01/02/2024 12:27:12,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:27:21,ross,IMPRIME POR AREA,PEDIDO=43
+*************
+01/02/2024 12:32:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:32:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 12:32:18,ross,IMPRIME POR AREA,PEDIDO=43
+*************
+01/02/2024 12:32:28,ross,IMPRIME POR AREA,PEDIDO=41
+*************
+01/02/2024 12:32:37,ross,IMPRIME POR AREA,PEDIDO=39
+*************
+01/02/2024 12:35:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:35:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 12:36:16,ross,01 GENERAR ORDEN  FYBECA EXAMENES: 400122,,PEDIDO=44
+*************
+01/02/2024 12:36:35,ross,GUARDA RESULTADOS,TRAN2H=1212
+*************
+01/02/2024 12:36:37,ross,VALIDACION RESULTADO,PEDIDO=44/400122
+*************
+01/02/2024 12:36:37,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 12:36:46,ross,IMPRIME POR AREA,PEDIDO=44
+*************
+01/02/2024 12:36:55,ross,IMPRIME POR AREA,PEDIDO=43
+*************
+01/02/2024 12:37:07,ross,IMPRIME POR AREA,PEDIDO=42
+*************
+01/02/2024 12:37:14,ross,IMPRIME POR AREA,PEDIDO=41
+*************
+01/02/2024 12:38:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 12:38:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 13:08:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 13:08:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 15:27:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 15:27:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 15:31:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 15:31:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 16:38:14,ross,GUARDA RESULTADOS,TRAN2H=1212
+*************
+01/02/2024 16:38:16,ross,Eliminar resultado AUX_HIS,
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CERDOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_POLLOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CORVINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ATUNH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LANGOSTAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CAMARONH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LECHEH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HUEVOCIH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_YEMAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_TRIGOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_MAIZH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ARROZH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_FREJOLH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LENTEJAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HABAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_TOMATEH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_MANIH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_NARANJAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PIÑAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_FRUTILLAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PARABENOSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HISTAMINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ABEJAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_AVISPAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HIELOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LATEXH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_INSECTOSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_DILUYENTEH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ROJOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_AZULH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ACNEH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_INSECTH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CYNODONH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HOLCUSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LOLIUMH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_POAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_AGROSTISH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_BROMUSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_DACTILISH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PHLEUMH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_GRAMINEAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ASPERGILLUSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HORMODENDH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CANDIDAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_MUCORH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PENICILLIUMH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_RHIZOPUSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_POLVOCPH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_POLVOCSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CUCARACHAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_DPTERONYSINUSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_BLOMIAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PLUMASH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LANAPERROH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LANAGATOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_HTABH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_DETERGENTESH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_SIBH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PIRAZOLONAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_OXICANESH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_DICLOFENACOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_NAPROXENOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_COXIBSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_ASPIRINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_TRAMADOLH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_LIDOCAINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_MEPIVACAINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_KETOROLACOH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_PENICILINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_QUINOLONASH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_AMOXICILINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CEFALOSPORINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_CLARITROMICINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_GENTAMICINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_SULFASH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_AZITROMICINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_DICLOXACILINAH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+01/02/2024 17:24:44,ross,CUTANEAS,AL_YODOH
+*************
+01/02/2024 17:44:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 17:44:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2024 17:47:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2024 17:47:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:38:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 9:38:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:46:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 9:46:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:46:55,ross,Nuevo Pedido PRE CARGA,NORMAL/45
+*************
+05/02/2024 9:51:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 9:51:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:52:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 9:52:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:55:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 9:55:42,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/02/2024 9:55:42,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:55:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 9:59:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 9:59:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 10:00:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 10:00:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 10:01:29,ross,Operación de Movimiento Inventario,
+*************
+05/02/2024 10:01:31,ross,Inserción de detalle movimiento inventario,
+*************
+05/02/2024 11:22:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 11:22:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 11:22:47,ross,01 GENERAR ORDEN  RENALVIDA EXAMENES: 400151,,PEDIDO=46
+*************
+05/02/2024 11:23:00,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=47
+*************
+05/02/2024 11:23:13,ross,GUARDA RESULTADOS,TGLH=12
+*************
+05/02/2024 11:23:16,ross,VALIDACION RESULTADO,PEDIDO=46/400151
+*************
+05/02/2024 11:23:17,ross,Eliminar resultado AUX_HIS,
+*************
+05/02/2024 11:23:59,ross,Eliminar resultado AUX_HIS,
+*************
+05/02/2024 11:24:12,ross,GUARDA RESULTADOS,COLH=124
+*************
+05/02/2024 11:24:14,ross,VALIDACION RESULTADO,PEDIDO=47/400149
+*************
+05/02/2024 11:24:14,ross,Eliminar resultado AUX_HIS,
+*************
+05/02/2024 11:28:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 11:28:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 11:29:03,ross,GUARDA RESULTADOS,TGLH=12
+*************
+05/02/2024 11:29:38,ross,Eliminar resultado AUX_HIS,
+*************
+05/02/2024 11:30:05,ross,GUARDA RESULTADOS,COLH=124
+*************
+05/02/2024 11:30:07,ross,Eliminar resultado AUX_HIS,
+*************
+05/02/2024 16:52:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 16:52:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 16:58:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2024 16:58:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_CERDOH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_POLLOH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_CORVINAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_ATUNH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_LANGOSTAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_CAMARONH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_LECHEH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_HUEVOCIH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_YEMAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_TRIGOH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_MAIZH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_ARROZH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_FREJOLH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_LENTEJAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_HABAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_TOMATEH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_MANIH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_NARANJAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_PIÑAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_FRUTILLAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_PARABENOSH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_HISTAMINAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_INSECTH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_CYNODONH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_HOLCUSH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_PENICILINAH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_QUINOLONASH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+05/02/2024 16:59:21,ross,CUTANEAS,AL_YODOH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_CERDOH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_POLLOH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_CORVINAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_ATUNH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_LANGOSTAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_CAMARONH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_LECHEH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_HUEVOCIH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_YEMAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_TRIGOH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_MAIZH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_ARROZH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_FREJOLH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_LENTEJAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_HABAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_TOMATEH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_MANIH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_NARANJAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_PIÑAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_FRUTILLAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_PARABENOSH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_HISTAMINAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_INSECTH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_CYNODONH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_HOLCUSH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_PENICILINAH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_QUINOLONASH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+05/02/2024 16:59:45,ross,CUTANEAS,AL_YODOH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_CERDOH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_POLLOH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_CORVINAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_ATUNH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_LANGOSTAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_CAMARONH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_LECHEH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_HUEVOCIH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_YEMAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_TRIGOH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_MAIZH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_ARROZH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_FREJOLH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_LENTEJAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_HABAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_TOMATEH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_MANIH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_NARANJAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_PIÑAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_FRUTILLAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_PARABENOSH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_HISTAMINAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_INSECTH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_CYNODONH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_HOLCUSH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_PENICILINAH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_QUINOLONASH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+05/02/2024 17:00:21,ross,CUTANEAS,AL_YODOH
+*************
+06/02/2024 20:15:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2024 20:15:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2024 20:16:12,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+06/02/2024 21:16:30,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+07/02/2024 10:15:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/02/2024 10:15:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/02/2024 11:12:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/02/2024 11:12:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/02/2024 11:13:40,ross,GUARDA RESULTADOS,COLH=201.3
+*************
+07/02/2024 11:13:40,ross,GUARDA RESULTADOS,AHDLH=67.1
+*************
+07/02/2024 11:13:40,ross,GUARDA RESULTADOS,LDLH=96.4
+*************
+07/02/2024 11:13:40,ross,GUARDA RESULTADOS,TGLH=189.0
+*************
+07/02/2024 12:22:35,ross,GUARDA RESULTADOS,COLH=201.3
+*************
+07/02/2024 12:22:35,ross,GUARDA RESULTADOS,AHDLH=67.1
+*************
+07/02/2024 12:22:35,ross,GUARDA RESULTADOS,LDLH=96.4
+*************
+07/02/2024 12:22:35,ross,GUARDA RESULTADOS,TGLH=189.0
+*************
+07/02/2024 12:22:37,ross,VALIDACION RESULTADO,PEDIDO=17/400149
+*************
+07/02/2024 12:22:37,ross,VALIDACION RESULTADO,PEDIDO=17/400150
+*************
+07/02/2024 12:22:37,ross,VALIDACION RESULTADO,PEDIDO=17/400151
+*************
+07/02/2024 12:22:37,ross,VALIDACION RESULTADO,PEDIDO=17/400476
+*************
+07/02/2024 12:22:37,ross,Eliminar resultado AUX_HIS,
+*************
+07/02/2024 12:25:46,ross,GUARDA RESULTADOS,COLH=201.3
+*************
+07/02/2024 12:25:46,ross,GUARDA RESULTADOS,AHDLH=67.1
+*************
+07/02/2024 12:25:46,ross,GUARDA RESULTADOS,LDLH=96.4
+*************
+07/02/2024 12:25:46,ross,GUARDA RESULTADOS,TGLH=189.0
+*************
+07/02/2024 12:25:48,ross,Eliminar resultado AUX_HIS,
+*************
+07/02/2024 12:26:01,ross,IMPRIME POR AREA,PEDIDO=17
+*************
+07/02/2024 12:26:13,ross,IMPRIME POR AREA,PEDIDO=17
+*************
+07/02/2024 12:54:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/02/2024 12:54:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/02/2024 12:54:52,ross,IMPRIME POR AREA,PEDIDO=17
+*************
+08/02/2024 13:06:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/02/2024 13:06:37,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/02/2024 13:06:37,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/02/2024 13:06:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/02/2024 15:17:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/02/2024 15:17:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/02/2024 15:24:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/02/2024 15:24:35,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/02/2024 15:24:35,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/02/2024 15:24:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/02/2024 15:27:12,ross,Nuevo Pedido PRE CARGA,NORMAL/48
+*************
+09/02/2024 13:11:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 13:11:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 16:36:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 16:37:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 16:41:15,ross,Nuevo Pedido PRE CARGA,NORMAL/49
+*************
+09/02/2024 16:41:31,ross,Nuevo Pedido PRE CARGA,NORMAL/50
+*************
+09/02/2024 16:49:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 16:49:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 16:51:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 16:51:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 16:53:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 16:53:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 16:55:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 16:55:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 17:10:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 17:10:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 17:24:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 17:24:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/02/2024 17:32:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/02/2024 17:32:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 10:21:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 10:21:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 10:28:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 10:28:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 10:38:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 10:38:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 11:28:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 11:29:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 11:35:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 11:35:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 11:52:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 11:52:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 14:40:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 14:40:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 14:44:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 14:45:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 14:47:11,ross,Nuevo Pedido PRE CARGA,NORMAL/51
+*************
+10/02/2024 15:49:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 15:49:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 15:51:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 15:51:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:05:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:10:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:14:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:14:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:15:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:15:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:21:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:21:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:23:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:23:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:26:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:27:56,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/02/2024 16:27:56,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:27:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:36:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:36:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:42:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:42:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:52:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:52:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:53:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:53:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:56:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:56:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 16:58:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 16:58:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:00:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:00:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:02:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:02:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:04:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:04:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:08:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:08:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:24:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:24:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:27:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:27:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:32:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:32:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:43:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:43:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:44:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:44:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:46:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:46:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 17:49:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 17:49:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:02:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:02:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:20:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:20:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:22:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:22:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:24:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:24:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:26:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:26:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:28:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:28:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:30:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:30:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:42:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:42:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:44:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:44:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 18:59:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 18:59:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 19:00:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 19:00:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 19:07:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 19:07:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 19:24:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 19:24:04,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/02/2024 19:24:04,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 19:24:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 19:51:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 19:52:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 20:03:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 20:03:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 20:05:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 20:05:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 20:07:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 20:07:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 20:24:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 20:24:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_CERDOH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_POLLOH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_CORVINAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_ATUNH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_LANGOSTAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_CAMARONH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_LECHEH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_HUEVOCIH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_YEMAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_TRIGOH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_MAIZH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_ARROZH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_FREJOLH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_LENTEJAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_HABAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_TOMATEH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_MANIH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_NARANJAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_PIÑAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_FRUTILLAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_PARABENOSH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_HISTAMINAH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_PENICILLIUMH
+*************
+10/02/2024 20:25:04,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+10/02/2024 20:25:35,ross,Operación de Movimiento Inventario,
+*************
+10/02/2024 20:25:35,ross,Inserción de detalle movimiento inventario,
+*************
+10/02/2024 20:26:37,ross,Operación de Movimiento Inventario,
+*************
+10/02/2024 20:26:37,ross,Inserción de detalle movimiento inventario,
+*************
+10/02/2024 20:27:52,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+10/02/2024 22:00:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 22:00:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 22:02:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 22:02:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 22:03:17,ross,Operación de Movimiento Inventario,
+*************
+10/02/2024 22:03:20,ross,Inserción de detalle movimiento inventario,
+*************
+10/02/2024 22:03:56,ross,Operación de Movimiento Inventario,
+*************
+10/02/2024 22:03:56,ross,Inserción de detalle movimiento inventario,
+*************
+10/02/2024 22:37:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 22:37:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 22:38:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 22:38:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 22:43:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 22:43:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 23:04:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 23:04:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 23:07:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 23:07:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2024 23:10:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2024 23:10:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 9:23:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 9:23:35,,Ingreso CONTRASEÑA FALLIDO,
+*************
+12/02/2024 9:23:35,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 9:23:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_CERDOH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_POLLOH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_CORVINAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_ATUNH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_LANGOSTAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_CAMARONH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_LECHEH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_HUEVOCIH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_YEMAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_TRIGOH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_MAIZH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_ARROZH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_FREJOLH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_LENTEJAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_HABAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_TOMATEH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_MANIH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_NARANJAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_PIÑAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_FRUTILLAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_COXIBSH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_ASPIRINAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_LIDOCAINAH
+*************
+12/02/2024 9:28:25,ross,CUTANEAS,AL_MEPIVACAINAH
+*************
+12/02/2024 9:52:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 9:52:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 9:58:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 9:58:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 10:01:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 10:01:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 10:16:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 10:16:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_CERDOH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_POLLOH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_CORVINAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_ATUNH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_LANGOSTAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_CAMARONH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_LECHEH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_HUEVOCIH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_YEMAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_TRIGOH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_MAIZH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_ARROZH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_FREJOLH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_LENTEJAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_HABAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_TOMATEH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_MANIH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_NARANJAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_PIÑAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_FRUTILLAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_COXIBSH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_ASPIRINAH
+*************
+12/02/2024 10:23:55,ross,CUTANEAS,AL_TRAMADOLH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_CERDOH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_POLLOH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_CORVINAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_ATUNH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_LANGOSTAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_CAMARONH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_LECHEH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_HUEVOCIH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_YEMAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_TRIGOH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_MAIZH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_ARROZH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_FREJOLH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_LENTEJAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_HABAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_TOMATEH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_MANIH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_NARANJAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_PIÑAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_FRUTILLAH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+12/02/2024 10:24:37,ross,CUTANEAS,AL_DICLOFENACOH
+*************
+12/02/2024 10:25:20,ross,Nuevo Pedido PRE CARGA,NORMAL/52
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_CERDOH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_POLLOH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_CORVINAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_ATUNH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_LANGOSTAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_CAMARONH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_LECHEH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_HUEVOCIH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_YEMAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_TRIGOH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_MAIZH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_ARROZH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_FREJOLH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_LENTEJAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_HABAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_TOMATEH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_MANIH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_NARANJAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_PIÑAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_FRUTILLAH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_POLVOCPH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_POLVOCSH
+*************
+12/02/2024 10:25:48,ross,CUTANEAS,AL_KETOROLACOH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_CERDOH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_POLLOH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_CORVINAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_ATUNH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_LANGOSTAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_CAMARONH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_LECHEH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_HUEVOCIH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_YEMAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_TRIGOH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_MAIZH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_ARROZH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_FREJOLH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_LENTEJAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_HABAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_TOMATEH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_MANIH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_NARANJAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_PIÑAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_FRUTILLAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_NAPROXENOH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_COXIBSH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_ASPIRINAH
+*************
+12/02/2024 10:57:38,ross,CUTANEAS,AL_TRAMADOLH
+*************
+12/02/2024 12:45:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 12:45:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 12:46:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 12:46:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 12:51:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 12:51:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 13:04:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 13:04:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 13:14:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 13:14:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 13:16:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 13:16:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 13:20:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 13:20:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 13:25:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 13:25:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 14:35:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 14:35:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 14:43:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 14:43:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 14:46:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 14:46:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 19:29:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 19:29:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_CERDOH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_POLLOH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_CORVINAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_ATUNH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_LANGOSTAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_CAMARONH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_LECHEH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_HUEVOCIH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_YEMAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_TRIGOH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_MAIZH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_ARROZH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_FREJOLH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_LENTEJAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_HABAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_TOMATEH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_MANIH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_NARANJAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_PIÑAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_FRUTILLAH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_POLVOCPH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_POLVOCSH
+*************
+12/02/2024 19:51:42,ross,CUTANEAS,AL_KETOROLACOH
+*************
+12/02/2024 20:41:38,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:38,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:38,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:38,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:38,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:53,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:53,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:53,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:53,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 20:41:53,ross,GUARDA EXISTENCIA TEMP,0
+*************
+12/02/2024 21:24:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:24:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 21:29:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:29:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 21:31:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:31:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 21:41:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:41:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 21:45:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:45:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 21:52:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:52:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 21:53:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 21:53:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 22:18:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 22:18:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 22:54:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 22:54:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2024 22:56:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2024 22:56:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 7:31:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 7:31:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 7:35:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 7:35:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 7:48:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 7:48:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 9:32:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 9:32:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 9:36:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 9:36:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 10:11:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 10:11:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 10:17:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 10:17:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 10:18:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 10:18:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 10:19:12,ross,Nuevo Pedido PRE CARGA,NORMAL/53
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_CERDOH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_POLLOH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_CORVINAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_ATUNH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_LANGOSTAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_CAMARONH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_LECHEH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_HUEVOCIH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_YEMAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_TRIGOH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_MAIZH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_ARROZH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_FREJOLH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_LENTEJAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_HABAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_TOMATEH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_MANIH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_NARANJAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_PIÑAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_FRUTILLAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_PARABENOSH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_INSECTH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_CYNODONH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_PENICILINAH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_QUINOLONASH
+*************
+14/02/2024 10:19:57,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+14/02/2024 11:31:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 11:31:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 12:00:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 12:00:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 12:03:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 12:03:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 15:57:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 15:57:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 17:23:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 17:23:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 17:24:10,ross,Nuevo Pedido PRE CARGA,NORMAL/54
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_CERDOH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_POLLOH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_CORVINAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_ATUNH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_LANGOSTAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_CAMARONH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_LECHEH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_HUEVOCIH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_YEMAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_TRIGOH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_MAIZH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_ARROZH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_FREJOLH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_LENTEJAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_HABAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_TOMATEH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_MANIH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_NARANJAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_PIÑAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_FRUTILLAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_PARABENOSH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_HIELOH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_INSECTOSH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_CYNODONH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_CANDIDAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_POLVOCPH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_DPTERONYSINUSH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_LANAPERROH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_LANAGATOH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_PIRAZOLONAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_OXICANESH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_PENICILINAH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_QUINOLONASH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+14/02/2024 17:38:32,ross,CUTANEAS,AL_YODOH
+*************
+14/02/2024 18:13:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 18:13:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 18:46:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 18:46:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 18:58:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 18:58:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_CERDOH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_POLLOH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_CORVINAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_ATUNH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_LANGOSTAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_CAMARONH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_LECHEH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_HUEVOCIH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_YEMAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_TRIGOH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_MAIZH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_ARROZH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_FREJOLH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_LENTEJAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_HABAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_TOMATEH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_ZANAHORIAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_MANIH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_CHOCOLATEH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_NARANJAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_PIÑAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_FRUTILLAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_TARTRAZINAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_PARABENOSH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_HIELOH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_INSECTOSH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_CYNODONH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_AGROSTISH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_BROMUSH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_CANDIDAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_POLVOCPH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_DPTERONYSINUSH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_LANAPERROH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_LANAGATOH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_ACETAMINOFENH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_IBUPROFENOH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_PIRAZOLONAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_OXICANESH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_PENICILINAH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_QUINOLONASH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_IMIDAZOLICOSH
+*************
+14/02/2024 18:59:32,ross,CUTANEAS,AL_YODOH
+*************
+14/02/2024 19:03:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:03:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:21:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:21:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:22:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:22:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:23:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:23:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:25:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:25:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:30:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:30:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:36:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:36:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:39:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:39:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:41:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:41:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:44:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:44:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:55:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:55:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 19:58:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 19:58:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:00:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:00:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:03:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:03:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:10:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:10:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:13:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:13:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:20:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:20:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:22:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:22:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:26:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:26:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:34:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:34:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:36:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:36:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:38:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:38:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:46:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:46:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 20:51:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 20:51:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 21:12:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 21:12:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 21:16:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 21:16:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 21:32:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 21:32:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 21:34:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 21:34:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2024 21:39:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2024 21:39:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 9:58:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 9:58:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 9:59:30,ross,Nuevo Pedido PRE CARGA,NORMAL/55
+*************
+15/02/2024 10:06:46,ross,Nuevo Pedido PRE CARGA,NORMAL/56
+*************
+15/02/2024 11:26:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 11:26:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 12:02:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 12:02:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 14:51:40,ross,Nuevo CIE10,Cie=A00 A010
+*************
+15/02/2024 15:14:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 15:14:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 20:35:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 20:35:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 20:41:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 20:41:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 21:00:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 21:00:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 21:09:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 21:09:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 21:12:19,ross,Nuevo VADEMECUM,Generico=TRISULFA CLORICOL TRISULFA CLORICOL
+*************
+15/02/2024 21:14:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/02/2024 21:14:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/02/2024 21:16:19,ross,Nuevo VADEMECUM,Generico=CLORICOL SULFA CLORICOL SULFA
+*************
+16/02/2024 9:05:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 9:05:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 10:57:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 10:57:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 11:04:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 11:04:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 11:24:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 11:24:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 11:27:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 11:27:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 11:37:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 11:37:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 11:44:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 11:44:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 11:48:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 11:49:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 15:13:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 15:13:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 15:25:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 15:25:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 15:27:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 15:27:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 15:33:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 15:33:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 15:35:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 15:35:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 15:45:59,ross,Operación de Movimiento Inventario,
+*************
+16/02/2024 15:45:59,ross,Inserción de detalle movimiento inventario,
+*************
+16/02/2024 15:46:30,ross,Operación de Movimiento Inventario,
+*************
+16/02/2024 15:46:30,ross,Inserción de detalle movimiento inventario,
+*************
+16/02/2024 15:56:21,ross,Operación de Movimiento Inventario,
+*************
+16/02/2024 15:56:21,ross,Inserción de detalle movimiento inventario,
+*************
+16/02/2024 17:40:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 17:40:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 17:40:30,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=57
+*************
+16/02/2024 17:40:47,ross,01 GENERAR ORDEN  RENALVIDA EXAMENES: 400149,,PEDIDO=58
+*************
+16/02/2024 17:41:09,ross,01 GENERAR ORDEN  DRA. SAMI MENDOZA EXAMENES: 400149,,PEDIDO=59
+*************
+16/02/2024 17:41:34,ross,GUARDA RESULTADOS,TGLH=ELITE
+*************
+16/02/2024 17:41:37,ross,VALIDACION RESULTADO,PEDIDO=57/400151
+*************
+16/02/2024 17:41:37,ross,Eliminar resultado AUX_HIS,
+*************
+16/02/2024 17:41:54,ross,GUARDA RESULTADOS,COLH=RENALVIDA
+*************
+16/02/2024 17:41:56,ross,VALIDACION RESULTADO,PEDIDO=58/400149
+*************
+16/02/2024 17:41:56,ross,Eliminar resultado AUX_HIS,
+*************
+16/02/2024 17:42:08,ross,GUARDA RESULTADOS,COLH=DRA SAMI
+*************
+16/02/2024 17:42:09,ross,VALIDACION RESULTADO,PEDIDO=59/400149
+*************
+16/02/2024 17:42:09,ross,Eliminar resultado AUX_HIS,
+*************
+16/02/2024 17:50:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/02/2024 17:50:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/02/2024 17:50:38,ross,GUARDA RESULTADOS,TGLH=ELITE
+*************
+16/02/2024 17:50:39,ross,Eliminar resultado AUX_HIS,
+*************
+16/02/2024 17:50:47,ross,GUARDA RESULTADOS,TGLH=ELITE
+*************
+16/02/2024 17:50:55,ross,Eliminar resultado AUX_HIS,
+*************
+16/02/2024 17:51:04,ross,GUARDA RESULTADOS,COLH=RENALVIDA
+*************
+16/02/2024 17:51:07,ross,Eliminar resultado AUX_HIS,
+*************
+16/02/2024 17:51:13,ross,GUARDA RESULTADOS,COLH=DRA SAMI
+*************
+16/02/2024 17:51:17,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 9:37:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 9:37:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 9:37:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=60
+*************
+19/02/2024 9:38:12,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=61
+*************
+19/02/2024 9:38:45,ross,01 GENERAR ORDEN  RENALVIDA EXAMENES: 400151,,PEDIDO=62
+*************
+19/02/2024 9:39:11,ross,1 MODIFICA ORDENDRA. SAMI MENDOZA,PEDIDO=61
+*************
+19/02/2024 9:46:03,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+19/02/2024 9:46:20,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+19/02/2024 9:46:24,ross,VALIDACION RESULTADO,PEDIDO=61/400151
+*************
+19/02/2024 9:46:26,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 9:46:54,ross,GUARDA RESULTADOS,TGLH=RENALVIDA
+*************
+19/02/2024 9:46:58,ross,VALIDACION RESULTADO,PEDIDO=62/400151
+*************
+19/02/2024 9:46:58,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 9:47:14,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+19/02/2024 9:47:15,ross,VALIDACION RESULTADO,PEDIDO=60/400151
+*************
+19/02/2024 9:47:16,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 10:31:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 10:31:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 10:32:18,ross,01 GENERAR ORDEN  MUNDO EXAMENES: 400151,,PEDIDO=63
+*************
+19/02/2024 10:32:33,ross,01 GENERAR ORDEN  MEDES EXAMENES: 400151,,PEDIDO=64
+*************
+19/02/2024 10:41:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 10:41:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 10:53:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 10:53:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 10:54:26,ross,01 GENERAR ORDEN  MEDES EXAMENES: 400151,,PEDIDO=65
+*************
+19/02/2024 10:54:44,ross,1 MODIFICA ORDENCEMEDEFA,PEDIDO=65
+*************
+19/02/2024 10:55:00,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+19/02/2024 10:55:07,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 10:55:16,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+19/02/2024 10:55:18,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 10:55:23,ross,GUARDA RESULTADOS,TGLH=RENALVIDA
+*************
+19/02/2024 10:55:25,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 10:55:39,ross,GUARDA RESULTADOS,TGLH=MUNDO
+*************
+19/02/2024 10:55:40,ross,VALIDACION RESULTADO,PEDIDO=63/400151
+*************
+19/02/2024 10:55:40,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 10:55:54,ross,GUARDA RESULTADOS,TGLH=MEDES
+*************
+19/02/2024 10:55:56,ross,VALIDACION RESULTADO,PEDIDO=64/400151
+*************
+19/02/2024 10:55:56,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 10:56:05,ross,GUARDA RESULTADOS,TGLH=CEMDEFA
+*************
+19/02/2024 10:56:07,ross,VALIDACION RESULTADO,PEDIDO=65/400151
+*************
+19/02/2024 10:56:07,ross,Eliminar resultado AUX_HIS,
+*************
+19/02/2024 11:17:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 11:17:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:01:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:01:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:08:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:08:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:29:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:29:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:32:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:32:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:34:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:34:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:37:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:37:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:39:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:39:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:40:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:40:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:43:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:43:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:46:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:46:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:49:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:49:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:52:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 12:52:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 12:52:59,ross,Operación de Movimiento Inventario,
+*************
+19/02/2024 12:54:49,ross,Operación de Movimiento Inventario,
+*************
+19/02/2024 13:00:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 13:00:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 13:03:22,ross,Operación de Movimiento Inventario,
+*************
+19/02/2024 13:07:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2024 13:07:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2024 13:08:03,ross,Operación de Movimiento Inventario,
+*************
+19/02/2024 13:08:03,ross,Inserción de detalle movimiento inventario,
+*************
+20/02/2024 8:41:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 8:41:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 8:43:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 8:43:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 8:45:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 8:45:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 8:51:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 8:51:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 8:52:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 8:52:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 10:01:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 10:01:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 13:04:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 13:04:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2024 13:06:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2024 13:06:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 8:51:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 8:51:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 8:57:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 8:57:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:00:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:00:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:11:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:11:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:13:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:13:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:19:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:19:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:21:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:21:32,,Ingreso CONTRASEÑA FALLIDO,
+*************
+21/02/2024 9:21:32,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:21:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:23:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:23:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:24:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:24:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:30:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:30:15,,Ingreso CONTRASEÑA FALLIDO,
+*************
+21/02/2024 9:30:15,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:30:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:32:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:32:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:58:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:58:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 9:59:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 9:59:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 10:17:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 10:17:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 10:23:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 10:23:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 10:25:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 10:25:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 11:47:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 11:47:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 11:48:25,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+21/02/2024 11:48:45,ross,Eliminar resultado AUX_HIS,
+*************
+21/02/2024 12:10:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 12:10:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 12:10:46,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+21/02/2024 12:10:51,ross,Eliminar resultado AUX_HIS,
+*************
+21/02/2024 12:29:32,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+21/02/2024 12:29:34,ross,Eliminar resultado AUX_HIS,
+*************
+21/02/2024 12:29:39,ross,GUARDA RESULTADOS,TGLH=RENALVIDA
+*************
+21/02/2024 12:29:49,ross,Eliminar resultado AUX_HIS,
+*************
+21/02/2024 12:32:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2024 12:32:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2024 12:48:30,ross,GUARDA RESULTADOS,TGLH=RENALVIDA
+*************
+21/02/2024 12:48:36,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 8:53:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 8:53:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 18:41:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 18:41:05,,Ingreso CONTRASEÑA FALLIDO,
+*************
+22/02/2024 18:41:05,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 18:41:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 18:41:48,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=67
+*************
+22/02/2024 18:44:04,ross,GUARDA RESULTADOS,TGLH=123
+*************
+22/02/2024 18:44:07,ross,VALIDACION RESULTADO,PEDIDO=67/400151
+*************
+22/02/2024 18:44:07,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 18:44:49,ross,GUARDA RESULTADOS,TGLH=123
+*************
+22/02/2024 18:44:52,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 19:37:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 19:37:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 19:45:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 19:45:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 19:48:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 19:48:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 19:52:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 19:52:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 19:56:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 19:56:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 19:59:06,ross,IMPRIME POR AREA,PEDIDO=67
+*************
+22/02/2024 20:12:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 20:12:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 20:12:47,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+22/02/2024 20:12:54,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:13:23,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+22/02/2024 20:13:25,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:14:15,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+22/02/2024 20:52:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 20:52:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 20:53:00,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+22/02/2024 20:53:39,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:53:45,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+22/02/2024 20:53:49,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:53:54,ross,GUARDA RESULTADOS,TGLH=RENALVIDA
+*************
+22/02/2024 20:53:56,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:54:02,ross,GUARDA RESULTADOS,TGLH=MUNDO
+*************
+22/02/2024 20:54:03,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:54:08,ross,GUARDA RESULTADOS,TGLH=MEDES
+*************
+22/02/2024 20:54:10,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:54:17,ross,GUARDA RESULTADOS,TGLH=MEDES
+*************
+22/02/2024 20:54:19,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:54:24,ross,GUARDA RESULTADOS,TGLH=CEMDEFA
+*************
+22/02/2024 20:54:25,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:57:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 20:57:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 20:57:55,ross,GUARDA RESULTADOS,TGLH=NORMAL
+*************
+22/02/2024 20:57:57,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:58:02,ross,GUARDA RESULTADOS,TGLH=SAMI
+*************
+22/02/2024 20:58:05,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:58:08,ross,GUARDA RESULTADOS,TGLH=RENALVIDA
+*************
+22/02/2024 20:58:10,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:58:15,ross,GUARDA RESULTADOS,TGLH=MUNDO
+*************
+22/02/2024 20:58:16,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:58:21,ross,GUARDA RESULTADOS,TGLH=MEDES
+*************
+22/02/2024 20:58:24,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 20:58:27,ross,GUARDA RESULTADOS,TGLH=CEMDEFA
+*************
+22/02/2024 20:58:28,ross,Eliminar resultado AUX_HIS,
+*************
+22/02/2024 21:14:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 21:14:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 21:15:55,ross,IMPRIME POR AREA,PEDIDO=61
+*************
+22/02/2024 21:16:22,ross,IMPRIME POR AREA,PEDIDO=64
+*************
+22/02/2024 21:16:39,ross,IMPRIME POR AREA,PEDIDO=64
+*************
+22/02/2024 21:18:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 21:18:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 21:19:13,ross,IMPRIME TODO,PEDIDO=67
+*************
+22/02/2024 21:19:20,ross,IMPRIME TODO,PEDIDO=67
+*************
+22/02/2024 21:20:11,ross,IMPRIME TODO,PEDIDO=67
+*************
+22/02/2024 21:22:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 21:22:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 21:23:13,ross,IMPRIME POR AREA,PEDIDO=63
+*************
+22/02/2024 21:23:18,ross,IMPRIME POR AREA,PEDIDO=63
+*************
+22/02/2024 21:23:27,ross,IMPRIME TODO,PEDIDO=63
+*************
+22/02/2024 21:23:33,ross,IMPRIME TODO,PEDIDO=63
+*************
+22/02/2024 21:23:41,ross,IMPRIME POR EMAMEN,PEDIDO=63
+*************
+22/02/2024 21:23:48,ross,IMPRIME POR EMAMEN,PEDIDO=63
+*************
+22/02/2024 21:31:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 21:31:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 21:35:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 21:35:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 21:40:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 21:40:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2024 21:43:33,ross,IMPRIME POR AREA,PEDIDO=62
+*************
+22/02/2024 22:17:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2024 22:17:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/02/2024 9:26:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/02/2024 9:26:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:13:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:13:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:14:01,ross,Nuevo Pedido PRE CARGA,NORMAL/69
+*************
+24/02/2024 21:19:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:19:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:22:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:22:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:47:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:47:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:50:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:50:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:52:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:52:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:55:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:55:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 21:59:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 21:59:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 22:02:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 22:02:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 22:04:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 22:04:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 22:09:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 22:09:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2024 22:13:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2024 22:13:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2024 10:41:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2024 10:41:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2024 10:42:12,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400295,400101,,PEDIDO=70
+*************
+26/02/2024 10:43:03,ross,GUARDA RESULTADOS,COLH=156
+*************
+26/02/2024 10:43:03,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+26/02/2024 10:43:03,ross,GUARDA RESULTADOS,LDLH=71.4
+*************
+26/02/2024 10:43:03,ross,GUARDA RESULTADOS,TGLH=198
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,WBCH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,NEUH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,LYMH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,MONH2=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,EOSH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,BASOH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,MON%25H=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,RBCH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,HCTH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,HGBH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,MCVH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,MCHH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,RDW-CVH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,RDW-SDH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,PLTH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,MPVH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,PDWH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,PCTH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,P-LCRH=1
+*************
+26/02/2024 10:43:16,ross,GUARDA RESULTADOS,P-LCCH=2
+*************
+26/02/2024 10:43:23,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/02/2024 10:43:23,ross,GUARDA RESULTADOS,COLH=156
+*************
+26/02/2024 10:43:23,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+26/02/2024 10:43:23,ross,GUARDA RESULTADOS,LDLH=71.4
+*************
+26/02/2024 10:43:23,ross,GUARDA RESULTADOS,TGLH=198
+*************
+26/02/2024 10:43:24,ross,VALIDACION RESULTADO,PEDIDO=70/400101
+*************
+26/02/2024 10:43:24,ross,VALIDACION RESULTADO,PEDIDO=70/400149
+*************
+26/02/2024 10:43:24,ross,VALIDACION RESULTADO,PEDIDO=70/400150
+*************
+26/02/2024 10:43:24,ross,VALIDACION RESULTADO,PEDIDO=70/400151
+*************
+26/02/2024 10:43:24,ross,VALIDACION RESULTADO,PEDIDO=70/400476
+*************
+26/02/2024 10:43:25,ross,Eliminar resultado AUX_HIS,
+*************
+26/02/2024 10:43:35,ross,IMPRIME POR AREA,PEDIDO=70
+*************
+26/02/2024 10:51:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2024 10:51:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2024 10:51:56,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400295,400101,,PEDIDO=71
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,WBCH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,NEUH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,LYMH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,MONH2=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,EOSH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,BASOH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,RBCH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,HCTH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,HGBH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,MCVH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,MCHH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,MCHCH=100
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,PLTH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,MPVH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,PDWH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,PCTH=3
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+26/02/2024 10:53:01,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+26/02/2024 10:53:29,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALORES CONFIRMADOS
+*************
+26/02/2024 10:53:30,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/02/2024 10:53:30,ross,GUARDA RESULTADOS,COLH=189
+*************
+26/02/2024 10:53:30,ross,GUARDA RESULTADOS,AHDLH=67
+*************
+26/02/2024 10:53:30,ross,GUARDA RESULTADOS,LDLH=84.2
+*************
+26/02/2024 10:53:30,ross,GUARDA RESULTADOS,TGLH=189
+*************
+26/02/2024 11:07:13,ross,VALIDACION RESULTADO,PEDIDO=71/400101
+*************
+26/02/2024 11:07:13,ross,VALIDACION RESULTADO,PEDIDO=71/400149
+*************
+26/02/2024 11:07:13,ross,VALIDACION RESULTADO,PEDIDO=71/400150
+*************
+26/02/2024 11:07:13,ross,VALIDACION RESULTADO,PEDIDO=71/400151
+*************
+26/02/2024 11:07:13,ross,VALIDACION RESULTADO,PEDIDO=71/400476
+*************
+26/02/2024 11:07:14,ross,Eliminar resultado AUX_HIS,
+*************
+26/02/2024 11:07:29,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/02/2024 11:07:29,ross,GUARDA RESULTADOS,COLH=189
+*************
+26/02/2024 11:07:29,ross,GUARDA RESULTADOS,AHDLH=67
+*************
+26/02/2024 11:07:29,ross,GUARDA RESULTADOS,LDLH=84.2
+*************
+26/02/2024 11:07:29,ross,GUARDA RESULTADOS,TGLH=189
+*************
+26/02/2024 11:07:45,ross,IMPRIME POR AREA,PEDIDO=71
+*************
+26/02/2024 18:33:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2024 18:34:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2024 18:35:13,ross,Nuevo Pedido PRE CARGA,NORMAL/68
+*************
+26/02/2024 22:08:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2024 22:08:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2024 22:10:33,ross,Actualizacon Medico,Medico=DESPACHO A MEDICOS
+*************
+27/02/2024 10:24:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2024 10:24:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2024 10:24:53,ross,Nuevo Pedido PRE CARGA,NORMAL/72
+*************
+27/02/2024 10:34:02,ross,Nuevo Pedido PRE CARGA,NORMAL/73
+*************
+28/02/2024 16:43:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 16:43:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 16:45:25,ross,Nuevo Producto,
+*************
+28/02/2024 16:48:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 16:48:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 16:49:24,ross,Actualizar Producto,
+*************
+28/02/2024 16:50:10,ross,Nuevo Producto,
+*************
+28/02/2024 16:50:55,ross,Nuevo Producto,
+*************
+28/02/2024 16:51:19,ross,Nuevo Producto,
+*************
+28/02/2024 16:51:37,ross,Nuevo Producto,
+*************
+28/02/2024 16:52:01,ross,Nuevo Producto,
+*************
+28/02/2024 16:52:30,ross,Nuevo Producto,
+*************
+28/02/2024 16:52:59,ross,Nuevo Producto,
+*************
+28/02/2024 16:53:17,ross,Nuevo Producto,
+*************
+28/02/2024 17:13:15,ross,Nuevo Producto,
+*************
+28/02/2024 17:13:38,ross,Nuevo Producto,
+*************
+28/02/2024 17:13:55,ross,Nuevo Producto,
+*************
+28/02/2024 17:14:22,ross,Nuevo Producto,
+*************
+28/02/2024 17:14:43,ross,Nuevo Producto,
+*************
+28/02/2024 18:01:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 18:01:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 18:06:41,,SUPERADO INTENTOS FALLIDO USR,
+*************
+28/02/2024 18:07:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 18:07:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 18:11:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 18:11:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 20:10:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 20:10:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 20:27:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 20:27:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2024 20:30:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2024 20:30:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2024 5:02:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2024 5:02:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2024 5:08:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2024 5:08:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2024 7:19:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2024 7:19:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2024 7:32:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2024 7:32:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2024 7:35:14,ross,Operación de Movimiento Inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:14,ross,Inserción de detalle movimiento inventario,
+*************
+29/02/2024 7:35:56,ross,Nuevo Pedido PRE CARGA,NORMAL/74
+*************

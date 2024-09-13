@@ -1,0 +1,110 @@
+14/03/2018 9:39:57,,CARGA SEDES,Busca tabla laboratorio
+*************
+14/03/2018 9:47:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2018 9:47:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2018 9:53:02,,CARGA SEDES,Busca tabla laboratorio
+*************
+14/03/2018 9:54:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2018 9:54:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2018 9:55:13,ross,1 GENERAR ORDEN,PEDIDO=5
+*************
+14/03/2018 9:55:38,ross,Actualiza FACTURA,FACTURA=1899
+*************
+14/03/2018 9:55:38,ross,Ingresa FACTURA,FACTURA=1899
+*************
+14/03/2018 9:55:39,ross,Insertar abono,Factura=1899 Abono= 21
+*************
+14/03/2018 9:55:39,ross,Cancela FACTURA,FACTURA=1899
+*************
+14/03/2018 10:11:25,,CARGA SEDES,Busca tabla laboratorio
+*************
+14/03/2018 10:11:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/03/2018 10:11:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/03/2018 10:12:55,ross,Actualiza Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+14/03/2018 10:13:19,ross,1 GENERAR ORDEN,PEDIDO=6
+*************
+14/03/2018 10:13:34,ross,Actualiza FACTURA,FACTURA=1900
+*************
+14/03/2018 10:13:34,ross,Ingresa FACTURA,FACTURA=1900
+*************
+14/03/2018 10:13:35,ross,Insertar abono,Factura=1900 Abono= 10.7
+*************
+14/03/2018 10:13:35,ross,Cancela FACTURA,FACTURA=1900
+*************
+15/03/2018 16:34:09,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 16:34:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 16:34:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 16:34:48,ross,Nuevo Convenio,Convenio=ENCELAB
+*************
+15/03/2018 16:40:48,ross,Nuevo Convenio,Convenio=ENCELAB
+*************
+15/03/2018 16:49:25,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 16:51:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 16:51:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 16:51:34,ross,Nuevo Convenio,Convenio=MIO
+*************
+15/03/2018 16:55:32,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 16:55:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 16:55:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 16:56:00,ross,Nuevo Convenio,Convenio=MIO
+*************
+15/03/2018 17:05:59,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 17:06:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 17:06:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 17:09:04,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 17:11:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 17:11:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 17:11:23,ross,Nuevo Convenio,Convenio=MIO
+*************
+15/03/2018 17:17:13,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 17:17:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 17:17:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 17:17:42,ross,Nuevo Convenio,Convenio=MIO
+*************
+15/03/2018 17:21:19,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 17:21:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 17:21:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 17:21:41,ross,Nuevo Convenio,Convenio=MIO
+*************
+15/03/2018 17:26:35,,CARGA SEDES,Busca tabla laboratorio
+*************
+15/03/2018 17:26:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/03/2018 17:26:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/03/2018 17:27:02,ross,Nuevo Convenio,Convenio=MIO
+*************
+16/03/2018 10:30:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/03/2018 10:30:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/03/2018 11:05:39,,Ingreso USUARIO,Busca tabla invitado
+*************

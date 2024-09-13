@@ -1,0 +1,770 @@
+05-11-2018 10:43:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 10:43:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 11:11:20,ross,Nuevo Convenio,Convenio=FYBECA
+*************
+05-11-2018 11:11:20,ross,Guardar secuencia,SECUENCIA=FYBECA/1000/1999
+*************
+05-11-2018 11:21:50,ross,Generar Paciente,Paciente=PACIENTE DE PRUEBA
+*************
+05-11-2018 11:22:01,ross,1 GENERAR ORDEN,PEDIDO=35
+*************
+05-11-2018 11:22:03,ross,2 IMPRIMIR COD BARRAS,PEDIDO=35
+*************
+05-11-2018 11:22:20,ross,GUARDA RESULTADOS,CREA=125
+*************
+05-11-2018 11:22:22,ross,VALIDACION RESULTADO,PEDIDO=35/400141
+*************
+05-11-2018 11:24:47,ross,Inserta usuario web,Paciente=36 PPACIENTE
+*************
+05-11-2018 11:42:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 11:42:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 11:43:37,ross,Generar Paciente,Paciente=PERALTA JOSE
+*************
+05-11-2018 11:43:47,ross,1 GENERAR ORDEN,PEDIDO=36
+*************
+05-11-2018 11:43:49,ross,2 IMPRIMIR COD BARRAS,PEDIDO=36
+*************
+05-11-2018 11:44:04,ross,GUARDA RESULTADOS,GLUC=125
+*************
+05-11-2018 11:44:06,ross,VALIDACION RESULTADO,PEDIDO=36/400142
+*************
+05-11-2018 11:44:30,ross,Actualiza Mail Paciente,Paciente=37 rossvanflores@hotmail.com
+*************
+05-11-2018 11:44:39,ross,VALIDACION RESULTADO,PEDIDO=36/400142
+*************
+05-11-2018 11:44:53,ross,Actualiza Mail Paciente,Paciente=37 rossvanflores@hotmail.com
+*************
+05-11-2018 11:45:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 11:45:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 11:45:57,ross,GUARDA RESULTADOS,GLUC=125
+*************
+05-11-2018 11:46:26,ross,GUARDA RESULTADOS,GLUC=125
+*************
+05-11-2018 11:47:37,ross,GUARDA RESULTADOS,GLUC=125
+*************
+05-11-2018 11:49:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 11:49:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 11:49:34,ross,GUARDA RESULTADOS,GLUC=125
+*************
+05-11-2018 11:50:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 11:50:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 11:50:58,ross,Actualiza Paciente,Paciente=PERALTA JIMENEZ JOSE JAVIER
+*************
+05-11-2018 11:51:22,ross,GUARDA RESULTADOS,GLUC=125
+*************
+05-11-2018 11:51:49,ross,Inserta usuario web,Paciente=37 JPERALTA
+*************
+05-11-2018 12:04:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 12:04:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 12:06:01,ross,Nuevo Convenio,Convenio=FYBECA
+*************
+05-11-2018 12:06:01,ross,Guardar secuencia,SECUENCIA=FYBECA/1000/1999
+*************
+05-11-2018 12:06:23,ross,Nuevo Pedido PRE CARGA,FYBECA/37
+*************
+05-11-2018 12:06:25,ross,Nuevo Pedido PRE CARGA,FYBECA/38
+*************
+05-11-2018 12:06:27,ross,Nuevo Pedido PRE CARGA,FYBECA/39
+*************
+05-11-2018 12:06:27,ross,Nuevo Pedido PRE CARGA,FYBECA/40
+*************
+05-11-2018 12:06:27,ross,Nuevo Pedido PRE CARGA,FYBECA/41
+*************
+05-11-2018 12:06:28,ross,Nuevo Pedido PRE CARGA,FYBECA/42
+*************
+05-11-2018 12:06:28,ross,Nuevo Pedido PRE CARGA,FYBECA/43
+*************
+05-11-2018 12:06:28,ross,Nuevo Pedido PRE CARGA,FYBECA/44
+*************
+05-11-2018 12:06:28,ross,Nuevo Pedido PRE CARGA,FYBECA/45
+*************
+05-11-2018 12:06:29,ross,Nuevo Pedido PRE CARGA,FYBECA/46
+*************
+05-11-2018 12:06:29,ross,Nuevo Pedido PRE CARGA,FYBECA/47
+*************
+05-11-2018 12:06:29,ross,Nuevo Pedido PRE CARGA,FYBECA/48
+*************
+05-11-2018 12:06:29,ross,Nuevo Pedido PRE CARGA,FYBECA/49
+*************
+05-11-2018 12:06:29,ross,Nuevo Pedido PRE CARGA,FYBECA/50
+*************
+05-11-2018 12:06:30,ross,Nuevo Pedido PRE CARGA,FYBECA/51
+*************
+05-11-2018 12:06:30,ross,Nuevo Pedido PRE CARGA,FYBECA/52
+*************
+05-11-2018 12:06:30,ross,Nuevo Pedido PRE CARGA,FYBECA/53
+*************
+05-11-2018 12:06:30,ross,Nuevo Pedido PRE CARGA,FYBECA/54
+*************
+05-11-2018 12:06:31,ross,Nuevo Pedido PRE CARGA,FYBECA/55
+*************
+05-11-2018 12:06:32,ross,Nuevo Pedido PRE CARGA,FYBECA/56
+*************
+05-11-2018 12:06:32,ross,Nuevo Pedido PRE CARGA,FYBECA/57
+*************
+05-11-2018 12:06:33,ross,Nuevo Pedido PRE CARGA,FYBECA/58
+*************
+05-11-2018 12:06:33,ross,Nuevo Pedido PRE CARGA,FYBECA/59
+*************
+05-11-2018 12:06:34,ross,Nuevo Pedido PRE CARGA,FYBECA/60
+*************
+05-11-2018 12:06:34,ross,Nuevo Pedido PRE CARGA,FYBECA/61
+*************
+05-11-2018 12:06:34,ross,Nuevo Pedido PRE CARGA,FYBECA/62
+*************
+05-11-2018 12:06:35,ross,Nuevo Pedido PRE CARGA,FYBECA/63
+*************
+05-11-2018 12:06:35,ross,Nuevo Pedido PRE CARGA,FYBECA/64
+*************
+05-11-2018 12:06:36,ross,Nuevo Pedido PRE CARGA,FYBECA/65
+*************
+05-11-2018 12:06:36,ross,Nuevo Pedido PRE CARGA,FYBECA/66
+*************
+05-11-2018 12:08:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 12:08:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 12:09:02,ross,Nuevo Pedido PRE CARGA,FYBECA/67
+*************
+05-11-2018 12:09:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 12:09:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/68
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/69
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/70
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/71
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/72
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/73
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/74
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/75
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/76
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/77
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/78
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/79
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/80
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/81
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/82
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/83
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/84
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/85
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/86
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/87
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/88
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/89
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/90
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/91
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/92
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/93
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/94
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/95
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/96
+*************
+05-11-2018 12:10:10,ross,Nuevo Pedido PRE CARGA,FYBECA/97
+*************
+05-11-2018 12:11:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 12:11:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 12:11:41,ross,Nuevo Pedido PRE CARGA,FYBECA/1
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/2
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/3
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/4
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/5
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/6
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/7
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/8
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/9
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/10
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/11
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/12
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/13
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/14
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/15
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/16
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/17
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/18
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/19
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/20
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/21
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/22
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/23
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/24
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/25
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/26
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/27
+*************
+05-11-2018 12:11:42,ross,Nuevo Pedido PRE CARGA,FYBECA/28
+*************
+05-11-2018 12:11:43,ross,Nuevo Pedido PRE CARGA,FYBECA/29
+*************
+05-11-2018 12:11:43,ross,Nuevo Pedido PRE CARGA,FYBECA/30
+*************
+05-11-2018 12:12:07,ross,GUARDA RESULTADOS,CHOL=1
+*************
+05-11-2018 12:12:07,ross,GUARDA RESULTADOS,AHDL=2
+*************
+05-11-2018 12:12:07,ross,GUARDA RESULTADOS,LDL=3
+*************
+05-11-2018 12:12:07,ross,GUARDA RESULTADOS,TGL=4
+*************
+05-11-2018 12:12:10,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+05-11-2018 12:12:10,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+05-11-2018 12:12:10,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+05-11-2018 12:12:10,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+05-11-2018 13:01:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 13:01:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 13:02:25,ross,Nuevo Convenio,Convenio=TRAMACO
+*************
+05-11-2018 13:02:25,ross,Guardar secuencia,SECUENCIA=TRAMACO/2000/2999
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/1
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/2
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/3
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/4
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/5
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/6
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/7
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/8
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/9
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/10
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/11
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/12
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/13
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/14
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/15
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/16
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/17
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/18
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/19
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/20
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/21
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/22
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/23
+*************
+05-11-2018 13:03:46,ross,Nuevo Pedido PRE CARGA,TRAMACO/24
+*************
+05-11-2018 13:03:47,ross,Nuevo Pedido PRE CARGA,TRAMACO/25
+*************
+05-11-2018 13:03:47,ross,Nuevo Pedido PRE CARGA,TRAMACO/26
+*************
+05-11-2018 13:03:47,ross,Nuevo Pedido PRE CARGA,TRAMACO/27
+*************
+05-11-2018 13:03:47,ross,Nuevo Pedido PRE CARGA,TRAMACO/28
+*************
+05-11-2018 13:03:47,ross,Nuevo Pedido PRE CARGA,TRAMACO/29
+*************
+05-11-2018 13:03:47,ross,Nuevo Pedido PRE CARGA,TRAMACO/30
+*************
+05-11-2018 13:07:19,ross,GUARDA RESULTADOS,CHOL=3
+*************
+05-11-2018 13:07:19,ross,GUARDA RESULTADOS,AHDL=4
+*************
+05-11-2018 13:07:20,ross,GUARDA RESULTADOS,LDL=5454
+*************
+05-11-2018 13:07:20,ross,GUARDA RESULTADOS,TGL=55
+*************
+05-11-2018 13:07:30,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+05-11-2018 13:07:30,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+05-11-2018 13:07:30,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+05-11-2018 13:07:30,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+05-11-2018 13:11:33,ross,GUARDA RESULTADOS,CHOL=7
+*************
+05-11-2018 13:11:33,ross,GUARDA RESULTADOS,AHDL=7
+*************
+05-11-2018 13:11:33,ross,GUARDA RESULTADOS,LDL=7
+*************
+05-11-2018 13:11:33,ross,GUARDA RESULTADOS,TGL=7
+*************
+05-11-2018 13:12:35,ross,VALIDACION RESULTADO,PEDIDO=17/400149
+*************
+05-11-2018 13:12:35,ross,VALIDACION RESULTADO,PEDIDO=17/400150
+*************
+05-11-2018 13:12:35,ross,VALIDACION RESULTADO,PEDIDO=17/400151
+*************
+05-11-2018 13:12:35,ross,VALIDACION RESULTADO,PEDIDO=17/400476
+*************
+05-11-2018 13:20:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 13:20:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 14:25:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+05-11-2018 14:25:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05-11-2018 14:26:40,ross,Nuevo Convenio,Convenio=TRAMACO
+*************
+05-11-2018 14:26:40,ross,Guardar secuencia,SECUENCIA=TRAMACO/1000/1999
+*************
+05-11-2018 14:27:57,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+05-11-2018 14:27:58,ross,2 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+05-11-2018 14:28:56,ross,GUARDA RESULTADOS,CREA=8
+*************
+05-11-2018 14:28:56,ross,GUARDA RESULTADOS,CHOL=8
+*************
+05-11-2018 14:28:56,ross,GUARDA RESULTADOS,TGL=8
+*************
+05-11-2018 14:29:01,ross,VALIDACION RESULTADO,PEDIDO=1/400141
+*************
+05-11-2018 14:29:01,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+05-11-2018 14:29:01,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+05-11-2018 14:45:29,ross,GUARDA RESULTADOS,CREA=22
+*************
+05-11-2018 14:45:29,ross,GUARDA RESULTADOS,CHOL=22
+*************
+05-11-2018 14:45:29,ross,GUARDA RESULTADOS,TGL=22
+*************
+26/11/2018 11:10:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2018 11:10:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/11/2018 11:13:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2018 11:13:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/11/2018 11:13:56,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+26/11/2018 11:14:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2018 11:14:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,WBCH=3
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,NEUH=3
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,LYMH=3
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,MONOH=3
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,EOSH=3
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,BASOH=4
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,RBCH=5
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,HCTH=5
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,HGBH=5
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,MCVH=5
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,MCHH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,PLTH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,PDWH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,MPVH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,PCTH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,RDW_SDH=6
+*************
+26/11/2018 11:14:58,ross,GUARDA RESULTADOS,RDW_CVH=6
+*************
+26/11/2018 11:15:08,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+26/11/2018 11:15:08,ross,GUARDA RESULTADOS,CHOL=9
+*************
+26/11/2018 11:15:08,ross,GUARDA RESULTADOS,AHDL=9
+*************
+26/11/2018 11:15:08,ross,GUARDA RESULTADOS,LDL=9
+*************
+26/11/2018 11:15:08,ross,GUARDA RESULTADOS,TGL=9
+*************
+26/11/2018 11:15:10,ross,VALIDACION RESULTADO,PEDIDO=2/400101
+*************
+26/11/2018 11:15:10,ross,VALIDACION RESULTADO,PEDIDO=2/400149
+*************
+26/11/2018 11:15:10,ross,VALIDACION RESULTADO,PEDIDO=2/400150
+*************
+26/11/2018 11:15:10,ross,VALIDACION RESULTADO,PEDIDO=2/400151
+*************
+26/11/2018 11:15:10,ross,VALIDACION RESULTADO,PEDIDO=2/400476
+*************
+26/11/2018 11:15:16,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+29/11/2018 11:07:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 11:07:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 11:08:20,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+29/11/2018 11:08:20,ross,GUARDA RESULTADOS,CHOL=9
+*************
+29/11/2018 11:08:21,ross,GUARDA RESULTADOS,AHDL=9
+*************
+29/11/2018 11:08:21,ross,GUARDA RESULTADOS,LDL=9
+*************
+29/11/2018 11:08:21,ross,GUARDA RESULTADOS,TGL=9
+*************
+29/11/2018 11:12:45,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+29/11/2018 11:33:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 11:33:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 11:33:43,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+29/11/2018 11:33:43,ross,GUARDA RESULTADOS,CHOL=9
+*************
+29/11/2018 11:33:43,ross,GUARDA RESULTADOS,AHDL=9
+*************
+29/11/2018 11:33:43,ross,GUARDA RESULTADOS,LDL=9
+*************
+29/11/2018 11:33:43,ross,GUARDA RESULTADOS,TGL=9
+*************
+29/11/2018 11:35:17,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+29/11/2018 11:38:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 11:38:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 11:38:25,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+29/11/2018 11:38:25,ross,GUARDA RESULTADOS,CHOL=9
+*************
+29/11/2018 11:38:25,ross,GUARDA RESULTADOS,AHDL=9
+*************
+29/11/2018 11:38:25,ross,GUARDA RESULTADOS,LDL=9
+*************
+29/11/2018 11:38:25,ross,GUARDA RESULTADOS,TGL=9
+*************
+29/11/2018 11:38:43,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+29/11/2018 11:38:43,ross,GUARDA RESULTADOS,CHOL=9
+*************
+29/11/2018 11:38:43,ross,GUARDA RESULTADOS,AHDL=9
+*************
+29/11/2018 11:38:43,ross,GUARDA RESULTADOS,LDL=9
+*************
+29/11/2018 11:38:43,ross,GUARDA RESULTADOS,TGL=9
+*************
+29/11/2018 11:39:30,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+29/11/2018 11:41:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 11:41:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 11:42:16,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+29/11/2018 11:42:16,ross,GUARDA RESULTADOS,CHOL=9
+*************
+29/11/2018 11:42:16,ross,GUARDA RESULTADOS,AHDL=9
+*************
+29/11/2018 11:42:16,ross,GUARDA RESULTADOS,LDL=9
+*************
+29/11/2018 11:42:16,ross,GUARDA RESULTADOS,TGL=9
+*************
+29/11/2018 11:43:01,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+29/11/2018 11:43:01,ross,GUARDA RESULTADOS,CHOL=9
+*************
+29/11/2018 11:43:01,ross,GUARDA RESULTADOS,AHDL=9
+*************
+29/11/2018 11:43:01,ross,GUARDA RESULTADOS,LDL=9
+*************
+29/11/2018 11:43:01,ross,GUARDA RESULTADOS,TGL=9
+*************
+29/11/2018 11:43:06,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+29/11/2018 13:04:09,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+29/11/2018 13:10:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 13:10:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 13:10:57,ross,1 GENERAR ORDEN,PEDIDO=4
+*************
+29/11/2018 13:10:59,ross,2 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+29/11/2018 13:15:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 13:15:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 13:22:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 13:22:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 13:40:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 13:40:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 13:55:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 13:55:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 13:59:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 13:59:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 15:04:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 15:04:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 16:11:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 16:11:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 16:12:18,ross,1 GENERAR ORDEN,PEDIDO=5
+*************
+29/11/2018 16:12:20,ross,2 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+29/11/2018 16:55:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2018 16:55:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2018 16:56:01,ross,GUARDA RESULTADOS,TGL=135
+*************
+29/11/2018 16:56:04,ross,VALIDACION RESULTADO,PEDIDO=4/400151
+*************
+29/11/2018 16:58:23,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 9:03:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2018 9:03:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2018 9:04:01,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 9:04:01,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 9:04:01,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 9:04:01,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 9:04:01,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 9:05:07,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 9:05:07,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 9:05:07,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 9:05:07,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 9:05:07,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 9:05:19,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 9:07:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2018 9:07:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2018 9:07:50,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 9:07:50,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 9:07:50,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 9:07:50,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 9:07:50,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 9:07:59,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 9:18:21,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 9:18:21,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 9:18:21,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 9:18:21,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 9:18:21,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 9:19:01,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 9:19:01,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 9:19:01,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 9:19:01,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 9:19:01,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 9:19:09,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 9:20:44,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 9:20:44,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 9:20:44,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 9:20:44,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 9:20:44,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 9:20:56,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 13:58:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2018 13:58:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2018 13:58:40,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 13:58:40,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 13:58:40,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 13:58:40,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 13:58:40,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 13:59:28,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 15:19:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2018 15:19:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2018 15:20:17,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 15:20:17,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 15:20:17,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 15:20:17,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 15:20:17,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 15:20:42,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 15:20:42,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 15:20:42,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 15:20:42,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 15:20:42,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 15:20:47,ross,Inserta usuario web,Paciente=3 RFLORES
+*************
+30/11/2018 15:30:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2018 15:30:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2018 15:30:21,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/11/2018 15:30:21,ross,GUARDA RESULTADOS,CHOL=9
+*************
+30/11/2018 15:30:21,ross,GUARDA RESULTADOS,AHDL=9
+*************
+30/11/2018 15:30:21,ross,GUARDA RESULTADOS,LDL=9
+*************
+30/11/2018 15:30:21,ross,GUARDA RESULTADOS,TGL=9
+*************
+30/11/2018 15:30:34,ross,Inserta usuario web,Paciente=3 RFLORES
+*************

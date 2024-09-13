@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_liquidos" targetNamespace="http://tempuri.org/dts_liquidos.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_liquidos.xsd" xmlns:mstns="http://tempuri.org/dts_liquidos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_liquidos" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="liquidos">
+					<xs:complexType>
+						<xs:sequence></xs:sequence>
+						<xs:attribute name="GLU" type="xs:string" />
+						<xs:attribute name="PT" type="xs:string" />
+						<xs:attribute name="LDH" type="xs:string" />
+						<xs:attribute name="VDRL" type="xs:string" />
+						<xs:attribute name="BAC" type="xs:string" />
+						<xs:attribute name="HEM" type="xs:string" />
+						<xs:attribute name="CIT" type="xs:string" />
+						<xs:attribute name="PEDIDO" type="xs:int" />
+						<xs:attribute name="FECHA" type="xs:date" />
+						<xs:attribute name="PACIENTE" type="xs:string" />
+						<xs:attribute name="TURNO" type="xs:int" />
+						<xs:attribute name="GRADO" type="xs:string" />
+						<xs:attribute name="PARENTESCO" type="xs:string" />
+						<xs:attribute name="HC" type="xs:string" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_aspirantes" targetNamespace="http://tempuri.org/dts_aspirantes.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_aspirantes.xsd" xmlns:mstns="http://tempuri.org/dts_aspirantes.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_aspirantes" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="ASPIRANTE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="WBC" type="xs:string" minOccurs="0" />
+							<xs:element name="RBC" type="xs:string" minOccurs="0" />
+							<xs:element name="HGB" type="xs:string" minOccurs="0" />
+							<xs:element name="HCT" type="xs:string" minOccurs="0" />
+							<xs:element name="MONO" type="xs:string" minOccurs="0" />
+							<xs:element name="NEU" type="xs:string" minOccurs="0" />
+							<xs:element name="BASO" type="xs:string" minOccurs="0" />
+							<xs:element name="LYM" type="xs:string" minOccurs="0" />
+							<xs:element name="EOS" type="xs:string" minOccurs="0" />
+							<xs:element name="FTA" type="xs:string" minOccurs="0" />
+							<xs:element name="GRUPO" type="xs:string" minOccurs="0" />
+							<xs:element name="VDRL" type="xs:string" minOccurs="0" />
+							<xs:element name="RPR" type="xs:string" minOccurs="0" />
+							<xs:element name="GLU" type="xs:string" minOccurs="0" />
+							<xs:element name="UREA" type="xs:string" minOccurs="0" />
+							<xs:element name="CREA" type="xs:string" minOccurs="0" />
+							<xs:element name="URCA" type="xs:string" minOccurs="0" />
+							<xs:element name="CHOL" type="xs:string" minOccurs="0" />
+							<xs:element name="HDL" type="xs:string" minOccurs="0" />
+							<xs:element name="TRIG" type="xs:string" minOccurs="0" />
+							<xs:element name="HCV" type="xs:string" minOccurs="0" />
+							<xs:element name="VIH" type="xs:string" minOccurs="0" />
+							<xs:element name="HBSAG" type="xs:string" minOccurs="0" />
+							<xs:element name="BETAHCG" type="xs:string" minOccurs="0" />
+							<xs:element name="PSA" type="xs:string" minOccurs="0" />
+							<xs:element name="COPRO" type="xs:string" minOccurs="0" />
+							<xs:element name="EMO" type="xs:string" minOccurs="0" />
+							<xs:element name="PEDIDO" type="xs:integer" minOccurs="0" />
+							<xs:element name="FECHA" type="xs:date" minOccurs="0" />
+							<xs:element name="TURNO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

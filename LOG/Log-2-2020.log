@@ -1,0 +1,1884 @@
+01/02/2020 11:22:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/02/2020 11:23:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/02/2020 11:23:44,ross,01 GENERAR ORDEN,PEDIDO=95
+*************
+01/02/2020 12:39:41,ross,1 MODIFICA ORDEN,PEDIDO=95
+*************
+05/02/2020 11:07:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 11:07:23,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/02/2020 11:07:23,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 11:07:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 12:37:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 12:37:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 12:43:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 12:43:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 12:47:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 12:47:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 13:09:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 13:09:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 13:22:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 13:22:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 13:27:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 13:27:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 13:56:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 13:56:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 14:12:03,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+05/02/2020 14:14:29,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+05/02/2020 14:14:44,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+05/02/2020 14:16:33,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+05/02/2020 18:23:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 18:23:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 18:28:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 18:28:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 18:29:03,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+05/02/2020 18:32:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 18:32:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 18:45:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 18:45:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 20:50:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 20:50:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 21:08:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/02/2020 21:08:54,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/02/2020 21:08:54,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 21:09:07,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/02/2020 21:09:08,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/02/2020 21:09:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 18:14:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 18:14:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 18:34:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 18:34:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 18:37:16,ross,01 GENERAR ORDEN,PEDIDO=96
+*************
+06/02/2020 18:38:16,ross,Actualiza FACTURA,FACTURA=19
+*************
+06/02/2020 18:38:16,ross,Ingresa FACTURA,FACTURA=19
+*************
+06/02/2020 18:38:16,ross,Insertar abono,Factura=19 Abono= 30
+*************
+06/02/2020 18:38:16,ross,Actualiza FACTURA,FACTURA=19/30
+*************
+06/02/2020 18:44:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 18:44:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 19:08:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 19:08:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 19:41:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 19:41:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 19:42:08,ross,Registra Tx Factura,Factura=19
+*************
+06/02/2020 19:47:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 19:47:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 19:56:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 19:56:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 19:56:43,ross,Insertar abono,Factura=19 Abono= 16
+*************
+06/02/2020 19:56:43,ross,Cancela FACTURA,FACTURA=19
+*************
+06/02/2020 19:56:46,ross,Registra Tx Factura,Factura=19
+*************
+06/02/2020 20:26:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/02/2020 20:26:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/02/2020 20:27:24,ross,Registra Tx Factura,Factura=19
+*************
+06/02/2020 20:27:48,ross,01 GENERAR ORDEN,PEDIDO=97
+*************
+06/02/2020 20:27:59,ross,Actualiza FACTURA,FACTURA=20
+*************
+06/02/2020 20:27:59,ross,Ingresa FACTURA,FACTURA=20
+*************
+06/02/2020 20:27:59,ross,Insertar abono,Factura=20 Abono= 32
+*************
+06/02/2020 20:27:59,ross,Actualiza FACTURA,FACTURA=20/32
+*************
+06/02/2020 20:28:06,ross,Registra Tx Factura,Factura=20
+*************
+06/02/2020 20:28:27,ross,Insertar abono,Factura=20 Abono= 14
+*************
+06/02/2020 20:28:27,ross,Cancela FACTURA,FACTURA=20
+*************
+06/02/2020 20:28:29,ross,Registra Tx Factura,Factura=20
+*************
+06/02/2020 20:28:32,ross,Registra Tx Factura,Factura=20
+*************
+10/02/2020 10:12:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2020 10:12:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 9:37:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 9:37:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 9:40:38,ross,01 GENERAR ORDEN,PEDIDO=98
+*************
+18/02/2020 9:45:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=98
+*************
+18/02/2020 9:45:29,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,WBCH=1
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,LYMH=2
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,NEUH=3
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,EOSH=5
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,HGBH=4
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,RBCH=5
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,MCVH=3
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,MCHH=2
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,PDWH=5
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,MPVH=4
+*************
+18/02/2020 9:46:30,ross,GUARDA RESULTADOS,PCTH=1
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,PHO=5
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,LEUO=NEGATIVO
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,PROTO=NEGATIVO
+*************
+18/02/2020 9:46:46,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,UROO=NEGATIVO
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,SANO=NEGATIVO
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,HGBO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CELEPH=1-2
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,BACO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CILCE=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,ASCOH=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CELPOH=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CIGO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CILO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,OXAO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CRIO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,URO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,CCETO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,ESP=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,FOO=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,HEMOH=
+*************
+18/02/2020 9:46:47,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+18/02/2020 9:46:48,ross,GUARDA RESULTADOS,MOCO=
+*************
+18/02/2020 9:46:48,ross,GUARDA RESULTADOS,OTROSO=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,COLOR=MARRON
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,CONSISTENCIA=PASTOSA
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,Ph=1.6
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,SANC2=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,VMICC2=+
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,RAC2=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,GRASAS=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,LEVADURAS=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,PIOCITO=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,FBACC2=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,INVPAC2=-INV. DE PARASITOS-
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,AMBHC1=QUISTES +
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,ACOLI=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,TENCP1=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,LANDC1=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+18/02/2020 9:47:05,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,NANAC1=
+*************
+18/02/2020 9:47:06,ross,GUARDA RESULTADOS,OTROS=
+*************
+18/02/2020 9:47:37,ross,GUARDA NOTA AREA,EXAMEN PADRE=400191/VALORES CONFIRMADOS
+*************
+18/02/2020 9:47:50,ross,GUARDA NOTA AREA,EXAMEN PADRE=400197/RETOMA
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,TGRH=124
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,TCH=87
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,CFOSF=148
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/02/2020 9:48:06,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400101
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400149
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400151
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400191
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400197
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400230
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400244
+*************
+18/02/2020 9:48:07,ross,VALIDACION RESULTADO,PEDIDO=98/400524
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,TGRH=124
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,TCH=87
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,CFOSF=148
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/02/2020 9:48:18,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,TGRH=124
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,TCH=87
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,CFOSF=148
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/02/2020 9:49:55,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,TGRH=124
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,TCH=87
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,CFOSF=148
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/02/2020 10:02:58,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+18/02/2020 10:09:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 10:09:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 10:10:08,ross,IMPRIME POR AREA,PEDIDO=98
+*************
+18/02/2020 10:10:32,ross,IMPRIME TODO,PEDIDO=98
+*************
+18/02/2020 10:11:02,ross,IMPRIME POR EMAMEN,PEDIDO=98
+*************
+18/02/2020 10:11:29,ross,IMPRIME POR AREA,PEDIDO=98
+*************
+18/02/2020 10:11:34,ross,IMPRIME POR AREA,PEDIDO=98
+*************
+18/02/2020 19:05:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 19:05:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 19:07:12,ross,01 GENERAR ORDEN,PEDIDO=99
+*************
+18/02/2020 19:07:52,ross,GUARDA RESULTADOS,WBCH=1
+*************
+18/02/2020 19:07:52,ross,GUARDA RESULTADOS,LYMH=2
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,NEUH=3
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,EOSH=5
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,BASOH=6
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,NEU%25H=8
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,MONO%25H=9
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,HCTH=5
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,MCVH=6
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,MCHH=7
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,RDW_SDH=9
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,RDW_CVH=1
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,PLTH=2
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,PDWH=3
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,MPVH=4
+*************
+18/02/2020 19:07:53,ross,GUARDA RESULTADOS,PCTH=6
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,PHO=5
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,LEUO=NEGATIVO
+*************
+18/02/2020 19:08:14,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,PROTO=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,UROO=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,SANO=NEGATIVO
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,HGBO=
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+18/02/2020 19:08:15,ross,GUARDA RESULTADOS,CELEPH=1-2
+*************
+18/02/2020 19:08:16,ross,GUARDA RESULTADOS,PIOO=2-4
+*************
+18/02/2020 19:08:16,ross,GUARDA RESULTADOS,BACO=3-5
+*************
+18/02/2020 19:08:16,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+18/02/2020 19:08:16,ross,GUARDA RESULTADOS,CILCE=
+*************
+18/02/2020 19:08:16,ross,GUARDA RESULTADOS,ASCOH=
+*************
+18/02/2020 19:08:16,ross,GUARDA RESULTADOS,CELPOH=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,CIGO=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,CILO=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,OXAO=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,CRIO=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,URO=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,CCETO=
+*************
+18/02/2020 19:08:17,ross,GUARDA RESULTADOS,ESP=
+*************
+18/02/2020 19:08:18,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+18/02/2020 19:08:18,ross,GUARDA RESULTADOS,FOO=
+*************
+18/02/2020 19:08:18,ross,GUARDA RESULTADOS,HEMOH=
+*************
+18/02/2020 19:08:18,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+18/02/2020 19:08:18,ross,GUARDA RESULTADOS,MOCO=
+*************
+18/02/2020 19:08:18,ross,GUARDA RESULTADOS,OTROSO=
+*************
+18/02/2020 19:09:45,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+18/02/2020 19:09:45,ross,GUARDA RESULTADOS,COLOR=MARRON
+*************
+18/02/2020 19:09:45,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+18/02/2020 19:09:45,ross,GUARDA RESULTADOS,CONSISTENCIA=PASTOSA
+*************
+18/02/2020 19:09:45,ross,GUARDA RESULTADOS,Ph=1.5
+*************
+18/02/2020 19:09:46,ross,GUARDA RESULTADOS,SANC2=+
+*************
+18/02/2020 19:09:46,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+18/02/2020 19:09:46,ross,GUARDA RESULTADOS,VMICC2=++
+*************
+18/02/2020 19:09:46,ross,GUARDA RESULTADOS,RAC2=+++
+*************
+18/02/2020 19:09:46,ross,GUARDA RESULTADOS,GRASAS=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,LEVADURAS=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,PIOCITO=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,FBACC2=
+*************
+18/02/2020 19:09:47,ross,GUARDA RESULTADOS,INVPAC2=-INV. DE PARASITOS-
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,AMBHC1=QUISTES +
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,ACOLI=
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,CHILOMASTIX=QUISTES ++
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,TENCP1=
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,LANDC1=
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+18/02/2020 19:09:48,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,NANAC1=
+*************
+18/02/2020 19:09:49,ross,GUARDA RESULTADOS,OTROS=
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,TGRH=125
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,TCH=150
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,CREH=1.5
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,CFOSF=190
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/02/2020 19:10:28,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/02/2020 19:10:29,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400101
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400141
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400149
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400151
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400191
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400197
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400230
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400244
+*************
+18/02/2020 19:10:30,ross,VALIDACION RESULTADO,PEDIDO=99/400524
+*************
+18/02/2020 19:10:50,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+18/02/2020 19:15:04,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+18/02/2020 19:15:11,ross,IMPRIME TODO,PEDIDO=99
+*************
+18/02/2020 20:09:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 20:09:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 23:25:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 23:25:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 23:25:28,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+18/02/2020 23:29:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 23:29:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 23:29:49,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+18/02/2020 23:33:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/02/2020 23:33:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/02/2020 23:33:13,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+18/02/2020 23:33:41,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+19/02/2020 14:24:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 14:24:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 14:24:43,ross,01 GENERAR ORDEN,PEDIDO=100
+*************
+19/02/2020 14:24:52,ross,Actualiza FACTURA,FACTURA=21
+*************
+19/02/2020 14:24:52,ross,Ingresa FACTURA,FACTURA=21
+*************
+19/02/2020 14:24:54,ross,Insertar abono,Factura=21 Abono= 2
+*************
+19/02/2020 14:24:54,ross,Cancela FACTURA,FACTURA=21
+*************
+19/02/2020 15:11:44,ross,01 GENERAR ORDEN,PEDIDO=101
+*************
+19/02/2020 15:11:55,ross,Actualiza FACTURA,FACTURA=22
+*************
+19/02/2020 15:11:55,ross,Ingresa FACTURA,FACTURA=22
+*************
+19/02/2020 15:11:55,ross,Insertar abono,Factura=22 Abono= 20
+*************
+19/02/2020 15:11:55,ross,Actualiza FACTURA,FACTURA=22/20
+*************
+19/02/2020 15:11:58,ross,Registra Tx Factura,Factura=22
+*************
+19/02/2020 15:12:15,ross,Insertar abono,Factura=22 Abono= 26
+*************
+19/02/2020 15:12:15,ross,Cancela FACTURA,FACTURA=22
+*************
+19/02/2020 15:12:18,ross,Registra Tx Factura,Factura=22
+*************
+19/02/2020 15:12:21,ross,Registra Tx Factura,Factura=22
+*************
+19/02/2020 15:14:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 15:14:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 15:22:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 15:22:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 17:17:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 17:17:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 17:18:08,ross,IMPRIME POR AREA,PEDIDO=99
+*************
+19/02/2020 20:58:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 20:58:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 21:06:52,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+19/02/2020 21:10:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 21:10:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 21:24:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 21:24:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 21:31:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 21:31:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 21:35:19,ross,ENVIO CORREO PACIENTE,PEDIDO=99
+*************
+19/02/2020 21:35:46,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+19/02/2020 21:36:19,ross,01 GENERAR ORDEN,PEDIDO=102
+*************
+19/02/2020 21:36:30,ross,GUARDA RESULTADOS,TGRH=135
+*************
+19/02/2020 21:36:32,ross,VALIDACION RESULTADO,PEDIDO=102/400151
+*************
+19/02/2020 21:44:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/02/2020 21:44:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/02/2020 21:44:28,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=102 EMAIL NO VALIDO
+*************
+20/02/2020 16:31:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 16:31:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 16:31:52,ross,01 GENERAR ORDEN,PEDIDO=103
+*************
+20/02/2020 16:32:17,ross,Actualiza FACTURA,FACTURA=23
+*************
+20/02/2020 16:32:17,ross,Ingresa FACTURA,FACTURA=23
+*************
+20/02/2020 16:32:19,ross,Insertar abono,Factura=23 Abono= 55.8
+*************
+20/02/2020 16:32:19,ross,Cancela FACTURA,FACTURA=23
+*************
+20/02/2020 16:32:21,ross,Registra Tx Factura,Factura=23
+*************
+20/02/2020 16:34:07,ross,Registra Tx Factura,Factura=23
+*************
+20/02/2020 16:52:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 16:52:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 16:53:07,ross,01 GENERAR ORDEN,PEDIDO=104
+*************
+20/02/2020 16:53:50,ross,Actualiza FACTURA,FACTURA=24
+*************
+20/02/2020 16:53:50,ross,Ingresa FACTURA,FACTURA=24
+*************
+20/02/2020 16:53:58,ross,Insertar abono,Factura=24 Abono= 55.8
+*************
+20/02/2020 16:53:58,ross,Cancela FACTURA,FACTURA=24
+*************
+20/02/2020 16:54:43,ross,Registra Tx Factura,Factura=24
+*************
+20/02/2020 17:03:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 17:03:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 17:04:05,ross,01 GENERAR ORDEN,PEDIDO=105
+*************
+20/02/2020 17:04:39,ross,Actualiza FACTURA,FACTURA=25
+*************
+20/02/2020 17:04:39,ross,Ingresa FACTURA,FACTURA=25
+*************
+20/02/2020 17:05:02,ross,Insertar abono,Factura=25 Abono= 46
+*************
+20/02/2020 17:05:02,ross,Cancela FACTURA,FACTURA=25
+*************
+20/02/2020 17:16:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 17:16:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 17:17:09,ross,01 GENERAR ORDEN,PEDIDO=106
+*************
+20/02/2020 17:17:43,ross,Actualiza FACTURA,FACTURA=26
+*************
+20/02/2020 17:17:43,ross,Ingresa FACTURA,FACTURA=26
+*************
+20/02/2020 17:26:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 17:26:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 17:27:03,ross,Registra Tx Factura,Factura=26
+*************
+20/02/2020 17:27:20,ross,01 GENERAR ORDEN,PEDIDO=107
+*************
+20/02/2020 17:27:45,ross,Actualiza FACTURA,FACTURA=27
+*************
+20/02/2020 17:27:45,ross,Ingresa FACTURA,FACTURA=27
+*************
+20/02/2020 17:30:13,ross,Insertar abono,Factura=27 Abono= 55.8
+*************
+20/02/2020 17:33:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 17:33:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 17:33:30,ross,01 GENERAR ORDEN,PEDIDO=108
+*************
+20/02/2020 17:33:49,ross,Actualiza FACTURA,FACTURA=28
+*************
+20/02/2020 17:33:49,ross,Ingresa FACTURA,FACTURA=28
+*************
+20/02/2020 17:34:26,ross,Insertar abono,Factura=28 Abono= 55.8
+*************
+20/02/2020 17:34:30,ross,Cancela FACTURA,FACTURA=28
+*************
+20/02/2020 17:34:46,ross,Registra Tx Factura,Factura=28
+*************
+20/02/2020 17:38:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 17:38:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 17:43:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 17:43:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 17:44:14,ross,01 GENERAR ORDEN,PEDIDO=109
+*************
+20/02/2020 17:44:35,ross,Actualiza FACTURA,FACTURA=29
+*************
+20/02/2020 17:44:35,ross,Ingresa FACTURA,FACTURA=29
+*************
+20/02/2020 17:44:47,ross,Insertar abono,Factura=29 Abono= 55.8
+*************
+20/02/2020 17:44:47,ross,Cancela FACTURA,FACTURA=29
+*************
+20/02/2020 17:44:52,ross,Registra Tx Factura,Factura=29
+*************
+20/02/2020 18:01:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 18:01:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 18:02:04,ross,01 GENERAR ORDEN,PEDIDO=110
+*************
+20/02/2020 18:02:16,ross,Actualiza FACTURA,FACTURA=30
+*************
+20/02/2020 18:02:16,ross,Ingresa FACTURA,FACTURA=30
+*************
+20/02/2020 18:02:22,ross,Insertar abono,Factura=30 Abono= 62
+*************
+20/02/2020 18:02:22,ross,Cancela FACTURA,FACTURA=30
+*************
+20/02/2020 18:02:25,ross,Registra Tx Factura,Factura=30
+*************
+20/02/2020 18:02:46,ross,Registra Tx Factura,Factura=30
+*************
+20/02/2020 18:02:52,ross,Registra Tx Factura,Factura=30
+*************
+20/02/2020 18:07:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 18:07:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 18:08:16,ross,01 GENERAR ORDEN,PEDIDO=111
+*************
+20/02/2020 18:08:30,ross,Actualiza FACTURA,FACTURA=31
+*************
+20/02/2020 18:08:30,ross,Ingresa FACTURA,FACTURA=31
+*************
+20/02/2020 18:08:31,ross,Insertar abono,Factura=31 Abono= 62
+*************
+20/02/2020 18:08:31,ross,Cancela FACTURA,FACTURA=31
+*************
+20/02/2020 18:08:33,ross,Registra Tx Factura,Factura=31
+*************
+20/02/2020 18:08:49,ross,Registra Tx Factura,Factura=31
+*************
+20/02/2020 18:09:17,ross,Registra Tx Factura,Factura=31
+*************
+20/02/2020 18:11:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 18:11:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 18:12:26,ross,01 GENERAR ORDEN,PEDIDO=112
+*************
+20/02/2020 18:12:35,ross,Actualiza FACTURA,FACTURA=32
+*************
+20/02/2020 18:12:35,ross,Ingresa FACTURA,FACTURA=32
+*************
+20/02/2020 18:12:37,ross,Insertar abono,Factura=32 Abono= 11
+*************
+20/02/2020 18:12:37,ross,Cancela FACTURA,FACTURA=32
+*************
+20/02/2020 18:12:40,ross,Registra Tx Factura,Factura=32
+*************
+20/02/2020 18:17:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 18:17:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 18:17:32,ross,01 GENERAR ORDEN,PEDIDO=113
+*************
+20/02/2020 18:17:41,ross,Actualiza FACTURA,FACTURA=33
+*************
+20/02/2020 18:17:41,ross,Ingresa FACTURA,FACTURA=33
+*************
+20/02/2020 18:17:42,ross,Insertar abono,Factura=33 Abono= 2
+*************
+20/02/2020 18:17:42,ross,Cancela FACTURA,FACTURA=33
+*************
+20/02/2020 18:17:45,ross,Registra Tx Factura,Factura=33
+*************
+20/02/2020 18:39:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 18:39:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 18:40:00,ross,01 GENERAR ORDEN,PEDIDO=114
+*************
+20/02/2020 18:40:09,ross,Actualiza FACTURA,FACTURA=34
+*************
+20/02/2020 18:40:09,ross,Ingresa FACTURA,FACTURA=34
+*************
+20/02/2020 18:40:10,ross,Insertar abono,Factura=34 Abono= 2
+*************
+20/02/2020 18:40:10,ross,Cancela FACTURA,FACTURA=34
+*************
+20/02/2020 18:40:12,ross,Registra Tx Factura,Factura=34
+*************
+20/02/2020 19:05:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/02/2020 19:05:34,,Ingreso CONTRASEÑA FALLIDO,
+*************
+20/02/2020 19:05:34,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 19:05:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/02/2020 19:06:47,ross,01 GENERAR ORDEN,PEDIDO=115
+*************
+20/02/2020 19:06:59,ross,Actualiza FACTURA,FACTURA=35
+*************
+20/02/2020 19:06:59,ross,Ingresa FACTURA,FACTURA=35
+*************
+20/02/2020 19:07:00,ross,Insertar abono,Factura=35 Abono= 46
+*************
+20/02/2020 19:07:00,ross,Cancela FACTURA,FACTURA=35
+*************
+20/02/2020 19:07:03,ross,Registra Tx Factura,Factura=35
+*************
+20/02/2020 19:07:13,ross,Registra Tx Factura,Factura=35
+*************
+20/02/2020 19:07:21,ross,Registra Tx Factura,Factura=35
+*************
+20/02/2020 19:07:26,ross,Registra Tx Factura,Factura=35
+*************
+21/02/2020 8:31:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 8:31:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 9:02:31,ross,Registra Tx Factura,Factura=35
+*************
+21/02/2020 9:13:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 9:13:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 9:14:17,ross,Actualizar Convenio,Convenio=CHEVROLETT
+*************
+21/02/2020 9:14:39,ross,Actualizar Convenio,Convenio=CHEVROLETT
+*************
+21/02/2020 9:19:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 9:19:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 9:20:49,ross,Actualizar Convenio,Convenio=CHEVROLETTT
+*************
+21/02/2020 9:21:17,ross,Actualizar Secuencia,SECUENCIA=CHEVROLETTT/1000/1999
+*************
+21/02/2020 9:37:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 9:37:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 9:38:16,ross,Actualizar Convenio,Convenio=CHEVROLET
+*************
+21/02/2020 9:38:29,ross,Actualizar Secuencia,SECUENCIA=CHEVROLET/1000/1499
+*************
+21/02/2020 9:40:31,ross,Actualizar Convenio,Convenio=CHEVROLETH
+*************
+21/02/2020 9:40:59,ross,Actualizar Secuencia,SECUENCIA=CHEVROLETH/1000/1499
+*************
+21/02/2020 9:45:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 9:45:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 9:50:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 9:50:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 9:50:31,ross,Actualizar Convenio,Convenio=CHEVROLET
+*************
+21/02/2020 9:50:32,ross,Actualizar Secuencia,SECUENCIA=CHEVROLET/1000/1199
+*************
+21/02/2020 10:01:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 10:01:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 10:01:55,ross,Eliminar Convenio,Convenio0CHEVROLET
+*************
+21/02/2020 10:01:55,ross,Elimina Lista de Precios,Lista Precio=CHEVROLET
+*************
+21/02/2020 10:01:55,ross,Eliminar Secuencia,SECUENCIA=CHEVROLET
+*************
+21/02/2020 10:02:17,ross,Nuevo Convenio,Convenio=CHEVROLET
+*************
+21/02/2020 10:02:17,ross,Guardar secuencia,SECUENCIA=CHEVROLET/1000/1199
+*************
+21/02/2020 10:02:48,ross,Actualizar Convenio,Convenio=CHEVROLETT
+*************
+21/02/2020 10:03:01,ross,Actualizar Secuencia,SECUENCIA=CHEVROLETT/1000/1499
+*************
+21/02/2020 10:04:56,ross,Actualizar Convenio,Convenio=CHEVROLET
+*************
+21/02/2020 10:11:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 10:11:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 10:12:10,ross,Actualizar Convenio,Convenio=CHEVROLETT
+*************
+21/02/2020 10:12:12,ross,Actualizar Secuencia,SECUENCIA=CHEVROLETT/1000/1499
+*************
+21/02/2020 10:12:37,ross,Actualizar Convenio,Convenio=CHEVROLET
+*************
+21/02/2020 10:12:39,ross,Actualizar Secuencia,SECUENCIA=CHEVROLET/1000/1499
+*************
+21/02/2020 10:16:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 10:16:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 10:16:18,ross,Actualizar Convenio,Convenio=CHEVROLETTT
+*************
+21/02/2020 10:16:18,ross,Actualizar Secuencia,SECUENCIA=CHEVROLETTT/1000/1499
+*************
+21/02/2020 10:23:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 10:23:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 10:23:18,ross,Actualizar Convenio,Convenio=CHEVROLETT
+*************
+21/02/2020 10:23:18,ross,Actualizar Secuencia,SECUENCIA=CHEVROLETT/1000/1499
+*************
+21/02/2020 10:32:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 10:32:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 10:32:53,ross,Actualizar Convenio,Convenio=LOS OLIVOS
+*************
+21/02/2020 10:32:53,ross,Actualizar Secuencia,SECUENCIA=LOS OLIVOS/1101/1200
+*************
+21/02/2020 10:33:02,ross,Actualizar LISTA PRECIO=LOS OLIVOS,
+*************
+21/02/2020 12:36:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 12:36:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 12:36:46,ross,Actualiza FACTURA,FACTURA=1566
+*************
+21/02/2020 12:36:46,ross,Ingresa FACTURA,FACTURA=1566
+*************
+21/02/2020 12:36:47,ross,Insertar abono,Factura=1566 Abono= 20
+*************
+21/02/2020 12:36:47,ross,Cancela FACTURA,FACTURA=1566
+*************
+21/02/2020 12:36:48,ross,Registra Tx Factura,Factura=1566
+*************
+21/02/2020 12:38:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 12:38:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 12:38:18,ross,Actualiza FACTURA,FACTURA=1567
+*************
+21/02/2020 12:38:18,ross,Ingresa FACTURA,FACTURA=1567
+*************
+21/02/2020 12:38:19,ross,Insertar abono,Factura=1567 Abono= 24
+*************
+21/02/2020 12:38:19,ross,Cancela FACTURA,FACTURA=1567
+*************
+21/02/2020 12:38:20,ross,Registra Tx Factura,Factura=1567
+*************
+21/02/2020 12:52:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 12:52:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 12:53:26,ross,1 MODIFICA ORDEN,PEDIDO=2827
+*************
+21/02/2020 13:05:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 13:05:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 13:05:45,ross,1 MODIFICA ORDEN,PEDIDO=2837
+*************
+21/02/2020 13:36:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 13:36:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 13:40:23,ross,01 GENERAR ORDEN,PEDIDO=2846
+*************
+21/02/2020 13:40:40,ross,Actualiza FACTURA,FACTURA=1579
+*************
+21/02/2020 13:40:40,ross,Ingresa FACTURA,FACTURA=1579
+*************
+21/02/2020 13:40:41,ross,Insertar abono,Factura=1579 Abono= 9
+*************
+21/02/2020 13:40:41,ross,Cancela FACTURA,FACTURA=1579
+*************
+21/02/2020 13:41:10,ross,Registra Tx Factura,Factura=1579
+*************
+21/02/2020 13:49:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 13:49:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 13:49:53,ross,01 GENERAR ORDEN,PEDIDO=2847
+*************
+21/02/2020 13:55:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 13:55:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 13:57:38,ross,Actualiza FACTURA,FACTURA=1580
+*************
+21/02/2020 13:57:38,ross,Ingresa FACTURA,FACTURA=1580
+*************
+21/02/2020 13:57:39,ross,Insertar abono,Factura=1580 Abono= 5
+*************
+21/02/2020 13:57:39,ross,Cancela FACTURA,FACTURA=1580
+*************
+21/02/2020 13:57:44,ross,Registra Tx Factura,Factura=1580
+*************
+21/02/2020 13:58:00,ross,Registra Tx Factura,Factura=1580
+*************
+21/02/2020 13:58:15,ross,IMPRIME POR AREA,PEDIDO=2759
+*************
+21/02/2020 14:22:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 14:22:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 14:23:02,ross,IMPRIME POR AREA,PEDIDO=2772
+*************
+21/02/2020 14:23:12,ross,IMPRIME POR EMAMEN,PEDIDO=2772
+*************
+21/02/2020 14:27:28,,SUPERADO INTENTOS FALLIDO USR,
+*************
+21/02/2020 14:27:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 14:27:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 14:27:53,ross,IMPRIME POR EMAMEN,PEDIDO=2765
+*************
+21/02/2020 14:28:01,ross,IMPRIME POR EMAMEN,PEDIDO=2765
+*************
+21/02/2020 14:28:10,ross,IMPRIME SOBRE,PEDIDO=2765
+*************
+21/02/2020 15:14:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2020 15:14:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2020 15:14:32,ross,Actualiza FACTURA,FACTURA=1581
+*************
+21/02/2020 15:14:32,ross,Ingresa FACTURA,FACTURA=1581
+*************
+21/02/2020 15:14:33,ross,Insertar abono,Factura=1581 Abono= 24
+*************
+21/02/2020 15:14:33,ross,Cancela FACTURA,FACTURA=1581
+*************
+21/02/2020 15:14:40,ross,Registra Tx Factura,Factura=1581
+*************
+22/02/2020 5:49:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2020 5:49:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2020 6:47:56,,SUPERADO INTENTOS FALLIDO USR,
+*************
+22/02/2020 6:48:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/02/2020 6:48:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/02/2020 6:48:32,ross,01 GENERAR ORDEN,PEDIDO=2848
+*************
+22/02/2020 6:48:38,ross,02 IMPRIMIR COD BARRAS,PEDIDO=2848
+*************
+22/02/2020 6:48:39,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+22/02/2020 6:48:42,ross,03 IMPRIMIR PEDIDO,PEDIDO=2848
+*************
+26/02/2020 13:04:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 13:04:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 17:22:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 17:23:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 17:23:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 17:23:32,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26/02/2020 17:23:32,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 17:23:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 17:26:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 17:26:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 17:26:19,ross,ENVIO CORREO PACIENTE,PEDIDO=7
+*************
+26/02/2020 17:39:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 17:39:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 18:12:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 18:12:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 18:22:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 18:22:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 18:27:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 18:27:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 18:31:24,ross,ENVIO CORREO PACIENTE,PEDIDO=7
+*************
+26/02/2020 22:13:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 22:13:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 22:14:35,ross,01 GENERAR ORDEN,PEDIDO=116
+*************
+26/02/2020 22:14:55,ross,GUARDA RESULTADOS,TGRH=124
+*************
+26/02/2020 22:14:55,ross,GUARDA RESULTADOS,TCH=189
+*************
+26/02/2020 22:15:43,ross,VALIDACION RESULTADO,PEDIDO=116/400149
+*************
+26/02/2020 22:15:44,ross,VALIDACION RESULTADO,PEDIDO=116/400151
+*************
+26/02/2020 22:24:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/02/2020 22:24:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/02/2020 22:25:34,ross,GUARDA RESULTADOS,TGRH=124
+*************
+26/02/2020 22:25:34,ross,GUARDA RESULTADOS,TCH=189
+*************
+26/02/2020 22:34:45,ross,Actualiza Mail Paciente,Paciente=4 rossvanflores@hotmail.com
+*************
+26/02/2020 22:36:17,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+27/02/2020 15:55:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2020 15:56:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2020 15:56:55,ross,Actualiza Paciente,Paciente=FLORES MORALES ANDRES SEBASTIAN
+*************
+27/02/2020 15:57:17,ross,01 GENERAR ORDEN,PEDIDO=117
+*************
+27/02/2020 15:57:28,ross,GUARDA RESULTADOS,SOSUE=1
+*************
+27/02/2020 15:57:28,ross,GUARDA RESULTADOS,POSUE=2
+*************
+27/02/2020 15:57:28,ross,GUARDA RESULTADOS,CL=3
+*************
+27/02/2020 15:57:30,ross,VALIDACION RESULTADO,PEDIDO=117/400320
+*************
+27/02/2020 15:57:30,ross,VALIDACION RESULTADO,PEDIDO=117/400321
+*************
+27/02/2020 15:57:30,ross,VALIDACION RESULTADO,PEDIDO=117/400322
+*************
+27/02/2020 16:00:47,ross,Actualiza Mail Paciente,Paciente=3 rossvanflores@hotmail.com
+*************
+27/02/2020 16:01:51,ross,Inserta usuario web,Paciente=3 AFLORES
+*************
+27/02/2020 16:49:57,ross,Nuevo Convenio,Convenio=NEFROMEDIC
+*************
+27/02/2020 16:49:57,ross,Guardar secuencia,SECUENCIA=NEFROMEDIC/1500/1699
+*************
+27/02/2020 16:53:15,ross,01 GENERAR ORDEN,PEDIDO=118
+*************
+27/02/2020 16:53:44,ross,GUARDA RESULTADOS,CRE=23
+*************
+27/02/2020 16:53:44,ross,GUARDA RESULTADOS,TGRH=34
+*************
+27/02/2020 16:53:44,ross,GUARDA RESULTADOS,TCH=45
+*************
+27/02/2020 16:53:50,ross,VALIDACION RESULTADO,PEDIDO=118/400141
+*************
+27/02/2020 16:53:50,ross,VALIDACION RESULTADO,PEDIDO=118/400149
+*************
+27/02/2020 16:53:50,ross,VALIDACION RESULTADO,PEDIDO=118/400151
+*************
+27/02/2020 20:53:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2020 20:53:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2020 20:54:22,ross,Nuevo Perfil,PERFIL=PERFIL LIPIDIO
+*************
+27/02/2020 20:54:38,ross,Eliminar Perfil,35
+*************
+27/02/2020 20:54:54,ross,Eliminar Perfil,48
+*************
+27/02/2020 20:55:02,ross,Eliminar Perfil,49
+*************
+27/02/2020 20:55:10,ross,Eliminar Perfil,57
+*************
+27/02/2020 20:55:16,ross,Eliminar Perfil,56
+*************
+27/02/2020 20:55:24,ross,Eliminar Perfil,50
+*************
+27/02/2020 20:55:34,ross,Actualizar Perfil,PERFIL=PERFIL BASICO
+*************
+27/02/2020 20:56:00,ross,Actualizar Perfil,PERFIL=PERFIL DEP. DE CREATININA
+*************
+27/02/2020 20:56:36,ross,Actualizar Perfil,PERFIL=PERFIL TIROIDES 1
+*************
+27/02/2020 20:57:10,ross,Eliminar Perfil,29
+*************
+27/02/2020 20:57:15,ross,Eliminar Perfil,36
+*************
+27/02/2020 20:58:01,ross,Actualizar Perfil,PERFIL=PERFIL LIPIDICO
+*************
+27/02/2020 20:58:53,ross,01 GENERAR ORDEN,PEDIDO=1
+*************
+27/02/2020 21:00:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/02/2020 21:00:14,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+27/02/2020 21:16:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2020 21:16:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2020 21:19:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2020 21:19:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2020 21:20:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/02/2020 21:23:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2020 21:23:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2020 21:30:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/02/2020 21:30:57,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+27/02/2020 21:47:05,ross,Actualiza Test,Test=PANEL DE 6 DROGAS
+*************
+27/02/2020 21:47:41,ross,Actualiza Test,Test=PANEL DE 10 DROGAS
+*************
+27/02/2020 21:48:17,ross,Actualiza Test,Test=PANEL DE 2 DROGAS
+*************
+27/02/2020 21:49:05,ross,Actualiza Test,Test=PANEL 12 DROGAS
+*************
+27/02/2020 21:49:23,ross,Actualiza Test,Test=PANEL DE 12 DROGAS
+*************
+27/02/2020 21:55:01,ross,GUARDA RESULTADOS,TCH=1
+*************
+27/02/2020 21:55:01,ross,GUARDA RESULTADOS,AHDL=2
+*************
+27/02/2020 21:55:01,ross,GUARDA RESULTADOS,LDLH=3
+*************
+27/02/2020 21:55:01,ross,GUARDA RESULTADOS,TGRH=4
+*************
+27/02/2020 21:55:03,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+27/02/2020 21:55:03,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+27/02/2020 21:55:03,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+27/02/2020 21:55:03,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+27/02/2020 22:17:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/02/2020 22:17:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/02/2020 22:18:11,ross,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+27/02/2020 22:18:11,ross,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+27/02/2020 22:18:11,ross,Nuevo Pedido PRE CARGA,NORMAL/4
+*************
+27/02/2020 22:18:11,ross,Nuevo Pedido PRE CARGA,NORMAL/5
+*************
+27/02/2020 22:18:11,ross,Nuevo Pedido PRE CARGA,NORMAL/6
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/7
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/8
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/9
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/10
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/11
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/12
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/13
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/14
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/15
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/16
+*************
+27/02/2020 22:18:12,ross,Nuevo Pedido PRE CARGA,NORMAL/17
+*************
+27/02/2020 22:18:13,ross,Nuevo Pedido PRE CARGA,NORMAL/18
+*************
+27/02/2020 22:18:13,ross,Nuevo Pedido PRE CARGA,NORMAL/19
+*************
+27/02/2020 22:18:13,ross,Nuevo Pedido PRE CARGA,NORMAL/20
+*************
+28/02/2020 10:46:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 10:46:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 10:51:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 10:51:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 11:00:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 11:00:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 11:09:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 11:09:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 11:11:33,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/21
+*************
+28/02/2020 11:11:47,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/22
+*************
+28/02/2020 11:11:47,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/23
+*************
+28/02/2020 11:11:47,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/24
+*************
+28/02/2020 11:11:47,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/25
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/26
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/27
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/28
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/29
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/30
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/31
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/32
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/33
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/34
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/35
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/36
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/37
+*************
+28/02/2020 11:11:48,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/38
+*************
+28/02/2020 11:11:49,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/39
+*************
+28/02/2020 13:42:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 13:42:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 13:51:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 13:51:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 13:56:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 13:56:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 14:30:03,ross,01 GENERAR ORDEN,PEDIDO=39
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=AMORES MONTENEGRO CARLOS IVAN
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/40
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=ARGUELLO HERRERA CESAR ANDRES
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/41
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=AYOVI PALMA IVONNE DEL ROCIO
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/42
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=CHAVEZ BEDON TATIANA KARINA
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/43
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=CHICAIZA SANTOS MARCO ANTONIO
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/44
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=ESCANDON PATIÑO ADRIANA PAOLA
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/45
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=GRANDA PALADINES RONAL PAVEL
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/46
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=QUIÑONEZ ORTIZ FELIX MEDARDO
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/47
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=SANTANDER VASQUEZ PAMELA EVELIN
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/48
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=SANTIN AGUIRRE ANDREA MABEL
+*************
+28/02/2020 14:37:09,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/49
+*************
+28/02/2020 14:37:09,ross,Generar Paciente,Paciente=SILVA CAMPOVERDE GISSELA MARELY
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/50
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=SHUALO MAYRA
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/51
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=VALLE ROSERO JORGE ENRIQUE
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/52
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=VALVERDE CHAVEZ JOSE LUIS
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/53
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=RODRIGUEZ PARRA CARLOS JAVIER
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/54
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=ALVAREZ JACOME GENNY DEL ROCIO
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/55
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=BRIONES ALCIVAR JAVIER ANTONIO
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/56
+*************
+28/02/2020 14:37:10,ross,Generar Paciente,Paciente=RODRIGUEZ BAQUE LEONEL RICARDO
+*************
+28/02/2020 14:37:10,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/57
+*************
+28/02/2020 14:37:11,ross,Generar Paciente,Paciente=MONTENRGRO JEREZ MAX VLADIMIR
+*************
+28/02/2020 14:37:11,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/58
+*************
+28/02/2020 14:44:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/02/2020 14:44:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/02/2020 14:45:19,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/59
+*************
+28/02/2020 14:45:21,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/60
+*************
+28/02/2020 14:45:23,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/61
+*************
+28/02/2020 14:45:25,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/62
+*************
+28/02/2020 14:45:26,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/63
+*************
+28/02/2020 14:45:27,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/64
+*************
+28/02/2020 14:45:28,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/65
+*************
+28/02/2020 14:45:28,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/66
+*************
+28/02/2020 14:45:30,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/67
+*************
+28/02/2020 14:45:30,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/68
+*************
+28/02/2020 14:45:30,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/69
+*************
+28/02/2020 14:45:31,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/70
+*************
+28/02/2020 14:45:31,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/71
+*************
+28/02/2020 14:45:31,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/72
+*************
+28/02/2020 14:45:31,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/73
+*************
+28/02/2020 14:45:31,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/74
+*************
+28/02/2020 14:45:32,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/75
+*************
+28/02/2020 14:45:32,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/76
+*************
+28/02/2020 14:45:32,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/77
+*************
+29/02/2020 15:20:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 15:20:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 15:38:17,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/1
+*************
+29/02/2020 15:38:17,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/2
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/3
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/4
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/5
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/6
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/7
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/8
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/9
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/10
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/11
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/12
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/13
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/14
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/15
+*************
+29/02/2020 15:38:18,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/16
+*************
+29/02/2020 15:38:19,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/17
+*************
+29/02/2020 15:38:19,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/18
+*************
+29/02/2020 15:38:19,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/19
+*************
+29/02/2020 17:24:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 17:24:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 17:29:56,ross,01 GENERAR ORDEN,PEDIDO=1
+*************
+29/02/2020 17:37:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 17:37:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 17:37:58,ross,Generar Paciente,Paciente=ARTEAGA MOLINEROS CARLOS ANTONIO
+*************
+29/02/2020 17:38:01,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/1
+*************
+29/02/2020 17:38:01,ross,Generar Paciente,Paciente=ARTINIEGA MONTERO JULIO SEGUNDO
+*************
+29/02/2020 17:38:04,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/2
+*************
+29/02/2020 17:38:04,ross,Generar Paciente,Paciente=AYORA PORTERO IRINA ISABEL
+*************
+29/02/2020 17:38:07,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/3
+*************
+29/02/2020 17:38:07,ross,Generar Paciente,Paciente=CONDOR MOLINA ELIANA SOFIA
+*************
+29/02/2020 17:38:07,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/4
+*************
+29/02/2020 17:38:07,ross,Generar Paciente,Paciente=CHILUIZA SIRIZACA KLEBER JOSE
+*************
+29/02/2020 17:38:07,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/5
+*************
+29/02/2020 17:39:12,ross,GUARDA RESULTADOS,TGLH=1
+*************
+29/02/2020 17:39:12,ross,GUARDA RESULTADOS,CHOLH=1
+*************
+29/02/2020 17:39:12,ross,GUARDA RESULTADOS,LDLH=1
+*************
+29/02/2020 17:39:12,ross,GUARDA RESULTADOS,AHDL=1
+*************
+29/02/2020 17:39:26,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+29/02/2020 17:39:26,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+29/02/2020 17:39:26,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+29/02/2020 17:39:26,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+29/02/2020 17:43:23,ross,01 GENERAR ORDEN,PEDIDO=6
+*************
+29/02/2020 17:58:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 17:58:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 17:59:03,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/1
+*************
+29/02/2020 17:59:03,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/2
+*************
+29/02/2020 17:59:03,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/3
+*************
+29/02/2020 17:59:03,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/4
+*************
+29/02/2020 17:59:03,ross,Nuevo Pedido PRE CARGA,NEFROMEDIC/5
+*************
+29/02/2020 17:59:48,ross,GUARDA RESULTADOS,TGLH=2
+*************
+29/02/2020 17:59:48,ross,GUARDA RESULTADOS,CHOLH=2
+*************
+29/02/2020 17:59:48,ross,GUARDA RESULTADOS,LDLH=2
+*************
+29/02/2020 17:59:48,ross,GUARDA RESULTADOS,AHDL=2
+*************
+29/02/2020 17:59:50,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+29/02/2020 17:59:50,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+29/02/2020 17:59:50,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+29/02/2020 17:59:50,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 18:06:33,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+29/02/2020 20:19:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 20:19:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 20:21:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 20:21:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 20:21:56,ross,01 GENERAR ORDEN,PEDIDO=6
+*************
+29/02/2020 20:22:13,ross,1 ANULA ORDEN,PEDIDO=6 MOTIVO: PACIENTE MUERE
+*************
+29/02/2020 20:40:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/02/2020 20:40:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/02/2020 20:41:33,ross,01 GENERAR ORDEN,PEDIDO=7
+*************
+29/02/2020 20:45:56,ross,IMPRIMIR HOJA TRABAJO,
+*************
+29/02/2020 20:46:35,ross,1 MODIFICA ORDEN,PEDIDO=7
+*************
+29/02/2020 20:47:23,ross,IMPRIMIR LISTA TRABAJO,
+*************
+29/02/2020 20:47:56,ross,IMPRIMIR LISTA TRABAJO,
+*************
+29/02/2020 20:47:58,ross,IMPRIMIR CONTRAORDEN,
+*************
+29/02/2020 20:48:28,ross,IMPRIMIR HOJA TRABAJO,
+*************

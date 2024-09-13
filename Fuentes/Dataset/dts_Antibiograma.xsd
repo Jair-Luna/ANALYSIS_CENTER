@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_Antibiograma" targetNamespace="http://tempuri.org/dts_Antibiograma.xsd" xmlns:mstns="http://tempuri.org/dts_Antibiograma.xsd" xmlns="http://tempuri.org/dts_Antibiograma.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_Antibiograma" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dts_Antibiograma" msprop:Generator_UserDSName="dts_Antibiograma" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ANTIBIOGRAMA" msprop:Generator_UserTableName="ANTIBIOGRAMA" msprop:Generator_RowDeletedName="ANTIBIOGRAMARowDeleted" msprop:Generator_TableClassName="ANTIBIOGRAMADataTable" msprop:Generator_RowChangedName="ANTIBIOGRAMARowChanged" msprop:Generator_RowClassName="ANTIBIOGRAMARow" msprop:Generator_RowChangingName="ANTIBIOGRAMARowChanging" msprop:Generator_RowEvArgName="ANTIBIOGRAMARowChangeEvent" msprop:Generator_RowEvHandlerName="ANTIBIOGRAMARowChangeEventHandler" msprop:Generator_TablePropName="ANTIBIOGRAMA" msprop:Generator_TableVarName="tableANTIBIOGRAMA" msprop:Generator_RowDeletingName="ANTIBIOGRAMARowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ANB_ID" msprop:Generator_UserColumnName="ANB_ID" msprop:Generator_ColumnPropNameInRow="ANB_ID" msprop:Generator_ColumnVarNameInTable="columnANB_ID" msprop:Generator_ColumnPropNameInTable="ANB_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ANB_NOMBRE" msprop:Generator_UserColumnName="ANB_NOMBRE" msprop:Generator_ColumnPropNameInRow="ANB_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnANB_NOMBRE" msprop:Generator_ColumnPropNameInTable="ANB_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ANB_RESULTADO" msprop:Generator_UserColumnName="ANB_RESULTADO" msprop:Generator_ColumnPropNameInRow="ANB_RESULTADO" msprop:Generator_ColumnVarNameInTable="columnANB_RESULTADO" msprop:Generator_ColumnPropNameInTable="ANB_RESULTADOColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

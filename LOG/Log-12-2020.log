@@ -1,0 +1,2529 @@
+01/12/2020 07:56:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2020 07:56:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/12/2020 07:57:03,ross,01 GENERAR ORDEN,PEDIDO=1374
+*************
+01/12/2020 07:57:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1374
+*************
+01/12/2020 07:58:19,ross,1 MODIFICA ORDEN,PEDIDO=1374
+*************
+01/12/2020 07:58:39,ross,Actualiza FACTURA,FACTURA=239
+*************
+01/12/2020 07:58:39,ross,Ingresa FACTURA,FACTURA=239
+*************
+01/12/2020 08:18:43,ross,Insertar abono,Factura=239 Abono= 2
+*************
+01/12/2020 08:18:43,ross,Cancela FACTURA,FACTURA=239
+*************
+01/12/2020 08:37:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2020 08:37:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/12/2020 14:14:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/12/2020 14:14:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/12/2020 14:27:48,ross,Generar Paciente,Paciente=IDROVO SUAREZ LAURA BEATRIZ
+*************
+02/12/2020 14:32:22,ross,Actualizacon Medico,Medico=GOMEZ PEREZ
+*************
+02/12/2020 14:36:29,ross,01 GENERAR ORDEN,PEDIDO=1375
+*************
+02/12/2020 14:36:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1375
+*************
+02/12/2020 14:39:00,ross,1 MODIFICA ORDEN,PEDIDO=1375
+*************
+02/12/2020 14:41:30,ross,Actualiza FACTURA,FACTURA=240
+*************
+02/12/2020 14:41:30,ross,Ingresa FACTURA,FACTURA=240
+*************
+02/12/2020 14:41:30,ross,Insertar abono,Factura=240 Abono= 20
+*************
+02/12/2020 14:41:30,ross,Actualiza FACTURA,FACTURA=240/20
+*************
+02/12/2020 14:41:38,ross,Registra Tx Factura,Factura=240
+*************
+02/12/2020 14:42:37,ross,Registra Tx Factura,Factura=240
+*************
+02/12/2020 14:52:11,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+02/12/2020 14:52:27,ross,01 GENERAR ORDEN,PEDIDO=1
+*************
+02/12/2020 14:52:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+02/12/2020 14:53:03,ross,Actualiza FACTURA,FACTURA=1
+*************
+02/12/2020 14:53:03,ross,Ingresa FACTURA,FACTURA=1
+*************
+02/12/2020 14:53:03,ross,Insertar abono,Factura=1 Abono= 14
+*************
+02/12/2020 14:53:03,ross,Actualiza FACTURA,FACTURA=1/14
+*************
+02/12/2020 14:53:30,ross,Insertar abono,Factura=1 Abono= 14
+*************
+02/12/2020 14:53:30,ross,Cancela FACTURA,FACTURA=1
+*************
+02/12/2020 14:53:37,ross,Registra Tx Factura,Factura=1
+*************
+02/12/2020 14:53:45,ross,Registra Tx Factura,Factura=1
+*************
+02/12/2020 14:53:48,ross,Registra Tx Factura,Factura=1
+*************
+02/12/2020 14:58:05,ross,IMPRIMIR CONTRAORDEN,
+*************
+02/12/2020 14:58:56,ross,IMPRIMIR LISTA TRABAJO,
+*************
+02/12/2020 14:59:35,ross,IMPRIMIR HOJA TRABAJO,
+*************
+02/12/2020 15:10:19,ross,VALIDACION RESULTADO,PEDIDO=1/400114
+*************
+02/12/2020 15:10:19,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+02/12/2020 15:10:19,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+02/12/2020 15:10:19,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+02/12/2020 15:10:19,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+02/12/2020 15:10:19,ross,VALIDACION RESULTADO,PEDIDO=1/401104
+*************
+02/12/2020 18:02:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/12/2020 18:02:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/12/2020 17:24:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/12/2020 17:24:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/12/2020 17:30:57,ross,Actualizar Rango Unico,Test=11 Rango=4-10
+*************
+04/12/2020 17:31:08,ross,Eliina Rango Multiple,Teq_id=1892
+*************
+04/12/2020 17:32:37,ross,Actualizar Rango Unico,Test=18 Rango=20-40
+*************
+04/12/2020 17:33:00,ross,Actualizar Rango Unico,Test=19 Rango=2-8
+*************
+04/12/2020 17:33:10,ross,Actualizar Rango Unico,Test=19 Rango=2-8
+*************
+04/12/2020 17:33:18,ross,Actualizar Rango Unico,Test=19 Rango=2-8
+*************
+04/12/2020 17:33:24,ross,Actualizar Rango Unico,Test=19 Rango=2-8
+*************
+04/12/2020 17:33:43,ross,Actualizar Rango Unico,Test=17 Rango=40-60
+*************
+04/12/2020 17:33:51,ross,Actualizar Rango Unico,Test=17 Rango=40-60
+*************
+04/12/2020 17:33:58,ross,Actualizar Rango Unico,Test=17 Rango=40-60
+*************
+04/12/2020 17:34:07,ross,Actualizar Rango Unico,Test=17 Rango=40-60
+*************
+04/12/2020 17:34:36,ross,Actualizar Rango Unico,Test=20 Rango=1-5
+*************
+04/12/2020 17:34:40,ross,Actualizar Rango Unico,Test=20 Rango=1-5
+*************
+04/12/2020 17:34:45,ross,Actualizar Rango Unico,Test=20 Rango=1-5
+*************
+04/12/2020 17:34:49,ross,Actualizar Rango Unico,Test=20 Rango=1-5
+*************
+04/12/2020 17:35:17,ross,Actualizar Rango Unico,Test=21 Rango=0.5-1
+*************
+04/12/2020 17:35:22,ross,Actualizar Rango Unico,Test=21 Rango=0.5-1
+*************
+04/12/2020 17:35:26,ross,Actualizar Rango Unico,Test=21 Rango=0.5-1
+*************
+04/12/2020 17:35:31,ross,Actualizar Rango Unico,Test=21 Rango=0.5-1
+*************
+04/12/2020 17:36:38,ross,Actualizar Rango Unico,Test=10 Rango=3-5.5
+*************
+04/12/2020 17:36:48,ross,Actualizar Rango Unico,Test=10 Rango=3.5-6
+*************
+04/12/2020 17:37:00,ross,Actualizar Rango Unico,Test=10 Rango=3.5-6
+*************
+04/12/2020 17:37:07,ross,Actualizar Rango Unico,Test=10 Rango=3.5-6
+*************
+04/12/2020 18:01:37,ross,Actualizar Rango Unico,Test=22 Rango=2.8-4.3
+*************
+04/12/2020 18:01:50,ross,Actualizar Rango Unico,Test=22 Rango=2.8-4.3
+*************
+04/12/2020 18:01:59,ross,Actualizar Rango Unico,Test=22 Rango=2.8-4.3
+*************
+04/12/2020 18:02:06,ross,Actualizar Rango Unico,Test=22 Rango=2.8-4.3
+*************
+04/12/2020 18:02:32,ross,Actualizar Rango Unico,Test=23 Rango=1.4-2.8
+*************
+04/12/2020 18:02:45,ross,Actualizar Rango Unico,Test=23 Rango=1.4-2.8
+*************
+04/12/2020 18:02:53,ross,Actualizar Rango Unico,Test=23 Rango=1.4-2.8
+*************
+04/12/2020 18:03:02,ross,Actualizar Rango Unico,Test=23 Rango=1.4-2.8
+*************
+04/12/2020 18:03:33,ross,Actualizar Rango Unico,Test=24 Rango=0.144-0.576
+*************
+04/12/2020 18:03:46,ross,Actualizar Rango Unico,Test=24 Rango=0.144-0.576
+*************
+04/12/2020 18:03:57,ross,Actualizar Rango Unico,Test=24 Rango=0.144-0.576
+*************
+04/12/2020 18:04:10,ross,Actualizar Rango Unico,Test=24 Rango=0.144-0.576
+*************
+04/12/2020 18:05:09,ross,Actualizar Rango Unico,Test=25 Rango=0.07-0.36
+*************
+04/12/2020 18:05:21,ross,Actualizar Rango Unico,Test=25 Rango=0.07-0.36
+*************
+04/12/2020 18:05:31,ross,Actualizar Rango Unico,Test=25 Rango=0.07-0.36
+*************
+04/12/2020 18:05:49,ross,Actualizar Rango Unico,Test=25 Rango=0.07-0.36
+*************
+04/12/2020 18:08:22,ross,Actualizar Rango Unico,Test=26 Rango=0.3-0.7
+*************
+04/12/2020 18:08:34,ross,Actualizar Rango Unico,Test=26 Rango=0.36-0.72
+*************
+04/12/2020 18:08:40,ross,Actualizar Rango Unico,Test=26 Rango=0.36-0.72
+*************
+04/12/2020 18:09:06,ross,Actualizar Rango Unico,Test=26 Rango=0.03-0.07
+*************
+04/12/2020 18:09:15,ross,Actualizar Rango Unico,Test=26 Rango=0.03-0.07
+*************
+04/12/2020 18:09:24,ross,Actualizar Rango Unico,Test=26 Rango=0.03-0.07
+*************
+04/12/2020 18:09:32,ross,Actualizar Rango Unico,Test=26 Rango=0.03-0.07
+*************
+04/12/2020 18:10:18,ross,Actualizar Rango Unico,Test=13 Rango=36-48
+*************
+04/12/2020 18:10:26,ross,Actualizar Rango Unico,Test=13 Rango=36-48
+*************
+04/12/2020 18:10:34,ross,Actualizar Rango Unico,Test=13 Rango=36-48
+*************
+04/12/2020 18:10:42,ross,Actualizar Rango Unico,Test=13 Rango=36-48
+*************
+04/12/2020 18:11:12,ross,Actualizar Rango Unico,Test=28 Rango=80-99
+*************
+04/12/2020 18:11:17,ross,Actualizar Rango Unico,Test=28 Rango=80-99
+*************
+04/12/2020 18:11:21,ross,Actualizar Rango Unico,Test=28 Rango=80-99
+*************
+04/12/2020 18:11:24,ross,Actualizar Rango Unico,Test=28 Rango=80-99
+*************
+04/12/2020 18:11:58,ross,Actualizar Rango Unico,Test=14 Rango=26-32
+*************
+04/12/2020 18:12:04,ross,Actualizar Rango Unico,Test=14 Rango=26-32
+*************
+04/12/2020 18:12:10,ross,Actualizar Rango Unico,Test=14 Rango=26-32
+*************
+04/12/2020 18:12:19,ross,Actualizar Rango Unico,Test=14 Rango=26-32
+*************
+04/12/2020 18:12:57,ross,Actualizar Rango Unico,Test=34 Rango=11.5-14.5
+*************
+04/12/2020 18:13:04,ross,Actualizar Rango Unico,Test=34 Rango=11.5-14.5
+*************
+04/12/2020 18:13:11,ross,Actualizar Rango Unico,Test=34 Rango=11.5-14.5
+*************
+04/12/2020 18:13:18,ross,Actualizar Rango Unico,Test=34 Rango=11.5-14.5
+*************
+04/12/2020 18:13:53,ross,Actualizar Rango Unico,Test=35 Rango=37-54
+*************
+04/12/2020 18:14:00,ross,Actualizar Rango Unico,Test=35 Rango=37-54
+*************
+04/12/2020 18:14:06,ross,Actualizar Rango Unico,Test=35 Rango=37-54
+*************
+04/12/2020 18:14:12,ross,Actualizar Rango Unico,Test=35 Rango=37-54
+*************
+04/12/2020 18:14:35,ross,Actualizar Rango Unico,Test=16 Rango=100-400
+*************
+04/12/2020 18:14:39,ross,Actualizar Rango Unico,Test=16 Rango=100-400
+*************
+04/12/2020 18:14:43,ross,Actualizar Rango Unico,Test=16 Rango=100-400
+*************
+04/12/2020 18:14:47,ross,Actualizar Rango Unico,Test=16 Rango=100-400
+*************
+04/12/2020 18:15:10,ross,Actualizar Rango Unico,Test=29 Rango=7.4-10.4
+*************
+04/12/2020 18:15:19,ross,Actualizar Rango Unico,Test=29 Rango=7.4-10.4
+*************
+04/12/2020 18:15:26,ross,Actualizar Rango Unico,Test=29 Rango=7.4-10.4
+*************
+04/12/2020 18:15:34,ross,Actualizar Rango Unico,Test=29 Rango=7.4-10.4
+*************
+04/12/2020 18:16:06,ross,Actualizar Rango Unico,Test=30 Rango=10-17
+*************
+04/12/2020 18:16:12,ross,Actualizar Rango Unico,Test=30 Rango=10-17
+*************
+04/12/2020 18:16:19,ross,Actualizar Rango Unico,Test=30 Rango=10-17
+*************
+04/12/2020 18:16:25,ross,Actualizar Rango Unico,Test=30 Rango=10-17
+*************
+04/12/2020 18:17:36,ross,Actualizar Rango Unico,Test=31 Rango=0.1-0.28
+*************
+04/12/2020 18:17:47,ross,Actualizar Rango Unico,Test=31 Rango=0.1-0.28
+*************
+04/12/2020 18:17:54,ross,Actualizar Rango Unico,Test=31 Rango=0.1-0.28
+*************
+04/12/2020 18:18:01,ross,Actualizar Rango Unico,Test=31 Rango=0.1-0.28
+*************
+04/12/2020 18:18:24,ross,Actualizar Rango Unico,Test=37 Rango=13-43
+*************
+04/12/2020 18:18:29,ross,Actualizar Rango Unico,Test=37 Rango=13-43
+*************
+04/12/2020 18:18:35,ross,Actualizar Rango Unico,Test=37 Rango=13-43
+*************
+04/12/2020 18:18:41,ross,Actualizar Rango Unico,Test=37 Rango=13-43
+*************
+04/12/2020 18:19:43,ross,Actualizar Rango Unico,Test=400142 Rango=60-100
+*************
+04/12/2020 18:19:57,ross,Actualizar Rango Unico,Test=400142 Rango=74-115
+*************
+04/12/2020 18:21:00,ross,Actualizar Rango Multiple,Test=400142 Rango=NEONATO:           30-180
+NEONATO PREMATURO: 20- 60
+*************
+04/12/2020 18:21:11,ross,Eliina Rango Multiple,Teq_id=1727
+*************
+04/12/2020 18:21:47,ross,Actualizar Rango Unico,Test=400142 Rango=65-150
+*************
+04/12/2020 18:22:40,ross,Actualizar Rango Unico,Test=400568 Rango=65-150
+*************
+04/12/2020 18:22:53,ross,Eliina Rango Multiple,Teq_id=248
+*************
+04/12/2020 18:23:46,ross,Actualizar Rango Multiple,Test=400149 Rango=OPTIMO:   <200
+Moderado: 200 - 239
+Alto    : >239
+-
+*************
+04/12/2020 18:23:56,ross,Eliina Rango Multiple,Teq_id=1726
+*************
+04/12/2020 18:24:42,ross,Actualizar Rango Multiple,Test=400150 Rango=ALTO: <40
+BAJO: >60
+*************
+04/12/2020 18:25:00,ross,Eliina Rango Multiple,Teq_id=18
+*************
+04/12/2020 18:26:13,ross,Actualizar Rango Multiple,Test=400476 Rango=BAJO RIESGO DE ENFERMEDAD CARDIOVASCULAR: <150
+
+RIESGO DE ENFEMEDAD CARDIOVASCULAR:>190
+*************
+04/12/2020 18:26:21,ross,Eliina Rango Multiple,Teq_id=208
+*************
+04/12/2020 18:27:05,ross,Actualizar Rango Multiple,Test=400151 Rango=<200 NORMAL
+- 
+*************
+04/12/2020 18:27:46,ross,Eliina Rango Multiple,Teq_id=1725
+*************
+04/12/2020 18:28:09,ross,Actualizar Rango Unico,Test=400140 Rango=10-50
+*************
+04/12/2020 18:28:32,ross,Actualizar Rango Unico,Test=400141 Rango=0.5-0.9
+*************
+04/12/2020 18:28:41,ross,Eliina Rango Multiple,Teq_id=1881
+*************
+04/12/2020 18:28:55,ross,Actualizar Rango Unico,Test=400141 Rango=0.6-1.1
+*************
+04/12/2020 18:29:06,ross,Eliina Rango Multiple,Teq_id=1733
+*************
+04/12/2020 18:29:13,ross,Eliina Rango Multiple,Teq_id=1722
+*************
+04/12/2020 18:29:51,ross,Actualizar Rango Unico,Test=400148 Rango=2-5
+*************
+04/12/2020 18:30:05,ross,Actualizar Rango Unico,Test=400148 Rango=3.5-7.2
+*************
+04/12/2020 18:30:14,ross,Eliina Rango Multiple,Teq_id=1724
+*************
+04/12/2020 18:30:38,ross,Actualizar Rango Unico,Test=400148 Rango=2.6-6
+*************
+04/12/2020 18:30:49,ross,Eliina Rango Multiple,Teq_id=1723
+*************
+04/12/2020 18:31:33,ross,Actualizar Rango Unico,Test=400667 Rango=55-130
+*************
+04/12/2020 18:31:55,ross,Actualizar Rango Unico,Test=400667 Rango=40-145
+*************
+04/12/2020 18:32:05,ross,Eliina Rango Multiple,Teq_id=1736
+*************
+04/12/2020 18:32:10,ross,Eliina Rango Multiple,Teq_id=1737
+*************
+04/12/2020 18:32:49,ross,Actualizar Rango Unico,Test=400185 Rango=0-35
+*************
+04/12/2020 18:33:04,ross,Actualizar Rango Unico,Test=400185 Rango=0-40
+*************
+04/12/2020 18:33:13,ross,Eliina Rango Multiple,Teq_id=1714
+*************
+04/12/2020 18:33:35,ross,Actualizar Rango Unico,Test=400185 Rango=0-35
+*************
+04/12/2020 18:33:57,ross,Eliina Rango Multiple,Teq_id=1916
+*************
+04/12/2020 18:34:17,ross,Actualizar Rango Unico,Test=400185 Rango=0-35
+*************
+04/12/2020 18:34:31,ross,Eliina Rango Multiple,Teq_id=1919
+*************
+04/12/2020 18:34:40,ross,Actualizar Rango Unico,Test=400185 Rango=0-35
+*************
+04/12/2020 18:34:53,ross,Eliina Rango Multiple,Teq_id=1919
+*************
+04/12/2020 18:35:56,ross,Eliina Rango Multiple,Teq_id=1919
+*************
+04/12/2020 18:36:16,ross,Actualizar Rango Unico,Test=400186 Rango=0-40
+*************
+04/12/2020 18:36:35,ross,Actualizar Rango Unico,Test=400186 Rango=0-35
+*************
+04/12/2020 18:36:45,ross,Eliina Rango Multiple,Teq_id=1719
+*************
+04/12/2020 18:37:24,ross,Actualizar Rango Unico,Test=400793 Rango=0-38
+*************
+04/12/2020 18:37:31,ross,Eliina Rango Multiple,Teq_id=492
+*************
+04/12/2020 18:37:41,ross,Eliina Rango Multiple,Teq_id=492
+*************
+04/12/2020 18:38:55,ross,Actualizar Rango Unico,Test=400153 Rango=0-2
+*************
+04/12/2020 18:40:43,ross,Actualizar Rango Multiple,Test=400153 Rango=PREMATUROS:
+<1 DIA:  1.0- 8.0
+<2 DÍAS: 6.0-12.0
+
+NO- PREMATUROS:
+<1 DIA: 2.0- 6.0
+<2 DIAS:6.0-10.0
+*************
+04/12/2020 18:40:58,ross,Eliina Rango Multiple,Teq_id=2
+*************
+04/12/2020 18:41:46,ross,Actualizar Rango Multiple,Test=400296 Rango=Hasta: 1.1
+*************
+04/12/2020 18:42:04,ross,Eliina Rango Multiple,Teq_id=14
+*************
+04/12/2020 18:42:21,ross,Actualizar Rango Multiple,Test=400292 Rango=Hasta 0.25
+*************
+04/12/2020 18:42:33,ross,Eliina Rango Multiple,Teq_id=13
+*************
+04/12/2020 18:43:20,ross,Actualizar Rango Unico,Test=400122 Rango=200-400
+*************
+04/12/2020 18:43:32,ross,Eliina Rango Multiple,Teq_id=220
+*************
+04/12/2020 18:43:50,ross,Actualizar Rango Unico,Test=400718 Rango=15-55
+*************
+04/12/2020 18:43:55,ross,Eliina Rango Multiple,Teq_id=533
+*************
+04/12/2020 18:44:40,ross,Actualizar Rango Multiple,Test=400640 Rango=Hasta 1.0
+*************
+04/12/2020 18:44:52,ross,Eliina Rango Multiple,Teq_id=567
+*************
+04/12/2020 18:45:00,ross,Eliina Rango Multiple,Teq_id=567
+*************
+04/12/2020 18:45:30,ross,Actualizar Rango Unico,Test=400123 Rango=30-350
+*************
+04/12/2020 18:45:43,ross,Eliina Rango Multiple,Teq_id=1728
+*************
+04/12/2020 18:45:49,ross,Eliina Rango Multiple,Teq_id=1871
+*************
+04/12/2020 18:45:55,ross,Eliina Rango Multiple,Teq_id=1872
+*************
+04/12/2020 18:46:40,ross,Actualizar Rango Unico,Test=400154 Rango=4.6-7
+*************
+04/12/2020 18:47:56,ross,Actualizar Rango Multiple,Test=400154 Rango=< 1 AÑO: 5.1-7.3
+1-2 AÑOS:5.6-7.5
+> 3 AÑOS:6.0-8.0
+*************
+04/12/2020 18:48:32,ross,Actualizar Rango Unico,Test=400155 Rango=3.5-5
+*************
+04/12/2020 18:48:41,ross,Eliina Rango Multiple,Teq_id=1732
+*************
+04/12/2020 18:49:05,ross,Actualizar Rango Unico,Test=400294 Rango=2-3.5
+*************
+04/12/2020 18:49:14,ross,Eliina Rango Multiple,Teq_id=4
+*************
+04/12/2020 18:50:08,ross,Actualizar Rango Unico,Test=400195 Rango=28-100
+*************
+04/12/2020 18:50:18,ross,Eliina Rango Multiple,Teq_id=1735
+*************
+04/12/2020 18:50:46,ross,Actualizar Rango Unico,Test=400194 Rango=0-60
+*************
+04/12/2020 18:50:56,ross,Eliina Rango Multiple,Teq_id=22
+*************
+04/12/2020 18:51:18,ross,Actualizar Rango Unico,Test=400794 Rango=200-400
+*************
+04/12/2020 18:51:28,ross,Eliina Rango Multiple,Teq_id=471
+*************
+04/12/2020 18:51:47,ross,Actualizar Rango Unico,Test=400612 Rango=4000-12000
+*************
+04/12/2020 18:51:58,ross,Eliina Rango Multiple,Teq_id=344
+*************
+04/12/2020 18:53:58,ross,Actualizar Rango Multiple,Test=400145 Rango=NO DIABETICO:     4.0-6.5
+OBJETIVO:         6.0-7.0
+BUEN CONTROL:     7.0-8.0
+PRECISA ACTUACION:> 8.0
+*************
+04/12/2020 18:54:07,ross,Eliina Rango Multiple,Teq_id=261
+*************
+04/12/2020 18:54:37,ross,Actualizar Rango Unico,Test=400370 Rango=80-200
+*************
+04/12/2020 18:54:45,ross,Eliina Rango Multiple,Teq_id=170
+*************
+04/12/2020 18:55:08,ross,Actualizar Rango Unico,Test=400371 Rango=80-120
+*************
+04/12/2020 18:55:19,ross,Eliina Rango Multiple,Teq_id=171
+*************
+04/12/2020 18:55:38,ross,Actualizar Rango Unico,Test=400562 Rango=80-110
+*************
+04/12/2020 18:55:48,ross,Eliina Rango Multiple,Teq_id=251
+*************
+04/12/2020 18:56:05,ross,Eliina Rango Multiple,Teq_id=251
+*************
+04/12/2020 18:56:43,ross,Actualizar Rango Unico,Test=400914 Rango=104-225
+*************
+04/12/2020 18:57:00,ross,Eliina Rango Multiple,Teq_id=838
+*************
+04/12/2020 18:57:13,ross,Actualizar Rango Unico,Test=400290 Rango=60-133
+*************
+04/12/2020 18:57:27,ross,Eliina Rango Multiple,Teq_id=519
+*************
+04/12/2020 18:58:31,ross,Eliina Rango Multiple,Teq_id=519
+*************
+04/12/2020 19:04:09,ross,Actualizar Rango Multiple,Test=400290 Rango=60- 133
+
+EVALUACION DE RIESGOS CARDIOVASCULARES:
+
+Apolipoproteina -A1 (ApoA)
+Riesgo elevado con valores inferiores a 130
+
+Apolipoproteina -B(ApoB)
+Riesgo muy debil/inferior a 90
+Riesgo debil/inferior a 115
+Riesgo moderado/ entre  115-140
+Riesgo alto/ superior a 140
+
+Cociente ApoB/ApoA
+Riesgo debil/inferior a 0.8
+Riesgo moderado / hasta 1.0
+Riesgo alto/ superior a 1.2
+*************
+04/12/2020 19:04:23,ross,Eliina Rango Multiple,Teq_id=1943
+*************
+04/12/2020 19:05:04,ross,Actualiza Test,Test=APOLIPOPROTEINA B 
+*************
+04/12/2020 19:07:00,ross,Nuevo Test en Lista de Precios,Test=401121 30  NORMAL
+*************
+04/12/2020 19:07:00,ross,INGRESA TEST,TEST=ÍNDICE APO B/A-1
+*************
+04/12/2020 19:07:00,ross,Actualiza Test,Test=ÍNDICE APO B/A-1
+*************
+04/12/2020 19:07:46,ross,Actualiza Test,Test=APOLIPOPROTEINA A1
+*************
+04/12/2020 19:08:02,ross,Actualiza Test,Test=APOLIPOPROTEINA B 
+*************
+04/12/2020 19:10:27,ross,Actualiza Test,Test=GLUCOSA 30 MINUTOS
+*************
+04/12/2020 19:11:40,ross,Nuevo Test en Lista de Precios,Test=401122 30  NORMAL
+*************
+04/12/2020 19:11:40,ross,INGRESA TEST,TEST=CURVA DE TOLERANCIA A LA GLUCOSA
+*************
+04/12/2020 19:11:40,ross,Actualiza Test,Test=CURVA DE TOLERANCIA A LA GLUCOSA
+*************
+04/12/2020 19:14:12,ross,Actualiza Test,Test=COLINESTERASA
+*************
+04/12/2020 19:14:46,ross,Actualiza Test,Test=AMILASA EN SUERO 
+*************
+04/12/2020 19:15:13,ross,Actualiza Test,Test=FOSFATASA ALCALINA
+*************
+04/12/2020 19:15:33,ross,Actualiza Test,Test=FOSFATASA ACIDA TOTAL 
+*************
+04/12/2020 19:15:52,ross,Actualiza Test,Test=FOSFATASA ACIDA PROSTATICA 
+*************
+04/12/2020 19:17:21,ross,Actualiza Test,Test=INDICE DE TRANSFERRINA 
+*************
+04/12/2020 19:17:46,ross,Actualiza Test,Test=SATURACION DE TRANSFERINA
+*************
+04/12/2020 19:18:41,ross,Actualiza Test,Test=HIERRO SERICO 
+*************
+04/12/2020 19:18:59,ross,Actualiza Test,Test=GGT
+*************
+04/12/2020 19:19:07,ross,Actualiza Test,Test=TGO - AST
+*************
+04/12/2020 19:19:13,ross,Actualiza Test,Test=TGP - ALT
+*************
+04/12/2020 19:19:25,ross,Actualiza Test,Test=BUN 
+*************
+04/12/2020 19:20:14,ross,Actualiza Test,Test=GLUCOSA 30 MINUTOS
+*************
+04/12/2020 19:20:28,ross,Actualiza Test,Test=GLUCOSA 1 HORA
+*************
+04/12/2020 19:20:40,ross,Actualiza Test,Test=GLUCOSA 2 HORAS 
+*************
+04/12/2020 19:20:53,ross,Actualiza Test,Test=GLUCOSA 3 HORAS 
+*************
+04/12/2020 19:21:03,ross,Actualiza Test,Test=GLUCOSA 30 MINUTOS
+*************
+04/12/2020 19:21:39,ross,Actualiza Test,Test=GLUCOSA P-P 2/H
+*************
+04/12/2020 19:21:55,ross,Actualiza Test,Test=GLUCOSA POST PRANDIAL
+*************
+04/12/2020 19:22:32,ross,Actualiza Test,Test=LEUCOCITOS
+*************
+04/12/2020 19:22:58,ross,Actualiza Test,Test=HEMATIES
+*************
+04/12/2020 19:23:17,ross,Actualiza Test,Test=V.C.M
+*************
+04/12/2020 19:23:33,ross,Actualiza Test,Test=H.C.M
+*************
+04/12/2020 19:23:54,ross,Actualiza Test,Test=C.H.C.M.
+*************
+04/12/2020 19:24:53,ross,Actualiza Test,Test=M.P.V
+*************
+04/12/2020 19:25:10,ross,Actualiza Test,Test=P.D.W
+*************
+04/12/2020 19:25:24,ross,Actualiza Test,Test=P.C.T
+*************
+04/12/2020 19:28:50,ross,Actualiza Test,Test=CK
+*************
+04/12/2020 19:28:58,ross,Actualiza Test,Test=CK-MB 
+*************
+04/12/2020 19:29:11,ross,Actualiza Test,Test=FRUCTUOSAMINA
+*************
+04/12/2020 19:29:22,ross,Actualiza Test,Test=DESHIDROGENASA LACTICA
+*************
+04/12/2020 19:29:47,ross,Actualiza Test,Test=FOSFATASA ACIDA PROSTATICA 
+*************
+04/12/2020 19:33:03,ross,Actualiza Test,Test=INMUNOGLOBULINA A 
+*************
+04/12/2020 19:33:19,ross,Actualiza Test,Test=INMUNOGLOBULINA G SUB CLASE G1
+*************
+04/12/2020 19:33:30,ross,Actualiza Test,Test=INMUNOGLOBULINA G SUB CLASE G2
+*************
+04/12/2020 19:33:39,ross,Actualiza Test,Test=INMUNOGLOBULINA G SUB CLASE G4
+*************
+04/12/2020 19:34:47,ross,Actualiza Test,Test=INMUNOGLOBULINA G 
+*************
+04/12/2020 19:34:57,ross,Actualiza Test,Test=INMUNOGLOBULINA M 
+*************
+04/12/2020 19:35:07,ross,Actualiza Test,Test=COMPLEMENTO 3
+*************
+04/12/2020 19:35:28,ross,Actualiza Test,Test=COMPLEMENTO 4
+*************
+04/12/2020 19:35:43,ross,Actualiza Test,Test=HERPES 1/2
+*************
+04/12/2020 19:35:55,ross,Actualiza Test,Test=HERPES I IGG 
+*************
+04/12/2020 19:36:05,ross,Actualiza Test,Test=HERPES I IGM 
+*************
+04/12/2020 19:36:21,ross,Actualiza Test,Test=HERPES II IGG 
+*************
+04/12/2020 19:36:35,ross,Actualiza Test,Test=HERPES II IGM 
+*************
+04/12/2020 19:37:01,ross,Actualiza Test,Test=TOXOPLASMA IGM 
+*************
+04/12/2020 19:37:10,ross,Actualiza Test,Test=TOXOPLASMA IGG 
+*************
+04/12/2020 19:37:23,ross,Actualiza Test,Test=CITOMEGALOVIRUS IGG 
+*************
+04/12/2020 19:37:32,ross,Actualiza Test,Test=CITOMEGALOVIRUS IGM 
+*************
+04/12/2020 19:37:40,ross,Actualiza Test,Test=RUBEOLA IGM 
+*************
+04/12/2020 19:37:50,ross,Actualiza Test,Test=RUBEOLA IGG 
+*************
+04/12/2020 19:38:29,ross,Actualiza Test,Test=CA 125 
+*************
+04/12/2020 19:38:36,ross,Actualiza Test,Test=CA 19-9 
+*************
+04/12/2020 19:38:44,ross,Actualiza Test,Test=AF P
+*************
+04/12/2020 19:38:54,ross,Actualiza Test,Test=PSA LIBRE
+*************
+04/12/2020 19:39:01,ross,Actualiza Test,Test=PSA TOTAL
+*************
+04/12/2020 20:06:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/12/2020 20:06:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/12/2020 20:10:35,ross,Nuevo Test en Lista de Precios,Test=401123 0  NORMAL
+*************
+04/12/2020 20:10:35,ross,INGRESA TEST,TEST=INTERLEUKINA  6
+*************
+04/12/2020 20:10:35,ross,Actualiza Test,Test=INTERLEUKINA  6
+*************
+04/12/2020 20:13:11,ross,Actualiza Test,Test=HELICOBACTER PILORY IGM 
+*************
+04/12/2020 20:13:27,ross,Actualiza Test,Test=HELICOBACTER PILORY IGG 
+*************
+04/12/2020 20:14:22,ross,Nuevo Test en Lista de Precios,Test=401124 0  NORMAL
+*************
+04/12/2020 20:14:22,ross,INGRESA TEST,TEST=CHIKUNGUNYA
+*************
+04/12/2020 20:14:22,ross,Actualiza Test,Test=CHIKUNGUNYA
+*************
+04/12/2020 20:15:07,ross,Actualiza Test,Test=ANTI. H.I.V CUANTITATIVO
+*************
+04/12/2020 20:16:07,ross,Nuevo Test en Lista de Precios,Test=401125 0  NORMAL
+*************
+04/12/2020 20:16:07,ross,INGRESA TEST,TEST=ANTI.H.I.V.( 1+2 AG)
+*************
+04/12/2020 20:16:07,ross,Actualiza Test,Test=ANTI.H.I.V.( 1+2 AG)
+*************
+04/12/2020 20:16:46,ross,Nuevo Test en Lista de Precios,Test=401126 0  NORMAL
+*************
+04/12/2020 20:16:46,ross,INGRESA TEST,TEST=ANTI H-I.V. ( AG P24)
+*************
+04/12/2020 20:16:46,ross,Actualiza Test,Test=ANTI H-I.V. ( AG P24)
+*************
+04/12/2020 20:17:06,ross,Actualiza Test,Test=Borrelia mayonii (ENFERMEDAD DE LYME)
+*************
+04/12/2020 20:17:22,ross,Actualiza Test,Test=DENGUE IgG-IgM
+*************
+04/12/2020 20:18:08,ross,Nuevo Test en Lista de Precios,Test=401127 0  NORMAL
+*************
+04/12/2020 20:18:08,ross,INGRESA TEST,TEST=ANTI DENGUE NS21
+*************
+04/12/2020 20:18:08,ross,Actualiza Test,Test=ANTI DENGUE NS21
+*************
+04/12/2020 20:18:57,ross,Nuevo Test en Lista de Precios,Test=401128 0  NORMAL
+*************
+04/12/2020 20:18:57,ross,INGRESA TEST,TEST=ANTI MICOPLASMA IgG- IgM
+*************
+04/12/2020 20:18:57,ross,Actualiza Test,Test=ANTI MICOPLASMA IgG- IgM
+*************
+04/12/2020 20:19:30,ross,Actualiza Test,Test=ANTI TREPONEMA FTA ABSORTION
+*************
+04/12/2020 20:20:20,ross,Actualiza Test,Test=CYSTECERCOSIS W. BLOT
+*************
+04/12/2020 20:21:39,ross,Actualiza Test,Test=REACCION WIDALL
+*************
+04/12/2020 20:22:46,ross,Nuevo Test en Lista de Precios,Test=401129 0  NORMAL
+*************
+04/12/2020 20:22:46,ross,INGRESA TEST,TEST=RECUENTO CD4-CD8
+*************
+04/12/2020 20:22:46,ross,Actualiza Test,Test=RECUENTO CD4-CD8
+*************
+04/12/2020 20:25:31,ross,Actualiza Test,Test=DEPURACION DE CREATININA 
+*************
+04/12/2020 20:26:18,ross,Actualiza Test,Test=DEPURACION DE CREATININA 
+*************
+04/12/2020 20:27:00,ross,Actualizar Area,Area=INMUNOLOGÍA Y AUTOIMNUNIDAD
+*************
+04/12/2020 20:27:19,ross,Actualizar Area,Area=INFECTOLOGÍA
+*************
+04/12/2020 20:27:28,ross,Actualizar Area,Area=UROANALISIS
+*************
+04/12/2020 20:27:36,ross,Actualizar Area,Area=PARASITOLOGÍA
+*************
+04/12/2020 20:27:46,ross,Actualizar Area,Area=FARMACOS Y DROGAS
+*************
+04/12/2020 20:30:44,ross,Nuevo Test en Lista de Precios,Test=401130 0  NORMAL
+*************
+04/12/2020 20:30:44,ross,INGRESA TEST,TEST=PALUDISMO INMUNOLOGICO
+*************
+04/12/2020 20:30:44,ross,Actualiza Test,Test=PALUDISMO INMUNOLOGICO
+*************
+04/12/2020 20:31:07,ross,Nuevo Test en Lista de Precios,Test=401131 0  NORMAL
+*************
+04/12/2020 20:31:07,ross,INGRESA TEST,TEST=ERITROPOYETINA
+*************
+04/12/2020 20:31:07,ross,Actualiza Test,Test=ERITROPOYETINA
+*************
+04/12/2020 20:31:24,ross,Actualiza Test,Test=FERRITINA 
+*************
+04/12/2020 20:31:58,ross,Actualiza Test,Test=GLUCOSA 6 FOSFATO DESHIDROGENASA 
+*************
+04/12/2020 20:32:10,ross,Actualiza Test,Test=VITAMINA B 12 
+*************
+04/12/2020 20:32:41,ross,Nuevo Test en Lista de Precios,Test=401132 0  NORMAL
+*************
+04/12/2020 20:32:41,ross,INGRESA TEST,TEST=FRAGILIDAD OSMOTICA HEMATIES
+*************
+04/12/2020 20:32:41,ross,Actualiza Test,Test=FRAGILIDAD OSMOTICA HEMATIES
+*************
+04/12/2020 20:33:06,ross,Nuevo Test en Lista de Precios,Test=401133 0  NORMAL
+*************
+04/12/2020 20:33:06,ross,INGRESA TEST,TEST=FOSFATASA ALCALINA LEUCOCITARIA
+*************
+04/12/2020 20:33:06,ross,Actualiza Test,Test=FOSFATASA ALCALINA LEUCOCITARIA
+*************
+04/12/2020 20:33:27,ross,Nuevo Test en Lista de Precios,Test=401134 0  NORMAL
+*************
+04/12/2020 20:33:27,ross,INGRESA TEST,TEST=FOSFATASA ACIDA LEUCOCITARIA
+*************
+04/12/2020 20:33:27,ross,Actualiza Test,Test=FOSFATASA ACIDA LEUCOCITARIA
+*************
+04/12/2020 20:42:33,ross,Nuevo Test en Lista de Precios,Test=401135 0  NORMAL
+*************
+04/12/2020 20:42:33,ross,INGRESA TEST,TEST=MONOTEST DAVISON
+*************
+04/12/2020 20:42:33,ross,Actualiza Test,Test=MONOTEST DAVISON
+*************
+04/12/2020 20:42:53,ross,Nuevo Test en Lista de Precios,Test=401136 0  NORMAL
+*************
+04/12/2020 20:42:53,ross,INGRESA TEST,TEST=PREALBUMINA
+*************
+04/12/2020 20:42:53,ross,Actualiza Test,Test=PREALBUMINA
+*************
+04/12/2020 20:44:50,ross,Actualiza Test,Test=FT3 
+*************
+04/12/2020 20:45:05,ross,Actualiza Test,Test=T3 LIBRE
+*************
+04/12/2020 20:45:20,ross,Actualiza Test,Test=T4  LIBRE
+*************
+04/12/2020 20:58:31,ross,Nuevo Test en Lista de Precios,Test=401137 0  NORMAL
+*************
+04/12/2020 20:58:31,ross,INGRESA TEST,TEST=HBSAG CUANTITATIVO
+*************
+04/12/2020 20:58:31,ross,Actualiza Test,Test=HBSAG CUANTITATIVO
+*************
+04/12/2020 21:07:45,ross,Nuevo Test en Lista de Precios,Test=401138 0  NORMAL
+*************
+04/12/2020 21:07:45,ross,INGRESA TEST,TEST=OPIACEOS
+*************
+04/12/2020 21:07:45,ross,Actualiza Test,Test=OPIACEOS
+*************
+04/12/2020 21:08:14,ross,Nuevo Test en Lista de Precios,Test=401139 0  NORMAL
+*************
+04/12/2020 21:08:14,ross,INGRESA TEST,TEST=ACETAMINOFEN
+*************
+04/12/2020 21:08:14,ross,Actualiza Test,Test=ACETAMINOFEN
+*************
+04/12/2020 21:08:35,ross,Actualiza Test,Test=ACIDO VALPROICO 
+*************
+04/12/2020 21:08:52,ross,Actualiza Test,Test=ACIDO VALPROICO
+*************
+04/12/2020 21:11:43,ross,Actualiza Test,Test=ACIDO URICO EN ORINA 24 HORAS 
+*************
+04/12/2020 21:12:07,ross,Actualiza Test,Test=ANTIPEPTIDO CITRULINADO
+*************
+04/12/2020 21:12:39,ross,Actualiza Test,Test=MONOTEST DAVISON
+*************
+04/12/2020 21:13:51,ross,Actualiza Test,Test=GLUCOSA POST PRANDIAL
+*************
+04/12/2020 21:16:04,ross,Actualiza Test,Test=TSH 
+*************
+04/12/2020 21:16:21,ross,Actualiza Test,Test=PROGESTERONA
+*************
+04/12/2020 21:16:39,ross,Actualiza Test,Test=PROLACTINA
+*************
+04/12/2020 21:16:56,ross,Actualiza Test,Test=FSH 
+*************
+04/12/2020 21:19:21,ross,Actualiza Test,Test=T3 TOTAL
+*************
+04/12/2020 21:19:34,ross,Actualiza Test,Test=T4 TOTAL
+*************
+04/12/2020 21:19:45,ross,Actualiza Test,Test=LH
+*************
+04/12/2020 21:19:56,ross,Actualiza Test,Test=INSULINA BASAL 
+*************
+04/12/2020 21:20:05,ross,Actualiza Test,Test=CEA
+*************
+04/12/2020 21:21:10,ross,Actualiza Test,Test=TESTOSTERONA LIBRE 
+*************
+04/12/2020 21:22:52,ross,Actualiza Test,Test=CA 72-4 (CARCINOMA GASTRICO) 
+*************
+04/12/2020 21:29:37,ross,Actualiza Test,Test=TYPHI  O
+*************
+04/12/2020 21:29:51,ross,Actualiza Test,Test=THYPI  H
+*************
+04/12/2020 21:30:04,ross,Actualiza Test,Test=PARATIFICO A
+*************
+04/12/2020 21:30:14,ross,Actualiza Test,Test=PARATIFICO B
+*************
+04/12/2020 21:30:25,ross,Actualiza Test,Test=PROTEUS OX2
+*************
+04/12/2020 21:30:40,ross,Actualiza Test,Test=PROTEUS OX19
+*************
+04/12/2020 21:30:50,ross,Actualiza Test,Test=BRUCELLA ABORTUS
+*************
+04/12/2020 21:32:15,ross,Actualiza Test,Test=DHEAS
+*************
+08/12/2020 13:29:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 13:29:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 13:31:05,ross,01 GENERAR ORDEN,PEDIDO=2
+*************
+08/12/2020 13:31:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+08/12/2020 13:32:24,ross,VALIDACION RESULTADO,PEDIDO=2/400151
+*************
+08/12/2020 13:39:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 13:39:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 13:46:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 13:46:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 13:51:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 13:51:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 14:04:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 14:04:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 14:08:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 14:08:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 14:09:44,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+08/12/2020 16:48:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 16:48:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 16:49:07,ross,01 GENERAR ORDEN,PEDIDO=3
+*************
+08/12/2020 16:49:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+08/12/2020 16:59:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 16:59:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 17:04:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 17:04:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 17:05:46,ross,Actualiza FACTURA,FACTURA=2
+*************
+08/12/2020 17:05:46,ross,Ingresa FACTURA,FACTURA=2
+*************
+08/12/2020 17:05:50,ross,Insertar abono,Factura=2 Abono= 12
+*************
+08/12/2020 17:05:50,ross,Cancela FACTURA,FACTURA=2
+*************
+08/12/2020 17:16:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 17:16:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 17:30:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 17:30:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 17:31:39,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+08/12/2020 17:31:55,ross,01 GENERAR ORDEN,PEDIDO=4
+*************
+08/12/2020 17:31:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+08/12/2020 17:43:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 17:43:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 17:47:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 17:47:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:19:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:19:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:30:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:30:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:36:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:36:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:39:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:39:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:42:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:42:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:50:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:50:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:57:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:57:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 18:58:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 18:58:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 19:23:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 19:23:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 19:27:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 19:27:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 19:29:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 19:29:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/12/2020 19:32:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/12/2020 19:32:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 09:16:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 09:16:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 09:16:42,ross,Registra Tx Factura,Factura=2
+*************
+10/12/2020 09:23:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 09:23:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 09:23:25,ross,Registra Tx Factura,Factura=2
+*************
+10/12/2020 09:23:28,ross,Registra Tx Factura,Factura=2
+*************
+10/12/2020 09:23:31,ross,Registra Tx Factura,Factura=2
+*************
+10/12/2020 09:45:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 09:45:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 09:46:06,ross,01 GENERAR ORDEN,PEDIDO=5
+*************
+10/12/2020 09:46:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+10/12/2020 09:46:23,ross,VALIDACION RESULTADO,PEDIDO=5/400149
+*************
+10/12/2020 09:46:23,ross,VALIDACION RESULTADO,PEDIDO=5/400150
+*************
+10/12/2020 09:46:23,ross,VALIDACION RESULTADO,PEDIDO=5/400151
+*************
+10/12/2020 09:46:23,ross,VALIDACION RESULTADO,PEDIDO=5/400476
+*************
+10/12/2020 09:48:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 09:48:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 09:50:29,ross,ENVIO CORREO PACIENTE,PEDIDO=5
+*************
+10/12/2020 20:18:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 20:18:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 22:27:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 22:27:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/12/2020 22:27:42,ross,01 GENERAR ORDEN,PEDIDO=6
+*************
+10/12/2020 22:27:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=06
+*************
+10/12/2020 22:42:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/12/2020 22:42:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 08:22:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 08:22:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 08:22:48,ross,Eliminar Perfil,63
+*************
+12/12/2020 08:22:52,ross,Eliminar Perfil,58
+*************
+12/12/2020 08:22:56,ross,Eliminar Perfil,49
+*************
+12/12/2020 08:22:59,ross,Eliminar Perfil,50
+*************
+12/12/2020 08:23:05,ross,Eliminar Perfil,70
+*************
+12/12/2020 08:23:11,ross,Eliminar Perfil,48
+*************
+12/12/2020 08:23:16,ross,Eliminar Perfil,44
+*************
+12/12/2020 08:23:22,ross,Eliminar Perfil,62
+*************
+12/12/2020 08:23:28,ross,Eliminar Perfil,56
+*************
+12/12/2020 08:23:35,ross,Eliminar Perfil,60
+*************
+12/12/2020 08:23:41,ross,Eliminar Perfil,46
+*************
+12/12/2020 08:23:46,ross,Eliminar Perfil,61
+*************
+12/12/2020 08:23:52,ross,Eliminar Perfil,68
+*************
+12/12/2020 08:23:58,ross,Eliminar Perfil,67
+*************
+12/12/2020 08:24:06,ross,Eliminar Perfil,57
+*************
+12/12/2020 08:24:13,ross,Eliminar Perfil,47
+*************
+12/12/2020 14:51:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 14:51:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 14:51:56,ross,01 GENERAR ORDEN,PEDIDO=7
+*************
+12/12/2020 14:51:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+12/12/2020 14:52:25,ross,VALIDACION RESULTADO,PEDIDO=7/400149
+*************
+12/12/2020 14:52:25,ross,VALIDACION RESULTADO,PEDIDO=7/400150
+*************
+12/12/2020 14:52:25,ross,VALIDACION RESULTADO,PEDIDO=7/400151
+*************
+12/12/2020 14:52:25,ross,VALIDACION RESULTADO,PEDIDO=7/400185
+*************
+12/12/2020 14:52:25,ross,VALIDACION RESULTADO,PEDIDO=7/400186
+*************
+12/12/2020 14:52:25,ross,VALIDACION RESULTADO,PEDIDO=7/400476
+*************
+12/12/2020 14:55:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 14:55:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 14:59:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 14:59:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 14:59:50,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/SUERO LIPEMICO BIOQ
+*************
+12/12/2020 15:02:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 15:02:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 15:02:53,ross,GUARDA NOTA AREA,EXAMEN PADRE=400186/ENZIMAS NOTA
+*************
+12/12/2020 15:03:07,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+12/12/2020 15:04:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 15:04:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 15:06:46,ross,GUARDA NOTA AREA,EXAMEN PADRE=400186/ENZIMAS NOTA SECC
+*************
+12/12/2020 15:10:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/12/2020 15:10:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/12/2020 15:11:17,ross,GUARDA NOTA AREA,EXAMEN PADRE=400150/bq nota sec
+*************
+12/12/2020 15:11:30,ross,GUARDA NOTA AREA,EXAMEN PADRE=400186/enzimas sec
+*************
+13/12/2020 13:05:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/12/2020 13:05:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/12/2020 13:12:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/12/2020 13:12:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/12/2020 13:48:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/12/2020 13:48:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/12/2020 13:49:25,ross,01 GENERAR ORDEN,PEDIDO=8
+*************
+13/12/2020 13:49:26,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+13/12/2020 13:50:44,ross,GUARDA RESULTADOS,WBC=3
+*************
+13/12/2020 13:50:44,ross,GUARDA RESULTADOS,RBC=3
+*************
+13/12/2020 13:50:44,ross,GUARDA RESULTADOS,HCT=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,HGB=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,MCV=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,MCH=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,MCHC=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,MON%25=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,NEU=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,LYM=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,MON=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,EOS=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,BASO=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,PLT=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,MPV=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,PDW=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,PCT=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,P_LCR=3
+*************
+13/12/2020 13:50:45,ross,GUARDA RESULTADOS,P_LCC=3
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,PHO=5
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,UROOH=
+*************
+13/12/2020 13:51:03,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,HGBOH=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,CELEPH=++
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,LEUC_EMO1H=+
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,PIOO=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,HEMOH=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,MOCOH=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,URO=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,FOO=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,OXAO=
+*************
+13/12/2020 13:51:04,ross,GUARDA RESULTADOS,CRIO=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,CILO=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,CIGO=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,CILCE=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,ESP=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,ASCOH=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,OTROSO=
+*************
+13/12/2020 13:51:05,ross,GUARDA RESULTADOS,CCETO=
+*************
+13/12/2020 13:51:29,ross,GUARDA NOTA AREA,AREA EXAMEN =1/BH SECC
+*************
+13/12/2020 13:51:49,ross,GUARDA NOTA AREA,AREA EXAMEN =11/QUIMICA SECC:                SUERO LIPEMICO
+*************
+13/12/2020 13:52:54,ross,GUARDA NOTA AREA,AREA EXAMEN =10/ENZIMAS SECC
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400101
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400149
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400150
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400151
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400185
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400186
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400230
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400476
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400783
+*************
+13/12/2020 13:53:47,ross,VALIDACION RESULTADO,PEDIDO=8/400784
+*************
+13/12/2020 13:53:59,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+13/12/2020 13:55:06,ross,GUARDA NOTA AREA,AREA EXAMEN =19/SECC MARCADORES: toca extripar el nooo...yaa
+*************
+13/12/2020 13:55:12,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+13/12/2020 13:56:00,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+13/12/2020 13:56:22,ross,GUARDA NOTA AREA,AREA EXAMEN =10/enzimas sec
+*************
+13/12/2020 14:04:24,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+14/12/2020 10:50:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/12/2020 10:51:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/12/2020 10:51:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/12/2020 10:51:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/12/2020 10:52:02,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+14/12/2020 10:52:16,ross,IMPRIME TODO,PEDIDO=8
+*************
+15/12/2020 14:53:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/12/2020 14:53:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/12/2020 16:00:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/12/2020 16:00:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/12/2020 16:04:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/12/2020 16:04:40,,Ingreso CONTRASE�A FALLIDO,
+*************
+15/12/2020 16:04:40,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/12/2020 16:04:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/12/2020 16:05:12,ross,Nueva Area,Area=MARCADOR RF
+*************
+16/12/2020 15:21:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2020 15:21:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/12/2020 15:50:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2020 15:50:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/12/2020 15:59:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2020 15:59:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/12/2020 17:18:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2020 17:18:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/12/2020 17:18:51,ross,IMPRIME POR AREA,PEDIDO=6686
+*************
+16/12/2020 17:22:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/12/2020 17:22:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/12/2020 17:23:09,ross,IMPRIME POR AREA,PEDIDO=6679
+*************
+21/12/2020 16:41:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2020 16:41:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/12/2020 16:42:25,ross,01 GENERAR ORDEN,PEDIDO=10
+*************
+21/12/2020 16:42:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10
+*************
+21/12/2020 20:15:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2020 20:15:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/12/2020 20:31:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/12/2020 20:31:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/12/2020 20:31:47,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+22/12/2020 11:01:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 11:01:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 11:01:51,ross,01 GENERAR ORDEN,PEDIDO=11
+*************
+22/12/2020 11:01:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=11
+*************
+22/12/2020 11:16:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 11:16:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 11:27:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 11:27:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 12:02:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 12:02:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 12:30:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 12:30:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 12:30:27,ross,GUARDA NOTA AREA,AREA EXAMEN =83/
+*************
+22/12/2020 12:45:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 12:45:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 14:54:58,ross,1 MODIFICA ORDEN,PEDIDO=11
+*************
+22/12/2020 15:36:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 15:36:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 15:53:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 15:53:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 16:08:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 16:08:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 17:34:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 17:34:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 17:34:48,ross,IMPRIME TODO,PEDIDO=1
+*************
+22/12/2020 17:50:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 17:50:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 17:51:14,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+22/12/2020 17:51:31,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+22/12/2020 17:51:47,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+22/12/2020 18:02:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 18:02:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 18:15:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 18:15:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/12/2020 18:22:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/12/2020 18:22:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 00:04:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 00:04:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 00:10:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 00:10:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 00:18:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 00:18:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 00:26:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 00:26:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 09:14:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 09:14:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 09:28:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 09:28:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 09:52:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 09:52:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 09:59:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 09:59:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 10:05:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 10:05:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 10:22:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 10:22:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 10:35:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 10:35:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 10:40:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 10:40:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 10:47:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 10:47:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 11:03:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 11:03:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 11:09:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 11:09:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 11:26:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 11:26:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 12:22:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 12:22:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 12:26:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 12:26:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 12:31:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 12:32:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 12:38:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 12:38:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 12:56:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 12:56:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 12:57:06,ross,01 GENERAR ORDEN,PEDIDO=12
+*************
+23/12/2020 12:57:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=12
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,WBC=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,RBC=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,HCT=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,HGB=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,MCV=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,MCH=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,MCHC=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,RDW_CV=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,RDW_SD=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,NEU%25=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,LYM%25=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,MON%25=2
+*************
+23/12/2020 12:57:59,ross,GUARDA RESULTADOS,EOS%25=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,BASO%25=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,NEU=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,LYM=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,MON=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,EOS=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,BASO=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,PLT=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,MPV=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,PDW=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,PCT=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,P_LCR=2
+*************
+23/12/2020 12:58:00,ross,GUARDA RESULTADOS,P_LCC=2
+*************
+23/12/2020 12:58:21,ross,VALIDACION RESULTADO,PEDIDO=12/400101
+*************
+23/12/2020 12:58:21,ross,VALIDACION RESULTADO,PEDIDO=12/400149
+*************
+23/12/2020 12:58:21,ross,VALIDACION RESULTADO,PEDIDO=12/400150
+*************
+23/12/2020 12:58:21,ross,VALIDACION RESULTADO,PEDIDO=12/400151
+*************
+23/12/2020 12:58:21,ross,VALIDACION RESULTADO,PEDIDO=12/400476
+*************
+23/12/2020 12:58:40,ross,Inserta usuario web,Paciente=5 MMORALES
+*************
+23/12/2020 12:59:43,ross,Inserta usuario web,Paciente=5 MMORALES
+*************
+23/12/2020 13:00:08,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+23/12/2020 15:17:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 15:17:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 15:46:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/12/2020 15:47:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/12/2020 15:57:34,ross,Generar Paciente,Paciente=MARCILLO ESMERALDAS MARTHA CECILIA
+*************
+23/12/2020 16:03:31,ross,Nuevo Convenio,Convenio=TNO
+*************
+23/12/2020 16:03:31,ross,Guardar secuencia,SECUENCIA=TNO/1001/1200
+*************
+23/12/2020 16:11:38,ross,01 GENERAR ORDEN,PEDIDO=13
+*************
+23/12/2020 16:11:38,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+23/12/2020 16:16:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+23/12/2020 16:16:26,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+23/12/2020 16:18:16,ross,Inserta usuario web,Paciente=6 MMARCILLO
+*************
+23/12/2020 16:18:17,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+23/12/2020 16:21:50,ross,Actualiza FACTURA,FACTURA=3
+*************
+23/12/2020 16:21:51,ross,Ingresa FACTURA,FACTURA=3
+*************
+23/12/2020 16:21:51,ross,Insertar abono,Factura=3 Abono= 50
+*************
+23/12/2020 16:21:51,ross,Actualiza FACTURA,FACTURA=3/50
+*************
+23/12/2020 16:22:00,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:22:25,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:22:31,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:23:36,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:23:49,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:23:54,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:24:42,ross,Insertar abono,Factura=3 Abono= 46.7
+*************
+23/12/2020 16:24:42,ross,Cancela FACTURA,FACTURA=3
+*************
+23/12/2020 16:24:45,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:24:54,ross,Registra Tx Factura,Factura=3
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=ARMIJOS MACHUCA MAYRA ALEJANDRA
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/14
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=BUENO GAÑAN BLANCA ARELIS
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/15
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=CONDE PACUSHCA MARIA DEL CARMEN
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/16
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=ESPINOSA CASA ANGELICA PIEDAD
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/17
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=GALLEGO JAUREGUI YULY ANDREA
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/18
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=GARRIDO MEDRANDA LORENA ELIZABETH
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/19
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=JIMENEZ GUERRERO MARIANA DE JE
+*************
+23/12/2020 16:34:08,ross,Nuevo Pedido IMPORTACION,TNO/20
+*************
+23/12/2020 16:34:08,ross,Generar Paciente,Paciente=LASCANO ERAZO JUAN CARLOS
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/21
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=MENDEZ SILVA DAVID RENE
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/22
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=NARANJO GONZALEZ LORENA ALEXAN
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/23
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=NUÑEZ PESANTEZ JENNY PAULINA
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/24
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=PAEZ PALLO ERIKA FERNANDA
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/25
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=PROAÑO GUIZADO CARLA PAOLA
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/26
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=RIVERA SORROZA IRENE YULLISSA
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/27
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=ROCA PESANTES LIGIA RAFAELLA
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/28
+*************
+23/12/2020 16:34:09,ross,Generar Paciente,Paciente=VASQUEZ CHASI KARINA ALEXANDRA
+*************
+23/12/2020 16:34:09,ross,Nuevo Pedido IMPORTACION,TNO/29
+*************
+23/12/2020 16:34:10,ross,Generar Paciente,Paciente=RUEDA GERMAN ANDREA ESTEFANIA
+*************
+23/12/2020 16:34:10,ross,Nuevo Pedido IMPORTACION,TNO/30
+*************
+23/12/2020 16:34:10,ross,Generar Paciente,Paciente=CURICHO TITUAÑA LUIS WLADIMIR
+*************
+23/12/2020 16:34:10,ross,Nuevo Pedido IMPORTACION,TNO/31
+*************
+23/12/2020 16:34:10,ross,Generar Paciente,Paciente=AVILES GUZMAN MARIA CRISTINA
+*************
+23/12/2020 16:34:10,ross,Nuevo Pedido IMPORTACION,TNO/32
+*************
+23/12/2020 16:34:10,ross,Nuevo Pedido IMPORTACION,TNO/33
+*************
+23/12/2020 16:34:10,ross,Generar Paciente,Paciente=MORALES OÑA MARLENE PAULINA
+*************
+23/12/2020 16:34:11,ross,Nuevo Pedido IMPORTACION,TNO/34
+*************
+23/12/2020 16:34:11,ross,Generar Paciente,Paciente=VELOZ CHAVEZ AMPARO ELIZABETH
+*************
+23/12/2020 16:34:11,ross,Nuevo Pedido IMPORTACION,TNO/35
+*************
+23/12/2020 16:34:11,ross,Generar Paciente,Paciente=BUNAY CARMEN ESTELA
+*************
+23/12/2020 16:34:11,ross,Nuevo Pedido IMPORTACION,TNO/36
+*************
+23/12/2020 16:40:44,ross,Nuevo Perfil,PERFIL=PERFIL TNO PREOC
+*************
+23/12/2020 16:45:22,ross,IMPRIMIR CONTRAORDEN,
+*************
+23/12/2020 16:46:17,ross,IMPRIMIR LISTA TRABAJO,
+*************
+23/12/2020 16:46:44,ross,IMPRIMIR HOJA TRABAJO,
+*************
+23/12/2020 16:48:03,ross,IMPRIMIR HOJA TRABAJO,
+*************
+23/12/2020 16:52:00,ross,GUARDA RESULTADOS,WBC=2
+*************
+23/12/2020 16:52:00,ross,GUARDA RESULTADOS,RBC=2
+*************
+23/12/2020 16:52:00,ross,GUARDA RESULTADOS,HCT=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,HGB=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,MCV=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,MCH=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,MCHC=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,RDW_CV=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,RDW_SD=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,NEU%25=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,LYM%25=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,MON%25=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,EOS%25=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,BASO%25=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,NEU=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,LYM=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,MON=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,EOS=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,BASO=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,PLT=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,MPV=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,PDW=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,PCT=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,P_LCR=2
+*************
+23/12/2020 16:52:01,ross,GUARDA RESULTADOS,P_LCC=2
+*************
+23/12/2020 16:55:49,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400101
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400140
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400141
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400148
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400149
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400150
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400151
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400185
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400186
+*************
+23/12/2020 17:00:13,ross,VALIDACION RESULTADO,PEDIDO=13/400476
+*************
+23/12/2020 17:00:14,ross,VALIDACION RESULTADO,PEDIDO=13/400781
+*************
+23/12/2020 17:00:14,ross,VALIDACION RESULTADO,PEDIDO=13/401104
+*************
+23/12/2020 17:00:15,ross,Inserta usuario web,Paciente=6 MMARCILLO
+*************
+23/12/2020 17:01:41,ross,Inserta usuario web,Paciente=6 MMARCILLO
+*************
+23/12/2020 17:01:42,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+23/12/2020 17:09:02,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+23/12/2020 17:10:42,ross,IMPRIME TODO,PEDIDO=13
+*************
+23/12/2020 17:11:35,ross,IMPRIME POR EMAMEN,PEDIDO=13
+*************
+23/12/2020 17:12:01,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=13
+*************
+23/12/2020 17:12:14,ross,IMPRIME SOBRE,PEDIDO=13
+*************
+23/12/2020 17:16:08,ross,ENVIO CORREO PACIENTE,PEDIDO=13
+*************
+23/12/2020 17:19:39,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^acudir en tres meses|OTOSCOPIA:^normacusia OI|
+*************
+23/12/2020 17:22:11,ross,GUARDA RESULTADOS,RAYXH=
+*************
+23/12/2020 17:23:21,ross,Inserta usuario web,Paciente=6 MMARCILLO
+*************
+23/12/2020 17:23:49,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+23/12/2020 17:24:07,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+23/12/2020 17:26:29,ross,Inserta usuario web,Paciente=6 MMARCILLO
+*************
+23/12/2020 17:48:26,ross,Actualizar Rango Multiple,Test= 400149 Rango=OPTIMO:   <190
+Moderado: 200 - 239
+Alto    : >239
+-
+*************
+23/12/2020 17:49:15,ross,Actualizar Rango Unico,Test=11 Rango=3.5-11
+*************
+23/12/2020 17:49:57,ross,Actualizar Rango Multiple,Test= 400168 Rango=1- 30 DÍAS:  0.5-16.0
+1M -5 AÑOS : 0.5-8.50
+5A -17 AÑOS: 0.4-5.50
+ADULTOS:    0.30-4.50
+_____________________
+*************
+23/12/2020 18:06:11,ross,Nuevo Test en Lista de Precios,Test=401140 20  NORMAL
+*************
+23/12/2020 18:06:11,ross,Nuevo Test en Lista de Precios,Test=401140 20  TNO
+*************
+23/12/2020 18:06:11,ross,INGRESA TEST,TEST=FICHA MEDICA
+*************
+23/12/2020 18:06:11,ross,Actualiza Test,Test=FICHA MEDICA
+*************
+28/12/2020 15:26:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/12/2020 15:26:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/12/2020 15:28:42,ross,01 GENERAR ORDEN,PEDIDO=3398
+*************
+28/12/2020 15:28:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=3398
+*************
+28/12/2020 15:29:38,ross,01 GENERAR ORDEN,PEDIDO=3399
+*************
+28/12/2020 15:29:38,ross,02 IMPRIMIR COD BARRAS,PEDIDO=3399
+*************
+28/12/2020 15:43:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/12/2020 15:43:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/12/2020 19:58:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/12/2020 19:58:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 09:39:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 09:39:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 09:42:37,ross,Generar Paciente,Paciente=FLORES MORALES DANNA SOFIA
+*************
+29/12/2020 09:44:42,ross,01 GENERAR ORDEN,PEDIDO=3400
+*************
+29/12/2020 09:44:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=3400
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,WBCN=4.8
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,LYMN=2.8
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,NEUN=1.7
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,MONON=
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,EOSN=
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,BASON=
+*************
+29/12/2020 09:48:00,ross,GUARDA RESULTADOS,LYM%25N=58.4
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,NEU%25N=34.5
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,MONO%25N=
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,EOS%25N=
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,BASO%25N=
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,HGBN=13.8
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,RBCN=4.68
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,HCTN=38.9
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,MCVN=83.1
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,MCHN=29.5
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,MCHCN=35.5
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,RDW_SDN=12.1
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,RDW_CVN=38.8
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,PLTN=356
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,PDWN=
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,MPVN=8.6
+*************
+29/12/2020 09:48:01,ross,GUARDA RESULTADOS,PCTN=
+*************
+29/12/2020 09:50:47,ross,1 MODIFICA ORDEN,PEDIDO=3400
+*************
+29/12/2020 09:51:12,ross,VALIDACION RESULTADO,PEDIDO=3400/400101
+*************
+29/12/2020 09:51:12,ross,VALIDACION RESULTADO,PEDIDO=3400/400140
+*************
+29/12/2020 09:51:12,ross,VALIDACION RESULTADO,PEDIDO=3400/400141
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400142
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400149
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400150
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400151
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400153
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400167
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400168
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400185
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400186
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400292
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400296
+*************
+29/12/2020 09:51:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400476
+*************
+29/12/2020 09:55:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 09:55:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 09:55:57,ross,Modifica USR,USR=1
+*************
+29/12/2020 09:56:05,ross,Modifica USR,USR=1
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:56:51,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/12/2020 09:57:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 09:57:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 09:57:14,ross,IMPRIME POR AREA,PEDIDO=3400
+*************
+29/12/2020 09:57:58,ross,IMPRIME TODO,PEDIDO=3400
+*************
+29/12/2020 09:58:27,ross,IMPRIME POR AREA,PEDIDO=3400
+*************
+29/12/2020 10:03:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 10:03:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 10:04:03,ross,IMPRIME POR AREA,PEDIDO=3400
+*************
+29/12/2020 10:04:15,ross,IMPRIME TODO,PEDIDO=3400
+*************
+29/12/2020 10:05:51,ross,Modifica USR,USR=1
+*************
+29/12/2020 10:05:58,ross,IMPRIME TODO,PEDIDO=3400
+*************
+29/12/2020 10:06:21,ross,IMPRIME TODO,PEDIDO=3400
+*************
+29/12/2020 10:16:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 10:16:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 10:18:22,ross,Actualizar Rango Unico,Test=400186 Rango=0-33
+*************
+29/12/2020 10:18:37,ross,1 MODIFICA ORDEN,PEDIDO=3400
+*************
+29/12/2020 10:19:13,ross,VALIDACION RESULTADO,PEDIDO=3400/400186
+*************
+29/12/2020 10:19:22,ross,IMPRIME POR AREA,PEDIDO=3400
+*************
+29/12/2020 10:19:44,ross,IMPRIME TODO,PEDIDO=3400
+*************
+29/12/2020 18:19:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 18:19:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 18:26:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 18:27:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 18:38:45,ross,Generar Paciente,Paciente=BASTIDAS ARMAS YOLANDA DEL PILAR
+*************
+29/12/2020 18:41:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 18:41:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 18:44:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 18:45:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 18:47:26,ross,Generar Paciente,Paciente=BASTIDAS YOLANDA
+*************
+29/12/2020 18:53:14,ross,01 GENERAR ORDEN,PEDIDO=38
+*************
+29/12/2020 18:53:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+29/12/2020 18:57:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/12/2020 18:57:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/12/2020 19:01:51,ross,1 MODIFICA ORDEN,PEDIDO=38
+*************
+29/12/2020 19:03:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+29/12/2020 19:03:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+29/12/2020 19:03:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=38
+*************
+29/12/2020 19:10:41,ross,Actualiza FACTURA,FACTURA=4
+*************
+29/12/2020 19:10:41,ross,Ingresa FACTURA,FACTURA=4
+*************
+29/12/2020 19:10:41,ross,Insertar abono,Factura=4 Abono= 30
+*************
+29/12/2020 19:10:41,ross,Actualiza FACTURA,FACTURA=4/30
+*************
+29/12/2020 19:10:46,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:11:32,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:12:11,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:12:48,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:13:08,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:13:12,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:13:23,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:15:35,ross,Insertar abono,Factura=4 Abono= 30
+*************
+29/12/2020 19:15:35,ross,Cancela FACTURA,FACTURA=4
+*************
+29/12/2020 19:15:39,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:15:56,ross,Registra Tx Factura,Factura=4
+*************
+29/12/2020 19:20:51,ross,Nuevo Perfil,PERFIL=PERFIL FLORICOLA 1
+*************
+29/12/2020 19:23:51,ross,Nuevo Pedido IMPORTACION,TNO/39
+*************
+29/12/2020 19:23:52,ross,Nuevo Pedido IMPORTACION,TNO/40
+*************
+29/12/2020 19:23:53,ross,Nuevo Pedido IMPORTACION,TNO/41
+*************
+29/12/2020 19:23:53,ross,Nuevo Pedido IMPORTACION,TNO/42
+*************
+29/12/2020 19:23:54,ross,Nuevo Pedido IMPORTACION,TNO/43
+*************
+29/12/2020 19:23:55,ross,Nuevo Pedido IMPORTACION,TNO/44
+*************
+29/12/2020 19:23:56,ross,Nuevo Pedido IMPORTACION,TNO/45
+*************
+29/12/2020 19:23:57,ross,Nuevo Pedido IMPORTACION,TNO/46
+*************
+29/12/2020 19:23:58,ross,Nuevo Pedido IMPORTACION,TNO/47
+*************
+29/12/2020 19:23:59,ross,Nuevo Pedido IMPORTACION,TNO/48
+*************
+29/12/2020 19:24:00,ross,Nuevo Pedido IMPORTACION,TNO/49
+*************
+29/12/2020 19:24:01,ross,Nuevo Pedido IMPORTACION,TNO/50
+*************
+29/12/2020 19:24:02,ross,Nuevo Pedido IMPORTACION,TNO/51
+*************
+29/12/2020 19:24:02,ross,Nuevo Pedido IMPORTACION,TNO/52
+*************
+29/12/2020 19:24:03,ross,Nuevo Pedido IMPORTACION,TNO/53
+*************
+29/12/2020 19:24:04,ross,Nuevo Pedido IMPORTACION,TNO/54
+*************
+29/12/2020 19:24:05,ross,Nuevo Pedido IMPORTACION,TNO/55
+*************
+29/12/2020 19:24:06,ross,Nuevo Pedido IMPORTACION,TNO/56
+*************
+29/12/2020 19:24:07,ross,Nuevo Pedido IMPORTACION,TNO/57
+*************
+29/12/2020 19:24:08,ross,Nuevo Pedido IMPORTACION,TNO/58
+*************
+29/12/2020 19:24:09,ross,Nuevo Pedido IMPORTACION,TNO/59
+*************
+29/12/2020 19:24:10,ross,Nuevo Pedido IMPORTACION,TNO/60
+*************
+29/12/2020 19:24:11,ross,Nuevo Pedido IMPORTACION,TNO/61
+*************
+29/12/2020 19:26:46,ross,IMPRIMIR CONTRAORDEN,
+*************
+29/12/2020 19:27:21,ross,IMPRIMIR CONTRAORDEN,
+*************
+29/12/2020 19:27:54,ross,IMPRIMIR LISTA TRABAJO,
+*************
+29/12/2020 19:28:20,ross,IMPRIMIR HOJA TRABAJO,
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,WBC=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,RBC=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,HCT=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,HGB=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,MCV=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,MCH=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,MCHC=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,MON%25=33
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,NEU=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,LYM=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,MON=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,EOS=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,BASO=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,PLT=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,MPV=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,PDW=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,PCT=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,P_LCR=3
+*************
+29/12/2020 19:31:12,ross,GUARDA RESULTADOS,P_LCC=3
+*************
+29/12/2020 19:32:48,ross,GUARDA RESULTADOS,IGG_CUANH=0.2
+*************
+29/12/2020 19:32:48,ross,GUARDA RESULTADOS,IGM_CUANH=0.8
+*************
+29/12/2020 19:32:48,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,COLO=ROJO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,DENO=1.010
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,PHO=6.5
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,PROTOH=30
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,UROOH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,HGBOH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,CELPOH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,CELEPH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,HEMOH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,BACOH=+
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,MOCOH=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+29/12/2020 19:34:12,ross,GUARDA RESULTADOS,URO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,FOO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,OXAO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,CRIO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,CILO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,CIGO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,CILCE=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,ESP=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,ASCOH=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,OTROSO=
+*************
+29/12/2020 19:34:13,ross,GUARDA RESULTADOS,CCETO=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,COLCH=MARRON
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,CONSCH=PASTOSA
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,Ph=1.004
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,SANC2=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,VMICC2=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,RAC2=+++
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,RVCH=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,ALMIDONES=++
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,LEVC2H=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+29/12/2020 19:34:55,ross,GUARDA RESULTADOS,FBACC2H=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,PIOCH=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,HMCRPH=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,INVPAC2H=-INV. DE PARASITOS-
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,AMBHC1=QUISTES +
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,ACOLI=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,TENCP1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,LANDC1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,NANAC1=
+*************
+29/12/2020 19:34:56,ross,GUARDA RESULTADOS,OTRCCH=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,COLO=ROJO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,DENO=1.010
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,PHO=6.5
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,PROTOH=30
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,UROOH=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,HGBOH=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,CELPOH=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,CELEPH=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+29/12/2020 19:35:33,ross,GUARDA RESULTADOS,HEMOH=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,BACOH=+
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,MOCOH=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,URO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,FOO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,OXAO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,CRIO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,CILO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,CIGO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,CILCE=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,ESP=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,ASCOH=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,OTROSO=
+*************
+29/12/2020 19:35:34,ross,GUARDA RESULTADOS,CCETO=
+*************
+29/12/2020 19:37:58,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400101
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400114
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400149
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400150
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400151
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400230
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400244
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/400476
+*************
+29/12/2020 19:38:50,ross,VALIDACION RESULTADO,PEDIDO=38/401105
+*************
+29/12/2020 19:43:46,ross,IMPRIME POR AREA,PEDIDO=38
+*************
+29/12/2020 19:46:18,ross,IMPRIME TODO,PEDIDO=38
+*************
+29/12/2020 19:47:27,ross,IMPRIME POR EMAMEN,PEDIDO=38
+*************
+29/12/2020 19:47:52,ross,IMPRIME POR EMAMEN,PEDIDO=38
+*************
+29/12/2020 19:48:17,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=38
+*************
+29/12/2020 19:48:45,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=38
+*************
+29/12/2020 19:49:08,ross,IMPRIME SOBRE,PEDIDO=38
+*************
+29/12/2020 19:55:33,ross,Actualiza Paciente,Paciente=BASTIDAS YOLANDA
+*************
+29/12/2020 19:56:19,ross,ENVIO CORREO PACIENTE,PEDIDO=38
+*************
+29/12/2020 20:02:05,ross,Actualizar Rango Multiple,Test= 400149 Rango=OPTIMO:   <190
+Moderado: 200 - 239
+Alto    : >239
+-
+*************
+29/12/2020 20:05:07,ross,Eliina Rango Multiple,Teq_id=1893
+*************
+31/12/2020 08:06:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/12/2020 08:06:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/12/2020 08:10:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/12/2020 08:10:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/12/2020 09:20:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/12/2020 09:20:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/12/2020 09:35:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/12/2020 09:35:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/12/2020 09:35:51,ross,Generar Paciente,Paciente=CHAMBA ONTANEDA CARINA ELIZABETH
+*************

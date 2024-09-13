@@ -1,0 +1,100 @@
+06/06/2017 8:58:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 8:58:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 9:01:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 9:01:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 9:02:58,ross,AGENDAMIENTO,PEDIDO=535
+*************
+06/06/2017 9:07:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 9:07:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 9:09:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 9:09:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 9:12:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 9:12:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 9:24:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 9:24:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 9:28:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 9:28:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2017 10:06:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2017 10:06:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/06/2017 14:40:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/06/2017 14:40:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:12:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 10:12:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:12:37,ross,1 GENERAR ORDEN,PEDIDO=536
+*************
+13/06/2017 10:18:50,ross,1 MODIFICA ORDEN,PEDIDO=536
+*************
+13/06/2017 10:24:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/06/2017 10:25:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:29:34,ross,1 MODIFICA ORDEN,PEDIDO=536
+*************
+12/06/2017 10:50:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 10:50:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:53:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 10:53:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:55:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 10:55:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:57:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 10:57:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 10:58:28,ross,1 GENERAR ORDEN,PEDIDO=537
+*************
+12/06/2017 11:07:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 11:07:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 11:23:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/06/2017 11:23:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/06/2017 11:25:46,ross,1 MODIFICA ORDEN,PEDIDO=536
+*************
+14/06/2017 16:55:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/06/2017 16:55:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/06/2017 16:55:39,ross,1 GENERAR ORDEN,PEDIDO=538
+*************
+14/06/2017 16:57:35,ross,Actualiza Test,Test=BIOPSIA GASTRICA 1
+*************
+14/06/2017 16:59:27,ross,Nuevo Test en Lista de Precios,Test=572 0  HOSP. GONZALEZ
+*************
+14/06/2017 16:59:27,ross,INGERSA TEST,TEST=F.U.M.
+*************
+14/06/2017 16:59:27,ross,Actualiza Test,Test=F.U.M.
+*************
+14/06/2017 16:59:53,ross,1 MODIFICA ORDEN,PEDIDO=538
+*************
+14/06/2017 17:00:26,ross,Actualiza Test,Test=BIOPSIA GASTRICA 1
+*************
+16/06/2017 16:03:36,,SUPERADO INTENTOS FALLIDO USR,
+*************

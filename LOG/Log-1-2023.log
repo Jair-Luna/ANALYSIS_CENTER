@@ -1,0 +1,3425 @@
+03/01/2023 9:26:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2023 9:26:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2023 9:26:39,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,400230,,PEDIDO=12
+*************
+03/01/2023 9:26:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=12
+*************
+03/01/2023 9:33:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2023 9:33:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2023 9:33:27,ross,1 MODIFICA ORDENNORMAL,PEDIDO=12
+*************
+03/01/2023 9:33:45,ross,1 MODIFICA ORDENNORMAL,PEDIDO=12
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,WBCH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,NEUH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,LYMH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,MONH2=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,EOSH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,BASOH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,MON%25H=44
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,RBCH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,HCTH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,HGBH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,MCVH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,MCHH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,RDW-SDH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,PLTH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,MPVH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,PDWH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,PCTH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+03/01/2023 9:34:44,ross,GUARDA RESULTADOS,P-LCCH=4
+*************
+03/01/2023 9:34:53,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+03/01/2023 9:34:53,ross,GUARDA RESULTADOS,COLOH=AMARILLO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,PHO=5
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,ASCOH=
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,GLUOH=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,HGBOH=
+*************
+03/01/2023 9:34:54,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CELEPH=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,LEUC_EMO1H=++
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,PIOO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,HEMOH=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,BACOH=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,MOCOH=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,URO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,FOO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,OXAO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CRIO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CILO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CIGO=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,CILCE=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,ESP=
+*************
+03/01/2023 9:34:55,ross,GUARDA RESULTADOS,OTROSO=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,COLCH=CAFÉ
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,CONSCH=PASTOSA
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,Ph=123
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,MOCCopro=++
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,SANC2=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,VMICC2=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,RAC2=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,RVCH=+
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,ALMIDONES=+
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,LEVC2H=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,FBACC2H=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,PIOCH=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,HMCRPH=
+*************
+03/01/2023 9:35:15,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,INVPAC2H=-INV. DE PARASITOS-
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,OTRCCH=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,AMBHC1=TROFOZOITOS +
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,ACOLI=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,TENCP1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,LANDC1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+03/01/2023 9:35:16,ross,GUARDA RESULTADOS,NANAC1=
+*************
+03/01/2023 9:35:45,ross,GUARDA RESULTADOS,MUECULORI=ORINA
+*************
+03/01/2023 9:35:45,ross,GUARDA RESULTADOS,GERAISORI=ESCHERICHA COLI
+*************
+03/01/2023 9:35:45,ross,GUARDA RESULTADOS,CONCOLORI=3455555
+*************
+03/01/2023 9:35:46,ross,GUARDA RESULTADOS,OBSCULORI=
+*************
+03/01/2023 9:35:46,ross,GUARDA RESULTADOS,ANTI=-ANTIBIOGRAMA-
+*************
+03/01/2023 9:35:46,ross,GUARDA RESULTADOS,TINGRAMH=
+*************
+03/01/2023 9:35:46,ross,GUARDA ANTIBIOGRANA,AMIKACINA=RESISTENTE
+*************
+03/01/2023 9:35:46,ross,GUARDA ANTIBIOGRANA,GENTAMICINA=RESISTENTE
+*************
+03/01/2023 9:35:46,ross,GUARDA ANTIBIOGRANA,AMOX. + AC. CLAVULANICO=INTERMENDIO
+*************
+03/01/2023 9:35:46,ross,GUARDA ANTIBIOGRANA,AMPI + SULBACTAM=SENSIBLE
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,COLH=189
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,AHDLH=44
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,LDLH=109.2
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,TGLH=179
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+03/01/2023 9:35:58,ross,GUARDA RESULTADOS,C_ORINAH=MEMO
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400101
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400149
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400150
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400151
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400230
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400244
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400476
+*************
+03/01/2023 9:36:02,ross,VALIDACION RESULTADO,PEDIDO=12/400819
+*************
+03/01/2023 9:36:04,ross,Eliminar resultado AUX_HIS,
+*************
+03/01/2023 9:36:48,ross,IMPRIME POR AREA,PEDIDO=12
+*************
+03/01/2023 10:01:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2023 10:01:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2023 10:02:43,ross,Nuevo Pedido PRE CARGA,NORMAL/13
+*************
+04/01/2023 13:55:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2023 13:55:08,,Ingreso CONTRASEÑA FALLIDO,
+*************
+04/01/2023 13:55:08,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 13:55:12,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 13:59:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2023 13:59:43,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 14:06:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2023 14:06:40,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 14:09:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2023 14:09:50,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 14:16:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2023 14:16:03,,Ingreso CONTRASEÑA FALLIDO,
+*************
+04/01/2023 14:16:03,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 14:16:04,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2023 14:16:39,ross123,GUARDA RESULTADOS,TRAN2H=321
+*************
+04/01/2023 14:17:01,ross123,Eliminar resultado AUX_HIS,
+*************
+05/01/2023 12:01:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 12:01:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 12:02:25,ross,Generar Paciente,Paciente=LOPEZ REOBALINO BERTHA ILIANA
+*************
+05/01/2023 12:06:31,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=14
+*************
+05/01/2023 12:06:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+05/01/2023 12:20:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 12:20:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/01/2023 9:10:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/01/2023 9:10:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/01/2023 9:10:40,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400819,,PEDIDO=15
+*************
+09/01/2023 9:10:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+09/01/2023 9:11:40,ross,GUARDA RESULTADOS,MUECULORI=ORINA
+*************
+09/01/2023 9:11:40,ross,GUARDA RESULTADOS,GERAISORI=eschericah coli
+*************
+09/01/2023 9:11:40,ross,GUARDA RESULTADOS,CONCOLORI=100.000
+*************
+09/01/2023 9:11:40,ross,GUARDA RESULTADOS,OBSCULORI=
+*************
+09/01/2023 9:11:40,ross,GUARDA RESULTADOS,ANTI=-ANTIBIOGRAMA-
+*************
+09/01/2023 9:11:40,ross,GUARDA RESULTADOS,TINGRAMH=
+*************
+09/01/2023 9:11:40,ross,GUARDA ANTIBIOGRANA,AMPI + SULBACTAM=RESISTENTE
+*************
+09/01/2023 9:11:40,ross,GUARDA ANTIBIOGRANA,PENICILINA=RESISTENTE
+*************
+09/01/2023 9:11:40,ross,GUARDA ANTIBIOGRANA,AZITROMICINA=RESISTENTE
+*************
+09/01/2023 9:11:40,ross,GUARDA ANTIBIOGRANA,CEFTAZIDIMA=RESISTENTE
+*************
+09/01/2023 9:11:40,ross,GUARDA ANTIBIOGRANA,CEFTRIOXONA=RESISTENTE
+*************
+09/01/2023 9:11:47,ross,GUARDA RESULTADOS,C_ORINAH=MEMO
+*************
+09/01/2023 9:14:48,ross,VALIDACION RESULTADO,PEDIDO=15/400819
+*************
+09/01/2023 9:19:08,ross,Eliminar resultado AUX_HIS,
+*************
+09/01/2023 10:54:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/01/2023 10:54:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/01/2023 16:48:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/01/2023 16:48:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/01/2023 16:49:18,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+09/01/2023 16:49:22,ross,IMPRIME TODO,PEDIDO=15
+*************
+09/01/2023 16:58:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/01/2023 16:58:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/01/2023 16:58:16,ross,IMPRIME TODO,PEDIDO=15
+*************
+09/01/2023 16:58:24,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+09/01/2023 16:59:12,ross,1 MODIFICA ORDENNORMAL,PEDIDO=15
+*************
+09/01/2023 16:59:34,ross,GUARDA RESULTADOS,C_ORINAH=MEMO
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,WBCH=4.5
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,NEUH=9.2
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,LYMH=2.1
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,MONH=0.34
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,EOSH=0.12
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,BASOH=0.04
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,NEU%25H=56.2
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,LYM%25H=29.1
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,MON%25H=4.9
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,EOS%25H=3.6
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,BASO%25H=2.6
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,RBCH=3.3
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,HCTH=45.1
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,HGBH=14.79
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,MCVH=106.67
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,MCHH=44.82
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,MCHCH=32.79
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,RDW-CVH=14.1
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,RDW-SDH=48.9
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,PLTH=234
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,MPVH=11.2
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,PDWH=17.1
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,PCTH=1.2
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,P-LCRH=15.4
+*************
+09/01/2023 17:01:28,ross,GUARDA RESULTADOS,P-LCCH=0.02
+*************
+09/01/2023 17:02:22,ross,GUARDA NOTA AREA,AREA EXAMEN =10/OBSERVACIONES: Valores confirmados
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,GLUCH=112.9
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,UREH=34.7
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,CREH=32.5
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,COLH=189.1
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,AHDLH=57.8
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,LDLH=95.5
+*************
+09/01/2023 17:02:25,ross,GUARDA RESULTADOS,TGLH=179
+*************
+09/01/2023 17:02:26,ross,GUARDA RESULTADOS,ASTH=38.2
+*************
+09/01/2023 17:02:26,ross,GUARDA RESULTADOS,ALTH=31.0
+*************
+09/01/2023 17:02:26,ross,GUARDA RESULTADOS,C_ORINAH=MEMO
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400101
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400140
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400141
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400149
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400150
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400151
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400185
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400186
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/400476
+*************
+09/01/2023 17:02:34,ross,VALIDACION RESULTADO,PEDIDO=15/401104
+*************
+09/01/2023 17:02:36,ross,Eliminar resultado AUX_HIS,
+*************
+09/01/2023 17:02:52,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+09/01/2023 17:02:57,ross,IMPRIME TODO,PEDIDO=15
+*************
+17/01/2023 11:39:59,,Ingreso CONTRASEÑA FALLIDO,
+*************
+17/01/2023 11:39:59,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2023 11:40:01,,Ingreso CONTRASEÑA FALLIDO,
+*************
+17/01/2023 11:40:01,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2023 11:40:03,,Ingreso CONTRASEÑA FALLIDO,
+*************
+17/01/2023 11:40:03,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:04:43,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:04:43,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:04:58,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:04:58,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:05:01,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:05:01,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:05:03,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:05:03,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:06:19,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:06:19,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:11:44,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:11:44,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:12:39,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:12:39,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:12:42,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:12:42,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:13:19,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:13:19,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:32:29,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:32:29,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:34:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 10:34:29,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:34:29,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:40:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 10:42:45,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:42:45,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:42:58,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:43:46,123,Generar Paciente,Paciente=PACIENTE DE PRUEBA ADULTO
+*************
+18/01/2023 10:44:03,123,01 GENERAR ORDEN  NORMAL EXAMENES: 401143,,PEDIDO=1
+*************
+18/01/2023 10:44:03,123,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+18/01/2023 10:44:32,123,Actualizacon Medico,Medico=MEDICO GUARDIA
+*************
+18/01/2023 10:44:42,123,Actualizacon Medico,Medico=SANTILLAN MARLENE
+*************
+18/01/2023 10:44:53,123,Actualizacon Medico,Medico=CAÑIZARES CARLOS
+*************
+18/01/2023 10:56:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 10:57:02,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 10:57:02,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 10:57:07,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 11:01:47,123,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+18/01/2023 11:03:48,123,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+18/01/2023 11:05:16,123,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+18/01/2023 14:49:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 14:49:14,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 14:49:14,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 14:49:15,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 14:51:51,123,Generar Paciente,Paciente=FLORES RAMOS HECTOR EDUARDO
+*************
+18/01/2023 14:52:09,123,Nuevo Pedido PRE CARGA,NORMAL/4
+*************
+18/01/2023 14:53:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 14:53:34,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 14:53:41,123,Nuevo Pedido PRE CARGA,NORMAL/5
+*************
+18/01/2023 15:00:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 15:00:45,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 15:05:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 15:06:00,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 15:06:00,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 15:06:01,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 15:13:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 15:13:13,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 15:13:13,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 15:13:15,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 15:52:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 15:52:21,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 15:52:21,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 15:52:22,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 17:05:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 17:05:16,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 17:05:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 17:05:17,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 17:14:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 17:14:44,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 17:14:44,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 17:14:45,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 17:29:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 17:29:14,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 17:29:14,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 17:29:15,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 19:56:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 19:56:46,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 19:56:46,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 19:56:47,123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 21:08:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 21:08:52,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 21:08:52,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 21:08:54,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/01/2023 21:08:54,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 21:08:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 21:17:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 21:17:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 21:57:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 21:57:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 22:07:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 22:07:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 22:16:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 22:16:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2023 22:19:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2023 22:19:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 10:59:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 10:59:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 11:04:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 11:04:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 11:22:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 11:22:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 11:31:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 11:31:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 11:43:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 11:43:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 12:09:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 12:09:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 18:18:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 18:18:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 18:38:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 18:38:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 19:54:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 19:54:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:04:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:04:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:09:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:09:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:12:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:12:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:26:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:26:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:28:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:28:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:32:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:32:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:36:24,ross,Actualizacon Medico,Medico=LOPEZ MARCO
+*************
+19/01/2023 20:41:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:41:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:45:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:45:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:54:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:54:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 20:58:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 20:58:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 21:24:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 21:24:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 21:26:09,ross,Actualizacon Medico,Medico=LOPEZ MARCO
+*************
+19/01/2023 21:32:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 21:32:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 21:36:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 21:36:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 21:42:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 21:42:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/01/2023 21:46:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/01/2023 21:46:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 8:12:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 8:12:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 8:22:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 8:22:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 9:07:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 9:07:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 10:15:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 10:15:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 10:22:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 10:22:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 12:21:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 12:21:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 12:22:27,ross,Actualizacon Medico,Medico=NARANJO CRISTINA
+*************
+20/01/2023 12:23:20,ross,Nuevo Pedido PRE CARGA,NORMAL/6
+*************
+20/01/2023 14:07:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 14:07:09,,Ingreso CONTRASEÑA FALLIDO,
+*************
+20/01/2023 14:07:09,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 14:07:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 14:07:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2023 14:07:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2023 14:14:54,ross,Nuevo Pedido PRE CARGA,NORMAL/7
+*************
+20/01/2023 14:28:59,ross,Nuevo Test en Lista de Precios,Test=401221 45  NORMAL
+*************
+20/01/2023 14:28:59,ross,Nuevo Test en Lista de Precios,Test=401221 45  URGENCIA
+*************
+20/01/2023 14:28:59,ross,INGRESA TEST,TEST=VACUNA 2 SA
+*************
+20/01/2023 14:28:59,ross,Actualiza Test,Test=VACUNA 2 SA
+*************
+20/01/2023 14:29:24,ross,1 MODIFICA ORDENNORMAL,PEDIDO=7
+*************
+20/01/2023 15:01:48,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=8
+*************
+20/01/2023 15:01:48,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+21/01/2023 11:35:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2023 11:35:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2023 11:53:57,ross,Nueva Area,Area=ALERGOLOGIA
+*************
+21/01/2023 11:58:31,ross,Nuevo Test en Lista de Precios,Test=401222 0  NORMAL
+*************
+21/01/2023 11:58:31,ross,Nuevo Test en Lista de Precios,Test=401222 0  URGENCIA
+*************
+21/01/2023 11:58:31,ross,INGRESA TEST,TEST=CERDO
+*************
+21/01/2023 11:58:31,ross,Actualiza Test,Test=CERDO
+*************
+21/01/2023 11:58:48,ross,Nuevo Test en Lista de Precios,Test=401223 0  NORMAL
+*************
+21/01/2023 11:58:48,ross,Nuevo Test en Lista de Precios,Test=401223 0  URGENCIA
+*************
+21/01/2023 11:58:48,ross,INGRESA TEST,TEST=POLLO
+*************
+21/01/2023 11:58:48,ross,Actualiza Test,Test=POLLO
+*************
+21/01/2023 11:59:04,ross,Nuevo Test en Lista de Precios,Test=401224 0  NORMAL
+*************
+21/01/2023 11:59:04,ross,Nuevo Test en Lista de Precios,Test=401224 0  URGENCIA
+*************
+21/01/2023 11:59:04,ross,INGRESA TEST,TEST=CORVINA
+*************
+21/01/2023 11:59:04,ross,Actualiza Test,Test=CORVINA
+*************
+21/01/2023 11:59:43,ross,Nuevo Test en Lista de Precios,Test=401225 0  NORMAL
+*************
+21/01/2023 11:59:43,ross,Nuevo Test en Lista de Precios,Test=401225 0  URGENCIA
+*************
+21/01/2023 11:59:43,ross,INGRESA TEST,TEST=ATUN
+*************
+21/01/2023 11:59:43,ross,Actualiza Test,Test=ATUN
+*************
+21/01/2023 12:00:38,ross,Nuevo Test en Lista de Precios,Test=401226 0  NORMAL
+*************
+21/01/2023 12:00:38,ross,Nuevo Test en Lista de Precios,Test=401226 0  URGENCIA
+*************
+21/01/2023 12:00:38,ross,INGRESA TEST,TEST=LANGOSTA
+*************
+21/01/2023 12:00:38,ross,Actualiza Test,Test=LANGOSTA
+*************
+21/01/2023 12:00:53,ross,Nuevo Test en Lista de Precios,Test=401227 0  NORMAL
+*************
+21/01/2023 12:00:53,ross,Nuevo Test en Lista de Precios,Test=401227 0  URGENCIA
+*************
+21/01/2023 12:00:53,ross,INGRESA TEST,TEST=CAMARON
+*************
+21/01/2023 12:00:53,ross,Actualiza Test,Test=CAMARON
+*************
+21/01/2023 12:01:10,ross,Nuevo Test en Lista de Precios,Test=401228 0  NORMAL
+*************
+21/01/2023 12:01:10,ross,Nuevo Test en Lista de Precios,Test=401228 0  URGENCIA
+*************
+21/01/2023 12:01:10,ross,INGRESA TEST,TEST=LECHE
+*************
+21/01/2023 12:01:10,ross,Actualiza Test,Test=LECHE
+*************
+21/01/2023 12:01:36,ross,Nuevo Test en Lista de Precios,Test=401229 0  NORMAL
+*************
+21/01/2023 12:01:36,ross,Nuevo Test en Lista de Precios,Test=401229 0  URGENCIA
+*************
+21/01/2023 12:01:36,ross,INGRESA TEST,TEST=HUEVO CI
+*************
+21/01/2023 12:01:36,ross,Actualiza Test,Test=HUEVO CI
+*************
+21/01/2023 12:02:11,ross,Nuevo Test en Lista de Precios,Test=401230 0  NORMAL
+*************
+21/01/2023 12:02:11,ross,Nuevo Test en Lista de Precios,Test=401230 0  URGENCIA
+*************
+21/01/2023 12:02:11,ross,INGRESA TEST,TEST=YEMA
+*************
+21/01/2023 12:02:11,ross,Actualiza Test,Test=YEMA
+*************
+21/01/2023 12:03:07,ross,Nuevo Test en Lista de Precios,Test=401231 0  NORMAL
+*************
+21/01/2023 12:03:07,ross,Nuevo Test en Lista de Precios,Test=401231 0  URGENCIA
+*************
+21/01/2023 12:03:07,ross,INGRESA TEST,TEST=TRIGO
+*************
+21/01/2023 12:03:07,ross,Actualiza Test,Test=TRIGO
+*************
+21/01/2023 12:03:24,ross,Nuevo Test en Lista de Precios,Test=401232 0  NORMAL
+*************
+21/01/2023 12:03:24,ross,Nuevo Test en Lista de Precios,Test=401232 0  URGENCIA
+*************
+21/01/2023 12:03:24,ross,INGRESA TEST,TEST=MAIZ
+*************
+21/01/2023 12:03:24,ross,Actualiza Test,Test=MAIZ
+*************
+21/01/2023 12:03:41,ross,Nuevo Test en Lista de Precios,Test=401233 0  NORMAL
+*************
+21/01/2023 12:03:41,ross,Nuevo Test en Lista de Precios,Test=401233 0  URGENCIA
+*************
+21/01/2023 12:03:41,ross,INGRESA TEST,TEST=ARROZ
+*************
+21/01/2023 12:03:41,ross,Actualiza Test,Test=ARROZ
+*************
+21/01/2023 12:04:02,ross,Nuevo Test en Lista de Precios,Test=401234 0  NORMAL
+*************
+21/01/2023 12:04:02,ross,Nuevo Test en Lista de Precios,Test=401234 0  URGENCIA
+*************
+21/01/2023 12:04:02,ross,INGRESA TEST,TEST=FREJOL
+*************
+21/01/2023 12:04:02,ross,Actualiza Test,Test=FREJOL
+*************
+21/01/2023 12:04:23,ross,Nuevo Test en Lista de Precios,Test=401235 0  NORMAL
+*************
+21/01/2023 12:04:23,ross,Nuevo Test en Lista de Precios,Test=401235 0  URGENCIA
+*************
+21/01/2023 12:04:23,ross,INGRESA TEST,TEST=LENTEJA
+*************
+21/01/2023 12:04:23,ross,Actualiza Test,Test=LENTEJA
+*************
+21/01/2023 12:04:38,ross,Nuevo Test en Lista de Precios,Test=401236 0  NORMAL
+*************
+21/01/2023 12:04:38,ross,Nuevo Test en Lista de Precios,Test=401236 0  URGENCIA
+*************
+21/01/2023 12:04:38,ross,INGRESA TEST,TEST=HABA
+*************
+21/01/2023 12:04:38,ross,Actualiza Test,Test=HABA
+*************
+21/01/2023 12:04:49,ross,Nuevo Test en Lista de Precios,Test=401237 0  NORMAL
+*************
+21/01/2023 12:04:49,ross,Nuevo Test en Lista de Precios,Test=401237 0  URGENCIA
+*************
+21/01/2023 12:04:49,ross,INGRESA TEST,TEST=TOMATE
+*************
+21/01/2023 12:04:49,ross,Actualiza Test,Test=TOMATE
+*************
+21/01/2023 12:05:12,ross,Nuevo Test en Lista de Precios,Test=401238 0  NORMAL
+*************
+21/01/2023 12:05:12,ross,Nuevo Test en Lista de Precios,Test=401238 0  URGENCIA
+*************
+21/01/2023 12:05:12,ross,INGRESA TEST,TEST=ZANAHORA
+*************
+21/01/2023 12:05:12,ross,Actualiza Test,Test=ZANAHORA
+*************
+21/01/2023 12:05:32,ross,Nuevo Test en Lista de Precios,Test=401239 0  NORMAL
+*************
+21/01/2023 12:05:32,ross,Nuevo Test en Lista de Precios,Test=401239 0  URGENCIA
+*************
+21/01/2023 12:05:32,ross,INGRESA TEST,TEST=MANI
+*************
+21/01/2023 12:05:32,ross,Actualiza Test,Test=MANI
+*************
+21/01/2023 12:05:53,ross,Nuevo Test en Lista de Precios,Test=401240 0  NORMAL
+*************
+21/01/2023 12:05:53,ross,Nuevo Test en Lista de Precios,Test=401240 0  URGENCIA
+*************
+21/01/2023 12:05:53,ross,INGRESA TEST,TEST=CHOCOLATE
+*************
+21/01/2023 12:05:53,ross,Actualiza Test,Test=CHOCOLATE
+*************
+21/01/2023 12:06:12,ross,Nuevo Test en Lista de Precios,Test=401241 0  NORMAL
+*************
+21/01/2023 12:06:12,ross,Nuevo Test en Lista de Precios,Test=401241 0  URGENCIA
+*************
+21/01/2023 12:06:12,ross,INGRESA TEST,TEST=NARANJA
+*************
+21/01/2023 12:06:12,ross,Actualiza Test,Test=NARANJA
+*************
+21/01/2023 12:06:29,ross,Nuevo Test en Lista de Precios,Test=401242 0  NORMAL
+*************
+21/01/2023 12:06:29,ross,Nuevo Test en Lista de Precios,Test=401242 0  URGENCIA
+*************
+21/01/2023 12:06:29,ross,INGRESA TEST,TEST=PIÑA
+*************
+21/01/2023 12:06:29,ross,Actualiza Test,Test=PIÑA
+*************
+21/01/2023 12:45:25,ross,Nuevo Test en Lista de Precios,Test=401243 0  NORMAL
+*************
+21/01/2023 12:45:25,ross,Nuevo Test en Lista de Precios,Test=401243 0  URGENCIA
+*************
+21/01/2023 12:45:26,ross,INGRESA TEST,TEST=FRUTILLA
+*************
+21/01/2023 12:45:26,ross,Actualiza Test,Test=FRUTILLA
+*************
+21/01/2023 12:45:51,ross,Nuevo Test en Lista de Precios,Test=401244 0  NORMAL
+*************
+21/01/2023 12:45:52,ross,Nuevo Test en Lista de Precios,Test=401244 0  URGENCIA
+*************
+21/01/2023 12:45:52,ross,INGRESA TEST,TEST=TARTRAZINA
+*************
+21/01/2023 12:45:53,ross,Actualiza Test,Test=TARTRAZINA
+*************
+21/01/2023 12:47:02,ross,Nuevo Test en Lista de Precios,Test=401245 0  NORMAL
+*************
+21/01/2023 12:47:02,ross,Nuevo Test en Lista de Precios,Test=401245 0  URGENCIA
+*************
+21/01/2023 12:47:02,ross,INGRESA TEST,TEST=PARABENOS
+*************
+21/01/2023 12:47:02,ross,Actualiza Test,Test=PARABENOS
+*************
+21/01/2023 12:47:22,ross,Nuevo Test en Lista de Precios,Test=401246 0  NORMAL
+*************
+21/01/2023 12:47:22,ross,Nuevo Test en Lista de Precios,Test=401246 0  URGENCIA
+*************
+21/01/2023 12:47:22,ross,INGRESA TEST,TEST=HISTAMINA
+*************
+21/01/2023 12:47:22,ross,Actualiza Test,Test=HISTAMINA
+*************
+21/01/2023 12:47:38,ross,Nuevo Test en Lista de Precios,Test=401247 0  NORMAL
+*************
+21/01/2023 12:47:38,ross,Nuevo Test en Lista de Precios,Test=401247 0  URGENCIA
+*************
+21/01/2023 12:47:38,ross,INGRESA TEST,TEST=ACNE
+*************
+21/01/2023 12:47:38,ross,Actualiza Test,Test=ACNE
+*************
+21/01/2023 12:48:16,ross,Nuevo Test en Lista de Precios,Test=401248 0  NORMAL
+*************
+21/01/2023 12:48:16,ross,Nuevo Test en Lista de Precios,Test=401248 0  URGENCIA
+*************
+21/01/2023 12:48:16,ross,INGRESA TEST,TEST=ABEJA
+*************
+21/01/2023 12:48:16,ross,Actualiza Test,Test=ABEJA
+*************
+21/01/2023 12:48:35,ross,Nuevo Test en Lista de Precios,Test=401249 0  NORMAL
+*************
+21/01/2023 12:48:35,ross,Nuevo Test en Lista de Precios,Test=401249 0  URGENCIA
+*************
+21/01/2023 12:48:35,ross,INGRESA TEST,TEST=AVISPA
+*************
+21/01/2023 12:48:35,ross,Actualiza Test,Test=AVISPA
+*************
+21/01/2023 12:48:54,ross,Nuevo Test en Lista de Precios,Test=401250 0  NORMAL
+*************
+21/01/2023 12:48:55,ross,Nuevo Test en Lista de Precios,Test=401250 0  URGENCIA
+*************
+21/01/2023 12:48:55,ross,INGRESA TEST,TEST=HIELO
+*************
+21/01/2023 12:48:55,ross,Actualiza Test,Test=HIELO
+*************
+21/01/2023 12:49:15,ross,Nuevo Test en Lista de Precios,Test=401251 0  NORMAL
+*************
+21/01/2023 12:49:16,ross,Nuevo Test en Lista de Precios,Test=401251 0  URGENCIA
+*************
+21/01/2023 12:49:16,ross,INGRESA TEST,TEST=LATEX
+*************
+21/01/2023 12:49:16,ross,Actualiza Test,Test=LATEX
+*************
+21/01/2023 12:51:24,ross,Nuevo Recipiente,Recipiente=ALIMENTOS
+*************
+21/01/2023 12:51:39,ross,Nuevo Recipiente,Recipiente=INHALANTES
+*************
+21/01/2023 12:51:47,ross,Nuevo Recipiente,Recipiente=MEDICAMENTOS
+*************
+21/01/2023 12:52:24,ross,Nuevo Tipo Muestra,Muestra=ALIMENTOS
+*************
+21/01/2023 12:52:36,ross,Nuevo Tipo Muestra,Muestra=INHALANTES
+*************
+21/01/2023 12:52:48,ross,Nuevo Tipo Muestra,Muestra=MEDICAMENTOS
+*************
+21/01/2023 12:55:48,ross,Nuevo Test en Lista de Precios,Test=401252 0  NORMAL
+*************
+21/01/2023 12:55:49,ross,Nuevo Test en Lista de Precios,Test=401252 0  URGENCIA
+*************
+21/01/2023 12:55:49,ross,INGRESA TEST,TEST=CYNODON
+*************
+21/01/2023 12:55:49,ross,Actualiza Test,Test=CYNODON
+*************
+21/01/2023 12:56:15,ross,Nuevo Test en Lista de Precios,Test=401253 0  NORMAL
+*************
+21/01/2023 12:56:15,ross,Nuevo Test en Lista de Precios,Test=401253 0  URGENCIA
+*************
+21/01/2023 12:56:15,ross,INGRESA TEST,TEST=HOLCUS
+*************
+21/01/2023 12:56:15,ross,Actualiza Test,Test=HOLCUS
+*************
+21/01/2023 12:56:34,ross,Nuevo Test en Lista de Precios,Test=401254 0  NORMAL
+*************
+21/01/2023 12:56:34,ross,Nuevo Test en Lista de Precios,Test=401254 0  URGENCIA
+*************
+21/01/2023 12:56:34,ross,INGRESA TEST,TEST=LOLIUM
+*************
+21/01/2023 12:56:35,ross,Actualiza Test,Test=LOLIUM
+*************
+21/01/2023 12:56:51,ross,Nuevo Test en Lista de Precios,Test=401255 0  NORMAL
+*************
+21/01/2023 12:56:51,ross,Nuevo Test en Lista de Precios,Test=401255 0  URGENCIA
+*************
+21/01/2023 12:56:51,ross,INGRESA TEST,TEST=POA
+*************
+21/01/2023 12:56:51,ross,Actualiza Test,Test=POA
+*************
+21/01/2023 13:00:54,ross,Nuevo Test en Lista de Precios,Test=401256 0  NORMAL
+*************
+21/01/2023 13:00:54,ross,Nuevo Test en Lista de Precios,Test=401256 0  URGENCIA
+*************
+21/01/2023 13:00:54,ross,INGRESA TEST,TEST=AGROSTIS
+*************
+21/01/2023 13:00:54,ross,Actualiza Test,Test=AGROSTIS
+*************
+21/01/2023 13:01:17,ross,Nuevo Test en Lista de Precios,Test=401257 0  NORMAL
+*************
+21/01/2023 13:01:17,ross,Nuevo Test en Lista de Precios,Test=401257 0  URGENCIA
+*************
+21/01/2023 13:01:17,ross,INGRESA TEST,TEST=BROMUS
+*************
+21/01/2023 13:01:17,ross,Actualiza Test,Test=BROMUS
+*************
+21/01/2023 13:01:45,ross,Nuevo Test en Lista de Precios,Test=401258 0  NORMAL
+*************
+21/01/2023 13:01:45,ross,Nuevo Test en Lista de Precios,Test=401258 0  URGENCIA
+*************
+21/01/2023 13:01:45,ross,INGRESA TEST,TEST=DACTILIS
+*************
+21/01/2023 13:01:45,ross,Actualiza Test,Test=DACTILIS
+*************
+21/01/2023 13:02:17,ross,Nuevo Test en Lista de Precios,Test=401259 0  NORMAL
+*************
+21/01/2023 13:02:17,ross,Nuevo Test en Lista de Precios,Test=401259 0  URGENCIA
+*************
+21/01/2023 13:02:17,ross,INGRESA TEST,TEST=PHLEUM
+*************
+21/01/2023 13:02:17,ross,Actualiza Test,Test=PHLEUM
+*************
+21/01/2023 13:02:37,ross,Nuevo Test en Lista de Precios,Test=401260 0  NORMAL
+*************
+21/01/2023 13:02:37,ross,Nuevo Test en Lista de Precios,Test=401260 0  URGENCIA
+*************
+21/01/2023 13:02:37,ross,INGRESA TEST,TEST=MEZCLA
+*************
+21/01/2023 13:02:37,ross,Actualiza Test,Test=MEZCLA
+*************
+21/01/2023 13:03:09,ross,Nuevo Test en Lista de Precios,Test=401261 0  NORMAL
+*************
+21/01/2023 13:03:09,ross,Nuevo Test en Lista de Precios,Test=401261 0  URGENCIA
+*************
+21/01/2023 13:03:09,ross,INGRESA TEST,TEST=ASPERGILLUS
+*************
+21/01/2023 13:03:09,ross,Actualiza Test,Test=ASPERGILLUS
+*************
+21/01/2023 13:03:40,ross,Nuevo Test en Lista de Precios,Test=401262 0  NORMAL
+*************
+21/01/2023 13:03:40,ross,Nuevo Test en Lista de Precios,Test=401262 0  URGENCIA
+*************
+21/01/2023 13:03:40,ross,INGRESA TEST,TEST=HORMODEND
+*************
+21/01/2023 13:03:40,ross,Actualiza Test,Test=HORMODEND
+*************
+21/01/2023 13:04:05,ross,Nuevo Test en Lista de Precios,Test=401263 0  NORMAL
+*************
+21/01/2023 13:04:05,ross,Nuevo Test en Lista de Precios,Test=401263 0  URGENCIA
+*************
+21/01/2023 13:04:05,ross,INGRESA TEST,TEST=CANDIDA
+*************
+21/01/2023 13:04:05,ross,Actualiza Test,Test=CANDIDA
+*************
+21/01/2023 13:04:21,ross,Nuevo Test en Lista de Precios,Test=401264 0  NORMAL
+*************
+21/01/2023 13:04:21,ross,Nuevo Test en Lista de Precios,Test=401264 0  URGENCIA
+*************
+21/01/2023 13:04:21,ross,INGRESA TEST,TEST=MUCOR
+*************
+21/01/2023 13:04:21,ross,Actualiza Test,Test=MUCOR
+*************
+21/01/2023 13:04:45,ross,Nuevo Test en Lista de Precios,Test=401265 0  NORMAL
+*************
+21/01/2023 13:04:45,ross,Nuevo Test en Lista de Precios,Test=401265 0  URGENCIA
+*************
+21/01/2023 13:04:45,ross,INGRESA TEST,TEST=PENICILLIUM
+*************
+21/01/2023 13:04:45,ross,Actualiza Test,Test=PENICILLIUM
+*************
+21/01/2023 13:05:13,ross,Nuevo Test en Lista de Precios,Test=401266 0  NORMAL
+*************
+21/01/2023 13:05:13,ross,Nuevo Test en Lista de Precios,Test=401266 0  URGENCIA
+*************
+21/01/2023 13:05:13,ross,INGRESA TEST,TEST=RHIZOPUS
+*************
+21/01/2023 13:05:13,ross,Actualiza Test,Test=RHIZOPUS
+*************
+21/01/2023 13:05:50,ross,Nuevo Test en Lista de Precios,Test=401267 0  NORMAL
+*************
+21/01/2023 13:05:50,ross,Nuevo Test en Lista de Precios,Test=401267 0  URGENCIA
+*************
+21/01/2023 13:05:50,ross,INGRESA TEST,TEST=POLVO CUARTO C
+*************
+21/01/2023 13:05:50,ross,Actualiza Test,Test=POLVO CUARTO C
+*************
+21/01/2023 13:06:12,ross,Nuevo Test en Lista de Precios,Test=401268 0  NORMAL
+*************
+21/01/2023 13:06:12,ross,Nuevo Test en Lista de Precios,Test=401268 0  URGENCIA
+*************
+21/01/2023 13:06:12,ross,INGRESA TEST,TEST=POLVO CUARTO S
+*************
+21/01/2023 13:06:13,ross,Actualiza Test,Test=POLVO CUARTO S
+*************
+21/01/2023 13:06:42,ross,Nuevo Test en Lista de Precios,Test=401269 0  NORMAL
+*************
+21/01/2023 13:06:42,ross,Nuevo Test en Lista de Precios,Test=401269 0  URGENCIA
+*************
+21/01/2023 13:06:42,ross,INGRESA TEST,TEST=CUCARACHA
+*************
+21/01/2023 13:06:42,ross,Actualiza Test,Test=CUCARACHA
+*************
+21/01/2023 13:07:18,ross,Nuevo Test en Lista de Precios,Test=401270 0  NORMAL
+*************
+21/01/2023 13:07:18,ross,Nuevo Test en Lista de Precios,Test=401270 0  URGENCIA
+*************
+21/01/2023 13:07:18,ross,INGRESA TEST,TEST=D. PTERONYSINUS
+*************
+21/01/2023 13:07:18,ross,Actualiza Test,Test=D. PTERONYSINUS
+*************
+21/01/2023 13:07:44,ross,Nuevo Test en Lista de Precios,Test=401271 0  NORMAL
+*************
+21/01/2023 13:07:44,ross,Nuevo Test en Lista de Precios,Test=401271 0  URGENCIA
+*************
+21/01/2023 13:07:44,ross,INGRESA TEST,TEST=BLOMIA
+*************
+21/01/2023 13:07:44,ross,Actualiza Test,Test=BLOMIA
+*************
+21/01/2023 13:08:02,ross,Nuevo Test en Lista de Precios,Test=401272 0  NORMAL
+*************
+21/01/2023 13:08:02,ross,Nuevo Test en Lista de Precios,Test=401272 0  URGENCIA
+*************
+21/01/2023 13:08:02,ross,INGRESA TEST,TEST=PLUMAS
+*************
+21/01/2023 13:08:02,ross,Actualiza Test,Test=PLUMAS
+*************
+21/01/2023 13:11:12,ross,Nuevo Test en Lista de Precios,Test=401273 0  NORMAL
+*************
+21/01/2023 13:11:12,ross,Nuevo Test en Lista de Precios,Test=401273 0  URGENCIA
+*************
+21/01/2023 13:11:12,ross,INGRESA TEST,TEST=LANA DE PERRO
+*************
+21/01/2023 13:11:12,ross,Actualiza Test,Test=LANA DE PERRO
+*************
+21/01/2023 13:11:37,ross,Nuevo Test en Lista de Precios,Test=401274 0  NORMAL
+*************
+21/01/2023 13:11:37,ross,Nuevo Test en Lista de Precios,Test=401274 0  URGENCIA
+*************
+21/01/2023 13:11:37,ross,INGRESA TEST,TEST=LANA DE GATO
+*************
+21/01/2023 13:11:37,ross,Actualiza Test,Test=LANA DE GATO
+*************
+21/01/2023 13:12:19,ross,Nuevo Test en Lista de Precios,Test=401275 0  NORMAL
+*************
+21/01/2023 13:12:19,ross,Nuevo Test en Lista de Precios,Test=401275 0  URGENCIA
+*************
+21/01/2023 13:12:19,ross,INGRESA TEST,TEST=INSECTOS MX
+*************
+21/01/2023 13:12:19,ross,Actualiza Test,Test=INSECTOS MX
+*************
+21/01/2023 13:12:42,ross,Nuevo Test en Lista de Precios,Test=401276 0  NORMAL
+*************
+21/01/2023 13:12:42,ross,Nuevo Test en Lista de Precios,Test=401276 0  URGENCIA
+*************
+21/01/2023 13:12:42,ross,INGRESA TEST,TEST=DILUYENTE
+*************
+21/01/2023 13:12:42,ross,Actualiza Test,Test=DILUYENTE
+*************
+21/01/2023 13:14:09,ross,Nuevo Test en Lista de Precios,Test=401277 0  NORMAL
+*************
+21/01/2023 13:14:09,ross,Nuevo Test en Lista de Precios,Test=401277 0  URGENCIA
+*************
+21/01/2023 13:14:09,ross,INGRESA TEST,TEST=HISTAMINA (inhalante)
+*************
+21/01/2023 13:14:09,ross,Actualiza Test,Test=HISTAMINA (inhalante)
+*************
+21/01/2023 13:14:47,ross,Nuevo Test en Lista de Precios,Test=401278 0  NORMAL
+*************
+21/01/2023 13:14:47,ross,Nuevo Test en Lista de Precios,Test=401278 0  URGENCIA
+*************
+21/01/2023 13:14:47,ross,INGRESA TEST,TEST=TARTRAZINA (inhalante)
+*************
+21/01/2023 13:14:47,ross,Actualiza Test,Test=TARTRAZINA (inhalante)
+*************
+21/01/2023 13:15:18,ross,Nuevo Test en Lista de Precios,Test=401279 0  NORMAL
+*************
+21/01/2023 13:15:18,ross,Nuevo Test en Lista de Precios,Test=401279 0  URGENCIA
+*************
+21/01/2023 13:15:18,ross,INGRESA TEST,TEST=PARABENOS (inhalante)
+*************
+21/01/2023 13:15:18,ross,Actualiza Test,Test=PARABENOS (inhalante)
+*************
+21/01/2023 13:15:45,ross,Nuevo Test en Lista de Precios,Test=401280 0  NORMAL
+*************
+21/01/2023 13:15:45,ross,Nuevo Test en Lista de Precios,Test=401280 0  URGENCIA
+*************
+21/01/2023 13:15:45,ross,INGRESA TEST,TEST=DETERGENTES
+*************
+21/01/2023 13:15:45,ross,Actualiza Test,Test=DETERGENTES
+*************
+21/01/2023 13:16:41,ross,Nuevo Test en Lista de Precios,Test=401281 0  NORMAL
+*************
+21/01/2023 13:16:41,ross,Nuevo Test en Lista de Precios,Test=401281 0  URGENCIA
+*************
+21/01/2023 13:16:41,ross,INGRESA TEST,TEST=ACETAMINOFEN
+*************
+21/01/2023 13:16:41,ross,Actualiza Test,Test=ACETAMINOFEN
+*************
+21/01/2023 13:17:02,ross,Nuevo Test en Lista de Precios,Test=401282 0  NORMAL
+*************
+21/01/2023 13:17:02,ross,Nuevo Test en Lista de Precios,Test=401282 0  URGENCIA
+*************
+21/01/2023 13:17:02,ross,INGRESA TEST,TEST=IBUPROFENO
+*************
+21/01/2023 13:17:02,ross,Actualiza Test,Test=IBUPROFENO
+*************
+21/01/2023 13:17:22,ross,Nuevo Test en Lista de Precios,Test=401283 0  NORMAL
+*************
+21/01/2023 13:17:22,ross,Nuevo Test en Lista de Precios,Test=401283 0  URGENCIA
+*************
+21/01/2023 13:17:22,ross,INGRESA TEST,TEST=PIRAZOLONA
+*************
+21/01/2023 13:17:22,ross,Actualiza Test,Test=PIRAZOLONA
+*************
+21/01/2023 13:18:06,ross,Nuevo Test en Lista de Precios,Test=401284 0  NORMAL
+*************
+21/01/2023 13:18:06,ross,Nuevo Test en Lista de Precios,Test=401284 0  URGENCIA
+*************
+21/01/2023 13:18:06,ross,INGRESA TEST,TEST=OXICANES
+*************
+21/01/2023 13:18:06,ross,Actualiza Test,Test=OXICANES
+*************
+21/01/2023 13:18:24,ross,Nuevo Test en Lista de Precios,Test=401285 0  NORMAL
+*************
+21/01/2023 13:18:24,ross,Nuevo Test en Lista de Precios,Test=401285 0  URGENCIA
+*************
+21/01/2023 13:18:24,ross,INGRESA TEST,TEST=DICLOFENACO
+*************
+21/01/2023 13:18:24,ross,Actualiza Test,Test=DICLOFENACO
+*************
+21/01/2023 13:18:47,ross,Nuevo Test en Lista de Precios,Test=401286 0  NORMAL
+*************
+21/01/2023 13:18:47,ross,Nuevo Test en Lista de Precios,Test=401286 0  URGENCIA
+*************
+21/01/2023 13:18:47,ross,INGRESA TEST,TEST=NAPROXENO
+*************
+21/01/2023 13:18:47,ross,Actualiza Test,Test=NAPROXENO
+*************
+21/01/2023 13:19:11,ross,Nuevo Test en Lista de Precios,Test=401287 0  NORMAL
+*************
+21/01/2023 13:19:11,ross,Nuevo Test en Lista de Precios,Test=401287 0  URGENCIA
+*************
+21/01/2023 13:19:11,ross,INGRESA TEST,TEST=COXIBS
+*************
+21/01/2023 13:19:11,ross,Actualiza Test,Test=COXIBS
+*************
+21/01/2023 13:20:42,ross,Nuevo Test en Lista de Precios,Test=401288 0  NORMAL
+*************
+21/01/2023 13:20:42,ross,Nuevo Test en Lista de Precios,Test=401288 0  URGENCIA
+*************
+21/01/2023 13:20:42,ross,INGRESA TEST,TEST=ASPIRINA
+*************
+21/01/2023 13:20:42,ross,Actualiza Test,Test=ASPIRINA
+*************
+21/01/2023 13:21:04,ross,Nuevo Test en Lista de Precios,Test=401289 0  NORMAL
+*************
+21/01/2023 13:21:04,ross,Nuevo Test en Lista de Precios,Test=401289 0  URGENCIA
+*************
+21/01/2023 13:21:04,ross,INGRESA TEST,TEST=TRAMADOL
+*************
+21/01/2023 13:21:04,ross,Actualiza Test,Test=TRAMADOL
+*************
+21/01/2023 13:21:29,ross,Nuevo Test en Lista de Precios,Test=401290 0  NORMAL
+*************
+21/01/2023 13:21:29,ross,Nuevo Test en Lista de Precios,Test=401290 0  URGENCIA
+*************
+21/01/2023 13:21:29,ross,INGRESA TEST,TEST=LIDOCAINA
+*************
+21/01/2023 13:21:29,ross,Actualiza Test,Test=LIDOCAINA
+*************
+21/01/2023 13:21:52,ross,Nuevo Test en Lista de Precios,Test=401291 0  NORMAL
+*************
+21/01/2023 13:21:52,ross,Nuevo Test en Lista de Precios,Test=401291 0  URGENCIA
+*************
+21/01/2023 13:21:52,ross,INGRESA TEST,TEST=MEPIVACAINA
+*************
+21/01/2023 13:21:52,ross,Actualiza Test,Test=MEPIVACAINA
+*************
+21/01/2023 13:22:15,ross,Nuevo Test en Lista de Precios,Test=401292 0  NORMAL
+*************
+21/01/2023 13:22:15,ross,Nuevo Test en Lista de Precios,Test=401292 0  URGENCIA
+*************
+21/01/2023 13:22:15,ross,INGRESA TEST,TEST=KETOROLACO
+*************
+21/01/2023 13:22:15,ross,Actualiza Test,Test=KETOROLACO
+*************
+21/01/2023 13:22:38,ross,Nuevo Test en Lista de Precios,Test=401293 0  NORMAL
+*************
+21/01/2023 13:22:38,ross,Nuevo Test en Lista de Precios,Test=401293 0  URGENCIA
+*************
+21/01/2023 13:22:38,ross,INGRESA TEST,TEST=PENICILINA
+*************
+21/01/2023 13:22:38,ross,Actualiza Test,Test=PENICILINA
+*************
+21/01/2023 13:23:11,ross,Nuevo Test en Lista de Precios,Test=401294 0  NORMAL
+*************
+21/01/2023 13:23:11,ross,Nuevo Test en Lista de Precios,Test=401294 0  URGENCIA
+*************
+21/01/2023 13:23:11,ross,INGRESA TEST,TEST=QUINOLONAS
+*************
+21/01/2023 13:23:11,ross,Actualiza Test,Test=QUINOLONAS
+*************
+21/01/2023 13:24:08,ross,Nuevo Test en Lista de Precios,Test=401295 0  NORMAL
+*************
+21/01/2023 13:24:08,ross,Nuevo Test en Lista de Precios,Test=401295 0  URGENCIA
+*************
+21/01/2023 13:24:08,ross,INGRESA TEST,TEST=AMOXICILINA
+*************
+21/01/2023 13:24:08,ross,Actualiza Test,Test=AMOXICILINA
+*************
+21/01/2023 13:24:35,ross,Nuevo Test en Lista de Precios,Test=401296 0  NORMAL
+*************
+21/01/2023 13:24:35,ross,Nuevo Test en Lista de Precios,Test=401296 0  URGENCIA
+*************
+21/01/2023 13:24:35,ross,INGRESA TEST,TEST=CEFALOSPORINA
+*************
+21/01/2023 13:24:35,ross,Actualiza Test,Test=CEFALOSPORINA
+*************
+21/01/2023 13:25:35,ross,Nuevo Test en Lista de Precios,Test=401297 0  NORMAL
+*************
+21/01/2023 13:25:35,ross,Nuevo Test en Lista de Precios,Test=401297 0  URGENCIA
+*************
+21/01/2023 13:25:35,ross,INGRESA TEST,TEST=CLARITROMICINA
+*************
+21/01/2023 13:25:35,ross,Actualiza Test,Test=CLARITROMICINA
+*************
+21/01/2023 13:25:57,ross,Nuevo Test en Lista de Precios,Test=401298 0  NORMAL
+*************
+21/01/2023 13:25:57,ross,Nuevo Test en Lista de Precios,Test=401298 0  URGENCIA
+*************
+21/01/2023 13:25:57,ross,INGRESA TEST,TEST=GENTAMICINA
+*************
+21/01/2023 13:25:57,ross,Actualiza Test,Test=GENTAMICINA
+*************
+21/01/2023 13:26:14,ross,Nuevo Test en Lista de Precios,Test=401299 0  NORMAL
+*************
+21/01/2023 13:26:14,ross,Nuevo Test en Lista de Precios,Test=401299 0  URGENCIA
+*************
+21/01/2023 13:26:14,ross,INGRESA TEST,TEST=SULFAS
+*************
+21/01/2023 13:26:14,ross,Actualiza Test,Test=SULFAS
+*************
+21/01/2023 13:26:33,ross,Nuevo Test en Lista de Precios,Test=401300 0  NORMAL
+*************
+21/01/2023 13:26:33,ross,Nuevo Test en Lista de Precios,Test=401300 0  URGENCIA
+*************
+21/01/2023 13:26:33,ross,INGRESA TEST,TEST=AZITROMICINA
+*************
+21/01/2023 13:26:33,ross,Actualiza Test,Test=AZITROMICINA
+*************
+21/01/2023 13:26:53,ross,Nuevo Test en Lista de Precios,Test=401301 0  NORMAL
+*************
+21/01/2023 13:26:53,ross,Nuevo Test en Lista de Precios,Test=401301 0  URGENCIA
+*************
+21/01/2023 13:26:53,ross,INGRESA TEST,TEST=DICLOXACILINA
+*************
+21/01/2023 13:26:53,ross,Actualiza Test,Test=DICLOXACILINA
+*************
+21/01/2023 13:27:24,ross,Nuevo Test en Lista de Precios,Test=401302 0  NORMAL
+*************
+21/01/2023 13:27:24,ross,Nuevo Test en Lista de Precios,Test=401302 0  URGENCIA
+*************
+21/01/2023 13:27:24,ross,INGRESA TEST,TEST=IMIDAZOLICOS
+*************
+21/01/2023 13:27:24,ross,Actualiza Test,Test=IMIDAZOLICOS
+*************
+21/01/2023 13:27:43,ross,Nuevo Test en Lista de Precios,Test=401303 0  NORMAL
+*************
+21/01/2023 13:27:43,ross,Nuevo Test en Lista de Precios,Test=401303 0  URGENCIA
+*************
+21/01/2023 13:27:43,ross,INGRESA TEST,TEST=YODO
+*************
+21/01/2023 13:27:43,ross,Actualiza Test,Test=YODO
+*************
+23/01/2023 8:56:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2023 8:56:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2023 14:58:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2023 14:58:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2023 15:05:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2023 15:05:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2023 15:06:11,ross,Actualiza Paciente,Paciente=FLORES RAMOS HECTOR EDUARDO
+*************
+23/01/2023 15:14:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2023 15:14:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/01/2023 20:42:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/01/2023 20:42:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/01/2023 20:43:06,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400230,400149,400150,400476,400151,,PEDIDO=9
+*************
+24/01/2023 20:43:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=09
+*************
+25/01/2023 11:29:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 11:29:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 11:32:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 11:32:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 11:36:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 11:36:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 11:37:34,ross,Actualiza Test,Test=ACIDO PIRÚVICO
+*************
+25/01/2023 11:38:22,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,400966,,PEDIDO=10
+*************
+25/01/2023 11:38:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10
+*************
+25/01/2023 11:39:25,ross,GUARDA RESULTADOS,WBCH=11
+*************
+25/01/2023 11:39:28,ross,GUARDA RESULTADOS,NEUH=22
+*************
+25/01/2023 11:39:30,ross,GUARDA RESULTADOS,LYMH=33
+*************
+25/01/2023 11:39:30,ross,GUARDA RESULTADOS,MONH2=44
+*************
+25/01/2023 11:39:31,ross,GUARDA RESULTADOS,EOSH=55
+*************
+25/01/2023 11:39:31,ross,GUARDA RESULTADOS,BASOH=66
+*************
+25/01/2023 11:39:32,ross,GUARDA RESULTADOS,NEU%25H=77
+*************
+25/01/2023 11:39:32,ross,GUARDA RESULTADOS,LYM%25H=88
+*************
+25/01/2023 11:39:33,ross,GUARDA RESULTADOS,MON%25H=99
+*************
+25/01/2023 11:39:33,ross,GUARDA RESULTADOS,EOS%25H=100
+*************
+25/01/2023 11:39:35,ross,GUARDA RESULTADOS,BASO%25H=111
+*************
+25/01/2023 11:39:39,ross,GUARDA RESULTADOS,RBCH=222
+*************
+25/01/2023 11:39:41,ross,GUARDA RESULTADOS,HCTH=333
+*************
+25/01/2023 11:39:42,ross,GUARDA RESULTADOS,HGBH=444
+*************
+25/01/2023 11:39:43,ross,GUARDA RESULTADOS,MCVH=555
+*************
+25/01/2023 11:39:44,ross,GUARDA RESULTADOS,MCHH=666
+*************
+25/01/2023 11:39:45,ross,GUARDA RESULTADOS,MCHCH=777
+*************
+25/01/2023 11:39:45,ross,GUARDA RESULTADOS,RDW-CVH=888
+*************
+25/01/2023 11:39:46,ross,GUARDA RESULTADOS,RDW-SDH=999
+*************
+25/01/2023 11:39:46,ross,GUARDA RESULTADOS,PLTH=1000
+*************
+25/01/2023 11:39:47,ross,GUARDA RESULTADOS,MPVH=1111
+*************
+25/01/2023 11:39:47,ross,GUARDA RESULTADOS,PDWH=2222
+*************
+25/01/2023 11:39:48,ross,GUARDA RESULTADOS,PCTH=3333
+*************
+25/01/2023 11:39:48,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+25/01/2023 11:39:49,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+25/01/2023 11:40:13,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 11:40:13,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 11:40:14,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 11:40:14,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 11:40:14,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 11:41:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 11:41:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 11:41:50,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 11:41:50,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 11:41:51,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 11:41:51,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 11:41:51,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 11:49:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 11:49:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 11:59:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 11:59:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 11:59:41,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 11:59:42,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 11:59:42,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 11:59:42,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 11:59:42,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 12:01:09,ross,GUARDA RESULTADOS,MUESTRAACPIRU=MEDULA OSEA
+*************
+25/01/2023 12:01:10,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOFLORECENCIA ACTIVA AL 100%
+*************
+25/01/2023 12:01:10,ross,GUARDA RESULTADOS,VALREFACPIRU=10 - 10
+*************
+25/01/2023 12:01:10,ross,GUARDA RESULTADOS,RESULTADOACPIRU=CORTE TRANSVERSAL DEL FEMUR
+*************
+25/01/2023 12:01:10,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+25/01/2023 12:01:18,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 12:01:18,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 12:01:18,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 12:01:18,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 12:01:18,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 12:01:18,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 12:01:20,ross,VALIDACION RESULTADO,PEDIDO=10/400101
+*************
+25/01/2023 12:01:20,ross,VALIDACION RESULTADO,PEDIDO=10/400149
+*************
+25/01/2023 12:01:20,ross,VALIDACION RESULTADO,PEDIDO=10/400150
+*************
+25/01/2023 12:01:20,ross,VALIDACION RESULTADO,PEDIDO=10/400151
+*************
+25/01/2023 12:01:20,ross,VALIDACION RESULTADO,PEDIDO=10/400476
+*************
+25/01/2023 12:01:20,ross,VALIDACION RESULTADO,PEDIDO=10/400966
+*************
+25/01/2023 12:01:22,ross,Eliminar resultado AUX_HIS,
+*************
+25/01/2023 12:02:00,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 12:02:00,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 12:02:00,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 12:02:00,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 12:02:00,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 12:02:01,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 12:09:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 12:09:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 12:10:17,ross,Actualiza Test,Test=ACIDO PIRÚVICO
+*************
+25/01/2023 12:29:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 12:29:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 12:32:55,ross,Nuevo Test en Lista de Precios,Test=1327 0  NORMAL
+*************
+25/01/2023 12:32:55,ross,Nuevo Test en Lista de Precios,Test=1327 0  URGENCIA
+*************
+25/01/2023 12:32:55,ross,INGRESA TEST,TEST=MUESTRA ANALIZADA
+*************
+25/01/2023 12:32:55,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+25/01/2023 12:39:03,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400966,,PEDIDO=10
+*************
+25/01/2023 12:39:13,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 12:39:13,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 12:39:14,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 12:39:14,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 12:39:14,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 12:39:56,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO
+*************
+25/01/2023 12:39:56,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA ESQUELETICA II
+*************
+25/01/2023 12:39:56,ross,GUARDA RESULTADOS,VALREFACPIRU=10 - 200
+*************
+25/01/2023 12:39:56,ross,GUARDA RESULTADOS,RESULTADOACPIRU=FEMUR
+*************
+25/01/2023 12:39:56,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+25/01/2023 12:40:16,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 12:40:16,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 12:40:16,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 12:40:16,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 12:40:16,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 12:40:16,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 14:39:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 14:39:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 14:40:00,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 14:40:00,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 14:40:00,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 14:40:00,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 14:40:00,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 14:40:00,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 14:51:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 14:51:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 14:52:06,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 14:52:06,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 14:52:06,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 14:52:06,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 14:52:06,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 14:52:06,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 15:08:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 15:08:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 15:08:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 15:08:25,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 15:08:25,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 15:08:25,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 15:08:25,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 15:08:25,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 15:13:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 15:13:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 15:13:36,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 15:13:36,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 15:13:36,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 15:13:36,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 15:13:36,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 15:13:36,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 15:24:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 15:24:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 15:24:47,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 15:24:47,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 15:24:47,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 15:24:47,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 15:24:47,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 15:24:47,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 16:11:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 16:11:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 16:11:17,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 16:11:18,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 16:11:18,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 16:11:18,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 16:11:18,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 16:11:18,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 16:19:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 16:19:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 16:20:02,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 16:20:02,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 16:20:02,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 16:20:02,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 16:20:02,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 16:20:03,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 18:53:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 18:53:12,,Ingreso CONTRASEÑA FALLIDO,
+*************
+25/01/2023 18:53:12,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 18:53:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 19:03:10,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 19:03:10,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 19:03:10,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 19:03:10,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 19:03:10,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 19:03:10,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 19:09:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 19:09:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 19:10:06,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 19:10:07,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 19:10:07,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 19:10:07,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 19:10:07,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 19:10:07,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 19:15:14,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO
+*************
+25/01/2023 19:15:19,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOFLORECENCIA CROMATICA TIPO 3
+*************
+25/01/2023 19:15:21,ross,GUARDA RESULTADOS,VALREFACPIRU=10 A 120
+*************
+25/01/2023 19:15:36,ross,GUARDA RESULTADOS,RESULTADOACPIRU=FEMUR
+*************
+25/01/2023 19:16:16,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+25/01/2023 19:17:24,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+25/01/2023 19:17:53,ross,Actualiza Test,Test=COMENTARIO
+*************
+25/01/2023 19:18:10,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400966,,PEDIDO=10
+*************
+25/01/2023 19:19:08,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+25/01/2023 19:19:21,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400966,400966,,PEDIDO=10
+*************
+25/01/2023 19:19:40,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 19:19:40,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 19:19:40,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 19:19:40,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 19:19:40,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+25/01/2023 19:21:19,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=11
+*************
+25/01/2023 19:21:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=11
+*************
+25/01/2023 19:27:43,ross,GUARDA RESULTADOS,COLH=1
+*************
+25/01/2023 19:27:43,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+25/01/2023 19:27:43,ross,GUARDA RESULTADOS,LDLH=3
+*************
+25/01/2023 19:28:20,ross,GUARDA RESULTADOS,COLH=1
+*************
+25/01/2023 19:28:20,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+25/01/2023 19:28:20,ross,GUARDA RESULTADOS,LDLH=3
+*************
+25/01/2023 19:28:34,ross,GUARDA RESULTADOS,COLH=1
+*************
+25/01/2023 19:28:34,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+25/01/2023 19:28:34,ross,GUARDA RESULTADOS,LDLH=3
+*************
+25/01/2023 19:28:35,ross,VALIDACION RESULTADO,PEDIDO=11/400149
+*************
+25/01/2023 19:28:35,ross,VALIDACION RESULTADO,PEDIDO=11/400150
+*************
+25/01/2023 19:28:35,ross,VALIDACION RESULTADO,PEDIDO=11/400476
+*************
+25/01/2023 19:28:36,ross,Eliminar resultado AUX_HIS,
+*************
+25/01/2023 19:29:26,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400966,,PEDIDO=12
+*************
+25/01/2023 19:29:26,ross,02 IMPRIMIR COD BARRAS,PEDIDO=12
+*************
+25/01/2023 19:30:22,ross,Actualiza Test,Test=MUESTRA
+*************
+25/01/2023 19:30:42,ross,Actualiza Test,Test=TECNICA
+*************
+25/01/2023 19:31:19,ross,Actualiza Test,Test=VALOR DE REFERENCIA
+*************
+25/01/2023 19:31:35,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400966,,PEDIDO=13
+*************
+25/01/2023 19:31:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+25/01/2023 19:50:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 19:50:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 19:57:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 19:57:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 19:58:38,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO
+*************
+25/01/2023 19:58:38,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA CALORICA TIPO 12
+*************
+25/01/2023 19:58:38,ross,GUARDA RESULTADOS,VALREFACPIRU=SE CONSIDERA LA REFERENCIA COMO ESTADO BLANDO
+*************
+25/01/2023 19:58:38,ross,GUARDA RESULTADOS,ANALIZADA_PIRUVICO=FEMUR DERECHO
+*************
+25/01/2023 19:58:38,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+25/01/2023 19:59:36,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 20:32:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 20:32:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 20:32:34,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 20:33:30,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO
+*************
+25/01/2023 20:33:31,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA CALORICA TIPO 12
+*************
+25/01/2023 20:33:33,ross,GUARDA RESULTADOS,VALREFACPIRU=SE CONSIDERA LA REFERENCIA COMO ESTADO BLANDO
+*************
+25/01/2023 20:33:34,ross,GUARDA RESULTADOS,ANALIZADA_PIRUVICO=FEMUR DERECHO
+*************
+25/01/2023 20:33:36,ross,GUARDA RESULTADOS,COMENTARIO_PURUVICO=GRATA SORPRESA, VER ESE TIPO DE TRABAJO, RESALTANDO NUESTRA IDENTIDAD CULTURAL.
+EN ESTA OPORTUNIDAD, LA CANCION "INTI WAWA" INTERPRETADA EN LENGUAJE DE SEÑAS GRATA SORPRESA, VER ESE TIPO DE TRABAJO, RESALTANDO NUESTRA IDENTIDAD CULTURAL.
+EN ESTA OPORTUNIDAD, LA CANCION "INTI WAWA" INTERPRETADA EN LENGUAJE DE SEÑAS
+*************
+25/01/2023 20:33:38,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+25/01/2023 20:34:10,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 20:38:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/01/2023 20:38:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/01/2023 20:43:18,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO
+*************
+25/01/2023 20:43:18,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA CALORICA TIPO 12
+*************
+25/01/2023 20:43:18,ross,GUARDA RESULTADOS,VALREFACPIRU=SE CONSIDERA LA REFERENCIA COMO ESTADO BLANDO
+*************
+25/01/2023 20:43:18,ross,GUARDA RESULTADOS,ANALIZADA_PIRUVICO=HUMERO IZQUIERDO
+*************
+25/01/2023 20:43:18,ross,GUARDA RESULTADOS,COMENTARIO_PURUVICO=Los gimnasios de la antigua Grecia eran una zona libre de ropa y en gran parte un área dominada por hombres adultos. Pero hay algo que no quieren que sepas.. ¿Ya Te Diste Cuenta?Los gimnasios de la antigua Grecia eran una zona libre de ropa y en gran parte un área dominada por hombres adultos. Pero hay algo que no quieren que sepas.. ¿Ya Te Diste Cuenta?
+*************
+25/01/2023 20:43:18,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+25/01/2023 20:43:50,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 20:45:00,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+25/01/2023 20:46:20,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/01/2023 20:46:20,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+25/01/2023 20:46:20,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+25/01/2023 20:46:20,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+25/01/2023 20:46:20,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+26/01/2023 10:06:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2023 10:06:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2023 10:07:13,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 10:09:16,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/01/2023 10:09:17,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+26/01/2023 10:09:17,ross,GUARDA RESULTADOS,AHDLH=45.2
+*************
+26/01/2023 10:09:17,ross,GUARDA RESULTADOS,LDLH=105.92
+*************
+26/01/2023 10:09:17,ross,GUARDA RESULTADOS,TGLH=190.4
+*************
+26/01/2023 10:42:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2023 10:42:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2023 10:42:21,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 10:44:15,ross,GUARDA RESULTADOS,MUESTRAACPIRU=MEDULA DE HUESO TIERNO
+*************
+26/01/2023 10:44:15,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA CALORICA TIPO 12 EXP 677737373
+*************
+26/01/2023 10:44:16,ross,GUARDA RESULTADOS,VALREFACPIRU=SE CONSIDERA LA REFERENCIA COMO ESTADO BLANDO, HUESO CCINADO Y HUESO MOLIDO
+*************
+26/01/2023 10:44:16,ross,GUARDA RESULTADOS,ANALIZADA_PIRUVICO=FEMUR DERECHO DE LA PIERNA DERECHA
+*************
+26/01/2023 10:44:16,ross,GUARDA RESULTADOS,COMENTARIO_PURUVICO=Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.Éxito no es tener cosas caras, ser famoso o tener muchos millones,  éxito significa encontrar la felicidad sin haberle puesto motivos a la vida para encontrarla.
+*************
+26/01/2023 10:44:17,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+26/01/2023 10:44:27,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 10:45:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2023 10:45:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2023 10:45:39,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 10:45:59,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 10:47:10,ross,VALIDACION RESULTADO,PEDIDO=13/400966
+*************
+26/01/2023 10:47:17,ross,Eliminar resultado AUX_HIS,
+*************
+26/01/2023 10:48:36,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+26/01/2023 10:49:28,ross,IMPRIME POR AREA,PEDIDO=11
+*************
+26/01/2023 10:50:55,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+26/01/2023 10:55:01,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+26/01/2023 10:55:28,ross,Actualiza Test,Test=ACIDO PIRÚVICO
+*************
+26/01/2023 10:55:40,ross,Actualiza Test,Test=MUESTRA
+*************
+26/01/2023 10:55:54,ross,Actualiza Test,Test=TECNICA
+*************
+26/01/2023 10:56:07,ross,Actualiza Test,Test=VALOR DE REFERENCIA
+*************
+26/01/2023 10:56:19,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+26/01/2023 10:56:39,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+26/01/2023 11:01:09,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400966,,PEDIDO=13
+*************
+26/01/2023 11:04:45,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO LARGO
+*************
+26/01/2023 11:04:45,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA CALORICA TIPO 12 - 45678
+*************
+26/01/2023 11:04:45,ross,GUARDA RESULTADOS,VALREFACPIRU=SE CONSIDERA LA REFERENCIA COMO ESTADO BLANDO Y RIGIDO
+*************
+26/01/2023 11:04:45,ross,GUARDA RESULTADOS,ANALIZADA_PIRUVICO=FEMUR DERECHO
+*************
+26/01/2023 11:04:45,ross,GUARDA RESULTADOS,COMENTARIO_PURUVICO=Soy mexicano y puedo decir que en especial en la cuidad , hay mucho estres , gente con caras lagas y de malas , hay ocasiones en que subes al transporte das un buenos dias y nadie te contesta , o  trabajas  prestando en algun servicio les das una buena bienvenida un buenos dias con quien tengo el gusto y recibes un rostro frio de respuesta , es increible que la gente en algunos pueblitos de México sea muy amable mas que en la cuidad en los pueblitos nunca te han visto  y aun
+*************
+26/01/2023 11:04:45,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+26/01/2023 11:04:49,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 11:04:50,ross,VALIDACION RESULTADO,PEDIDO=13/400966
+*************
+26/01/2023 11:04:50,ross,Eliminar resultado AUX_HIS,
+*************
+26/01/2023 11:06:13,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+26/01/2023 11:09:40,ross,IMPRIME POR AREA,PEDIDO=11
+*************
+26/01/2023 11:14:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400966,,PEDIDO=14
+*************
+26/01/2023 11:14:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+26/01/2023 14:30:17,ross,GUARDA RESULTADOS,COLH=183
+*************
+26/01/2023 14:30:17,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+26/01/2023 14:30:17,ross,GUARDA RESULTADOS,LDLH=111
+*************
+26/01/2023 14:30:17,ross,GUARDA RESULTADOS,TGLH=190
+*************
+26/01/2023 14:30:58,ross,GUARDA RESULTADOS,MUESTRAACPIRU=HUESO
+*************
+26/01/2023 14:30:58,ross,GUARDA RESULTADOS,TECNICAACPIRU=INMUNOCROMATOGRAFIA CALORICA TIPO 12
+*************
+26/01/2023 14:30:58,ross,GUARDA RESULTADOS,VALREFACPIRU=SE CONSIDERA LA REFERENCIA COMO ESTADO BLANDO
+*************
+26/01/2023 14:30:59,ross,GUARDA RESULTADOS,ANALIZADA_PIRUVICO=También es una composición de caracteres imprimibles (con grafema) generados por un algoritmo de cifrado que, aunque no tienen sentido para cualquier persona, sí puede ser descifrado por su destinatario original. En otras palabras, un texto es un entramado de signos con una intención comunicativa que adquiere sentido en determinado contexto.
+*************
+26/01/2023 14:30:59,ross,GUARDA RESULTADOS,COMENTARIO_PURUVICO=Las ideas que comunica un texto están contenidas en lo que se suele denominar «macroproposiciones», unidades estructurales de nivel superior o global, que otorgan coherencia al texto constituyendo su hilo central, el esqueleto estructural que cohesiona elementos lingüísticos formales de alto nivel, como los títulos y subtítulos, la secuencia de párrafos, etc. En contraste, las «microproposiciones» son los elementos coadyuvantes de la cohesión de un texto, pero a nivel más particular o local. Esta distinción fue realizada por Teun van Dijk en 1980.1​
+
+El nivel microestructural o local está asociado con el concepto de cohesión. Se refiere a uno de los fenómenos propios de la coherencia, el de las relaciones particulares y locales que se dan entre elementos lingüísticos, tanto los que remiten unos a otros como los que tienen la función de conectar y organizar.
+*************
+26/01/2023 14:30:59,ross,GUARDA RESULTADOS,ACPIRUH=
+*************
+26/01/2023 14:31:03,ross,GUARDA RESULTADOS,COLH=183
+*************
+26/01/2023 14:31:03,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+26/01/2023 14:31:03,ross,GUARDA RESULTADOS,LDLH=111
+*************
+26/01/2023 14:31:03,ross,GUARDA RESULTADOS,TGLH=190
+*************
+26/01/2023 14:31:03,ross,GUARDA RESULTADOS,ACPIRUH=MEMO
+*************
+26/01/2023 14:31:04,ross,VALIDACION RESULTADO,PEDIDO=14/400149
+*************
+26/01/2023 14:31:04,ross,VALIDACION RESULTADO,PEDIDO=14/400150
+*************
+26/01/2023 14:31:04,ross,VALIDACION RESULTADO,PEDIDO=14/400151
+*************
+26/01/2023 14:31:04,ross,VALIDACION RESULTADO,PEDIDO=14/400476
+*************
+26/01/2023 14:31:04,ross,VALIDACION RESULTADO,PEDIDO=14/400966
+*************
+26/01/2023 14:31:06,ross,Eliminar resultado AUX_HIS,
+*************
+26/01/2023 14:31:20,ross,IMPRIME POR AREA,PEDIDO=14
+*************
+26/01/2023 14:59:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2023 14:59:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2023 15:04:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2023 15:04:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2023 16:42:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2023 16:42:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 11:32:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 11:32:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 11:34:37,ross,Nuevo Test en Lista de Precios,Test=401304 0  NORMAL
+*************
+27/01/2023 11:34:39,ross,Nuevo Test en Lista de Precios,Test=401304 0  URGENCIA
+*************
+27/01/2023 11:34:40,ross,INGRESA TEST,TEST=EJEMPLO
+*************
+27/01/2023 11:34:42,ross,Actualiza Test,Test=EJEMPLO
+*************
+27/01/2023 11:41:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 11:41:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 12:01:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 12:01:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 12:26:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 12:26:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 12:29:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 12:29:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 12:51:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 12:51:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 12:53:20,ross,Nuevo Test en Lista de Precios,Test=401305 12  NORMAL
+*************
+27/01/2023 12:53:24,ross,Nuevo Test en Lista de Precios,Test=401305 12  URGENCIA
+*************
+27/01/2023 12:56:45,ross,Nuevo Test en Lista de Precios,Test=401306 12  NORMAL
+*************
+27/01/2023 12:56:49,ross,Nuevo Test en Lista de Precios,Test=401306 12  URGENCIA
+*************
+27/01/2023 12:56:58,ross,Nuevo Test en Lista de Precios,Test=401307 12  NORMAL
+*************
+27/01/2023 12:56:59,ross,Nuevo Test en Lista de Precios,Test=401307 12  URGENCIA
+*************
+27/01/2023 12:57:07,ross,Nuevo Test en Lista de Precios,Test=401308 12  NORMAL
+*************
+27/01/2023 12:57:08,ross,Nuevo Test en Lista de Precios,Test=401308 12  URGENCIA
+*************
+27/01/2023 12:57:12,ross,Nuevo Test en Lista de Precios,Test=401309 12  NORMAL
+*************
+27/01/2023 12:57:13,ross,Nuevo Test en Lista de Precios,Test=401309 12  URGENCIA
+*************
+27/01/2023 12:57:14,ross,INGRESA TEST,TEST=EXA_MOL
+*************
+27/01/2023 12:57:17,ross,Actualiza Test,Test=EXA_MOL
+*************
+27/01/2023 13:14:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 13:14:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 13:16:14,ross,Actualiza Test,Test=ACIDO MOLECULAR
+*************
+27/01/2023 13:55:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 13:55:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 13:57:24,ross,Nuevo Test en Lista de Precios,Test=401304 9  NORMAL
+*************
+27/01/2023 13:57:25,ross,Nuevo Test en Lista de Precios,Test=401304 9  URGENCIA
+*************
+27/01/2023 14:03:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 14:03:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 14:14:19,ross,Nuevo Test en Lista de Precios,Test=401304 23  NORMAL
+*************
+27/01/2023 14:14:20,ross,Nuevo Test en Lista de Precios,Test=401304 23  URGENCIA
+*************
+27/01/2023 14:15:02,ross,Nuevo Test en Lista de Precios,Test=401305 23  NORMAL
+*************
+27/01/2023 14:15:04,ross,Nuevo Test en Lista de Precios,Test=401305 23  URGENCIA
+*************
+27/01/2023 14:15:15,ross,Nuevo Test en Lista de Precios,Test=401306 23  NORMAL
+*************
+27/01/2023 14:15:15,ross,Nuevo Test en Lista de Precios,Test=401306 23  URGENCIA
+*************
+27/01/2023 14:15:20,ross,Nuevo Test en Lista de Precios,Test=401307 23  NORMAL
+*************
+27/01/2023 14:15:21,ross,Nuevo Test en Lista de Precios,Test=401307 23  URGENCIA
+*************
+27/01/2023 14:15:29,ross,Nuevo Test en Lista de Precios,Test=401308 23  NORMAL
+*************
+27/01/2023 14:15:30,ross,Nuevo Test en Lista de Precios,Test=401308 23  URGENCIA
+*************
+27/01/2023 14:15:35,ross,Nuevo Test en Lista de Precios,Test=401309 23  NORMAL
+*************
+27/01/2023 14:15:36,ross,Nuevo Test en Lista de Precios,Test=401309 23  URGENCIA
+*************
+27/01/2023 14:15:39,ross,Nuevo Test en Lista de Precios,Test=401309 23  NORMAL
+*************
+27/01/2023 14:15:41,ross,Nuevo Test en Lista de Precios,Test=401309 23  URGENCIA
+*************
+27/01/2023 14:15:42,ross,INGRESA TEST,TEST=TEST_MOL
+*************
+27/01/2023 14:15:46,ross,Actualiza Test,Test=TEST_MOL
+*************
+27/01/2023 14:25:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 14:25:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 14:27:05,ross,Nuevo Test en Lista de Precios,Test=401304 9  NORMAL
+*************
+27/01/2023 14:27:07,ross,Nuevo Test en Lista de Precios,Test=401304 9  URGENCIA
+*************
+27/01/2023 14:32:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 14:32:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 14:40:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 14:40:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 15:08:03,ross,Nuevo Test en Lista de Precios,Test=401304 56  NORMAL
+*************
+27/01/2023 15:08:04,ross,Nuevo Test en Lista de Precios,Test=401304 56  URGENCIA
+*************
+27/01/2023 15:08:59,ross,Nuevo Test en Lista de Precios,Test=401305 56  NORMAL
+*************
+27/01/2023 15:08:59,ross,Nuevo Test en Lista de Precios,Test=401305 56  URGENCIA
+*************
+27/01/2023 15:08:59,ross,Nuevo Test en Lista de Precios,Test=401306 56  NORMAL
+*************
+27/01/2023 15:08:59,ross,Nuevo Test en Lista de Precios,Test=401306 56  URGENCIA
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401307 56  NORMAL
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401307 56  URGENCIA
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401308 56  NORMAL
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401308 56  URGENCIA
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401309 56  NORMAL
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401309 56  URGENCIA
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401309 56  NORMAL
+*************
+27/01/2023 15:09:00,ross,Nuevo Test en Lista de Precios,Test=401309 56  URGENCIA
+*************
+27/01/2023 15:09:00,ross,INGRESA TEST,TEST=TESMOL
+*************
+27/01/2023 15:09:00,ross,Actualiza Test,Test=TESMOL
+*************
+27/01/2023 15:25:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 15:25:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 15:27:38,ross,Nuevo Test en Lista de Precios,Test=401304 34  NORMAL
+*************
+27/01/2023 15:27:39,ross,Nuevo Test en Lista de Precios,Test=401304 34  URGENCIA
+*************
+27/01/2023 15:28:33,ross,Nuevo Test en Lista de Precios,Test=401305 34  NORMAL
+*************
+27/01/2023 15:28:33,ross,Nuevo Test en Lista de Precios,Test=401305 34  URGENCIA
+*************
+27/01/2023 15:28:33,ross,Nuevo Test en Lista de Precios,Test=401306 34  NORMAL
+*************
+27/01/2023 15:28:33,ross,Nuevo Test en Lista de Precios,Test=401306 34  URGENCIA
+*************
+27/01/2023 15:28:34,ross,Nuevo Test en Lista de Precios,Test=401307 34  NORMAL
+*************
+27/01/2023 15:28:34,ross,Nuevo Test en Lista de Precios,Test=401307 34  URGENCIA
+*************
+27/01/2023 15:28:34,ross,Nuevo Test en Lista de Precios,Test=401308 34  NORMAL
+*************
+27/01/2023 15:28:34,ross,Nuevo Test en Lista de Precios,Test=401308 34  URGENCIA
+*************
+27/01/2023 15:28:35,ross,Nuevo Test en Lista de Precios,Test=401309 34  NORMAL
+*************
+27/01/2023 15:28:35,ross,Nuevo Test en Lista de Precios,Test=401309 34  URGENCIA
+*************
+27/01/2023 15:28:35,ross,Nuevo Test en Lista de Precios,Test=401309 34  NORMAL
+*************
+27/01/2023 15:28:35,ross,Nuevo Test en Lista de Precios,Test=401309 34  URGENCIA
+*************
+27/01/2023 15:28:35,ross,INGRESA TEST,TEST=TESMOL
+*************
+27/01/2023 15:28:35,ross,Actualiza Test,Test=TESMOL
+*************
+27/01/2023 15:29:02,ross,Actualiza Test,Test=TESMOL
+*************
+27/01/2023 15:48:29,ross,Nuevo Test en Lista de Precios,Test=401304 9  NORMAL
+*************
+27/01/2023 15:48:30,ross,Nuevo Test en Lista de Precios,Test=401304 9  URGENCIA
+*************
+27/01/2023 15:49:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 15:49:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 19:16:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 19:16:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 19:17:25,ross,Nuevo Test en Lista de Precios,Test=401305 10  NORMAL
+*************
+27/01/2023 19:17:26,ross,Nuevo Test en Lista de Precios,Test=401305 10  URGENCIA
+*************
+27/01/2023 19:17:29,ross,INGRESA TEST,TEST=NUEVO 2
+*************
+27/01/2023 19:20:37,ross,Actualiza Test,Test=NUEVO 2
+*************
+27/01/2023 19:58:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 19:58:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 19:59:19,ross,Nuevo Test en Lista de Precios,Test=401306 14  NORMAL
+*************
+27/01/2023 19:59:19,ross,Nuevo Test en Lista de Precios,Test=401306 14  URGENCIA
+*************
+27/01/2023 20:00:32,ross,Actualiza Test,Test=NUEVO 3
+*************
+27/01/2023 20:00:39,ross,INGRESA TEST,TEST=NUEVO 3
+*************
+27/01/2023 20:10:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 20:10:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 20:10:46,ross,Nuevo Test en Lista de Precios,Test=401304 8  NORMAL
+*************
+27/01/2023 20:10:46,ross,Nuevo Test en Lista de Precios,Test=401304 8  URGENCIA
+*************
+27/01/2023 20:11:07,ross,Actualiza Test,Test=TEST
+*************
+27/01/2023 20:11:13,ross,INGRESA TEST,TEST=TEST
+*************
+27/01/2023 20:13:09,ross,Nuevo Test en Lista de Precios,Test=401305 34  NORMAL
+*************
+27/01/2023 20:13:09,ross,Nuevo Test en Lista de Precios,Test=401305 34  URGENCIA
+*************
+27/01/2023 20:13:27,ross,Actualiza Test,Test=TESMOL
+*************
+27/01/2023 20:13:51,ross,Nuevo Test en Lista de Precios,Test=401306 34  NORMAL
+*************
+27/01/2023 20:13:52,ross,Nuevo Test en Lista de Precios,Test=401306 34  URGENCIA
+*************
+27/01/2023 20:14:35,ross,Actualiza Test,Test=MUESTRA
+*************
+27/01/2023 20:14:37,ross,Nuevo Test en Lista de Precios,Test=401307 34  NORMAL
+*************
+27/01/2023 20:14:37,ross,Nuevo Test en Lista de Precios,Test=401307 34  URGENCIA
+*************
+27/01/2023 20:14:38,ross,Actualiza Test,Test= TECNICA
+*************
+27/01/2023 20:14:41,ross,Nuevo Test en Lista de Precios,Test=401308 34  NORMAL
+*************
+27/01/2023 20:14:41,ross,Nuevo Test en Lista de Precios,Test=401308 34  URGENCIA
+*************
+27/01/2023 20:14:42,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+27/01/2023 20:14:44,ross,Nuevo Test en Lista de Precios,Test=401309 34  NORMAL
+*************
+27/01/2023 20:14:44,ross,Nuevo Test en Lista de Precios,Test=401309 34  URGENCIA
+*************
+27/01/2023 20:14:48,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+27/01/2023 20:14:50,ross,Nuevo Test en Lista de Precios,Test=401310 34  NORMAL
+*************
+27/01/2023 20:14:50,ross,Nuevo Test en Lista de Precios,Test=401310 34  URGENCIA
+*************
+27/01/2023 20:14:51,ross,Actualiza Test,Test= COMENTARIO
+*************
+27/01/2023 20:14:53,ross,INGRESA TEST,TEST=TESMOL
+*************
+27/01/2023 20:22:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2023 20:22:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2023 20:23:06,ross,Nuevo Test en Lista de Precios,Test=401311 9  NORMAL
+*************
+27/01/2023 20:23:06,ross,Nuevo Test en Lista de Precios,Test=401311 9  URGENCIA
+*************
+27/01/2023 20:23:22,ross,Actualiza Test,Test=TESMOL
+*************
+27/01/2023 20:23:36,ross,Nuevo Test en Lista de Precios,Test=401312 9  NORMAL
+*************
+27/01/2023 20:23:38,ross,Nuevo Test en Lista de Precios,Test=401312 9  URGENCIA
+*************
+27/01/2023 20:23:50,ross,Actualiza Test,Test=MUESTRA
+*************
+27/01/2023 20:23:53,ross,Nuevo Test en Lista de Precios,Test=401313 9  NORMAL
+*************
+27/01/2023 20:23:53,ross,Nuevo Test en Lista de Precios,Test=401313 9  URGENCIA
+*************
+27/01/2023 20:23:54,ross,Actualiza Test,Test= TECNICA
+*************
+27/01/2023 20:23:56,ross,Nuevo Test en Lista de Precios,Test=401314 9  NORMAL
+*************
+27/01/2023 20:23:56,ross,Nuevo Test en Lista de Precios,Test=401314 9  URGENCIA
+*************
+27/01/2023 20:23:56,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+27/01/2023 20:23:58,ross,Nuevo Test en Lista de Precios,Test=401315 9  NORMAL
+*************
+27/01/2023 20:23:58,ross,Nuevo Test en Lista de Precios,Test=401315 9  URGENCIA
+*************
+27/01/2023 20:23:59,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+27/01/2023 20:24:00,ross,Nuevo Test en Lista de Precios,Test=401316 9  NORMAL
+*************
+27/01/2023 20:24:00,ross,Nuevo Test en Lista de Precios,Test=401316 9  URGENCIA
+*************
+27/01/2023 20:24:01,ross,Actualiza Test,Test= COMENTARIO
+*************
+27/01/2023 20:24:03,ross,INGRESA TEST,TEST=TESMOL
+*************
+28/01/2023 10:50:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 10:50:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 10:53:04,ross,Nuevo Test en Lista de Precios,Test=401317 12  NORMAL
+*************
+28/01/2023 10:53:07,ross,Nuevo Test en Lista de Precios,Test=401317 12  URGENCIA
+*************
+28/01/2023 10:57:29,ross,Actualiza Test,Test=NUEVO
+*************
+28/01/2023 10:57:33,ross,INGRESA TEST,TEST=NUEVO
+*************
+28/01/2023 11:01:03,ross,Nuevo Test en Lista de Precios,Test=401318 13  NORMAL
+*************
+28/01/2023 11:01:04,ross,Nuevo Test en Lista de Precios,Test=401318 13  URGENCIA
+*************
+28/01/2023 11:04:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 11:04:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 11:05:12,ross,Nuevo Test en Lista de Precios,Test=401317 9  NORMAL
+*************
+28/01/2023 11:05:13,ross,Nuevo Test en Lista de Precios,Test=401317 9  URGENCIA
+*************
+28/01/2023 11:06:45,ross,Actualiza Test,Test=NUEVO MOL
+*************
+28/01/2023 11:07:40,ross,Nuevo Test en Lista de Precios,Test=401318 9  NORMAL
+*************
+28/01/2023 11:07:41,ross,Nuevo Test en Lista de Precios,Test=401318 9  URGENCIA
+*************
+28/01/2023 11:24:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 11:24:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 11:24:54,ross,Nuevo Test en Lista de Precios,Test=401304 22  NORMAL
+*************
+28/01/2023 11:24:55,ross,Nuevo Test en Lista de Precios,Test=401304 22  URGENCIA
+*************
+28/01/2023 11:25:13,ross,Actualiza Test,Test=TESMOL
+*************
+28/01/2023 11:26:10,ross,Nuevo Test en Lista de Precios,Test=401305 22  NORMAL
+*************
+28/01/2023 11:26:12,ross,Nuevo Test en Lista de Precios,Test=401305 22  URGENCIA
+*************
+28/01/2023 11:26:21,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 11:26:24,ross,Nuevo Test en Lista de Precios,Test=401306 22  NORMAL
+*************
+28/01/2023 11:26:24,ross,Nuevo Test en Lista de Precios,Test=401306 22  URGENCIA
+*************
+28/01/2023 11:26:25,ross,Actualiza Test,Test= TECNICA
+*************
+28/01/2023 11:26:25,ross,Nuevo Test en Lista de Precios,Test=401307 22  NORMAL
+*************
+28/01/2023 11:26:25,ross,Nuevo Test en Lista de Precios,Test=401307 22  URGENCIA
+*************
+28/01/2023 11:26:25,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+28/01/2023 11:26:25,ross,Nuevo Test en Lista de Precios,Test=401308 22  NORMAL
+*************
+28/01/2023 11:26:25,ross,Nuevo Test en Lista de Precios,Test=401308 22  URGENCIA
+*************
+28/01/2023 11:26:26,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+28/01/2023 11:26:26,ross,Nuevo Test en Lista de Precios,Test=401309 22  NORMAL
+*************
+28/01/2023 11:26:26,ross,Nuevo Test en Lista de Precios,Test=401309 22  URGENCIA
+*************
+28/01/2023 11:26:26,ross,Actualiza Test,Test= COMENTARIO
+*************
+28/01/2023 11:26:26,ross,INGRESA TEST,TEST=TESMOL
+*************
+28/01/2023 11:26:53,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=15
+*************
+28/01/2023 11:26:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+28/01/2023 11:32:10,ross,1 ANULA ORDEN,PEDIDO=15TESMOLº MOTIVO: tes
+*************
+28/01/2023 11:32:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=16
+*************
+28/01/2023 11:32:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=16
+*************
+28/01/2023 13:16:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 13:17:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 13:19:12,ross,Nuevo Test en Lista de Precios,Test=401304 11  NORMAL
+*************
+28/01/2023 13:19:13,ross,Nuevo Test en Lista de Precios,Test=401304 11  URGENCIA
+*************
+28/01/2023 13:19:28,ross,Actualiza Test,Test=TESMOL
+*************
+28/01/2023 13:19:50,ross,Nuevo Test en Lista de Precios,Test=401305 11  NORMAL
+*************
+28/01/2023 13:19:50,ross,Nuevo Test en Lista de Precios,Test=401305 11  URGENCIA
+*************
+28/01/2023 13:20:34,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 13:20:44,ross,Nuevo Test en Lista de Precios,Test=401306 11  NORMAL
+*************
+28/01/2023 13:20:44,ross,Nuevo Test en Lista de Precios,Test=401306 11  URGENCIA
+*************
+28/01/2023 13:21:20,ross,Actualiza Test,Test= TECNICA
+*************
+28/01/2023 13:25:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 13:25:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 13:26:19,ross,Nuevo Test en Lista de Precios,Test=401304 13  NORMAL
+*************
+28/01/2023 13:26:20,ross,Nuevo Test en Lista de Precios,Test=401304 13  URGENCIA
+*************
+28/01/2023 13:26:29,ross,Actualiza Test,Test=TESMOL
+*************
+28/01/2023 13:26:46,ross,Nuevo Test en Lista de Precios,Test=401305 13  NORMAL
+*************
+28/01/2023 13:26:47,ross,Nuevo Test en Lista de Precios,Test=401305 13  URGENCIA
+*************
+28/01/2023 13:26:49,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 13:26:58,ross,Nuevo Test en Lista de Precios,Test=401306 13  NORMAL
+*************
+28/01/2023 13:26:59,ross,Nuevo Test en Lista de Precios,Test=401306 13  URGENCIA
+*************
+28/01/2023 13:27:01,ross,Actualiza Test,Test= TECNICA
+*************
+28/01/2023 13:27:03,ross,Nuevo Test en Lista de Precios,Test=401307 13  NORMAL
+*************
+28/01/2023 13:27:03,ross,Nuevo Test en Lista de Precios,Test=401307 13  URGENCIA
+*************
+28/01/2023 13:27:03,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+28/01/2023 13:27:04,ross,Nuevo Test en Lista de Precios,Test=401308 13  NORMAL
+*************
+28/01/2023 13:27:04,ross,Nuevo Test en Lista de Precios,Test=401308 13  URGENCIA
+*************
+28/01/2023 13:27:04,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+28/01/2023 13:27:05,ross,Nuevo Test en Lista de Precios,Test=401309 13  NORMAL
+*************
+28/01/2023 13:27:05,ross,Nuevo Test en Lista de Precios,Test=401309 13  URGENCIA
+*************
+28/01/2023 13:27:06,ross,Actualiza Test,Test= COMENTARIO
+*************
+28/01/2023 13:27:06,ross,INGRESA TEST,TEST=TESMOL
+*************
+28/01/2023 13:27:34,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=17
+*************
+28/01/2023 13:27:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=17
+*************
+28/01/2023 13:29:19,ross,GUARDA RESULTADOS,TESMOLLIS=MUESTR MOLECULAR
+*************
+28/01/2023 13:29:19,ross,GUARDA RESULTADOS,TESMOLLIS=TECNICA MOLECULAR
+*************
+28/01/2023 13:29:19,ross,GUARDA RESULTADOS,TESMOLLIS=VALORE REF MOLECULAR
+*************
+28/01/2023 13:29:19,ross,GUARDA RESULTADOS,TESMOLLIS=Cuando te encuentras solo en una habitación de hotel a mitad de la carretera. Y suena esta canción de fondo, viene a tu mente el recuerdo de aquel amor que no valoraste y dejaste ir por un simple placer. Ahora estas solo y tienes que enfrentar las consecuencias. Habias invertido todos tus sueños en una vida con ella y ahora de la nada ya no esta. Y tu vaz a otra ciudad a trabajar con el alma destruida.
+*************
+28/01/2023 13:29:19,ross,GUARDA RESULTADOS,TESMOLLIS=GRACIAS POR ESTA CANCIÓN.. NUNCA PASA DE MODA SIMPLEMENTE LO MEJOR ANIMO VIEJONES Y TE VA A DOLER, PERO TE VA A GUSTAR. RECORDAR ES VOLVER A VIVIR TANTO DE LO BUENO COMO DE LO MALO.❤💙❤💙🕯🕯..OTRA VEZ MAELO RUIZ....
+*************
+28/01/2023 13:29:19,ross,GUARDA RESULTADOS,TESMOLLISH=
+*************
+28/01/2023 13:38:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 13:38:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 13:39:59,ross,Nuevo Test en Lista de Precios,Test=401304 15  NORMAL
+*************
+28/01/2023 13:40:00,ross,Nuevo Test en Lista de Precios,Test=401304 15  URGENCIA
+*************
+28/01/2023 13:40:01,ross,Actualiza Test,Test=TESMOL
+*************
+28/01/2023 13:40:16,ross,Nuevo Test en Lista de Precios,Test=401305 15  NORMAL
+*************
+28/01/2023 13:40:18,ross,Nuevo Test en Lista de Precios,Test=401305 15  URGENCIA
+*************
+28/01/2023 13:41:02,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 13:41:18,ross,Nuevo Test en Lista de Precios,Test=401306 15  NORMAL
+*************
+28/01/2023 13:41:19,ross,Nuevo Test en Lista de Precios,Test=401306 15  URGENCIA
+*************
+28/01/2023 13:41:20,ross,Actualiza Test,Test= TECNICA
+*************
+28/01/2023 13:41:25,ross,Nuevo Test en Lista de Precios,Test=401307 15  NORMAL
+*************
+28/01/2023 13:41:25,ross,Nuevo Test en Lista de Precios,Test=401307 15  URGENCIA
+*************
+28/01/2023 13:41:25,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+28/01/2023 13:41:26,ross,Nuevo Test en Lista de Precios,Test=401308 15  NORMAL
+*************
+28/01/2023 13:41:26,ross,Nuevo Test en Lista de Precios,Test=401308 15  URGENCIA
+*************
+28/01/2023 13:41:26,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+28/01/2023 13:41:27,ross,Nuevo Test en Lista de Precios,Test=401309 15  NORMAL
+*************
+28/01/2023 13:41:27,ross,Nuevo Test en Lista de Precios,Test=401309 15  URGENCIA
+*************
+28/01/2023 13:41:27,ross,Actualiza Test,Test= COMENTARIO
+*************
+28/01/2023 13:41:27,ross,INGRESA TEST,TEST=TESMOL
+*************
+28/01/2023 13:42:06,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=18
+*************
+28/01/2023 13:42:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=18
+*************
+28/01/2023 13:43:30,ross,GUARDA RESULTADOS,TESMOL_MUESTRA=CORTE TRANSVERSAL HUESO RODILLA
+*************
+28/01/2023 13:43:30,ross,GUARDA RESULTADOS,TESMOL_TECNICA=INMUNOFLORECENCIA HIDRONICA TIPO 3
+*************
+28/01/2023 13:43:30,ross,GUARDA RESULTADOS,TESMOL_VALREF=VALOR DE REFEFNCIA MOLECULAR
+*************
+28/01/2023 13:43:30,ross,GUARDA RESULTADOS,TESMOL_ANALIZADA=Ahora puedes navegar de forma privada sin que los demás usuarios de este dispositivo vean tu actividad. Sin embargo, se guardarán las descargas, los marcadores y los elementos de la lista de lectura. Más información
+*************
+28/01/2023 13:43:30,ross,GUARDA RESULTADOS,TESMOL_COMENT=Cómo funciona la navegación privada en Chrome
+Cuando navegas en privado, otros usuarios que utilicen el dispositivo no podrán ver tu historial.
+
+Chrome no guarda tu historial de navegación ni la información introducida en los formularios. El navegador almacena las cookies y los datos de sitios web mientras navegas, pero los elimina cuando sales del modo de incógnito. Puedes bloquear las cookies de terceros cuando abras una nueva ventana de incógnito. Más información sobre las cookies
+*************
+28/01/2023 13:43:30,ross,GUARDA RESULTADOS,TESMOLLISH=
+*************
+28/01/2023 13:43:36,ross,GUARDA RESULTADOS,TESMOLLISH=MEMO
+*************
+28/01/2023 13:43:37,ross,VALIDACION RESULTADO,PEDIDO=18/401304
+*************
+28/01/2023 13:43:38,ross,Eliminar resultado AUX_HIS,
+*************
+28/01/2023 13:44:08,ross,IMPRIME POR AREA,PEDIDO=18
+*************
+28/01/2023 13:49:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 13:49:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 14:10:11,ross,Nuevo Test en Lista de Precios,Test=401304 23  NORMAL
+*************
+28/01/2023 14:10:11,ross,Nuevo Test en Lista de Precios,Test=401304 23  URGENCIA
+*************
+28/01/2023 14:10:12,ross,Actualiza Test,Test=TESMOL
+*************
+28/01/2023 14:10:12,ross,Nuevo Test en Lista de Precios,Test=401305 23  NORMAL
+*************
+28/01/2023 14:10:12,ross,Nuevo Test en Lista de Precios,Test=401305 23  URGENCIA
+*************
+28/01/2023 14:10:13,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 14:10:13,ross,Nuevo Test en Lista de Precios,Test=401306 23  NORMAL
+*************
+28/01/2023 14:10:13,ross,Nuevo Test en Lista de Precios,Test=401306 23  URGENCIA
+*************
+28/01/2023 14:10:14,ross,Actualiza Test,Test= TECNICA
+*************
+28/01/2023 14:10:15,ross,Nuevo Test en Lista de Precios,Test=401307 23  NORMAL
+*************
+28/01/2023 14:10:15,ross,Nuevo Test en Lista de Precios,Test=401307 23  URGENCIA
+*************
+28/01/2023 14:10:15,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+28/01/2023 14:10:16,ross,Nuevo Test en Lista de Precios,Test=401308 23  NORMAL
+*************
+28/01/2023 14:10:16,ross,Nuevo Test en Lista de Precios,Test=401308 23  URGENCIA
+*************
+28/01/2023 14:10:16,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+28/01/2023 14:10:18,ross,Nuevo Test en Lista de Precios,Test=401309 23  NORMAL
+*************
+28/01/2023 14:10:18,ross,Nuevo Test en Lista de Precios,Test=401309 23  URGENCIA
+*************
+28/01/2023 14:10:18,ross,Actualiza Test,Test= COMENTARIO
+*************
+28/01/2023 14:10:18,ross,INGRESA TEST,TEST=TESMOL
+*************
+28/01/2023 14:10:45,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=19
+*************
+28/01/2023 14:10:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=19
+*************
+28/01/2023 14:16:33,ross,GUARDA RESULTADOS,TESMOL_MUESTRA=HUSO FEMUR
+*************
+28/01/2023 14:16:33,ross,GUARDA RESULTADOS,TESMOL_TECNICA=TECNICA DE CORTE TRANSVESAL
+*************
+28/01/2023 14:16:33,ross,GUARDA RESULTADOS,TESMOL_VALREF=VALOR DE REFERENCIA
+*************
+28/01/2023 14:16:33,ross,GUARDA RESULTADOS,TESMOL_ANALIZADA=Rama del saber humano constituida por el conjunto de conocimientos objetivos y verificables sobre una materia determinada que son obtenidos mediante la observación y la experimentación, la explicación de sus principios y causas y la formulación y verificación de hipótesis y se caracteriza, además, por la utilización de una metodología adecuada para el objeto de estudio y la sistematización de los conocimientos.
+*************
+28/01/2023 14:16:33,ross,GUARDA RESULTADOS,TESMOL_COMENT=Descartes revolucionó con su metodología de manera muy positiva. Sus principios eran los siguientes: el principio de la duda, no se debe aceptar nada como verdadero hasta que se proceda a ser comprobado, el principio de análisis en el que se trata de descomponer el problema y valorarlo en pequeñas partes, principio de la síntesis en el que se valoran las formas más sencillas que componen el problema para ir pasando a las más difíciles, y el principio de la verificación para valorar que ningún dato se haya pasado por alto durante el proceso.
+*************
+28/01/2023 14:16:33,ross,GUARDA RESULTADOS,TESMOLISH=
+*************
+28/01/2023 14:16:50,ross,GUARDA RESULTADOS,TESMOLISH=MEMO
+*************
+28/01/2023 14:16:52,ross,VALIDACION RESULTADO,PEDIDO=19/401304
+*************
+28/01/2023 14:16:53,ross,Eliminar resultado AUX_HIS,
+*************
+28/01/2023 14:17:08,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/01/2023 14:26:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 14:26:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 14:27:45,ross,Nuevo Test en Lista de Precios,Test=401304 14  NORMAL
+*************
+28/01/2023 14:27:45,ross,Nuevo Test en Lista de Precios,Test=401304 14  URGENCIA
+*************
+28/01/2023 14:27:46,ross,Actualiza Test,Test=TESMOL
+*************
+28/01/2023 14:27:46,ross,Nuevo Test en Lista de Precios,Test=401305 14  NORMAL
+*************
+28/01/2023 14:27:46,ross,Nuevo Test en Lista de Precios,Test=401305 14  URGENCIA
+*************
+28/01/2023 14:27:46,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 14:27:46,ross,Nuevo Test en Lista de Precios,Test=401306 14  NORMAL
+*************
+28/01/2023 14:27:46,ross,Nuevo Test en Lista de Precios,Test=401306 14  URGENCIA
+*************
+28/01/2023 14:27:46,ross,Actualiza Test,Test= TECNICA
+*************
+28/01/2023 14:27:47,ross,Nuevo Test en Lista de Precios,Test=401307 14  NORMAL
+*************
+28/01/2023 14:27:47,ross,Nuevo Test en Lista de Precios,Test=401307 14  URGENCIA
+*************
+28/01/2023 14:27:47,ross,Actualiza Test,Test= VALOR DE REFERENCIA
+*************
+28/01/2023 14:27:47,ross,Nuevo Test en Lista de Precios,Test=401308 14  NORMAL
+*************
+28/01/2023 14:27:47,ross,Nuevo Test en Lista de Precios,Test=401308 14  URGENCIA
+*************
+28/01/2023 14:27:47,ross,Actualiza Test,Test= MUESTRA ANALIZADA
+*************
+28/01/2023 14:27:48,ross,Nuevo Test en Lista de Precios,Test=401309 14  NORMAL
+*************
+28/01/2023 14:27:48,ross,Nuevo Test en Lista de Precios,Test=401309 14  URGENCIA
+*************
+28/01/2023 14:27:48,ross,Actualiza Test,Test= COMENTARIO
+*************
+28/01/2023 14:27:48,ross,INGRESA TEST,TEST=TESMOL
+*************
+28/01/2023 14:28:37,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=20
+*************
+28/01/2023 14:28:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=20
+*************
+28/01/2023 14:30:13,ross,GUARDA RESULTADOS,TESMOL_MUESTRA=HUESO MUESTRA
+*************
+28/01/2023 14:30:13,ross,GUARDA RESULTADOS,TESMOL_TECNICA=INMUNOCROMATOGRAFIA
+*************
+28/01/2023 14:30:13,ross,GUARDA RESULTADOS,TESMOL_VALREF=VALORE DE 12 A 300
+*************
+28/01/2023 14:30:13,ross,GUARDA RESULTADOS,TESMOL_ANALIZADA=Rama del saber humano constituida por el conjunto de conocimientos objetivos y verificables sobre una materia determinada que son obtenidos mediante la observación y la experimentación, la explicación de sus principios y causas y la formulación y verificación de hipótesis y se caracteriza, además, por la utilización de una metodología adecuada para el objeto de estudio y la sistematización de los conocimientos.
+*************
+28/01/2023 14:30:13,ross,GUARDA RESULTADOS,TESMOL_COMENT=En la clasificación científica de los seres vivos, los animales (Animalia) o metazoos (Metazoa) constituyen un reino que reúne un amplio grupo de organismos que son eucariotas, heterótrofos, pluricelulares y tisulares (excepto los poríferos). Se caracterizan por su amplia capacidad de movimiento, por no tener cloroplasto (aunque hay excepciones, como en el caso de Elysia chlorotica) ni pared celular, y por su desarrollo embrionario; que atraviesa una fase de blástula y determina un plan corporal fijo (aunque muchas especies pueden sufrir una metamorfosis posterior como los artrópodos). Los animales forman un grupo natural estrechamente emparentado con los hongos (reino Fungi). Animalia es uno de los cinco reinos del dominio Eukaryota, y a él pertenece el ser humano. La parte de la biología que estudia los animales es la zoología.
+*************
+28/01/2023 14:30:13,ross,GUARDA RESULTADOS,TESMOLISH=
+*************
+28/01/2023 14:30:20,ross,GUARDA RESULTADOS,TESMOLISH=MEMO
+*************
+28/01/2023 14:30:22,ross,VALIDACION RESULTADO,PEDIDO=20/401304
+*************
+28/01/2023 14:30:23,ross,Eliminar resultado AUX_HIS,
+*************
+28/01/2023 14:30:35,ross,IMPRIME POR AREA,PEDIDO=20
+*************
+28/01/2023 14:38:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 14:38:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 14:39:45,ross,Nuevo Test en Lista de Precios,Test=401304 88  NORMAL
+*************
+28/01/2023 14:39:45,ross,Nuevo Test en Lista de Precios,Test=401304 88  URGENCIA
+*************
+28/01/2023 14:39:45,ross,Actualiza Test,Test=TEST MOLECULAR
+*************
+28/01/2023 14:39:46,ross,Nuevo Test en Lista de Precios,Test=401305 88  NORMAL
+*************
+28/01/2023 14:39:46,ross,Nuevo Test en Lista de Precios,Test=401305 88  URGENCIA
+*************
+28/01/2023 14:39:46,ross,Actualiza Test,Test=MUESTRA
+*************
+28/01/2023 14:39:47,ross,Nuevo Test en Lista de Precios,Test=401306 88  NORMAL
+*************
+28/01/2023 14:39:47,ross,Nuevo Test en Lista de Precios,Test=401306 88  URGENCIA
+*************
+28/01/2023 14:39:47,ross,Actualiza Test,Test=TECNICA
+*************
+28/01/2023 14:39:48,ross,Nuevo Test en Lista de Precios,Test=401307 88  NORMAL
+*************
+28/01/2023 14:39:48,ross,Nuevo Test en Lista de Precios,Test=401307 88  URGENCIA
+*************
+28/01/2023 14:39:48,ross,Actualiza Test,Test=VALOR DE REFERENCIA
+*************
+28/01/2023 14:39:49,ross,Nuevo Test en Lista de Precios,Test=401308 88  NORMAL
+*************
+28/01/2023 14:39:49,ross,Nuevo Test en Lista de Precios,Test=401308 88  URGENCIA
+*************
+28/01/2023 14:39:49,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+28/01/2023 14:39:50,ross,Nuevo Test en Lista de Precios,Test=401309 88  NORMAL
+*************
+28/01/2023 14:39:50,ross,Nuevo Test en Lista de Precios,Test=401309 88  URGENCIA
+*************
+28/01/2023 14:39:50,ross,Actualiza Test,Test=COMENTARIO
+*************
+28/01/2023 14:39:50,ross,INGRESA TEST,TEST=TEST MOLECULAR
+*************
+28/01/2023 14:41:32,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401304,,PEDIDO=21
+*************
+28/01/2023 14:41:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=21
+*************
+28/01/2023 14:43:40,ross,GUARDA RESULTADOS,TEST MOLECULAR_MUESTRA=MUESTR
+*************
+28/01/2023 14:43:40,ross,GUARDA RESULTADOS,TEST MOLECULAR_TECNICA=TECNICA
+*************
+28/01/2023 14:43:40,ross,GUARDA RESULTADOS,TEST MOLECULAR_VALREF=VALOR DE REFERENCIA 10 - 25
+*************
+28/01/2023 14:43:40,ross,GUARDA RESULTADOS,TEST MOLECULAR_ANALIZ=Rama del saber humano constituida por el conjunto de conocimientos objetivos y verificables sobre una materia determinada que son obtenidos mediante la observación y la experimentación, la explicación de sus principios y causas y la formulación y verificación de hipótesis y se caracteriza, además, por la utilización de una metodología adecuada para el objeto de estudio y la sistematización de los conocimientos.
+*************
+28/01/2023 14:43:40,ross,GUARDA RESULTADOS,TEST MOLECULAR_COMENT=La biología molecular es la rama de la biología que tiene como objetivo el estudio de los procesos que se desarrollan en los seres vivos desde un punto de vista molecular. En su sentido moderno, la biología molecular pretende explicar los fenómenos de la vida a partir de sus propiedades macromoleculares.
+*************
+28/01/2023 14:43:40,ross,GUARDA RESULTADOS,TESMOLH=
+*************
+28/01/2023 14:43:48,ross,GUARDA RESULTADOS,TESMOLH=MEMO
+*************
+28/01/2023 14:43:49,ross,VALIDACION RESULTADO,PEDIDO=21/401304
+*************
+28/01/2023 14:43:50,ross,Eliminar resultado AUX_HIS,
+*************
+28/01/2023 14:44:01,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+28/01/2023 14:44:38,ross,Modifica USR,USR=1
+*************
+28/01/2023 14:44:51,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+28/01/2023 14:59:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 14:59:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 14:59:46,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+28/01/2023 15:00:22,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401304,,PEDIDO=22
+*************
+28/01/2023 15:00:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=22
+*************
+28/01/2023 15:00:50,ross,GUARDA RESULTADOS,COLH=156
+*************
+28/01/2023 15:00:50,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+28/01/2023 15:00:50,ross,GUARDA RESULTADOS,LDLH=86
+*************
+28/01/2023 15:00:50,ross,GUARDA RESULTADOS,TGLH=125
+*************
+28/01/2023 15:02:10,ross,GUARDA RESULTADOS,TEST MOLECULAR_MUESTRA=HUESO FEMUR
+*************
+28/01/2023 15:02:10,ross,GUARDA RESULTADOS,TEST MOLECULAR_TECNICA=INMUNOCROMATOGRAFIA
+*************
+28/01/2023 15:02:10,ross,GUARDA RESULTADOS,TEST MOLECULAR_VALREF=DE 250 A 500
+*************
+28/01/2023 15:02:10,ross,GUARDA RESULTADOS,TEST MOLECULAR_ANALIZ=La biología molecular es la rama de la biología que tiene como objetivo el estudio de los procesos que se desarrollan en los seres vivos desde un punto de vista molecular. En su sentido moderno, la biología molecular pretende explicar los fenómenos de la vida a partir de sus propiedades macromoleculares.
+*************
+28/01/2023 15:02:10,ross,GUARDA RESULTADOS,TEST MOLECULAR_COMENT=La prueba molecular también se usa para detectar si hay ciertos cambios en un gen o cromosoma que quizás aumenten el riesgo de una persona de presentar MALESTAR
+*************
+28/01/2023 15:02:10,ross,GUARDA RESULTADOS,TESMOLH=
+*************
+28/01/2023 15:02:59,ross,GUARDA RESULTADOS,COLH=156
+*************
+28/01/2023 15:02:59,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+28/01/2023 15:02:59,ross,GUARDA RESULTADOS,LDLH=86
+*************
+28/01/2023 15:02:59,ross,GUARDA RESULTADOS,TGLH=125
+*************
+28/01/2023 15:02:59,ross,GUARDA RESULTADOS,TESMOLH=MEMO
+*************
+28/01/2023 15:03:01,ross,VALIDACION RESULTADO,PEDIDO=22/400149
+*************
+28/01/2023 15:03:01,ross,VALIDACION RESULTADO,PEDIDO=22/400150
+*************
+28/01/2023 15:03:01,ross,VALIDACION RESULTADO,PEDIDO=22/400151
+*************
+28/01/2023 15:03:01,ross,VALIDACION RESULTADO,PEDIDO=22/400476
+*************
+28/01/2023 15:03:01,ross,VALIDACION RESULTADO,PEDIDO=22/401304
+*************
+28/01/2023 15:03:02,ross,Eliminar resultado AUX_HIS,
+*************
+28/01/2023 15:03:16,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+28/01/2023 15:44:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2023 15:44:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2023 15:52:57,ross,Nuevo Test en Lista de Precios,Test=401310 15  NORMAL
+*************
+28/01/2023 15:52:57,ross,Nuevo Test en Lista de Precios,Test=401310 15  URGENCIA
+*************
+28/01/2023 15:52:58,ross,Actualiza Test,Test=CUTANEAS ALIMENTOS
+*************
+28/01/2023 15:52:58,ross,INGRESA TEST,TEST=CUTANEAS ALIMENTOS
+*************
+28/01/2023 15:58:20,ross,Nuevo Test en Lista de Precios,Test=401311 15  NORMAL
+*************
+28/01/2023 15:58:20,ross,Nuevo Test en Lista de Precios,Test=401311 15  URGENCIA
+*************
+28/01/2023 15:58:20,ross,Actualiza Test,Test=CUTANEAS INHALANTES
+*************
+28/01/2023 15:58:20,ross,INGRESA TEST,TEST=CUTANEAS INHALANTES
+*************
+28/01/2023 15:59:08,ross,Nuevo Test en Lista de Precios,Test=401312 15  NORMAL
+*************
+28/01/2023 15:59:08,ross,Nuevo Test en Lista de Precios,Test=401312 15  URGENCIA
+*************
+28/01/2023 15:59:09,ross,Actualiza Test,Test=CUTANEAS MEDICAMENTOS
+*************
+28/01/2023 15:59:09,ross,INGRESA TEST,TEST=CUTANEAS MEDICAMENTOS
+*************
+28/01/2023 16:15:30,ross,Modifica USR,USR=1
+*************
+28/01/2023 16:33:10,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401310,401311,401312,,PEDIDO=23
+*************
+28/01/2023 16:33:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=23
+*************
+28/01/2023 16:45:16,ross,Nuevo Test en Lista de Precios,Test=401313 23  NORMAL
+*************
+28/01/2023 16:45:20,ross,Nuevo Test en Lista de Precios,Test=401313 23  URGENCIA
+*************
+28/01/2023 16:45:23,ross,Actualiza Test,Test=CUTANEA
+*************
+28/01/2023 16:45:24,ross,INGRESA TEST,TEST=CUTANEA
+*************
+28/01/2023 16:46:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401313,,PEDIDO=24
+*************
+28/01/2023 16:46:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=24
+*************
+28/01/2023 16:56:28,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+28/01/2023 16:56:34,ross,Elimina Lista de Precios,Lista Precio=URGENCIA
+*************
+28/01/2023 17:02:08,ross,Nuevo Test en Lista de Precios,Test=401314 22  NORMAL
+*************
+28/01/2023 17:02:28,ross,Nuevo Test en Lista de Precios,Test=401314 22  URGENCIA
+*************
+28/01/2023 17:03:35,ross,Actualiza Test,Test=CUTANEA 2
+*************
+28/01/2023 17:03:39,ross,INGRESA TEST,TEST=CUTANEA 2
+*************
+28/01/2023 17:04:29,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401314,,PEDIDO=25
+*************
+28/01/2023 17:04:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=25
+*************
+28/01/2023 17:07:02,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401310,401311,401312,,PEDIDO=1
+*************
+28/01/2023 17:07:02,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+28/01/2023 17:13:42,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+28/01/2023 17:13:49,ross,Elimina Lista de Precios,Lista Precio=URGENCIA
+*************
+28/01/2023 17:18:16,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401310,401311,401312,,PEDIDO=1
+*************
+28/01/2023 17:18:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+28/01/2023 18:44:41,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401314,,PEDIDO=2
+*************
+28/01/2023 18:44:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+28/01/2023 18:56:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401310,,PEDIDO=3
+*************
+28/01/2023 18:56:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+28/01/2023 19:59:50,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401310,401311,401312,,PEDIDO=4
+*************
+28/01/2023 19:59:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+28/01/2023 20:01:58,ross,Nuevo Pedido PRE CARGA,NORMAL/5
+*************
+29/01/2023 21:13:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2023 21:13:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 8:21:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 8:21:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 8:23:30,ross,Nuevo Pedido PRE CARGA,NORMAL/6
+*************
+30/01/2023 9:04:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 9:04:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_CERDOH=+
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_POLLOH=++
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_CORVINAH=++
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_ATUNH=-
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_LANGOSTAH=+
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_CAMARONH=-
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_LECHEH=+
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_HUEVOCIH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_YEMAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_TRIGOH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_MAIZH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_ARROZH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_FREJOLH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_LENTEJAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_HABAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_TOMATEH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_ZANAHORIAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_MANIH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_CHOCOLATEH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_NARANJAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_PIÑAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_FRUTILLAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_TARTRAZINAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_PARABENOSH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_HISTAMINAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_ABEJAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_AVISPAH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_HIELOH=
+*************
+30/01/2023 9:15:23,ross,GUARDA RESULTADOS,AL_LATEXH=
+*************
+30/01/2023 19:54:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 19:54:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 19:54:27,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=7
+*************
+30/01/2023 19:54:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+30/01/2023 19:54:54,ross,1 MODIFICA ORDENNORMAL,PEDIDO=7
+*************
+30/01/2023 20:01:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 20:01:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 21:17:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 21:18:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 21:32:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 21:32:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 21:37:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 21:37:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 21:37:48,ross,Nuevo Pedido PRE CARGA,NORMAL/8
+*************
+30/01/2023 21:45:54,ross,Nuevo Pedido PRE CARGA,NORMAL/9
+*************
+30/01/2023 21:50:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 21:50:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 21:51:54,ross,Nuevo Pedido PRE CARGA,NORMAL/10
+*************
+30/01/2023 22:17:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 22:17:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 22:18:14,ross,Nuevo Pedido PRE CARGA,NORMAL/11
+*************
+30/01/2023 22:22:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 22:22:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 22:22:43,ross,Nuevo Pedido PRE CARGA,NORMAL/12
+*************
+30/01/2023 22:26:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 22:26:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 22:27:59,ross,Actualizacon Medico,Medico=ZURITA FRANCISCA
+*************
+30/01/2023 22:28:57,ross,Nuevo Pedido PRE CARGA,NORMAL/13
+*************
+30/01/2023 22:32:23,ross,Nuevo Pedido PRE CARGA,NORMAL/14
+*************
+30/01/2023 22:41:44,ross,Nuevo Pedido PRE CARGA,NORMAL/15
+*************
+30/01/2023 22:50:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 22:50:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 22:58:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 22:58:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 23:16:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 23:16:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 23:18:20,ross,Nuevo Pedido PRE CARGA,NORMAL/16
+*************
+30/01/2023 23:21:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2023 23:21:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2023 23:23:47,ross,Nuevo Pedido PRE CARGA,NORMAL/17
+*************
+30/01/2023 23:33:00,ross,Nuevo Pedido PRE CARGA,NORMAL/18
+*************
+31/01/2023 7:48:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 7:48:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 7:49:31,ross,Nuevo Pedido PRE CARGA,NORMAL/19
+*************
+31/01/2023 9:36:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 9:36:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 9:39:13,ross,Nuevo Pedido PRE CARGA,NORMAL/20
+*************
+31/01/2023 9:42:57,ross,Nuevo Pedido PRE CARGA,NORMAL/21
+*************
+31/01/2023 9:49:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 9:49:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 9:50:00,ross,Actualizacon Medico,Medico=ZURITA FRANCISCA
+*************
+31/01/2023 9:52:18,ross,Nuevo Pedido PRE CARGA,NORMAL/22
+*************
+31/01/2023 9:59:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 9:59:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 10:00:43,ross,Nuevo Pedido PRE CARGA,NORMAL/23
+*************
+31/01/2023 10:07:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 10:08:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 10:23:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 10:23:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 10:25:57,ross,Nuevo Pedido PRE CARGA,NORMAL/24
+*************
+31/01/2023 10:26:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 10:26:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 10:36:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 10:36:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 10:37:04,ross,Nuevo Pedido PRE CARGA,NORMAL/25
+*************
+31/01/2023 10:48:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 10:48:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 10:49:07,ross,Eliminar Test,TEST=401313
+*************
+31/01/2023 11:11:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 11:11:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 11:12:25,ross,Nuevo Test en Lista de Precios,Test=401313 25  NORMAL
+*************
+31/01/2023 11:12:25,ross,Nuevo Test en Lista de Precios,Test=401313 25  URGENCIA
+*************
+31/01/2023 11:12:25,ross,Actualiza Test,Test=CONSULTA MEDICA ALERGOLOGIA
+*************
+31/01/2023 11:12:25,ross,INGRESA TEST,TEST=CONSULTA MEDICA ALERGOLOGIA
+*************
+31/01/2023 11:14:06,ross,Nuevo Pedido PRE CARGA,NORMAL/26
+*************
+31/01/2023 11:59:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 11:59:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 12:18:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 12:18:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 12:27:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 12:28:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 14:58:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 14:58:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 15:41:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 15:41:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 15:57:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 15:57:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 16:07:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 16:07:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 16:53:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 16:53:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 16:59:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 16:59:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 17:03:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 17:03:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 17:16:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 17:16:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 17:17:18,ross,Nuevo Pedido PRE CARGA,NORMAL/1
+*************
+31/01/2023 17:40:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 17:40:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 21:23:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 21:23:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 21:30:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 21:30:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 21:35:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 21:35:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 21:40:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 21:40:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 21:56:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 21:56:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2023 22:01:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2023 22:01:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 19:59:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 19:59:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 20:04:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 20:04:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 20:05:48,ross,Nuevo Pedido PRE CARGA,NORMAL/21
+*************
+05/01/2023 20:06:29,ross,Nuevo Pedido PRE CARGA,NORMAL/22
+*************
+05/01/2023 20:11:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 20:11:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 20:11:38,ross,Nuevo Pedido PRE CARGA,NORMAL/23
+*************
+05/01/2023 20:13:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 20:13:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 20:14:19,ross,Nuevo Pedido PRE CARGA,NORMAL/24
+*************
+05/01/2023 20:23:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/01/2023 20:23:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/01/2023 20:24:36,ross,Operación de Movimiento Inventario,
+*************
+05/01/2023 20:24:36,ross,Inserción de detalle movimiento inventario,
+*************
+05/01/2023 20:25:07,ross,Operación de Movimiento Inventario,
+*************
+05/01/2023 20:25:07,ross,Inserción de detalle movimiento inventario,
+*************
+05/01/2023 20:25:36,ross,Operación de Movimiento Inventario,
+*************
+05/01/2023 20:25:36,ross,Inserción de detalle movimiento inventario,
+*************
+05/01/2023 20:26:03,ross,Operación de Movimiento Inventario,
+*************
+05/01/2023 20:26:03,ross,Inserción de detalle movimiento inventario,
+*************

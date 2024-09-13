@@ -1,0 +1,1504 @@
+01/10/2022 8:06:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/10/2022 8:06:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/10/2022 8:08:53,ross,Actualiza Test,Test=COLINESTERASA
+*************
+01/10/2022 8:12:31,ross,Actualiza Test,Test=APOPOPROTEINA A 
+*************
+01/10/2022 8:12:44,ross,Actualiza Test,Test=APOPOPROTEINA B 
+*************
+01/10/2022 8:14:13,ross,Actualiza Test,Test=IgE
+*************
+01/10/2022 8:14:30,ross,Actualiza Test,Test=HIERRO SERICO 
+*************
+01/10/2022 8:15:22,ross,Actualiza Test,Test=CARDIOLIPINA IGA 
+*************
+01/10/2022 8:37:16,ross,Actualiza Test,Test=INMUNOGLOBULINA M 
+*************
+01/10/2022 13:46:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/10/2022 13:47:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/10/2022 13:47:37,ross,Actualiza Test,Test=TSH 
+*************
+01/10/2022 15:17:56,ross,Actualiza Test,Test=FT4 
+*************
+01/10/2022 16:23:43,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400168,,PEDIDO=63614
+*************
+01/10/2022 16:25:52,ross,1 MODIFICA ORDEN LABORATORIO EXAMENES: 400168,,PEDIDO=63634
+*************
+01/10/2022 16:37:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=63603
+*************
+01/10/2022 16:37:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=63610
+*************
+01/10/2022 16:38:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=63599
+*************
+11/10/2022 16:20:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/10/2022 16:21:02,,Ingreso CONTRASEÑA FALLIDO,
+*************
+11/10/2022 16:21:02,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2022 16:21:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2022 16:22:26,ross,Nuevo Pedido PRE CARGA,NORMAL/11
+*************
+11/10/2022 20:08:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/10/2022 20:08:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2022 20:08:52,ross,GUARDA RESULTADOS,COLHH=3
+*************
+11/10/2022 20:08:52,ross,GUARDA RESULTADOS,AHDLHHH=4
+*************
+11/10/2022 20:08:52,ross,GUARDA RESULTADOS,LDLHHH=5
+*************
+11/10/2022 20:08:52,ross,GUARDA RESULTADOS,TGLHH=6
+*************
+11/10/2022 20:09:02,ross,GUARDA RESULTADOS,COLHH=3
+*************
+11/10/2022 20:09:02,ross,GUARDA RESULTADOS,AHDLHHH=4
+*************
+11/10/2022 20:09:02,ross,GUARDA RESULTADOS,LDLHHH=5
+*************
+11/10/2022 20:09:02,ross,GUARDA RESULTADOS,TGLHH=6
+*************
+11/10/2022 20:09:20,ross,IMPRIME TODO,PEDIDO=3
+*************
+11/10/2022 21:47:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/10/2022 21:47:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2022 21:48:19,ross,Nuevo Pedido PRE CARGA,NORMAL/12
+*************
+12/10/2022 17:55:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/10/2022 17:55:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/10/2022 7:58:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/10/2022 7:58:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/10/2022 14:21:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/10/2022 14:21:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/10/2022 17:28:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/10/2022 17:28:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/10/2022 20:35:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/10/2022 20:35:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/10/2022 20:36:30,ross,GUARDA RESULTADOS,COLHH=1
+*************
+18/10/2022 20:36:31,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+18/10/2022 20:36:33,ross,GUARDA RESULTADOS,LDLH=3
+*************
+18/10/2022 20:36:35,ross,GUARDA RESULTADOS,TGLHH=4
+*************
+18/10/2022 20:37:19,ross,Eliminar resultado AUX_HIS,
+*************
+19/10/2022 5:14:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/10/2022 5:14:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/10/2022 5:15:06,ross,GUARDA RESULTADOS,COLHH=1
+*************
+19/10/2022 5:15:08,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+19/10/2022 5:15:10,ross,GUARDA RESULTADOS,LDLH=3
+*************
+19/10/2022 5:15:12,ross,GUARDA RESULTADOS,TGLHH=4
+*************
+19/10/2022 5:18:25,ross,Eliminar resultado AUX_HIS,
+*************
+19/10/2022 5:26:54,ross,Eliminar resultado AUX_HIS,
+*************
+19/10/2022 5:36:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/10/2022 5:36:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/10/2022 5:37:42,ross,GUARDA RESULTADOS,COLHH=1
+*************
+19/10/2022 5:37:44,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+19/10/2022 5:37:46,ross,GUARDA RESULTADOS,LDLH=3
+*************
+19/10/2022 5:37:47,ross,GUARDA RESULTADOS,TGLHH=4
+*************
+19/10/2022 5:38:26,ross,Eliminar resultado AUX_HIS,
+*************
+19/10/2022 5:51:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/10/2022 5:51:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/10/2022 5:52:03,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+19/10/2022 5:52:05,ross,GUARDA RESULTADOS,UREH=40
+*************
+19/10/2022 5:52:06,ross,GUARDA RESULTADOS,CREH=1.0
+*************
+19/10/2022 5:52:08,ross,GUARDA RESULTADOS,COLHH=235
+*************
+19/10/2022 5:52:10,ross,GUARDA RESULTADOS,AHDLH=55
+*************
+19/10/2022 5:52:12,ross,GUARDA RESULTADOS,LDLH=160
+*************
+19/10/2022 5:52:14,ross,GUARDA RESULTADOS,TGLHH=96
+*************
+19/10/2022 5:52:16,ross,GUARDA RESULTADOS,ASTH=29
+*************
+19/10/2022 5:52:18,ross,GUARDA RESULTADOS,ALTH=27
+*************
+19/10/2022 5:52:20,ross,GUARDA RESULTADOS,GGTH=30
+*************
+19/10/2022 5:52:22,ross,GUARDA RESULTADOS,FALKH=63
+*************
+19/10/2022 5:52:24,ross,GUARDA RESULTADOS,GLUCH=100
+*************
+19/10/2022 5:52:25,ross,GUARDA RESULTADOS,LDHH=353
+*************
+19/10/2022 5:52:58,ross,Eliminar resultado AUX_HIS,
+*************
+19/10/2022 16:08:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/10/2022 16:08:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/10/2022 16:11:33,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=32208
+*************
+19/10/2022 16:11:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=32208
+*************
+19/10/2022 16:19:32,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=32209
+*************
+19/10/2022 16:19:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=32209
+*************
+19/10/2022 16:21:26,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=32210
+*************
+19/10/2022 16:21:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=32210
+*************
+25/10/2022 9:30:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/10/2022 9:30:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/10/2022 10:28:16,ross,01 GENERAR ORDEN  CORTESIA EXAMENES: 400101,,PEDIDO=32338
+*************
+25/10/2022 10:28:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=32338
+*************
+25/10/2022 10:57:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/10/2022 10:57:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/10/2022 11:32:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/10/2022 11:32:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/10/2022 11:39:55,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+25/10/2022 11:40:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/10/2022 11:40:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/10/2022 11:59:18,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+25/10/2022 11:59:40,ross,IMPRIME TODO,PEDIDO=32348
+*************
+25/10/2022 11:59:45,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+25/10/2022 12:24:05,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+25/10/2022 12:24:09,ross,VALIDACION RESULTADO,PEDIDO=32348/400101
+*************
+25/10/2022 12:27:30,ross,IMPRIME POR AREA,PEDIDO=32348
+*************
+25/10/2022 12:35:52,ross,IMPRIME TODO,PEDIDO=32348
+*************
+25/10/2022 16:30:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/10/2022 16:30:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2022 11:45:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/10/2022 11:45:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2022 11:47:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/10/2022 11:48:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2022 11:48:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=13
+*************
+26/10/2022 11:48:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+26/10/2022 11:49:13,ross,03 IMPRIMIR PEDIDO,PEDIDO=13
+*************
+26/10/2022 11:49:36,ross,IMPRIMIR CONTRAORDEN,
+*************
+26/10/2022 11:49:42,ross,IMPRIMIR LISTA TRABAJO,
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,WBCH=4
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,NEUH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,LYMH=6
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,MONH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,EOSH=6
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,BASOH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,RBCH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,HCTH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,HGBH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,MCVH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,MCHH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,RDW-CVH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,PLTH=4
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,MPVH=4
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,PDWH=4
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,PCTH=4
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+26/10/2022 11:50:13,ross,GUARDA RESULTADOS,P-LCCH=4
+*************
+26/10/2022 11:50:38,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Suero lipemico
+*************
+26/10/2022 11:50:39,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/10/2022 11:50:39,ross,GUARDA RESULTADOS,COLHH=189
+*************
+26/10/2022 11:50:39,ross,GUARDA RESULTADOS,AHDLHHH=29
+*************
+26/10/2022 11:50:39,ross,GUARDA RESULTADOS,LDLHHH=129.58
+*************
+26/10/2022 11:50:39,ross,GUARDA RESULTADOS,TGLHH=152.1
+*************
+26/10/2022 11:50:41,ross,VALIDACION RESULTADO,PEDIDO=13/400101
+*************
+26/10/2022 11:50:41,ross,VALIDACION RESULTADO,PEDIDO=13/400149
+*************
+26/10/2022 11:50:41,ross,VALIDACION RESULTADO,PEDIDO=13/400150
+*************
+26/10/2022 11:50:41,ross,VALIDACION RESULTADO,PEDIDO=13/400151
+*************
+26/10/2022 11:50:41,ross,VALIDACION RESULTADO,PEDIDO=13/400476
+*************
+26/10/2022 11:50:42,ross,Eliminar resultado AUX_HIS,
+*************
+26/10/2022 11:51:03,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+26/10/2022 12:06:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/10/2022 12:06:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2022 12:15:59,ross,Generar Paciente,Paciente=LARREA KATTY
+*************
+26/10/2022 12:20:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,,PEDIDO=14
+*************
+26/10/2022 12:20:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+26/10/2022 12:24:42,ross,Actualiza FACTURA,FACTURA=10
+*************
+26/10/2022 12:24:42,ross,Ingresa FACTURA,FACTURA=10
+*************
+26/10/2022 12:24:43,ross,Insertar abono,Factura=10 Abono= 10
+*************
+26/10/2022 12:24:43,ross,Actualiza FACTURA,FACTURA=10/10
+*************
+26/10/2022 12:24:45,ross,Inserta usuario web,Paciente=7 LKATTY
+*************
+26/10/2022 12:24:45,ross,Registra Tx Factura,Factura=10
+*************
+26/10/2022 12:25:31,ross,Insertar abono,Factura=10 Abono= 10
+*************
+26/10/2022 12:25:31,ross,Actualiza FACTURA,FACTURA=10/10
+*************
+26/10/2022 12:25:32,ross,Registra Tx Factura,Factura=10
+*************
+26/10/2022 12:26:01,ross,03 IMPRIMIR PEDIDO,PEDIDO=14
+*************
+26/10/2022 12:28:50,ross,Generar Paciente,Paciente=ALMEIDA REINA AMELIA EDELMIRA
+*************
+26/10/2022 12:28:52,ross,Nuevo Pedido IMPORTACION,ZIRUX/15
+*************
+26/10/2022 12:28:52,ross,Generar Paciente,Paciente=BENITES VALENCIA AUGUSTOA ARCADIO
+*************
+26/10/2022 12:28:53,ross,Nuevo Pedido IMPORTACION,ZIRUX/16
+*************
+26/10/2022 12:28:53,ross,Generar Paciente,Paciente=FUENTES MIRANDA BENIGNO ANDRES
+*************
+26/10/2022 12:28:54,ross,Nuevo Pedido IMPORTACION,ZIRUX/17
+*************
+26/10/2022 12:28:54,ross,Generar Paciente,Paciente=GAIBOR ERAZO CARLOS HUMBERTO
+*************
+26/10/2022 12:28:55,ross,Nuevo Pedido IMPORTACION,ZIRUX/18
+*************
+26/10/2022 12:28:55,ross,Generar Paciente,Paciente=JARAMILLO PACHECO MANUEL EDUARDO
+*************
+26/10/2022 12:28:56,ross,Nuevo Pedido IMPORTACION,ZIRUX/19
+*************
+26/10/2022 12:28:56,ross,Generar Paciente,Paciente=LEON BARZALLO MARIA DE LOURDES
+*************
+26/10/2022 12:28:56,ross,Nuevo Pedido IMPORTACION,ZIRUX/20
+*************
+26/10/2022 12:28:56,ross,Generar Paciente,Paciente=LOPEZ ESCUDERO KEVIN JOEL
+*************
+26/10/2022 12:28:57,ross,Nuevo Pedido IMPORTACION,ZIRUX/21
+*************
+26/10/2022 12:28:57,ross,Generar Paciente,Paciente=MEJIA VERGARA MAGALY MARGARITA
+*************
+26/10/2022 12:28:58,ross,Nuevo Pedido IMPORTACION,ZIRUX/22
+*************
+26/10/2022 12:28:58,ross,Generar Paciente,Paciente=PALACIOS LEBRO PEDRO DAMIAN
+*************
+26/10/2022 12:28:59,ross,Nuevo Pedido IMPORTACION,ZIRUX/23
+*************
+26/10/2022 12:28:59,ross,Generar Paciente,Paciente=PIZA SILVA JIMMY JAVIER
+*************
+26/10/2022 12:29:00,ross,Nuevo Pedido IMPORTACION,ZIRUX/24
+*************
+26/10/2022 12:29:00,ross,Generar Paciente,Paciente=SALAS ARIAS AMADA APOLONIA
+*************
+26/10/2022 12:29:01,ross,Nuevo Pedido IMPORTACION,ZIRUX/25
+*************
+26/10/2022 12:29:01,ross,Generar Paciente,Paciente=SANTOS NAULA JOSE DANIEL
+*************
+26/10/2022 12:29:02,ross,Nuevo Pedido IMPORTACION,ZIRUX/26
+*************
+26/10/2022 12:29:02,ross,Generar Paciente,Paciente=SUAREZ VERA JOSE AGUSTIN
+*************
+26/10/2022 12:29:03,ross,Nuevo Pedido IMPORTACION,ZIRUX/27
+*************
+26/10/2022 12:29:03,ross,Generar Paciente,Paciente=VARGAS ALVARADO EDUARDO ELADIO
+*************
+26/10/2022 12:29:04,ross,Nuevo Pedido IMPORTACION,ZIRUX/28
+*************
+26/10/2022 12:29:04,ross,Generar Paciente,Paciente=VILLANAR VASQUEZ JUAN ARTEMIO
+*************
+26/10/2022 12:29:05,ross,Nuevo Pedido IMPORTACION,ZIRUX/29
+*************
+26/10/2022 12:29:05,ross,Generar Paciente,Paciente=AQUINO HERRERA VIDAL VALENTIN
+*************
+26/10/2022 12:29:05,ross,Nuevo Pedido IMPORTACION,ZIRUX/30
+*************
+26/10/2022 12:29:05,ross,Generar Paciente,Paciente=CANDO MESTANZA LUIS HOMERO
+*************
+26/10/2022 12:29:06,ross,Nuevo Pedido IMPORTACION,ZIRUX/31
+*************
+26/10/2022 12:29:06,ross,Generar Paciente,Paciente=CARBO POZO PEDRO AGUSTIN
+*************
+26/10/2022 12:29:07,ross,Nuevo Pedido IMPORTACION,ZIRUX/32
+*************
+26/10/2022 12:29:07,ross,Generar Paciente,Paciente=CARRASCO MOROCHO IRIS DE JESUS
+*************
+26/10/2022 12:29:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/33
+*************
+26/10/2022 12:29:08,ross,Generar Paciente,Paciente=CHANALATA CUVI IRENE SOLANDI
+*************
+26/10/2022 12:29:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/34
+*************
+26/10/2022 12:29:08,ross,Generar Paciente,Paciente=FRANCO MONCADA RINA ELIZABETH
+*************
+26/10/2022 12:29:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/35
+*************
+26/10/2022 12:29:09,ross,Generar Paciente,Paciente=JARAMILLO MORAN ROLANDO ANDRES
+*************
+26/10/2022 12:29:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/36
+*************
+26/10/2022 12:29:10,ross,Generar Paciente,Paciente=LOPEZ ANGAMARCA ERICK JOEL
+*************
+26/10/2022 12:29:11,ross,Nuevo Pedido IMPORTACION,ZIRUX/37
+*************
+26/10/2022 12:29:11,ross,Generar Paciente,Paciente=RAMOS ESPINOZA RUBEN DARIO
+*************
+26/10/2022 12:29:12,ross,Nuevo Pedido IMPORTACION,ZIRUX/38
+*************
+26/10/2022 12:29:12,ross,Generar Paciente,Paciente=RAMOS PAREDES NORMA YOLANDA
+*************
+26/10/2022 12:29:12,ross,Nuevo Pedido IMPORTACION,ZIRUX/39
+*************
+26/10/2022 12:29:12,ross,Generar Paciente,Paciente=SANCHEZ MANZABA VICENTA NARCISA
+*************
+26/10/2022 12:29:13,ross,Nuevo Pedido IMPORTACION,ZIRUX/40
+*************
+26/10/2022 12:29:13,ross,Generar Paciente,Paciente=VARGAS BERRUZ ROMULO FRANCISCO
+*************
+26/10/2022 12:29:14,ross,Nuevo Pedido IMPORTACION,ZIRUX/41
+*************
+26/10/2022 12:29:14,ross,Generar Paciente,Paciente=VARGAS OCHOA ARNULFO BENIGNO
+*************
+26/10/2022 12:29:15,ross,Nuevo Pedido IMPORTACION,ZIRUX/42
+*************
+26/10/2022 12:29:15,ross,Generar Paciente,Paciente=YEPEZ LINDAO JUANITA DEL PILAR
+*************
+26/10/2022 12:29:16,ross,Nuevo Pedido IMPORTACION,ZIRUX/43
+*************
+26/10/2022 12:29:16,ross,Generar Paciente,Paciente=AGUILAR LIMONES JOSE HUMBERTO
+*************
+26/10/2022 12:29:16,ross,Nuevo Pedido IMPORTACION,ZIRUX/44
+*************
+26/10/2022 12:29:16,ross,Generar Paciente,Paciente=ALCIVAR VALERO MANUELA DE JESUS
+*************
+26/10/2022 12:29:17,ross,Nuevo Pedido IMPORTACION,ZIRUX/45
+*************
+26/10/2022 12:29:17,ross,Generar Paciente,Paciente=ARIAS RONQUILLO CECILIA JOHANA
+*************
+26/10/2022 12:29:18,ross,Nuevo Pedido IMPORTACION,ZIRUX/46
+*************
+26/10/2022 12:29:18,ross,Generar Paciente,Paciente=BRAVO GOMEZ ZOILA MARIA
+*************
+26/10/2022 12:29:19,ross,Nuevo Pedido IMPORTACION,ZIRUX/47
+*************
+26/10/2022 12:29:19,ross,Generar Paciente,Paciente=CAMPOVERDE ICAZA JOSE LIONSO
+*************
+26/10/2022 12:29:20,ross,Nuevo Pedido IMPORTACION,ZIRUX/48
+*************
+26/10/2022 12:29:20,ross,Generar Paciente,Paciente=FLORES VALLEJO NORMA CRISTINA
+*************
+26/10/2022 12:29:20,ross,Nuevo Pedido IMPORTACION,ZIRUX/49
+*************
+26/10/2022 12:29:20,ross,Generar Paciente,Paciente=GUEVARA ABARCA HUGO EFRAIN
+*************
+26/10/2022 12:29:21,ross,Nuevo Pedido IMPORTACION,ZIRUX/50
+*************
+26/10/2022 12:29:21,ross,Generar Paciente,Paciente=HUACON MILLAN GERMANIA SOFIA
+*************
+26/10/2022 12:29:22,ross,Nuevo Pedido IMPORTACION,ZIRUX/51
+*************
+26/10/2022 12:29:22,ross,Generar Paciente,Paciente=MERINO ESPINOZA MARILYN MILAGROS
+*************
+26/10/2022 12:29:23,ross,Nuevo Pedido IMPORTACION,ZIRUX/52
+*************
+26/10/2022 12:29:23,ross,Generar Paciente,Paciente=MONTIEL CERVANTES FELIX
+*************
+26/10/2022 12:29:23,ross,Nuevo Pedido IMPORTACION,ZIRUX/53
+*************
+26/10/2022 12:29:23,ross,Generar Paciente,Paciente=BAJAÑA LUIZ VICENTE HUMBERTO
+*************
+26/10/2022 12:29:24,ross,Nuevo Pedido IMPORTACION,ZIRUX/54
+*************
+26/10/2022 12:29:24,ross,Generar Paciente,Paciente=PALACIOS CABEZAS NENA ELAIS
+*************
+26/10/2022 12:29:25,ross,Nuevo Pedido IMPORTACION,ZIRUX/55
+*************
+26/10/2022 12:29:25,ross,Generar Paciente,Paciente=PAREDES ARIAS CARLOS EDUARDO
+*************
+26/10/2022 12:29:26,ross,Nuevo Pedido IMPORTACION,ZIRUX/56
+*************
+26/10/2022 12:29:26,ross,Generar Paciente,Paciente=PONCE CEDÑO MARIA CELESTE
+*************
+26/10/2022 12:29:27,ross,Nuevo Pedido IMPORTACION,ZIRUX/57
+*************
+26/10/2022 12:29:27,ross,Generar Paciente,Paciente=SANTANA ROCAFUERTE PEDRO CELESTINO
+*************
+26/10/2022 12:29:27,ross,Nuevo Pedido IMPORTACION,ZIRUX/58
+*************
+26/10/2022 12:29:27,ross,Generar Paciente,Paciente=TORRES CASTRO FREDDY BONIFACIO
+*************
+26/10/2022 12:29:28,ross,Nuevo Pedido IMPORTACION,ZIRUX/59
+*************
+26/10/2022 12:29:28,ross,Generar Paciente,Paciente=CASTRO MORAN GUIDO
+*************
+26/10/2022 12:29:29,ross,Nuevo Pedido IMPORTACION,ZIRUX/60
+*************
+26/10/2022 12:29:29,ross,Generar Paciente,Paciente=ACOSTA NAVAS MERCEDES ISABEL
+*************
+26/10/2022 12:29:30,ross,Nuevo Pedido IMPORTACION,ZIRUX/61
+*************
+26/10/2022 12:29:30,ross,Generar Paciente,Paciente=GARCIA YEPEZ VICTOR
+*************
+26/10/2022 12:29:31,ross,Nuevo Pedido IMPORTACION,ZIRUX/62
+*************
+26/10/2022 12:29:31,ross,Generar Paciente,Paciente=FRANCO ALMEIDA JUANA AURORA
+*************
+26/10/2022 12:29:31,ross,Nuevo Pedido IMPORTACION,ZIRUX/63
+*************
+26/10/2022 12:29:31,ross,Generar Paciente,Paciente=CALEÑO HIDALGO LUGIA BOLIVAR
+*************
+26/10/2022 12:29:32,ross,Nuevo Pedido IMPORTACION,ZIRUX/64
+*************
+26/10/2022 12:29:32,ross,Generar Paciente,Paciente=PACHECO ARTIAGA LUCY ANGELICA
+*************
+26/10/2022 12:29:33,ross,Nuevo Pedido IMPORTACION,ZIRUX/65
+*************
+26/10/2022 12:29:33,ross,Generar Paciente,Paciente=ALCIVAR ESTRELLA ANGELA ESPERANZA
+*************
+26/10/2022 12:29:34,ross,Nuevo Pedido IMPORTACION,ZIRUX/66
+*************
+26/10/2022 12:29:34,ross,Generar Paciente,Paciente=MIRANDA ORDOÑEZ HERMENEGILDO ROBERTO
+*************
+26/10/2022 12:29:35,ross,Nuevo Pedido IMPORTACION,ZIRUX/67
+*************
+26/10/2022 12:29:35,ross,Generar Paciente,Paciente=ORTIZ MURILLO PEDRO HUMBERTO
+*************
+26/10/2022 12:29:36,ross,Nuevo Pedido IMPORTACION,ZIRUX/68
+*************
+26/10/2022 12:29:36,ross,Generar Paciente,Paciente=TOAPANTA CONTRERAS LINNER DEL ROSARIO
+*************
+26/10/2022 12:29:37,ross,Nuevo Pedido IMPORTACION,ZIRUX/69
+*************
+26/10/2022 12:29:37,ross,Generar Paciente,Paciente=VERA BARAHONA GERMANIA ARCADIA
+*************
+26/10/2022 12:29:37,ross,Nuevo Pedido IMPORTACION,ZIRUX/70
+*************
+26/10/2022 12:29:37,ross,Generar Paciente,Paciente=ZAMBRANO MORA REGINA LUCIA
+*************
+26/10/2022 12:29:38,ross,Nuevo Pedido IMPORTACION,ZIRUX/71
+*************
+26/10/2022 12:29:38,ross,Generar Paciente,Paciente=ROJAS UVE LUCIA FERNANDA
+*************
+26/10/2022 12:29:39,ross,Nuevo Pedido IMPORTACION,ZIRUX/72
+*************
+26/10/2022 12:29:39,ross,Generar Paciente,Paciente=GAROFALO GUILLIN VICTOR ROBERTO
+*************
+26/10/2022 12:29:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/73
+*************
+26/10/2022 12:29:40,ross,Generar Paciente,Paciente=ACURIO MEJIA JOSE VICENTE
+*************
+26/10/2022 12:29:40,ross,Nuevo Pedido IMPORTACION,ZIRUX/74
+*************
+26/10/2022 12:29:40,ross,Generar Paciente,Paciente=ACURIO SANTIN GUSTAVO RODRIGO
+*************
+26/10/2022 12:29:41,ross,Nuevo Pedido IMPORTACION,ZIRUX/75
+*************
+26/10/2022 12:29:41,ross,Generar Paciente,Paciente=ALVARADO ICAZA LORENZO ANTONIO
+*************
+26/10/2022 12:29:42,ross,Nuevo Pedido IMPORTACION,ZIRUX/76
+*************
+26/10/2022 12:29:42,ross,Generar Paciente,Paciente=ALVARADO VERA MANUEL HUMBERTO
+*************
+26/10/2022 12:29:43,ross,Nuevo Pedido IMPORTACION,ZIRUX/77
+*************
+26/10/2022 12:29:43,ross,Generar Paciente,Paciente=BAEZ GARCIA BRIGIE JAZMIN
+*************
+26/10/2022 12:29:44,ross,Nuevo Pedido IMPORTACION,ZIRUX/78
+*************
+26/10/2022 12:29:44,ross,Generar Paciente,Paciente=BARBOTO RUIZ MIGUEL EVANGELISTA
+*************
+26/10/2022 12:29:45,ross,Nuevo Pedido IMPORTACION,ZIRUX/79
+*************
+26/10/2022 12:29:45,ross,Generar Paciente,Paciente=BRAVO POVEDA VICENTE FRANKLIN
+*************
+26/10/2022 12:29:46,ross,Nuevo Pedido IMPORTACION,ZIRUX/80
+*************
+26/10/2022 12:29:46,ross,Generar Paciente,Paciente=BRIONES BUSTAMANTE YINA PATRICIA
+*************
+26/10/2022 12:29:49,ross,Nuevo Pedido IMPORTACION,ZIRUX/81
+*************
+26/10/2022 12:29:49,ross,Generar Paciente,Paciente=CADENA MENDEZ BLANCA EMPERATRIZ
+*************
+26/10/2022 12:29:51,ross,Nuevo Pedido IMPORTACION,ZIRUX/82
+*************
+26/10/2022 12:29:51,ross,Generar Paciente,Paciente=CARRASCO SANTILLAN CARLOS PLUTARCO
+*************
+26/10/2022 12:29:52,ross,Nuevo Pedido IMPORTACION,ZIRUX/83
+*************
+26/10/2022 12:29:52,ross,Generar Paciente,Paciente=COELLO LEON SERGIO ROMULO
+*************
+26/10/2022 12:29:53,ross,Nuevo Pedido IMPORTACION,ZIRUX/84
+*************
+26/10/2022 12:29:53,ross,Generar Paciente,Paciente=DIAZ ESLAO MARCOS ALBERTO
+*************
+26/10/2022 12:29:54,ross,Nuevo Pedido IMPORTACION,ZIRUX/85
+*************
+26/10/2022 12:29:54,ross,Generar Paciente,Paciente=GARAICOA LOOR ANDRES FRANCISCO
+*************
+26/10/2022 12:29:55,ross,Nuevo Pedido IMPORTACION,ZIRUX/86
+*************
+26/10/2022 12:29:55,ross,Generar Paciente,Paciente=GARCIA PONCE JOHANNA ROCIO
+*************
+26/10/2022 12:29:56,ross,Nuevo Pedido IMPORTACION,ZIRUX/87
+*************
+26/10/2022 12:29:56,ross,Generar Paciente,Paciente=GUERRERO LEAL BERTHA MARILU
+*************
+26/10/2022 12:29:57,ross,Nuevo Pedido IMPORTACION,ZIRUX/88
+*************
+26/10/2022 12:29:57,ross,Generar Paciente,Paciente=MENDOZA BAYAS ANGEL RICARDO
+*************
+26/10/2022 12:29:58,ross,Nuevo Pedido IMPORTACION,ZIRUX/89
+*************
+26/10/2022 12:29:58,ross,Generar Paciente,Paciente=MENENDEZ HURTADO ORLANDO XAVIER
+*************
+26/10/2022 12:29:58,ross,Nuevo Pedido IMPORTACION,ZIRUX/90
+*************
+26/10/2022 12:29:58,ross,Generar Paciente,Paciente=MORA VITE DARWIN VICENTE
+*************
+26/10/2022 12:29:59,ross,Nuevo Pedido IMPORTACION,ZIRUX/91
+*************
+26/10/2022 12:29:59,ross,Generar Paciente,Paciente=SANCHEZ SEGUNDO BOLIVAR
+*************
+26/10/2022 12:30:00,ross,Nuevo Pedido IMPORTACION,ZIRUX/92
+*************
+26/10/2022 12:30:00,ross,Generar Paciente,Paciente=SARCO SALAZAR LUIS FERNANDO
+*************
+26/10/2022 12:30:01,ross,Nuevo Pedido IMPORTACION,ZIRUX/93
+*************
+26/10/2022 12:30:01,ross,Generar Paciente,Paciente=SILVA TAPIA JULIO JACINTO
+*************
+26/10/2022 12:30:02,ross,Nuevo Pedido IMPORTACION,ZIRUX/94
+*************
+26/10/2022 12:30:02,ross,Generar Paciente,Paciente=SILVA TOMALA ROSA VIRGINIA
+*************
+26/10/2022 12:30:03,ross,Nuevo Pedido IMPORTACION,ZIRUX/95
+*************
+26/10/2022 12:30:03,ross,Generar Paciente,Paciente=TORRES CEREZO JULIA DEL CARMEN
+*************
+26/10/2022 12:30:04,ross,Nuevo Pedido IMPORTACION,ZIRUX/96
+*************
+26/10/2022 12:30:04,ross,Generar Paciente,Paciente=VACA PIZA GLADIS BENITA
+*************
+26/10/2022 12:30:04,ross,Nuevo Pedido IMPORTACION,ZIRUX/97
+*************
+26/10/2022 12:30:04,ross,Generar Paciente,Paciente=VALENCIA CASTILLO MARIO GEOVANNY
+*************
+26/10/2022 12:30:05,ross,Nuevo Pedido IMPORTACION,ZIRUX/98
+*************
+26/10/2022 12:30:05,ross,Generar Paciente,Paciente=VARGAS ESPINOZA PEDRO DARIO
+*************
+26/10/2022 12:30:06,ross,Nuevo Pedido IMPORTACION,ZIRUX/99
+*************
+26/10/2022 12:30:06,ross,Generar Paciente,Paciente=VITE AYALA TEODORO FRANCISCO
+*************
+26/10/2022 12:30:07,ross,Nuevo Pedido IMPORTACION,ZIRUX/100
+*************
+26/10/2022 12:30:07,ross,Generar Paciente,Paciente=VITE PAZ ANGELA HAYDEE
+*************
+26/10/2022 12:30:08,ross,Nuevo Pedido IMPORTACION,ZIRUX/101
+*************
+26/10/2022 12:30:08,ross,Generar Paciente,Paciente=RIVERA BARCO MARIANA DE JESUS
+*************
+26/10/2022 12:30:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/102
+*************
+26/10/2022 12:30:09,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA JOSE ALBERTO
+*************
+26/10/2022 12:30:09,ross,Nuevo Pedido IMPORTACION,ZIRUX/103
+*************
+26/10/2022 12:30:09,ross,Generar Paciente,Paciente=LUQUE MORAN JULIA FELIPA
+*************
+26/10/2022 12:30:10,ross,Nuevo Pedido IMPORTACION,ZIRUX/104
+*************
+26/10/2022 12:30:10,ross,Generar Paciente,Paciente=QUINGA GUTIERREZ LUIS ALBERTO
+*************
+26/10/2022 12:30:11,ross,Nuevo Pedido IMPORTACION,ZIRUX/105
+*************
+26/10/2022 12:30:11,ross,Generar Paciente,Paciente=RODRIGUEZ MORA ANA PILAR
+*************
+26/10/2022 12:30:12,ross,Nuevo Pedido IMPORTACION,ZIRUX/106
+*************
+26/10/2022 12:30:12,ross,Generar Paciente,Paciente=CAICEDO RIVADENEIRA RAFAELA EMILIA
+*************
+26/10/2022 12:30:13,ross,Nuevo Pedido IMPORTACION,ZIRUX/107
+*************
+26/10/2022 12:30:13,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA MIGUEL ALBERTO
+*************
+26/10/2022 12:30:14,ross,Nuevo Pedido IMPORTACION,ZIRUX/108
+*************
+26/10/2022 12:30:14,ross,Generar Paciente,Paciente=CARPIO MONTOYA PEDRO FELIX
+*************
+26/10/2022 12:30:14,ross,Nuevo Pedido IMPORTACION,ZIRUX/109
+*************
+26/10/2022 12:30:14,ross,Generar Paciente,Paciente=CELI ARIAS WELLINGTON ANTONIO
+*************
+26/10/2022 12:30:15,ross,Nuevo Pedido IMPORTACION,ZIRUX/110
+*************
+26/10/2022 12:30:15,ross,Generar Paciente,Paciente=CRUZ REYES MARTHA DEL ROCIO
+*************
+26/10/2022 12:30:16,ross,Nuevo Pedido IMPORTACION,ZIRUX/111
+*************
+26/10/2022 12:30:16,ross,Generar Paciente,Paciente=DE LA CRUZ VERA WILSON LAUTARO
+*************
+26/10/2022 12:30:17,ross,Nuevo Pedido IMPORTACION,ZIRUX/112
+*************
+26/10/2022 12:30:17,ross,Generar Paciente,Paciente=ELIZONDO VERA NELLY POMPELLA
+*************
+26/10/2022 12:30:18,ross,Nuevo Pedido IMPORTACION,ZIRUX/113
+*************
+26/10/2022 12:30:18,ross,Generar Paciente,Paciente=ESPIN JARA FREDDY ENRIQUE
+*************
+26/10/2022 12:30:19,ross,Nuevo Pedido IMPORTACION,ZIRUX/114
+*************
+26/10/2022 12:30:19,ross,Generar Paciente,Paciente=MARTINEZ SANTILLAN MERCEDES AIDA
+*************
+26/10/2022 12:30:19,ross,Nuevo Pedido IMPORTACION,ZIRUX/115
+*************
+26/10/2022 12:30:19,ross,Generar Paciente,Paciente=MINDIOLA BURGOS KLEBER ANTONIO
+*************
+26/10/2022 12:30:20,ross,Nuevo Pedido IMPORTACION,ZIRUX/116
+*************
+26/10/2022 12:30:20,ross,Generar Paciente,Paciente=MORAN TORRES ADALBERTO RAMON
+*************
+26/10/2022 12:30:21,ross,Nuevo Pedido IMPORTACION,ZIRUX/117
+*************
+26/10/2022 12:30:21,ross,Generar Paciente,Paciente=OLAYA ACOSTA JORGE JAVIER
+*************
+26/10/2022 12:30:22,ross,Nuevo Pedido IMPORTACION,ZIRUX/118
+*************
+26/10/2022 12:30:22,ross,Generar Paciente,Paciente=VILLANAR MONTALVO LUIS ANTONIO
+*************
+26/10/2022 12:30:23,ross,Nuevo Pedido IMPORTACION,ZIRUX/119
+*************
+26/10/2022 12:31:27,ross,IMPRIMIR CONTRAORDEN,
+*************
+26/10/2022 12:31:41,ross,IMPRIMIR CONTRAORDEN,
+*************
+26/10/2022 12:32:08,ross,IMPRIMIR LISTA TRABAJO,
+*************
+26/10/2022 12:32:20,ross,IMPRIMIR HOJA TRABAJO,
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,WBC=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,NEU=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,LYM=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,MON=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,EOS=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,BASO=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,LYM%25=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,MON%25=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,RBC=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,HCT=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,HGB=4
+*************
+26/10/2022 12:34:18,ross,GUARDA RESULTADOS,MCV=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,MCH=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,MCHC=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,RDW-CV=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,RDW-SD=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,PLT=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,MPV=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,PDW=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,PCT=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,P-LCR=4
+*************
+26/10/2022 12:34:19,ross,GUARDA RESULTADOS,P-LCC=4
+*************
+26/10/2022 12:35:44,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+26/10/2022 12:35:44,ross,GUARDA RESULTADOS,COLOH=PAJIZO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,PHO=5
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,ASCOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,PROTOH=100
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,HGBOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,CELPOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,CELEPH=+++
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,HEMOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,BACOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,MOCOH=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,URO=
+*************
+26/10/2022 12:35:45,ross,GUARDA RESULTADOS,FOO=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,OXAO=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,CRIO=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,CILO=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,CIGO=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,CILCE=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,ESP=
+*************
+26/10/2022 12:35:46,ross,GUARDA RESULTADOS,OTROSO=
+*************
+26/10/2022 12:37:03,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES : suero lipemico
+*************
+26/10/2022 12:37:18,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/10/2022 12:37:18,ross,GUARDA RESULTADOS,COLHH=189
+*************
+26/10/2022 12:37:18,ross,GUARDA RESULTADOS,AHDLHH=45
+*************
+26/10/2022 12:37:18,ross,GUARDA RESULTADOS,LDLHHH=110.6
+*************
+26/10/2022 12:37:18,ross,GUARDA RESULTADOS,TGLHH=167
+*************
+26/10/2022 12:37:18,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+26/10/2022 12:37:34,ross,VALIDACION RESULTADO,PEDIDO=14/400101
+*************
+26/10/2022 12:37:34,ross,VALIDACION RESULTADO,PEDIDO=14/400149
+*************
+26/10/2022 12:37:34,ross,VALIDACION RESULTADO,PEDIDO=14/400150
+*************
+26/10/2022 12:37:34,ross,VALIDACION RESULTADO,PEDIDO=14/400151
+*************
+26/10/2022 12:37:34,ross,VALIDACION RESULTADO,PEDIDO=14/400230
+*************
+26/10/2022 12:37:34,ross,VALIDACION RESULTADO,PEDIDO=14/400476
+*************
+26/10/2022 12:37:34,ross,Eliminar resultado AUX_HIS,
+*************
+26/10/2022 12:39:30,ross,IMPRIME POR AREA,PEDIDO=14
+*************
+26/10/2022 12:40:40,ross,IMPRIME TODO,PEDIDO=14
+*************
+26/10/2022 12:41:25,ross,IMPRIME POR EMAMEN,PEDIDO=14
+*************
+26/10/2022 12:41:38,ross,IMPRIME SOBRE,PEDIDO=14
+*************
+26/10/2022 12:47:15,ross,Actualizar Rango Unico,Test=11 Rango=4.8-11
+*************
+26/10/2022 12:47:23,ross,Actualizar Rango Unico,Test=11 Rango=4.8-12
+*************
+26/10/2022 17:08:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/10/2022 17:08:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2022 18:26:25,ross,IMPRIME POR AREA,PEDIDO=32348
+*************
+26/10/2022 19:37:02,ross,IMPRIME POR AREA,PEDIDO=32348
+*************
+27/10/2022 9:13:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 9:13:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 10:28:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 10:28:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 10:36:00,ross,IMPRIME POR AREA,PEDIDO=32348
+*************
+27/10/2022 11:00:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 11:00:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 11:42:37,ross,IMPRIME POR AREA,PEDIDO=32348
+*************
+27/10/2022 11:46:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 11:46:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 12:17:05,ross,IMPRIME POR AREA,PEDIDO=32348
+*************
+27/10/2022 17:22:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 17:22:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 17:24:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 17:24:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 17:45:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 17:45:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 17:48:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 17:48:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 18:39:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 18:39:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 20:16:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 20:16:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 20:35:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 20:35:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 20:52:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 20:52:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 21:11:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 21:12:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 21:25:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 21:25:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 21:26:33,ross,Actualizacon Medico,Medico=LOPEZ JUAN
+*************
+27/10/2022 21:33:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 21:36:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 21:36:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 21:40:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 21:40:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/10/2022 21:43:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/10/2022 21:43:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2022 7:58:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/10/2022 7:58:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2022 8:03:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/10/2022 8:03:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2022 8:24:50,ross,Actualiza Test,Test=ANTIPEPTIDO CITRULINADO
+*************
+29/10/2022 8:26:59,ross,Actualiza Test,Test=RESULTADO
+*************
+29/10/2022 8:27:24,ross,Actualiza Test,Test=RANGOREFERENCIAL
+*************
+29/10/2022 8:27:32,ross,Actualiza Test,Test=25-OH VITAMINA (D2-D3)
+*************
+29/10/2022 8:29:31,ross,Actualiza Test,Test=CA 125 
+*************
+29/10/2022 8:29:42,ross,Actualiza Test,Test=CA 15-3 
+*************
+29/10/2022 8:29:57,ross,Actualiza Test,Test=CA 15-3 
+*************
+29/10/2022 8:37:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/10/2022 8:37:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2022 8:50:07,ross,Actualiza Test,Test=ANTI-CCP CITRULINA
+*************
+29/10/2022 8:51:05,ross,Actualiza Test,Test=cifra 21-1
+*************
+29/10/2022 8:52:28,ross,Actualiza Test,Test=INTERLUKINA
+*************
+29/10/2022 8:58:41,ross,Actualiza Test,Test=ANTI-TPO
+*************
+29/10/2022 15:54:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/10/2022 15:54:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2022 15:58:16,ross,Actualiza Test,Test=PROLACTINA
+*************
+31/10/2022 19:19:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/10/2022 19:19:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/10/2022 19:21:02,ross,Nuevo Convenio,Convenio=DIALISIS
+*************
+31/10/2022 19:21:03,ross,Guardar secuencia,SECUENCIA=DIALISIS/2101/2500
+*************
+31/10/2022 19:22:04,ross,Nuevo Perfil,PERFIL=PERFIL PRE
+*************
+31/10/2022 19:23:00,ross,Nuevo Perfil,PERFIL=PERFIL POST
+*************
+31/10/2022 19:24:46,ross,Nuevo Pedido IMPORTACION,DIALISIS/120
+*************
+31/10/2022 19:24:46,ross,Nuevo Pedido IMPORTACION,DIALISIS/121
+*************
+31/10/2022 19:24:47,ross,Nuevo Pedido IMPORTACION,DIALISIS/122
+*************
+31/10/2022 19:24:47,ross,Nuevo Pedido IMPORTACION,DIALISIS/123
+*************
+31/10/2022 19:24:48,ross,Nuevo Pedido IMPORTACION,DIALISIS/124
+*************
+31/10/2022 19:24:48,ross,Nuevo Pedido IMPORTACION,DIALISIS/125
+*************
+31/10/2022 19:24:48,ross,Nuevo Pedido IMPORTACION,DIALISIS/126
+*************
+31/10/2022 19:24:49,ross,Nuevo Pedido IMPORTACION,DIALISIS/127
+*************
+31/10/2022 19:24:49,ross,Nuevo Pedido IMPORTACION,DIALISIS/128
+*************
+31/10/2022 19:24:49,ross,Nuevo Pedido IMPORTACION,DIALISIS/129
+*************
+31/10/2022 19:24:50,ross,Nuevo Pedido IMPORTACION,DIALISIS/130
+*************
+31/10/2022 19:24:50,ross,Nuevo Pedido IMPORTACION,DIALISIS/131
+*************
+31/10/2022 19:24:50,ross,Nuevo Pedido IMPORTACION,DIALISIS/132
+*************
+31/10/2022 19:24:51,ross,Nuevo Pedido IMPORTACION,DIALISIS/133
+*************
+31/10/2022 19:24:51,ross,Nuevo Pedido IMPORTACION,DIALISIS/134
+*************
+31/10/2022 19:24:52,ross,Nuevo Pedido IMPORTACION,DIALISIS/135
+*************
+31/10/2022 19:24:53,ross,Nuevo Pedido IMPORTACION,DIALISIS/136
+*************
+31/10/2022 19:24:53,ross,Nuevo Pedido IMPORTACION,DIALISIS/137
+*************
+31/10/2022 19:24:54,ross,Nuevo Pedido IMPORTACION,DIALISIS/138
+*************
+31/10/2022 19:24:55,ross,Nuevo Pedido IMPORTACION,DIALISIS/139
+*************
+31/10/2022 19:24:55,ross,Nuevo Pedido IMPORTACION,DIALISIS/140
+*************
+31/10/2022 19:24:56,ross,Nuevo Pedido IMPORTACION,DIALISIS/141
+*************
+31/10/2022 19:24:57,ross,Nuevo Pedido IMPORTACION,DIALISIS/142
+*************
+31/10/2022 19:24:57,ross,Nuevo Pedido IMPORTACION,DIALISIS/143
+*************
+31/10/2022 19:24:58,ross,Nuevo Pedido IMPORTACION,DIALISIS/144
+*************
+31/10/2022 19:24:58,ross,Nuevo Pedido IMPORTACION,DIALISIS/145
+*************
+31/10/2022 19:24:59,ross,Nuevo Pedido IMPORTACION,DIALISIS/146
+*************
+31/10/2022 19:24:59,ross,Nuevo Pedido IMPORTACION,DIALISIS/147
+*************
+31/10/2022 19:25:00,ross,Nuevo Pedido IMPORTACION,DIALISIS/148
+*************
+31/10/2022 19:25:01,ross,Nuevo Pedido IMPORTACION,DIALISIS/149
+*************
+31/10/2022 19:25:01,ross,Nuevo Pedido IMPORTACION,DIALISIS/150
+*************
+31/10/2022 19:25:02,ross,Nuevo Pedido IMPORTACION,DIALISIS/151
+*************
+31/10/2022 19:25:02,ross,Nuevo Pedido IMPORTACION,DIALISIS/152
+*************
+31/10/2022 19:25:03,ross,Nuevo Pedido IMPORTACION,DIALISIS/153
+*************
+31/10/2022 19:25:04,ross,Nuevo Pedido IMPORTACION,DIALISIS/154
+*************
+31/10/2022 19:25:04,ross,Nuevo Pedido IMPORTACION,DIALISIS/155
+*************
+31/10/2022 19:25:04,ross,Nuevo Pedido IMPORTACION,DIALISIS/156
+*************
+31/10/2022 19:25:05,ross,Nuevo Pedido IMPORTACION,DIALISIS/157
+*************
+31/10/2022 19:25:06,ross,Nuevo Pedido IMPORTACION,DIALISIS/158
+*************
+31/10/2022 19:25:06,ross,Nuevo Pedido IMPORTACION,DIALISIS/159
+*************
+31/10/2022 19:25:07,ross,Nuevo Pedido IMPORTACION,DIALISIS/160
+*************
+31/10/2022 19:25:07,ross,Nuevo Pedido IMPORTACION,DIALISIS/161
+*************
+31/10/2022 19:25:08,ross,Nuevo Pedido IMPORTACION,DIALISIS/162
+*************
+31/10/2022 19:25:09,ross,Nuevo Pedido IMPORTACION,DIALISIS/163
+*************
+31/10/2022 19:25:09,ross,Nuevo Pedido IMPORTACION,DIALISIS/164
+*************
+31/10/2022 19:25:10,ross,Nuevo Pedido IMPORTACION,DIALISIS/165
+*************
+31/10/2022 19:25:10,ross,Nuevo Pedido IMPORTACION,DIALISIS/166
+*************
+31/10/2022 19:25:11,ross,Nuevo Pedido IMPORTACION,DIALISIS/167
+*************
+31/10/2022 19:25:11,ross,Nuevo Pedido IMPORTACION,DIALISIS/168
+*************
+31/10/2022 19:25:12,ross,Nuevo Pedido IMPORTACION,DIALISIS/169
+*************
+31/10/2022 19:25:12,ross,Nuevo Pedido IMPORTACION,DIALISIS/170
+*************
+31/10/2022 19:25:13,ross,Nuevo Pedido IMPORTACION,DIALISIS/171
+*************
+31/10/2022 19:25:14,ross,Nuevo Pedido IMPORTACION,DIALISIS/172
+*************
+31/10/2022 19:25:14,ross,Nuevo Pedido IMPORTACION,DIALISIS/173
+*************
+31/10/2022 19:25:14,ross,Nuevo Pedido IMPORTACION,DIALISIS/174
+*************
+31/10/2022 19:25:15,ross,Nuevo Pedido IMPORTACION,DIALISIS/175
+*************
+31/10/2022 19:25:16,ross,Nuevo Pedido IMPORTACION,DIALISIS/176
+*************
+31/10/2022 19:25:16,ross,Nuevo Pedido IMPORTACION,DIALISIS/177
+*************
+31/10/2022 19:25:17,ross,Nuevo Pedido IMPORTACION,DIALISIS/178
+*************
+31/10/2022 19:25:17,ross,Nuevo Pedido IMPORTACION,DIALISIS/179
+*************
+31/10/2022 19:25:19,ross,Nuevo Pedido IMPORTACION,DIALISIS/180
+*************
+31/10/2022 19:25:20,ross,Nuevo Pedido IMPORTACION,DIALISIS/181
+*************
+31/10/2022 19:25:20,ross,Nuevo Pedido IMPORTACION,DIALISIS/182
+*************
+31/10/2022 19:25:20,ross,Nuevo Pedido IMPORTACION,DIALISIS/183
+*************
+31/10/2022 19:25:21,ross,Nuevo Pedido IMPORTACION,DIALISIS/184
+*************
+31/10/2022 19:25:21,ross,Nuevo Pedido IMPORTACION,DIALISIS/185
+*************
+31/10/2022 19:25:22,ross,Nuevo Pedido IMPORTACION,DIALISIS/186
+*************
+31/10/2022 19:25:23,ross,Nuevo Pedido IMPORTACION,DIALISIS/187
+*************
+31/10/2022 19:25:23,ross,Nuevo Pedido IMPORTACION,DIALISIS/188
+*************
+31/10/2022 19:25:24,ross,Nuevo Pedido IMPORTACION,DIALISIS/189
+*************
+31/10/2022 19:25:24,ross,Nuevo Pedido IMPORTACION,DIALISIS/190
+*************
+31/10/2022 19:25:25,ross,Nuevo Pedido IMPORTACION,DIALISIS/191
+*************
+31/10/2022 19:25:25,ross,Nuevo Pedido IMPORTACION,DIALISIS/192
+*************
+31/10/2022 19:25:26,ross,Nuevo Pedido IMPORTACION,DIALISIS/193
+*************
+31/10/2022 19:25:26,ross,Nuevo Pedido IMPORTACION,DIALISIS/194
+*************
+31/10/2022 19:25:27,ross,Nuevo Pedido IMPORTACION,DIALISIS/195
+*************
+31/10/2022 19:25:27,ross,Nuevo Pedido IMPORTACION,DIALISIS/196
+*************
+31/10/2022 19:25:28,ross,Nuevo Pedido IMPORTACION,DIALISIS/197
+*************
+31/10/2022 19:25:28,ross,Nuevo Pedido IMPORTACION,DIALISIS/198
+*************
+31/10/2022 19:25:29,ross,Nuevo Pedido IMPORTACION,DIALISIS/199
+*************
+31/10/2022 19:25:29,ross,Nuevo Pedido IMPORTACION,DIALISIS/200
+*************
+31/10/2022 19:25:30,ross,Nuevo Pedido IMPORTACION,DIALISIS/201
+*************
+31/10/2022 19:25:30,ross,Nuevo Pedido IMPORTACION,DIALISIS/202
+*************
+31/10/2022 19:25:30,ross,Nuevo Pedido IMPORTACION,DIALISIS/203
+*************
+31/10/2022 19:25:31,ross,Nuevo Pedido IMPORTACION,DIALISIS/204
+*************
+31/10/2022 19:25:31,ross,Nuevo Pedido IMPORTACION,DIALISIS/205
+*************
+31/10/2022 19:25:32,ross,Nuevo Pedido IMPORTACION,DIALISIS/206
+*************
+31/10/2022 19:25:32,ross,Nuevo Pedido IMPORTACION,DIALISIS/207
+*************
+31/10/2022 19:25:32,ross,Nuevo Pedido IMPORTACION,DIALISIS/208
+*************
+31/10/2022 19:25:33,ross,Nuevo Pedido IMPORTACION,DIALISIS/209
+*************
+31/10/2022 19:25:33,ross,Nuevo Pedido IMPORTACION,DIALISIS/210
+*************
+31/10/2022 19:25:34,ross,Nuevo Pedido IMPORTACION,DIALISIS/211
+*************
+31/10/2022 19:25:34,ross,Nuevo Pedido IMPORTACION,DIALISIS/212
+*************
+31/10/2022 19:25:34,ross,Nuevo Pedido IMPORTACION,DIALISIS/213
+*************
+31/10/2022 19:25:35,ross,Nuevo Pedido IMPORTACION,DIALISIS/214
+*************
+31/10/2022 19:25:35,ross,Nuevo Pedido IMPORTACION,DIALISIS/215
+*************
+31/10/2022 19:25:36,ross,Nuevo Pedido IMPORTACION,DIALISIS/216
+*************
+31/10/2022 19:25:36,ross,Nuevo Pedido IMPORTACION,DIALISIS/217
+*************
+31/10/2022 19:25:36,ross,Nuevo Pedido IMPORTACION,DIALISIS/218
+*************
+31/10/2022 19:25:37,ross,Nuevo Pedido IMPORTACION,DIALISIS/219
+*************
+31/10/2022 19:25:37,ross,Nuevo Pedido IMPORTACION,DIALISIS/220
+*************
+31/10/2022 19:25:38,ross,Nuevo Pedido IMPORTACION,DIALISIS/221
+*************
+31/10/2022 19:25:38,ross,Nuevo Pedido IMPORTACION,DIALISIS/222
+*************
+31/10/2022 19:25:39,ross,Nuevo Pedido IMPORTACION,DIALISIS/223
+*************
+31/10/2022 19:25:39,ross,Nuevo Pedido IMPORTACION,DIALISIS/224
+*************
+31/10/2022 19:26:07,ross,Nuevo Pedido IMPORTACION,DIALISIS/225
+*************
+31/10/2022 19:26:08,ross,Nuevo Pedido IMPORTACION,DIALISIS/226
+*************
+31/10/2022 19:26:09,ross,Nuevo Pedido IMPORTACION,DIALISIS/227
+*************
+31/10/2022 19:26:09,ross,Nuevo Pedido IMPORTACION,DIALISIS/228
+*************
+31/10/2022 19:26:09,ross,Nuevo Pedido IMPORTACION,DIALISIS/229
+*************
+31/10/2022 19:26:10,ross,Nuevo Pedido IMPORTACION,DIALISIS/230
+*************
+31/10/2022 19:26:10,ross,Nuevo Pedido IMPORTACION,DIALISIS/231
+*************
+31/10/2022 19:26:10,ross,Nuevo Pedido IMPORTACION,DIALISIS/232
+*************
+31/10/2022 19:26:11,ross,Nuevo Pedido IMPORTACION,DIALISIS/233
+*************
+31/10/2022 19:26:11,ross,Nuevo Pedido IMPORTACION,DIALISIS/234
+*************
+31/10/2022 19:26:12,ross,Nuevo Pedido IMPORTACION,DIALISIS/235
+*************
+31/10/2022 19:26:12,ross,Nuevo Pedido IMPORTACION,DIALISIS/236
+*************
+31/10/2022 19:26:12,ross,Nuevo Pedido IMPORTACION,DIALISIS/237
+*************
+31/10/2022 19:26:13,ross,Nuevo Pedido IMPORTACION,DIALISIS/238
+*************
+31/10/2022 19:26:13,ross,Nuevo Pedido IMPORTACION,DIALISIS/239
+*************
+31/10/2022 19:26:14,ross,Nuevo Pedido IMPORTACION,DIALISIS/240
+*************
+31/10/2022 19:26:14,ross,Nuevo Pedido IMPORTACION,DIALISIS/241
+*************
+31/10/2022 19:26:14,ross,Nuevo Pedido IMPORTACION,DIALISIS/242
+*************
+31/10/2022 19:26:15,ross,Nuevo Pedido IMPORTACION,DIALISIS/243
+*************
+31/10/2022 19:26:15,ross,Nuevo Pedido IMPORTACION,DIALISIS/244
+*************
+31/10/2022 19:26:15,ross,Nuevo Pedido IMPORTACION,DIALISIS/245
+*************
+31/10/2022 19:26:16,ross,Nuevo Pedido IMPORTACION,DIALISIS/246
+*************
+31/10/2022 19:26:16,ross,Nuevo Pedido IMPORTACION,DIALISIS/247
+*************
+31/10/2022 19:26:17,ross,Nuevo Pedido IMPORTACION,DIALISIS/248
+*************
+31/10/2022 19:26:17,ross,Nuevo Pedido IMPORTACION,DIALISIS/249
+*************
+31/10/2022 19:26:17,ross,Nuevo Pedido IMPORTACION,DIALISIS/250
+*************
+31/10/2022 19:26:18,ross,Nuevo Pedido IMPORTACION,DIALISIS/251
+*************
+31/10/2022 19:26:18,ross,Nuevo Pedido IMPORTACION,DIALISIS/252
+*************
+31/10/2022 19:26:18,ross,Nuevo Pedido IMPORTACION,DIALISIS/253
+*************
+31/10/2022 19:26:19,ross,Nuevo Pedido IMPORTACION,DIALISIS/254
+*************
+31/10/2022 19:26:19,ross,Nuevo Pedido IMPORTACION,DIALISIS/255
+*************
+31/10/2022 19:26:20,ross,Nuevo Pedido IMPORTACION,DIALISIS/256
+*************
+31/10/2022 19:26:20,ross,Nuevo Pedido IMPORTACION,DIALISIS/257
+*************
+31/10/2022 19:26:20,ross,Nuevo Pedido IMPORTACION,DIALISIS/258
+*************
+31/10/2022 19:26:21,ross,Nuevo Pedido IMPORTACION,DIALISIS/259
+*************
+31/10/2022 19:26:21,ross,Nuevo Pedido IMPORTACION,DIALISIS/260
+*************
+31/10/2022 19:26:22,ross,Nuevo Pedido IMPORTACION,DIALISIS/261
+*************
+31/10/2022 19:26:22,ross,Nuevo Pedido IMPORTACION,DIALISIS/262
+*************
+31/10/2022 19:26:22,ross,Nuevo Pedido IMPORTACION,DIALISIS/263
+*************
+31/10/2022 19:26:23,ross,Nuevo Pedido IMPORTACION,DIALISIS/264
+*************
+31/10/2022 19:26:23,ross,Nuevo Pedido IMPORTACION,DIALISIS/265
+*************
+31/10/2022 19:26:23,ross,Nuevo Pedido IMPORTACION,DIALISIS/266
+*************
+31/10/2022 19:26:24,ross,Nuevo Pedido IMPORTACION,DIALISIS/267
+*************
+31/10/2022 19:26:24,ross,Nuevo Pedido IMPORTACION,DIALISIS/268
+*************
+31/10/2022 19:26:24,ross,Nuevo Pedido IMPORTACION,DIALISIS/269
+*************
+31/10/2022 19:26:25,ross,Nuevo Pedido IMPORTACION,DIALISIS/270
+*************
+31/10/2022 19:26:26,ross,Nuevo Pedido IMPORTACION,DIALISIS/271
+*************
+31/10/2022 19:26:27,ross,Nuevo Pedido IMPORTACION,DIALISIS/272
+*************
+31/10/2022 19:26:27,ross,Nuevo Pedido IMPORTACION,DIALISIS/273
+*************
+31/10/2022 19:26:27,ross,Nuevo Pedido IMPORTACION,DIALISIS/274
+*************
+31/10/2022 19:26:28,ross,Nuevo Pedido IMPORTACION,DIALISIS/275
+*************
+31/10/2022 19:26:28,ross,Nuevo Pedido IMPORTACION,DIALISIS/276
+*************
+31/10/2022 19:26:29,ross,Nuevo Pedido IMPORTACION,DIALISIS/277
+*************
+31/10/2022 19:26:29,ross,Nuevo Pedido IMPORTACION,DIALISIS/278
+*************
+31/10/2022 19:26:29,ross,Nuevo Pedido IMPORTACION,DIALISIS/279
+*************
+31/10/2022 19:26:30,ross,Nuevo Pedido IMPORTACION,DIALISIS/280
+*************
+31/10/2022 19:26:30,ross,Nuevo Pedido IMPORTACION,DIALISIS/281
+*************
+31/10/2022 19:26:30,ross,Nuevo Pedido IMPORTACION,DIALISIS/282
+*************
+31/10/2022 19:26:31,ross,Nuevo Pedido IMPORTACION,DIALISIS/283
+*************
+31/10/2022 19:26:31,ross,Nuevo Pedido IMPORTACION,DIALISIS/284
+*************
+31/10/2022 19:26:32,ross,Nuevo Pedido IMPORTACION,DIALISIS/285
+*************
+31/10/2022 19:26:32,ross,Nuevo Pedido IMPORTACION,DIALISIS/286
+*************
+31/10/2022 19:26:33,ross,Nuevo Pedido IMPORTACION,DIALISIS/287
+*************
+31/10/2022 19:26:33,ross,Nuevo Pedido IMPORTACION,DIALISIS/288
+*************
+31/10/2022 19:26:33,ross,Nuevo Pedido IMPORTACION,DIALISIS/289
+*************
+31/10/2022 19:26:34,ross,Nuevo Pedido IMPORTACION,DIALISIS/290
+*************
+31/10/2022 19:26:34,ross,Nuevo Pedido IMPORTACION,DIALISIS/291
+*************
+31/10/2022 19:26:34,ross,Nuevo Pedido IMPORTACION,DIALISIS/292
+*************
+31/10/2022 19:26:35,ross,Nuevo Pedido IMPORTACION,DIALISIS/293
+*************
+31/10/2022 19:26:35,ross,Nuevo Pedido IMPORTACION,DIALISIS/294
+*************
+31/10/2022 19:26:36,ross,Nuevo Pedido IMPORTACION,DIALISIS/295
+*************
+31/10/2022 19:26:36,ross,Nuevo Pedido IMPORTACION,DIALISIS/296
+*************
+31/10/2022 19:26:37,ross,Nuevo Pedido IMPORTACION,DIALISIS/297
+*************
+31/10/2022 19:26:37,ross,Nuevo Pedido IMPORTACION,DIALISIS/298
+*************
+31/10/2022 19:26:37,ross,Nuevo Pedido IMPORTACION,DIALISIS/299
+*************
+31/10/2022 19:26:38,ross,Nuevo Pedido IMPORTACION,DIALISIS/300
+*************
+31/10/2022 19:26:38,ross,Nuevo Pedido IMPORTACION,DIALISIS/301
+*************
+31/10/2022 19:26:38,ross,Nuevo Pedido IMPORTACION,DIALISIS/302
+*************
+31/10/2022 19:26:39,ross,Nuevo Pedido IMPORTACION,DIALISIS/303
+*************
+31/10/2022 19:26:39,ross,Nuevo Pedido IMPORTACION,DIALISIS/304
+*************
+31/10/2022 19:26:40,ross,Nuevo Pedido IMPORTACION,DIALISIS/305
+*************
+31/10/2022 19:26:40,ross,Nuevo Pedido IMPORTACION,DIALISIS/306
+*************
+31/10/2022 19:26:40,ross,Nuevo Pedido IMPORTACION,DIALISIS/307
+*************
+31/10/2022 19:26:41,ross,Nuevo Pedido IMPORTACION,DIALISIS/308
+*************
+31/10/2022 19:26:42,ross,Nuevo Pedido IMPORTACION,DIALISIS/309
+*************
+31/10/2022 19:26:42,ross,Nuevo Pedido IMPORTACION,DIALISIS/310
+*************
+31/10/2022 19:26:42,ross,Nuevo Pedido IMPORTACION,DIALISIS/311
+*************
+31/10/2022 19:26:43,ross,Nuevo Pedido IMPORTACION,DIALISIS/312
+*************
+31/10/2022 19:26:43,ross,Nuevo Pedido IMPORTACION,DIALISIS/313
+*************
+31/10/2022 19:26:43,ross,Nuevo Pedido IMPORTACION,DIALISIS/314
+*************
+31/10/2022 19:26:44,ross,Nuevo Pedido IMPORTACION,DIALISIS/315
+*************
+31/10/2022 19:26:44,ross,Nuevo Pedido IMPORTACION,DIALISIS/316
+*************
+31/10/2022 19:26:44,ross,Nuevo Pedido IMPORTACION,DIALISIS/317
+*************
+31/10/2022 19:26:45,ross,Nuevo Pedido IMPORTACION,DIALISIS/318
+*************
+31/10/2022 19:26:45,ross,Nuevo Pedido IMPORTACION,DIALISIS/319
+*************
+31/10/2022 19:26:46,ross,Nuevo Pedido IMPORTACION,DIALISIS/320
+*************
+31/10/2022 19:26:46,ross,Nuevo Pedido IMPORTACION,DIALISIS/321
+*************
+31/10/2022 19:26:46,ross,Nuevo Pedido IMPORTACION,DIALISIS/322
+*************
+31/10/2022 19:26:47,ross,Nuevo Pedido IMPORTACION,DIALISIS/323
+*************
+31/10/2022 19:26:47,ross,Nuevo Pedido IMPORTACION,DIALISIS/324
+*************
+31/10/2022 19:26:48,ross,Nuevo Pedido IMPORTACION,DIALISIS/325
+*************
+31/10/2022 19:26:48,ross,Nuevo Pedido IMPORTACION,DIALISIS/326
+*************
+31/10/2022 19:26:48,ross,Nuevo Pedido IMPORTACION,DIALISIS/327
+*************
+31/10/2022 19:26:49,ross,Nuevo Pedido IMPORTACION,DIALISIS/328
+*************
+31/10/2022 19:26:49,ross,Nuevo Pedido IMPORTACION,DIALISIS/329
+*************
+31/10/2022 20:35:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/10/2022 20:35:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/10/2022 20:36:05,ross,IMPRIMIR CONTRAORDEN,
+*************
+31/10/2022 20:36:37,ross,IMPRIMIR LISTA TRABAJO,
+*************
+31/10/2022 20:44:44,ross,Nuevo Servicio,SERVICIO=DIALISIS
+*************

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_Autocompletado" targetNamespace="http://tempuri.org/dts_Autocompletado.xsd" xmlns:mstns="http://tempuri.org/dts_Autocompletado.xsd" xmlns="http://tempuri.org/dts_Autocompletado.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_Autocompletado" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dts_Autocompletado" msprop:Generator_UserDSName="dts_Autocompletado" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AUTOCOMPLETADO" msprop:Generator_UserTableName="AUTOCOMPLETADO" msprop:Generator_RowDeletedName="AUTOCOMPLETADORowDeleted" msprop:Generator_TableClassName="AUTOCOMPLETADODataTable" msprop:Generator_RowChangedName="AUTOCOMPLETADORowChanged" msprop:Generator_RowClassName="AUTOCOMPLETADORow" msprop:Generator_RowChangingName="AUTOCOMPLETADORowChanging" msprop:Generator_RowEvArgName="AUTOCOMPLETADORowChangeEvent" msprop:Generator_RowEvHandlerName="AUTOCOMPLETADORowChangeEventHandler" msprop:Generator_TablePropName="AUTOCOMPLETADO" msprop:Generator_TableVarName="tableAUTOCOMPLETADO" msprop:Generator_RowDeletingName="AUTOCOMPLETADORowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AUTO_ID" msprop:Generator_UserColumnName="AUTO_ID" msprop:Generator_ColumnPropNameInRow="AUTO_ID" msprop:Generator_ColumnVarNameInTable="columnAUTO_ID" msprop:Generator_ColumnPropNameInTable="AUTO_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="AUTO_NOMBRE" msprop:Generator_UserColumnName="AUTO_NOMBRE" msprop:Generator_ColumnPropNameInRow="AUTO_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnAUTO_NOMBRE" msprop:Generator_ColumnPropNameInTable="AUTO_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ARE_ID" msprop:Generator_UserColumnName="ARE_ID" msprop:Generator_ColumnPropNameInRow="ARE_ID" msprop:Generator_ColumnVarNameInTable="columnARE_ID" msprop:Generator_ColumnPropNameInTable="ARE_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ARE_NOMBRE" msprop:Generator_UserColumnName="ARE_NOMBRE" msprop:Generator_ColumnPropNameInRow="ARE_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnARE_NOMBRE" msprop:Generator_ColumnPropNameInTable="ARE_NOMBREColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

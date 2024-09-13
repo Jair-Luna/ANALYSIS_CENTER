@@ -1,0 +1,850 @@
+03/07/2018 12:53:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/07/2018 12:53:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/07/2018 13:09:34,ross,1 GENERAR ORDEN,PEDIDO=3639
+*************
+03/07/2018 13:09:37,ross,2 IMPRIMIR COD BARRAS,PEDIDO=3639
+*************
+03/07/2018 13:10:13,ross,Actualiza Test,Test=VDRL
+*************
+03/07/2018 13:10:45,ross,Actualiza Test,Test=HIV
+*************
+03/07/2018 13:11:16,ross,1 GENERAR ORDEN,PEDIDO=3640
+*************
+03/07/2018 13:11:19,ross,2 IMPRIMIR COD BARRAS,PEDIDO=3640
+*************
+03/07/2018 13:11:44,ross,GUARDA RESULTADOS,HIV=NO REACTIVO
+*************
+03/07/2018 13:11:44,ross,GUARDA RESULTADOS,VDRL=NO REACTIVO
+*************
+03/07/2018 13:11:45,ross,VALIDACION RESULTADO,PEDIDO=3640/400772
+*************
+03/07/2018 13:11:46,ross,VALIDACION RESULTADO,PEDIDO=3640/400781
+*************
+03/07/2018 14:46:06,ross,Generar Paciente,Paciente=FUENTES GALARZA FUENTES GALARZA
+*************
+03/07/2018 14:46:42,ross,Generar Paciente,Paciente=GOMEZ PERALTA GOMEZ PERALTA
+*************
+03/07/2018 15:40:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/07/2018 15:40:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/07/2018 15:44:43,ross,Generar Paciente,Paciente=FUENTES GALARZA FUENTES GALARZA
+*************
+04/07/2018 16:23:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/07/2018 16:23:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/07/2018 16:24:52,ross,Nuevo Pedido PRE CARGA,LAB 1/3641
+*************
+04/07/2018 16:24:52,ross,Nuevo Pedido PRE CARGA,LAB 1/3642
+*************
+04/07/2018 16:24:52,ross,Nuevo Pedido PRE CARGA,LAB 1/3643
+*************
+04/07/2018 16:24:52,ross,Nuevo Pedido PRE CARGA,LAB 1/3644
+*************
+04/07/2018 16:24:52,ross,Nuevo Pedido PRE CARGA,LAB 1/3645
+*************
+04/07/2018 16:24:52,ross,Nuevo Pedido PRE CARGA,LAB 1/3646
+*************
+05/07/2018 10:50:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/07/2018 10:50:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/07/2018 11:33:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/07/2018 11:33:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/07/2018 11:33:30,ross,Nueva Abreviatura,Parametro=URCA
+*************
+06/07/2018 14:16:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 14:16:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 14:25:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 14:25:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 14:29:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 14:30:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 14:39:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 14:39:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 14:53:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 14:53:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 14:57:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 14:57:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:02:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:02:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:05:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:05:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:09:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:09:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:15:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:15:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:19:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:19:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:25:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:25:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:27:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:27:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:30:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:30:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:34:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:34:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:43:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:43:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:46:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:46:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:50:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:50:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 15:59:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 15:59:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 16:02:07,ross,Nuevo Pedido PRE CARGA,LAB 4/3647
+*************
+06/07/2018 16:02:51,ross,Nuevo Pedido PRE CARGA,LAB 4/3648
+*************
+06/07/2018 16:02:51,ross,Generar Paciente,Paciente=MERA SALAZAR MERA SALAZAR
+*************
+06/07/2018 16:02:52,ross,Nuevo Pedido PRE CARGA,LAB 4/3649
+*************
+06/07/2018 16:02:52,ross,Generar Paciente,Paciente=PUAS JIMENEZ PUAS JIMENEZ
+*************
+06/07/2018 16:02:53,ross,Nuevo Pedido PRE CARGA,LAB 4/3650
+*************
+06/07/2018 16:02:53,ross,Generar Paciente,Paciente=SOLORSANO GOMEZ SOLORSANO GOMEZ
+*************
+06/07/2018 16:02:54,ross,Nuevo Pedido PRE CARGA,LAB 4/3651
+*************
+06/07/2018 16:02:55,ross,Nuevo Pedido PRE CARGA,LAB 4/3652
+*************
+06/07/2018 16:02:55,ross,Generar Paciente,Paciente=MAARCO MAURICIO MAARCO MAURICIO
+*************
+06/07/2018 16:02:56,ross,Nuevo Pedido PRE CARGA,LAB 4/3653
+*************
+06/07/2018 16:06:30,ross,Nuevo Pedido PRE CARGA,LAB 2/3654
+*************
+06/07/2018 16:06:35,ross,Nuevo Pedido PRE CARGA,LAB 2/3655
+*************
+06/07/2018 16:06:38,ross,Nuevo Pedido PRE CARGA,LAB 2/3656
+*************
+06/07/2018 16:06:41,ross,Nuevo Pedido PRE CARGA,LAB 2/3657
+*************
+06/07/2018 16:06:44,ross,Nuevo Pedido PRE CARGA,LAB 2/3658
+*************
+06/07/2018 16:06:47,ross,Nuevo Pedido PRE CARGA,LAB 2/3659
+*************
+06/07/2018 16:10:05,ross,1 ANULA ORDEN,PEDIDO=3647
+*************
+06/07/2018 16:10:19,ross,1 ANULA ORDEN,PEDIDO=3648
+*************
+06/07/2018 16:13:38,ross,Nuevo Pedido PRE CARGA,LAB 1/1
+*************
+06/07/2018 16:16:04,ross,Nuevo Pedido PRE CARGA,LAB 1/2
+*************
+06/07/2018 16:16:11,ross,Nuevo Pedido PRE CARGA,LAB 1/3
+*************
+06/07/2018 16:16:15,ross,Nuevo Pedido PRE CARGA,LAB 1/4
+*************
+06/07/2018 16:16:36,ross,Nuevo Pedido PRE CARGA,LAB 1/5
+*************
+06/07/2018 16:16:41,ross,Nuevo Pedido PRE CARGA,LAB 1/6
+*************
+06/07/2018 16:24:14,ross,Nuevo Pedido PRE CARGA,LAB 1/1
+*************
+06/07/2018 16:25:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 16:25:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 16:26:05,ross,Nuevo Pedido PRE CARGA,LAB 2/1
+*************
+06/07/2018 16:26:11,ross,Nuevo Pedido PRE CARGA,LAB 2/2
+*************
+06/07/2018 16:26:13,ross,Nuevo Pedido PRE CARGA,LAB 2/3
+*************
+06/07/2018 16:26:15,ross,Nuevo Pedido PRE CARGA,LAB 2/4
+*************
+06/07/2018 16:26:38,ross,Nuevo Pedido PRE CARGA,LAB 2/5
+*************
+06/07/2018 16:26:48,ross,Nuevo Pedido PRE CARGA,LAB 2/6
+*************
+06/07/2018 16:42:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 16:42:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2018 16:47:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2018 16:47:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:07:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:07:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:11:18,ross,Nuevo Pedido PRE CARGA,LAB 1/1
+*************
+10/07/2018 13:12:34,ross,Nuevo Pedido PRE CARGA,LAB 1/2
+*************
+10/07/2018 13:16:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:16:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:25:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:25:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:32:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:32:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:34:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:34:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:36:06,ross,Nuevo Pedido PRE CARGA,LAB 1/3
+*************
+10/07/2018 13:42:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:42:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:43:41,ross,Nuevo Pedido PRE CARGA,LAB 1/4
+*************
+10/07/2018 13:43:58,ross,Nuevo Pedido PRE CARGA,LAB 1/5
+*************
+10/07/2018 13:46:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:46:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:46:55,ross,Nuevo Pedido PRE CARGA,LAB 1/6
+*************
+10/07/2018 13:49:01,ross,Nuevo Pedido PRE CARGA,LAB 1/7
+*************
+10/07/2018 13:49:36,ross,Nuevo Pedido PRE CARGA,LAB 1/8
+*************
+10/07/2018 13:49:43,ross,Nuevo Pedido PRE CARGA,LAB 1/9
+*************
+10/07/2018 13:49:59,ross,Nuevo Pedido PRE CARGA,LAB 1/10
+*************
+10/07/2018 13:50:15,ross,Nuevo Pedido PRE CARGA,LAB 1/11
+*************
+10/07/2018 13:51:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 13:51:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 13:52:33,ross,Nuevo Pedido PRE CARGA,LAB 1/12
+*************
+10/07/2018 13:54:18,ross,Nuevo Pedido PRE CARGA,LAB 1/13
+*************
+10/07/2018 13:55:23,ross,Nuevo Pedido PRE CARGA,LAB 1/14
+*************
+10/07/2018 14:06:06,ross,Nuevo Pedido PRE CARGA,LAB 1/15
+*************
+10/07/2018 14:07:35,ross,Nuevo Pedido PRE CARGA,LAB 1/16
+*************
+10/07/2018 14:07:42,ross,Nuevo Pedido PRE CARGA,LAB 1/17
+*************
+10/07/2018 14:53:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 14:54:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 14:59:48,ross,Nuevo Pedido PRE CARGA,LAB 1/18
+*************
+10/07/2018 15:24:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 15:24:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 15:29:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 15:29:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 15:37:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 15:37:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 15:43:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 15:44:42,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/07/2018 15:44:42,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 15:44:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 15:50:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 15:50:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 15:55:00,ross,Nuevo Pedido PRE CARGA,ALANGASI/19
+*************
+10/07/2018 15:56:30,ross,Nuevo Pedido PRE CARGA,ALANGASI/20
+*************
+10/07/2018 15:56:33,ross,Nuevo Pedido PRE CARGA,ALANGASI/21
+*************
+10/07/2018 15:56:37,ross,Nuevo Pedido PRE CARGA,ALANGASI/22
+*************
+10/07/2018 15:56:50,ross,Nuevo Pedido PRE CARGA,ALANGASI/23
+*************
+10/07/2018 15:57:03,ross,Nuevo Pedido PRE CARGA,ALANGASI/24
+*************
+10/07/2018 16:21:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 16:21:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 16:23:03,ross,Nuevo Pedido PRE CARGA,ALANGASI/25
+*************
+10/07/2018 16:23:41,ross,Nuevo Pedido PRE CARGA,ALANGASI/26
+*************
+10/07/2018 16:23:52,ross,Nuevo Pedido PRE CARGA,ALANGASI/27
+*************
+10/07/2018 16:24:08,ross,Nuevo Pedido PRE CARGA,ALANGASI/28
+*************
+10/07/2018 16:24:15,ross,Nuevo Pedido PRE CARGA,ALANGASI/29
+*************
+10/07/2018 16:27:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 16:27:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 16:27:45,ross,Nuevo Pedido PRE CARGA,ALANGASI/30
+*************
+10/07/2018 16:28:00,ross,Nuevo Pedido PRE CARGA,ALANGASI/31
+*************
+10/07/2018 16:28:02,ross,Nuevo Pedido PRE CARGA,ALANGASI/32
+*************
+10/07/2018 16:28:06,ross,Nuevo Pedido PRE CARGA,ALANGASI/33
+*************
+10/07/2018 16:28:09,ross,Nuevo Pedido PRE CARGA,ALANGASI/34
+*************
+10/07/2018 16:32:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 16:32:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 16:51:28,ross,Nuevo Pedido PRE CARGA,GUANGOPOLO/1
+*************
+10/07/2018 16:56:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 16:56:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 17:00:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2018 17:00:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2018 17:00:33,ross,Nuevo Pedido PRE CARGA,ALANGASI/1
+*************
+13/07/2018 16:46:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2018 16:46:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2018 16:48:42,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+13/07/2018 16:48:44,ross,2 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+16/07/2018 10:09:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2018 10:09:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2018 10:10:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2018 10:10:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2018 10:10:55,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+16/07/2018 10:10:59,ross,2 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+16/07/2018 10:14:33,ross,1 GENERAR ORDEN,PEDIDO=4
+*************
+16/07/2018 10:14:38,ross,2 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+16/07/2018 10:15:22,ross,1 GENERAR ORDEN,PEDIDO=5
+*************
+16/07/2018 10:15:24,ross,2 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+16/07/2018 10:17:51,ross,GUARDA RESULTADOS,a3=180
+*************
+16/07/2018 10:17:51,ross,GUARDA RESULTADOS,b0=120
+*************
+16/07/2018 10:17:53,ross,VALIDACION RESULTADO,PEDIDO=3/400149
+*************
+16/07/2018 10:17:53,ross,VALIDACION RESULTADO,PEDIDO=3/400151
+*************
+16/07/2018 10:18:02,ross,GUARDA RESULTADOS,HCGQ=NEGATIVO
+*************
+16/07/2018 10:18:02,ross,GUARDA RESULTADOS,a8=120
+*************
+16/07/2018 10:18:04,ross,VALIDACION RESULTADO,PEDIDO=4/400142
+*************
+16/07/2018 10:18:04,ross,VALIDACION RESULTADO,PEDIDO=4/400571
+*************
+16/07/2018 10:55:26,ross,1 GENERAR ORDEN,PEDIDO=6
+*************
+16/07/2018 10:55:29,ross,2 IMPRIMIR COD BARRAS,PEDIDO=06
+*************
+16/07/2018 10:56:55,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+16/07/2018 10:56:59,ross,2 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+16/07/2018 10:58:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2018 10:58:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2018 11:07:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2018 11:07:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2018 11:09:43,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+16/07/2018 11:09:47,ross,2 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+16/07/2018 11:10:21,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+16/07/2018 11:10:25,ross,2 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+16/07/2018 11:11:10,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+16/07/2018 11:11:12,ross,2 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+16/07/2018 19:28:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2018 19:28:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2018 19:29:24,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+16/07/2018 19:29:27,ross,2 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+16/07/2018 19:29:46,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+16/07/2018 19:29:50,ross,2 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+16/07/2018 19:30:08,ross,GUARDA RESULTADOS,b0=23
+*************
+16/07/2018 19:30:09,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+16/07/2018 19:30:15,ross,GUARDA RESULTADOS,a3=220
+*************
+16/07/2018 19:30:17,ross,VALIDACION RESULTADO,PEDIDO=2/400149
+*************
+18/07/2018 12:41:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2018 12:44:04,SAMUJULI,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2018 12:45:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=400921 10  LAB 1
+*************
+18/07/2018 12:45:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=400921 10  LAB 2
+*************
+18/07/2018 12:45:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=400921 10  URGENCIAS
+*************
+18/07/2018 12:45:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=400921 10  LAB 4
+*************
+18/07/2018 12:45:35,SAMUJULI,INGERSA TEST,TEST=PANELDROGAS DE ABUSO EN ORINA
+*************
+18/07/2018 12:45:35,SAMUJULI,Actualiza Test,Test=PANELDROGAS DE ABUSO EN ORINA
+*************
+18/07/2018 12:46:26,SAMUJULI,Nuevo Test en Lista de Precios,Test=599 0  LAB 1
+*************
+18/07/2018 12:46:26,SAMUJULI,Nuevo Test en Lista de Precios,Test=599 0  LAB 2
+*************
+18/07/2018 12:46:26,SAMUJULI,Nuevo Test en Lista de Precios,Test=599 0  URGENCIAS
+*************
+18/07/2018 12:46:26,SAMUJULI,Nuevo Test en Lista de Precios,Test=599 0  LAB 4
+*************
+18/07/2018 12:46:26,SAMUJULI,INGERSA TEST,TEST=ANFETAMINAS
+*************
+18/07/2018 12:46:26,SAMUJULI,Actualiza Test,Test=ANFETAMINAS
+*************
+18/07/2018 12:47:02,SAMUJULI,Nuevo Test en Lista de Precios,Test=600 0  LAB 1
+*************
+18/07/2018 12:47:02,SAMUJULI,Nuevo Test en Lista de Precios,Test=600 0  LAB 2
+*************
+18/07/2018 12:47:02,SAMUJULI,Nuevo Test en Lista de Precios,Test=600 0  URGENCIAS
+*************
+18/07/2018 12:47:02,SAMUJULI,Nuevo Test en Lista de Precios,Test=600 0  LAB 4
+*************
+18/07/2018 12:47:02,SAMUJULI,INGERSA TEST,TEST=BENZODIACEPINAS
+*************
+18/07/2018 12:47:02,SAMUJULI,Actualiza Test,Test=BENZODIACEPINAS
+*************
+18/07/2018 12:47:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 1
+*************
+18/07/2018 12:47:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 2
+*************
+18/07/2018 12:47:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  URGENCIAS
+*************
+18/07/2018 12:47:35,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 4
+*************
+18/07/2018 12:47:35,SAMUJULI,INGERSA TEST,TEST=CANABINOIDES
+*************
+18/07/2018 12:47:35,SAMUJULI,Actualiza Test,Test=CANABINOIDES
+*************
+18/07/2018 12:48:04,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 1
+*************
+18/07/2018 12:48:04,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 2
+*************
+18/07/2018 12:48:04,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  URGENCIAS
+*************
+18/07/2018 12:48:04,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 4
+*************
+18/07/2018 12:48:04,SAMUJULI,INGERSA TEST,TEST=COCAINA
+*************
+18/07/2018 12:48:04,SAMUJULI,Actualiza Test,Test=COCAINA
+*************
+18/07/2018 12:48:45,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 1
+*************
+18/07/2018 12:48:45,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 2
+*************
+18/07/2018 12:48:45,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  URGENCIAS
+*************
+18/07/2018 12:48:45,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 4
+*************
+18/07/2018 12:48:45,SAMUJULI,INGERSA TEST,TEST=AGUA DE CALZON
+*************
+18/07/2018 12:48:45,SAMUJULI,Actualiza Test,Test=AGUA DE CALZON
+*************
+18/07/2018 12:49:44,SAMUJULI,Eliminar Test,TEST=601
+*************
+18/07/2018 12:50:39,SAMUJULI,Actualiza Test,Test=COCAINA 
+*************
+18/07/2018 12:51:38,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 1
+*************
+18/07/2018 12:51:38,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 2
+*************
+18/07/2018 12:51:38,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  URGENCIAS
+*************
+18/07/2018 12:51:38,SAMUJULI,Nuevo Test en Lista de Precios,Test=601 0  LAB 4
+*************
+18/07/2018 12:51:38,SAMUJULI,INGERSA TEST,TEST=AGUA DE CALZON
+*************
+18/07/2018 12:51:38,SAMUJULI,Actualiza Test,Test=AGUA DE CALZON
+*************
+18/07/2018 12:53:05,SAMUJULI,Generar Paciente,Paciente=PULGARIN PULLAS EDWIN WLADIMIR
+*************
+18/07/2018 12:53:15,SAMUJULI,1 GENERAR ORDEN,PEDIDO=3
+*************
+18/07/2018 12:53:18,SAMUJULI,2 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+18/07/2018 14:07:41,SAMUJULI,Generar Paciente,Paciente=CASTILLO BALLESTEROS DEIGO FERNANDO
+*************
+18/07/2018 14:07:52,SAMUJULI,1 GENERAR ORDEN,PEDIDO=4
+*************
+18/07/2018 14:07:54,SAMUJULI,2 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+18/07/2018 14:08:27,SAMUJULI,Actualiza Test,Test=PANELDROGAS DE ABUSO EN ORINA
+*************
+18/07/2018 14:09:00,SAMUJULI,GUARDA RESULTADOS,ANFE=NEGATIVO
+*************
+18/07/2018 14:09:00,SAMUJULI,GUARDA RESULTADOS,BENZO=NEGATIVO
+*************
+18/07/2018 14:09:00,SAMUJULI,GUARDA RESULTADOS,COC=NEGATIVO
+*************
+18/07/2018 14:09:00,SAMUJULI,GUARDA RESULTADOS,CALZON=POSITIVO
+*************
+18/07/2018 14:10:01,SAMUJULI,Actualiza Paciente,Paciente=TRAVEZ AULESTIA DIEGO RICARDO
+*************
+18/07/2018 14:10:55,SAMUJULI,GUARDA RESULTADOS,ANFE=NEGATIVO
+*************
+18/07/2018 14:10:55,SAMUJULI,GUARDA RESULTADOS,BENZO=NEGATIVO
+*************
+18/07/2018 14:10:55,SAMUJULI,GUARDA RESULTADOS,COC=NEGATIVO
+*************
+18/07/2018 14:10:55,SAMUJULI,GUARDA RESULTADOS,CALZON=POSITIVO
+*************
+18/07/2018 14:11:42,SAMUJULI,IMPRIME TODO,PEDIDO=1
+*************
+18/07/2018 14:13:20,SAMUJULI,GUARDA RESULTADOS,DROGAS1=MEMO
+*************
+18/07/2018 14:13:22,SAMUJULI,VALIDACION RESULTADO,PEDIDO=3/400921
+*************
+18/07/2018 14:13:27,SAMUJULI,GUARDA RESULTADOS,DROGAS1=MEMO
+*************
+18/07/2018 14:13:28,SAMUJULI,VALIDACION RESULTADO,PEDIDO=4/400921
+*************
+18/07/2018 14:13:41,SAMUJULI,IMPRIME TODO,PEDIDO=3
+*************
+18/07/2018 14:16:36,SAMUJULI,IMPRIME TODO,PEDIDO=4
+*************
+24/07/2018 12:06:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/07/2018 12:06:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/07/2018 12:29:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/07/2018 12:29:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 16:10:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2018 16:10:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 16:13:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2018 16:13:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 16:14:58,ross,Nuevo Pedido PRE CARGA,ALANGASI/5
+*************
+26/07/2018 16:17:26,ross,Nuevo Pedido PRE CARGA,ALANGASI/6
+*************
+26/07/2018 16:22:09,ross,Nuevo Pedido PRE CARGA,ALANGASI/7
+*************
+26/07/2018 16:23:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2018 16:23:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 16:24:03,ross,Nuevo Pedido PRE CARGA,ALANGASI/1
+*************
+26/07/2018 16:24:32,ross,Nuevo Pedido PRE CARGA,ALANGASI/2
+*************
+26/07/2018 16:25:08,ross,Nuevo Pedido PRE CARGA,ALANGASI/3
+*************
+26/07/2018 16:25:51,ross,Nuevo Pedido PRE CARGA,ALANGASI/4
+*************
+26/07/2018 16:26:02,ross,Nuevo Pedido PRE CARGA,ALANGASI/5
+*************
+26/07/2018 16:36:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2018 16:36:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 16:39:31,ross,Nuevo Pedido PRE CARGA,ALANGASI/1
+*************
+26/07/2018 16:40:43,ross,Nuevo Pedido PRE CARGA,ALANGASI/2
+*************
+26/07/2018 16:42:56,ross,Nuevo Pedido PRE CARGA,ALANGASI/3
+*************
+26/07/2018 16:45:16,ross,Nuevo Pedido PRE CARGA,ALANGASI/4
+*************
+26/07/2018 16:49:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2018 16:49:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 16:50:27,ross,Nuevo Pedido PRE CARGA,ALANGASI/1
+*************
+26/07/2018 16:50:37,ross,Nuevo Pedido PRE CARGA,ALANGASI/2
+*************
+26/07/2018 16:51:12,ross,Nuevo Pedido PRE CARGA,ALANGASI/3
+*************
+26/07/2018 16:52:19,ross,Nuevo Pedido PRE CARGA,ALANGASI/4
+*************
+26/07/2018 16:53:07,ross,Nuevo Pedido PRE CARGA,ALANGASI/5
+*************
+26/07/2018 17:01:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2018 17:01:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2018 17:02:31,ross,Nuevo Pedido PRE CARGA,EL TINGO/6
+*************
+26/07/2018 17:02:34,ross,Nuevo Pedido PRE CARGA,EL TINGO/7
+*************
+26/07/2018 17:02:35,ross,Nuevo Pedido PRE CARGA,EL TINGO/8
+*************
+26/07/2018 17:02:38,ross,Nuevo Pedido PRE CARGA,EL TINGO/9
+*************
+26/07/2018 17:04:00,ross,Nuevo Pedido PRE CARGA,EL TINGO/1
+*************
+26/07/2018 17:04:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/2
+*************
+26/07/2018 17:04:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/3
+*************
+26/07/2018 17:04:04,ross,Nuevo Pedido PRE CARGA,EL TINGO/4
+*************
+27/07/2018 15:17:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 15:17:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 15:18:24,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+27/07/2018 15:18:27,ross,2 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/07/2018 15:18:50,ross,GUARDA RESULTADOS,b0=124
+*************
+27/07/2018 15:18:51,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+27/07/2018 15:21:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 15:21:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 15:27:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 15:27:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 15:29:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 15:29:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 15:52:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 15:52:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 15:53:33,ross,Nuevo Pedido PRE CARGA,ALANGASI/2
+*************
+27/07/2018 15:53:46,ross,Nuevo Pedido PRE CARGA,ALANGASI/3
+*************
+27/07/2018 15:53:55,ross,Nuevo Pedido PRE CARGA,ALANGASI/4
+*************
+27/07/2018 15:54:04,ross,Nuevo Pedido PRE CARGA,ALANGASI/5
+*************
+27/07/2018 15:54:12,ross,Nuevo Pedido PRE CARGA,ALANGASI/6
+*************
+27/07/2018 16:14:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 16:14:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 16:14:38,ross,Nuevo Pedido PRE CARGA,ALANGASI/7
+*************
+27/07/2018 16:14:51,ross,Nuevo Pedido PRE CARGA,ALANGASI/8
+*************
+27/07/2018 16:15:07,ross,Nuevo Pedido PRE CARGA,ALANGASI/9
+*************
+27/07/2018 16:15:19,ross,Nuevo Pedido PRE CARGA,ALANGASI/10
+*************
+27/07/2018 16:15:26,ross,Nuevo Pedido PRE CARGA,ALANGASI/11
+*************
+27/07/2018 16:19:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2018 16:19:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2018 16:20:08,ross,Nuevo Pedido PRE CARGA,EL TINGO/12
+*************
+27/07/2018 16:20:08,ross,Nuevo Pedido PRE CARGA,EL TINGO/13
+*************
+27/07/2018 16:20:08,ross,Nuevo Pedido PRE CARGA,EL TINGO/14
+*************
+27/07/2018 16:20:08,ross,Nuevo Pedido PRE CARGA,EL TINGO/15
+*************
+27/07/2018 16:20:08,ross,Nuevo Pedido PRE CARGA,EL TINGO/16
+*************
+30/07/2018 9:21:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/07/2018 9:21:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/07/2018 9:21:51,ross,Nuevo Pedido PRE CARGA,LA MERCED/17
+*************
+30/07/2018 9:21:51,ross,Nuevo Pedido PRE CARGA,LA MERCED/18
+*************
+30/07/2018 9:21:51,ross,Nuevo Pedido PRE CARGA,LA MERCED/19
+*************
+30/07/2018 9:21:51,ross,Nuevo Pedido PRE CARGA,LA MERCED/20
+*************
+30/07/2018 9:21:51,ross,Nuevo Pedido PRE CARGA,LA MERCED/21
+*************
+30/07/2018 9:23:16,ross,GUARDA RESULTADOS,a3=1
+*************
+30/07/2018 9:23:16,ross,GUARDA RESULTADOS,a4=1
+*************
+30/07/2018 9:23:16,ross,GUARDA RESULTADOS,a5=1
+*************
+30/07/2018 9:23:16,ross,GUARDA RESULTADOS,b0=1
+*************
+30/07/2018 9:23:19,ross,VALIDACION RESULTADO,PEDIDO=21/400149
+*************
+30/07/2018 9:23:19,ross,VALIDACION RESULTADO,PEDIDO=21/400150
+*************
+30/07/2018 9:23:19,ross,VALIDACION RESULTADO,PEDIDO=21/400151
+*************
+30/07/2018 9:23:19,ross,VALIDACION RESULTADO,PEDIDO=21/400476
+*************
+30/07/2018 9:23:26,ross,GUARDA RESULTADOS,a3=2
+*************
+30/07/2018 9:23:26,ross,GUARDA RESULTADOS,a4=2
+*************
+30/07/2018 9:23:26,ross,GUARDA RESULTADOS,a5=2
+*************
+30/07/2018 9:23:26,ross,GUARDA RESULTADOS,b0=2
+*************
+30/07/2018 9:23:27,ross,VALIDACION RESULTADO,PEDIDO=20/400149
+*************
+30/07/2018 9:23:27,ross,VALIDACION RESULTADO,PEDIDO=20/400150
+*************
+30/07/2018 9:23:28,ross,VALIDACION RESULTADO,PEDIDO=20/400151
+*************
+30/07/2018 9:23:28,ross,VALIDACION RESULTADO,PEDIDO=20/400476
+*************
+30/07/2018 9:23:33,ross,GUARDA RESULTADOS,a3=3
+*************
+30/07/2018 9:23:33,ross,GUARDA RESULTADOS,a4=3
+*************
+30/07/2018 9:23:34,ross,GUARDA RESULTADOS,a5=3
+*************
+30/07/2018 9:23:34,ross,GUARDA RESULTADOS,b0=3
+*************
+30/07/2018 9:23:35,ross,VALIDACION RESULTADO,PEDIDO=19/400149
+*************
+30/07/2018 9:23:35,ross,VALIDACION RESULTADO,PEDIDO=19/400150
+*************
+30/07/2018 9:23:35,ross,VALIDACION RESULTADO,PEDIDO=19/400151
+*************
+30/07/2018 9:23:35,ross,VALIDACION RESULTADO,PEDIDO=19/400476
+*************
+30/07/2018 9:23:41,ross,GUARDA RESULTADOS,a3=4
+*************
+30/07/2018 9:23:41,ross,GUARDA RESULTADOS,a4=4
+*************
+30/07/2018 9:23:41,ross,GUARDA RESULTADOS,a5=4
+*************
+30/07/2018 9:23:41,ross,GUARDA RESULTADOS,b0=4
+*************
+30/07/2018 9:23:43,ross,VALIDACION RESULTADO,PEDIDO=18/400149
+*************
+30/07/2018 9:23:43,ross,VALIDACION RESULTADO,PEDIDO=18/400150
+*************
+30/07/2018 9:23:43,ross,VALIDACION RESULTADO,PEDIDO=18/400151
+*************
+30/07/2018 9:23:43,ross,VALIDACION RESULTADO,PEDIDO=18/400476
+*************
+30/07/2018 9:23:49,ross,GUARDA RESULTADOS,a3=5
+*************
+30/07/2018 9:23:49,ross,GUARDA RESULTADOS,a4=5
+*************
+30/07/2018 9:23:49,ross,GUARDA RESULTADOS,a5=5
+*************
+30/07/2018 9:23:49,ross,GUARDA RESULTADOS,b0=5
+*************
+30/07/2018 9:23:50,ross,VALIDACION RESULTADO,PEDIDO=17/400149
+*************
+30/07/2018 9:23:50,ross,VALIDACION RESULTADO,PEDIDO=17/400150
+*************
+30/07/2018 9:23:50,ross,VALIDACION RESULTADO,PEDIDO=17/400151
+*************
+30/07/2018 9:23:50,ross,VALIDACION RESULTADO,PEDIDO=17/400476
+*************
+31/07/2018 15:56:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/07/2018 15:56:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/07/2018 16:39:46,ross,Nuevo Pedido PRE CARGA,EL TINGO/22
+*************
+31/07/2018 16:39:46,ross,Nuevo Pedido PRE CARGA,EL TINGO/23
+*************
+31/07/2018 16:39:46,ross,Nuevo Pedido PRE CARGA,EL TINGO/24
+*************
+31/07/2018 16:39:46,ross,Nuevo Pedido PRE CARGA,EL TINGO/25
+*************
+31/07/2018 16:39:46,ross,Nuevo Pedido PRE CARGA,EL TINGO/26
+*************

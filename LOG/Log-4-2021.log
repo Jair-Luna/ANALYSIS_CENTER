@@ -1,0 +1,2062 @@
+01/04/2021 09:54:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 09:54:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 09:54:40,ross,IMPRIME POR AREA,PEDIDO=161
+*************
+01/04/2021 15:29:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 15:29:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 15:55:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 15:55:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 15:56:01,ross,01 GENERAR ORDEN,PEDIDO=163
+*************
+01/04/2021 15:56:02,ross,02 IMPRIMIR COD BARRAS,PEDIDO=163
+*************
+01/04/2021 15:56:13,ross,Actualiza FACTURA,FACTURA=15
+*************
+01/04/2021 15:56:13,ross,Ingresa FACTURA,FACTURA=15
+*************
+01/04/2021 15:56:14,ross,Insertar abono,Factura=15 Abono= 9.5
+*************
+01/04/2021 15:56:14,ross,Cancela FACTURA,FACTURA=15
+*************
+01/04/2021 16:06:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 16:06:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 16:35:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 16:35:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 16:38:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 16:38:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 16:43:33,ross,Generar Paciente,Paciente=GUAMAN FLORES LUIS FERNANDO
+*************
+01/04/2021 16:48:30,ross,01 GENERAR ORDEN,PEDIDO=164
+*************
+01/04/2021 16:48:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=164
+*************
+01/04/2021 16:49:45,ross,Actualiza FACTURA,FACTURA=16
+*************
+01/04/2021 16:49:45,ross,Ingresa FACTURA,FACTURA=16
+*************
+01/04/2021 16:49:46,ross,Insertar abono,Factura=16 Abono= 25
+*************
+01/04/2021 16:49:46,ross,Actualiza FACTURA,FACTURA=16/25
+*************
+01/04/2021 16:49:51,ross,Registra Tx Factura,Factura=16
+*************
+01/04/2021 16:52:42,ross,Insertar abono,Factura=16 Abono= 31.5
+*************
+01/04/2021 16:52:42,ross,Cancela FACTURA,FACTURA=16
+*************
+01/04/2021 16:52:47,ross,Registra Tx Factura,Factura=16
+*************
+01/04/2021 16:52:56,ross,Registra Tx Factura,Factura=16
+*************
+01/04/2021 16:53:02,ross,Registra Tx Factura,Factura=16
+*************
+01/04/2021 17:01:07,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/165
+*************
+01/04/2021 17:01:07,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/166
+*************
+01/04/2021 17:01:07,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/167
+*************
+01/04/2021 17:01:08,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/168
+*************
+01/04/2021 17:01:08,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/169
+*************
+01/04/2021 17:01:08,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/170
+*************
+01/04/2021 17:01:08,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/171
+*************
+01/04/2021 17:01:09,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/172
+*************
+01/04/2021 17:01:09,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/173
+*************
+01/04/2021 17:01:09,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/174
+*************
+01/04/2021 17:01:09,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/175
+*************
+01/04/2021 17:01:10,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/176
+*************
+01/04/2021 17:01:10,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/177
+*************
+01/04/2021 17:01:10,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/178
+*************
+01/04/2021 17:01:10,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/179
+*************
+01/04/2021 17:01:11,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/180
+*************
+01/04/2021 17:01:11,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/181
+*************
+01/04/2021 17:01:11,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/182
+*************
+01/04/2021 17:01:11,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/183
+*************
+01/04/2021 17:01:11,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/184
+*************
+01/04/2021 17:01:12,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/185
+*************
+01/04/2021 17:01:12,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/186
+*************
+01/04/2021 17:01:12,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/187
+*************
+01/04/2021 17:04:25,ross,IMPRIMIR CONTRAORDEN,
+*************
+01/04/2021 17:05:04,ross,IMPRIMIR LISTA TRABAJO,
+*************
+01/04/2021 17:05:22,ross,IMPRIMIR HOJA TRABAJO,
+*************
+01/04/2021 17:05:41,ross,IMPRIMIR HOJA TRABAJO,
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,WBCH=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,NEUH=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,LYMH=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,MONH=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,EOSH=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,BASOH=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,MON%25H=23
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,RBCH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,HCTH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,HGBH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,MCVH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,MCHH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+01/04/2021 17:09:00,ross,GUARDA RESULTADOS,PLTH=3
+*************
+01/04/2021 17:09:01,ross,GUARDA RESULTADOS,MPVH=3
+*************
+01/04/2021 17:09:01,ross,GUARDA RESULTADOS,PDWH=3
+*************
+01/04/2021 17:09:01,ross,GUARDA RESULTADOS,PCTH=3
+*************
+01/04/2021 17:09:01,ross,GUARDA RESULTADOS,P_LCRH=3
+*************
+01/04/2021 17:09:01,ross,GUARDA RESULTADOS,P_LCCH=34
+*************
+01/04/2021 17:09:44,ross,GUARDA RESULTADOS,IGG_CUANH=0.23
+*************
+01/04/2021 17:09:44,ross,GUARDA RESULTADOS,IGM_CUANH=1.24
+*************
+01/04/2021 17:09:44,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,COLO=AMBAR
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,DENO=1.010
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,PHO=5
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,UROOH=8
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,HGBOH=
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,CELPOH=
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,CELEPH=
+*************
+01/04/2021 17:10:47,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,HEMOH=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,BACOH=++
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,MOCOH=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,URO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,FOO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,OXAO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,CRIO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,CILO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,CIGO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,CILCE=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,ESP=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,ASCOH=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,OTROSO=
+*************
+01/04/2021 17:10:48,ross,GUARDA RESULTADOS,CCETO=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,COLCH=CAFÉ
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,CONSCH=PASTOSA
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,Ph=122
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,MOCCopro=++
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,SANC2=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,VMICC2=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,RAC2=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,RVCH=++
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,LEVC2H=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,FBACC2H=LIGERAMENTE AUMENTADA
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,PIOCH=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,HMCRPH=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+01/04/2021 17:11:36,ross,GUARDA RESULTADOS,INVPAC2H=-INV. DE PARASITOS-
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,AMBHC1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,ACOLI=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,TENCP1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,LANDC1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,GLGRC1=TROFOZOITOS +
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,TRIHOMC1=LARVAS +
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,NANAC1=
+*************
+01/04/2021 17:11:37,ross,GUARDA RESULTADOS,OTRCCH=
+*************
+01/04/2021 17:15:10,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: SUERO LIPEMICO
+*************
+01/04/2021 17:16:26,ross,VALIDACION RESULTADO,PEDIDO=164/400149
+*************
+01/04/2021 17:16:26,ross,VALIDACION RESULTADO,PEDIDO=164/400150
+*************
+01/04/2021 17:16:26,ross,VALIDACION RESULTADO,PEDIDO=164/400151
+*************
+01/04/2021 17:16:26,ross,VALIDACION RESULTADO,PEDIDO=164/400476
+*************
+01/04/2021 17:16:26,ross,VALIDACION RESULTADO,PEDIDO=164/401141
+*************
+01/04/2021 17:18:25,ross,IMPRIME POR AREA,PEDIDO=164
+*************
+01/04/2021 17:20:18,ross,IMPRIME TODO,PEDIDO=164
+*************
+01/04/2021 17:21:15,ross,IMPRIME POR EMAMEN,PEDIDO=164
+*************
+01/04/2021 17:21:54,ross,IMPRIME SOBRE,PEDIDO=164
+*************
+01/04/2021 17:26:15,ross,ENVIO CORREO PACIENTE,PEDIDO=164
+*************
+01/04/2021 18:17:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/04/2021 18:17:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/04/2021 18:21:30,ross,Generar Paciente,Paciente=ORDOÑEZ VALENCIA ALBA RAMONA
+*************
+01/04/2021 18:24:03,ross,01 GENERAR ORDEN,PEDIDO=188
+*************
+01/04/2021 18:24:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=188
+*************
+01/04/2021 18:25:09,ross,Actualiza FACTURA,FACTURA=17
+*************
+01/04/2021 18:25:09,ross,Ingresa FACTURA,FACTURA=17
+*************
+01/04/2021 18:25:09,ross,Insertar abono,Factura=17 Abono= 30
+*************
+01/04/2021 18:25:09,ross,Actualiza FACTURA,FACTURA=17/30
+*************
+01/04/2021 18:25:13,ross,Registra Tx Factura,Factura=17
+*************
+01/04/2021 18:31:43,ross,Nuevo Pedido IMPORTACION,KIA/189
+*************
+01/04/2021 18:31:43,ross,Nuevo Pedido IMPORTACION,KIA/190
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/191
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/192
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/193
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/194
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/195
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/196
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/197
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/198
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/199
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/200
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/201
+*************
+01/04/2021 18:31:44,ross,Nuevo Pedido IMPORTACION,KIA/202
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/203
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/204
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/205
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/206
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/207
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/208
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/209
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/210
+*************
+01/04/2021 18:31:45,ross,Nuevo Pedido IMPORTACION,KIA/211
+*************
+01/04/2021 18:33:21,ross,IMPRIMIR CONTRAORDEN,
+*************
+01/04/2021 18:33:54,ross,IMPRIMIR LISTA TRABAJO,
+*************
+01/04/2021 18:34:09,ross,IMPRIMIR HOJA TRABAJO,
+*************
+01/04/2021 18:34:26,ross,IMPRIMIR HOJA TRABAJO,
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,WBC=3
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,NEU=3
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,LYM=3
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,MON=3
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,EOS=3
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,BASO=3
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,LYM%25=4
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,MON%25=4
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,RBC=5
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,HCT=5
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,HGB=6
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,MCV=6
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,MCH=6
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,MCHC=7
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,RDW_SD=8
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,PLT=8
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,MPV=8
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,PDW=8
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,PCT=8
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,P_LCR=8
+*************
+01/04/2021 18:36:35,ross,GUARDA RESULTADOS,P_LCC=
+*************
+01/04/2021 18:37:12,ross,GUARDA RESULTADOS,ANTIGGRAPIDAH=NEGATIVO
+*************
+01/04/2021 18:37:12,ross,GUARDA RESULTADOS,ANTIGMRAPH=NEGATIVO
+*************
+01/04/2021 18:37:12,ross,GUARDA RESULTADOS,ANTIGG_INTH=- OBSERVACION -
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,COLO=AMBAR
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,ASPOH=LIGERAMENTE TURBIO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,PHO=5
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,UROOH=4
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,HGBOH=
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+01/04/2021 18:38:00,ross,GUARDA RESULTADOS,CELPOH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CELEPH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,PIOO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,HEMOH=8-10
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,BACOH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,MOCOH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,URO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,FOO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,OXAO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CRIO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CILO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CIGO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CILCE=1-2
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,ESP=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,ASCOH=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,OTROSO=
+*************
+01/04/2021 18:38:01,ross,GUARDA RESULTADOS,CCETO=
+*************
+01/04/2021 18:39:26,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACION: Suero lipemico
+*************
+01/04/2021 18:46:39,ross,VALIDACION RESULTADO,PEDIDO=188/400149
+*************
+01/04/2021 18:46:39,ross,VALIDACION RESULTADO,PEDIDO=188/400150
+*************
+01/04/2021 18:46:39,ross,VALIDACION RESULTADO,PEDIDO=188/400151
+*************
+01/04/2021 18:46:39,ross,VALIDACION RESULTADO,PEDIDO=188/400476
+*************
+01/04/2021 18:47:25,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+01/04/2021 18:49:22,ross,IMPRIME TODO,PEDIDO=188
+*************
+01/04/2021 18:50:14,ross,IMPRIME POR EMAMEN,PEDIDO=188
+*************
+01/04/2021 18:50:41,ross,IMPRIME SOBRE,PEDIDO=188
+*************
+01/04/2021 18:52:03,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+01/04/2021 18:52:55,ross,IMPRIME SOBRE,PEDIDO=188
+*************
+01/04/2021 18:58:07,ross,ENVIO CORREO PACIENTE,PEDIDO=188
+*************
+01/04/2021 19:03:35,ross,Nuevo Recipiente,Recipiente=HISOPADO NASAL
+*************
+01/04/2021 19:03:56,ross,Nuevo Tipo Muestra,Muestra=HISOPADONASAL
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  NORMAL
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  URGENCIA
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  NOCHES
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  FYBECA
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  IESS
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  KIA
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  REFERIDOS
+*************
+01/04/2021 19:05:39,ross,Nuevo Test en Lista de Precios,Test=401144 40  AUTOMOTORS
+*************
+01/04/2021 19:05:39,ross,INGRESA TEST,TEST=ANTIGENO SARS
+*************
+01/04/2021 19:05:40,ross,Actualiza Test,Test=ANTIGENO SARS
+*************
+01/04/2021 19:07:23,ross,Actualizar Rango Multiple,Test= 401144 Rango=> 1 POSITIVO
+< 1 NEGATIVO
+*************
+01/04/2021 19:08:56,ross,Nuevo Perfil,PERFIL=PERFIL KIA 2
+*************
+02/04/2021 14:31:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/04/2021 14:31:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 07:10:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 07:10:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:20,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:21,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:27,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:32,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:15:33,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+04/04/2021 07:16:09,ross,01 GENERAR ORDEN,PEDIDO=212
+*************
+04/04/2021 07:16:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=212
+*************
+04/04/2021 07:16:24,ross,Actualiza FACTURA,FACTURA=18
+*************
+04/04/2021 07:16:24,ross,Ingresa FACTURA,FACTURA=18
+*************
+04/04/2021 07:16:26,ross,Insertar abono,Factura=18 Abono= 1.5
+*************
+04/04/2021 07:16:26,ross,Cancela FACTURA,FACTURA=18
+*************
+04/04/2021 07:16:44,ross,01 GENERAR ORDEN,PEDIDO=213
+*************
+04/04/2021 07:16:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=213
+*************
+04/04/2021 07:16:58,ross,Actualiza FACTURA,FACTURA=19
+*************
+04/04/2021 07:16:58,ross,Ingresa FACTURA,FACTURA=19
+*************
+04/04/2021 07:16:59,ross,Insertar abono,Factura=19 Abono= 3
+*************
+04/04/2021 07:16:59,ross,Cancela FACTURA,FACTURA=19
+*************
+04/04/2021 07:18:22,ross,Generar Paciente,Paciente=GILER CEDEÑO ERIKA SOBEIDA
+*************
+04/04/2021 07:18:35,ross,01 GENERAR ORDEN,PEDIDO=214
+*************
+04/04/2021 07:18:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=214
+*************
+04/04/2021 07:18:41,ross,Actualiza FACTURA,FACTURA=20
+*************
+04/04/2021 07:18:41,ross,Ingresa FACTURA,FACTURA=20
+*************
+04/04/2021 07:18:42,ross,Insertar abono,Factura=20 Abono= 3
+*************
+04/04/2021 07:18:42,ross,Cancela FACTURA,FACTURA=20
+*************
+04/04/2021 08:16:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 08:20:12,,Ingreso CONTRASE�A FALLIDO,
+*************
+04/04/2021 08:20:12,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:20:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:25:47,ross,VALIDACION RESULTADO,PEDIDO=212/400151
+*************
+04/04/2021 08:25:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 08:26:03,123,Ingreso CONTRASE�A FALLIDO,
+*************
+04/04/2021 08:26:03,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:26:05,123,Ingreso CONTRASE�A FALLIDO,
+*************
+04/04/2021 08:26:05,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:26:08,123,Ingreso CONTRASE�A FALLIDO,
+*************
+04/04/2021 08:26:08,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:26:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 08:26:40,123,Ingreso CONTRASE�A FALLIDO,
+*************
+04/04/2021 08:26:40,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:27:20,321,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:27:33,321,VALIDACION RESULTADO,PEDIDO=213/400149
+*************
+04/04/2021 08:27:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 08:27:47,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 08:27:58,123,VALIDACION RESULTADO,PEDIDO=214/401104
+*************
+04/04/2021 09:36:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 09:36:05,medico,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 09:36:49,medico,Generar Paciente,Paciente=IZA QUINTEROS MIRIAN JANNETH
+*************
+04/04/2021 09:36:57,medico,01 GENERAR ORDEN,PEDIDO=215
+*************
+04/04/2021 09:36:58,medico,02 IMPRIMIR COD BARRAS,PEDIDO=215
+*************
+04/04/2021 09:37:06,medico,Actualiza FACTURA,FACTURA=21
+*************
+04/04/2021 09:37:06,medico,Ingresa FACTURA,FACTURA=21
+*************
+04/04/2021 09:37:07,medico,Insertar abono,Factura=21 Abono= 1.5
+*************
+04/04/2021 09:37:07,medico,Cancela FACTURA,FACTURA=21
+*************
+04/04/2021 09:37:15,medico,03 IMPRIMIR PEDIDO,PEDIDO=215
+*************
+04/04/2021 09:37:27,medico,1 MODIFICA ORDEN,PEDIDO=215
+*************
+04/04/2021 09:37:40,medico,03 IMPRIMIR PEDIDO,PEDIDO=215
+*************
+04/04/2021 09:37:56,medico,VALIDACION RESULTADO,PEDIDO=215/400140
+*************
+04/04/2021 09:38:05,medico,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 09:38:18,medico,IMPRIME TODO,PEDIDO=212
+*************
+04/04/2021 09:38:43,medico,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 09:38:48,medico,IMPRIME TODO,PEDIDO=213
+*************
+04/04/2021 10:08:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 10:08:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 10:09:39,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 10:10:52,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 10:22:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 10:23:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 14:53:56,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 15:40:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 15:40:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 15:40:56,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 15:45:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 15:45:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 15:45:25,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 16:48:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 16:48:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 16:48:57,ross,01 GENERAR ORDEN,PEDIDO=10205
+*************
+04/04/2021 16:48:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10205
+*************
+04/04/2021 16:49:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10205
+*************
+04/04/2021 18:32:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 18:32:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 18:35:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 18:35:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 18:35:52,ross,IMPRIME POR AREA,PEDIDO=214
+*************
+04/04/2021 19:40:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 19:40:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 19:41:12,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 19:41:53,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 19:42:03,ross,IMPRIME POR AREA,PEDIDO=214
+*************
+04/04/2021 19:48:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 19:48:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 19:48:56,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 19:49:11,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 19:51:02,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 19:54:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 19:54:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 19:55:04,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 19:57:33,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 20:02:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 20:02:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 20:02:17,ross,IMPRIME POR AREA,PEDIDO=215
+*************
+04/04/2021 20:03:10,ross,IMPRIME POR AREA,PEDIDO=215
+*************
+04/04/2021 20:05:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 20:05:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 20:06:08,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 20:06:16,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 20:06:24,ross,IMPRIME POR AREA,PEDIDO=214
+*************
+04/04/2021 20:06:39,ross,IMPRIME POR AREA,PEDIDO=215
+*************
+04/04/2021 20:09:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2021 20:09:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/04/2021 20:15:46,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+04/04/2021 20:16:33,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+04/04/2021 20:19:48,ross,IMPRIME POR AREA,PEDIDO=215
+*************
+04/04/2021 20:20:02,ross,IMPRIME POR AREA,PEDIDO=212
+*************
+05/04/2021 17:12:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 17:12:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 18:51:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 18:51:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:06:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:06:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:19:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:19:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:20:01,ross,IMPRIME TODO,PEDIDO=212
+*************
+05/04/2021 19:25:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:25:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:27:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:27:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:28:39,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+05/04/2021 19:28:47,ross,IMPRIME TODO,PEDIDO=188
+*************
+05/04/2021 19:32:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:32:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:32:15,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+05/04/2021 19:35:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:35:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:38:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:38:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:45:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:45:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:48:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:48:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/04/2021 19:50:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/04/2021 19:50:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/04/2021 16:28:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/04/2021 16:28:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/04/2021 14:36:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/04/2021 14:36:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/04/2021 14:44:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/04/2021 14:44:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/04/2021 15:40:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/04/2021 15:40:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/04/2021 10:15:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2021 10:15:12,,Ingreso CONTRASE�A FALLIDO,
+*************
+08/04/2021 10:15:12,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/04/2021 10:15:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/04/2021 10:17:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2021 10:17:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/04/2021 10:18:03,ross,Actualizar Convenio,Convenio=FYBECA
+*************
+08/04/2021 10:18:03,ross,Actualizar Secuencia,SECUENCIA=FYBECA/1201/1400
+*************
+08/04/2021 10:18:05,ross,Actualizar LISTA PRECIO=FYBECA,
+*************
+08/04/2021 10:24:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2021 10:24:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/04/2021 19:58:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/04/2021 19:59:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/04/2021 19:59:41,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+09/04/2021 18:01:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/04/2021 18:01:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/04/2021 18:01:33,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+09/04/2021 18:05:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/04/2021 18:05:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/04/2021 18:05:33,ross,Elimina Paciente,Paciente=4
+*************
+09/04/2021 18:18:47,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+09/04/2021 18:19:34,ross,01 GENERAR ORDEN,PEDIDO=217
+*************
+09/04/2021 18:19:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=217
+*************
+09/04/2021 18:19:56,ross,Actualiza FACTURA,FACTURA=23
+*************
+09/04/2021 18:19:56,ross,Ingresa FACTURA,FACTURA=23
+*************
+09/04/2021 18:19:57,ross,Insertar abono,Factura=23 Abono= 16.5
+*************
+09/04/2021 18:19:57,ross,Cancela FACTURA,FACTURA=23
+*************
+09/04/2021 18:19:59,ross,Registra Tx Factura,Factura=23
+*************
+09/04/2021 18:20:08,ross,Registra Tx Factura,Factura=23
+*************
+09/04/2021 18:20:47,ross,IMPRIMIR HOJA TRABAJO,
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,WBCH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,NEUH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,LYMH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,MONH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,EOSH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,BASOH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,EOS%25H=33
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,RBCH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,HCTH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,HGBH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,MCVH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,MCHH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,PLTH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,MPVH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,PDWH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,PCTH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,P_LCRH=3
+*************
+09/04/2021 18:21:17,ross,GUARDA RESULTADOS,P_LCCH=3
+*************
+09/04/2021 18:21:56,ross,VALIDACION RESULTADO,PEDIDO=217/400149
+*************
+09/04/2021 18:21:56,ross,VALIDACION RESULTADO,PEDIDO=217/400150
+*************
+09/04/2021 18:21:56,ross,VALIDACION RESULTADO,PEDIDO=217/400151
+*************
+09/04/2021 18:21:56,ross,VALIDACION RESULTADO,PEDIDO=217/400476
+*************
+09/04/2021 18:22:26,ross,IMPRIME POR AREA,PEDIDO=217
+*************
+09/04/2021 18:24:06,ross,IMPRIME POR AREA,PEDIDO=217
+*************
+10/04/2021 19:20:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2021 19:20:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/04/2021 19:20:32,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+10/04/2021 19:21:02,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+10/04/2021 19:25:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2021 19:25:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/04/2021 19:25:16,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+10/04/2021 19:26:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2021 19:26:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/04/2021 19:27:04,ross,IMPRIME POR AREA,PEDIDO=188
+*************
+13/04/2021 08:35:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2021 08:35:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/04/2021 08:42:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2021 08:42:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/04/2021 09:19:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2021 09:19:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/04/2021 16:08:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2021 16:08:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/04/2021 16:09:00,ross,01 GENERAR ORDEN,PEDIDO=218
+*************
+14/04/2021 16:09:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=218
+*************
+14/04/2021 16:09:10,ross,Actualiza FACTURA,FACTURA=24
+*************
+14/04/2021 16:09:10,ross,Ingresa FACTURA,FACTURA=24
+*************
+14/04/2021 16:09:12,ross,Insertar abono,Factura=24 Abono= 4.5
+*************
+14/04/2021 16:09:12,ross,Cancela FACTURA,FACTURA=24
+*************
+15/04/2021 09:56:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 09:56:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 09:57:00,ross,01 GENERAR ORDEN,PEDIDO=219
+*************
+15/04/2021 09:57:00,ross,02 IMPRIMIR COD BARRAS,PEDIDO=219
+*************
+15/04/2021 09:57:34,ross,Actualiza FACTURA,FACTURA=25
+*************
+15/04/2021 09:57:34,ross,Ingresa FACTURA,FACTURA=25
+*************
+15/04/2021 09:57:35,ross,Insertar abono,Factura=25 Abono= 1.5
+*************
+15/04/2021 09:57:35,ross,Cancela FACTURA,FACTURA=25
+*************
+15/04/2021 09:57:50,ross,01 GENERAR ORDEN,PEDIDO=220
+*************
+15/04/2021 09:57:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=220
+*************
+15/04/2021 09:58:01,ross,Actualiza FACTURA,FACTURA=26
+*************
+15/04/2021 09:58:01,ross,Ingresa FACTURA,FACTURA=26
+*************
+15/04/2021 09:58:02,ross,Insertar abono,Factura=26 Abono= 3
+*************
+15/04/2021 09:58:02,ross,Cancela FACTURA,FACTURA=26
+*************
+15/04/2021 09:58:19,ross,01 GENERAR ORDEN,PEDIDO=221
+*************
+15/04/2021 09:58:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=221
+*************
+15/04/2021 09:58:27,ross,Actualiza FACTURA,FACTURA=27
+*************
+15/04/2021 09:58:27,ross,Ingresa FACTURA,FACTURA=27
+*************
+15/04/2021 09:58:29,ross,Insertar abono,Factura=27 Abono= 3
+*************
+15/04/2021 09:58:29,ross,Cancela FACTURA,FACTURA=27
+*************
+15/04/2021 10:01:59,ross,01 GENERAR ORDEN,PEDIDO=222
+*************
+15/04/2021 10:01:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=222
+*************
+15/04/2021 10:02:06,ross,Actualiza FACTURA,FACTURA=28
+*************
+15/04/2021 10:02:06,ross,Ingresa FACTURA,FACTURA=28
+*************
+15/04/2021 10:02:07,ross,Insertar abono,Factura=28 Abono= 1.5
+*************
+15/04/2021 10:02:07,ross,Cancela FACTURA,FACTURA=28
+*************
+15/04/2021 10:02:29,ross,01 GENERAR ORDEN,PEDIDO=223
+*************
+15/04/2021 10:02:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=223
+*************
+15/04/2021 10:02:37,ross,Actualiza FACTURA,FACTURA=29
+*************
+15/04/2021 10:02:37,ross,Ingresa FACTURA,FACTURA=29
+*************
+15/04/2021 10:02:38,ross,Insertar abono,Factura=29 Abono= 1.5
+*************
+15/04/2021 10:02:38,ross,Cancela FACTURA,FACTURA=29
+*************
+15/04/2021 10:03:03,ross,VALIDACION RESULTADO,PEDIDO=219/400151
+*************
+15/04/2021 10:05:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:05:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:06:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:06:11,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:06:23,123,VALIDACION RESULTADO,PEDIDO=220/400149
+*************
+15/04/2021 10:08:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:08:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:09:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:09:41,123,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:09:55,123,VALIDACION RESULTADO,PEDIDO=221/401104
+*************
+15/04/2021 10:10:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:10:02,medico,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:10:15,medico,VALIDACION RESULTADO,PEDIDO=222/400141
+*************
+15/04/2021 10:11:00,medico,VALIDACION RESULTADO,PEDIDO=223/400148
+*************
+15/04/2021 10:20:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:20:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:21:44,ross,IMPRIME POR AREA,PEDIDO=219
+*************
+15/04/2021 10:21:59,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+15/04/2021 10:22:04,ross,IMPRIME TODO,PEDIDO=220
+*************
+15/04/2021 10:25:57,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+15/04/2021 10:27:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2021 10:27:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/04/2021 10:27:47,ross,IMPRIME POR AREA,PEDIDO=219
+*************
+15/04/2021 10:28:01,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+15/04/2021 10:28:15,ross,IMPRIME TODO,PEDIDO=220
+*************
+16/04/2021 10:52:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2021 10:52:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/04/2021 10:53:17,ross,01 GENERAR ORDEN,PEDIDO=224
+*************
+16/04/2021 10:53:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=224
+*************
+16/04/2021 10:53:26,ross,Actualiza FACTURA,FACTURA=30
+*************
+16/04/2021 10:53:26,ross,Ingresa FACTURA,FACTURA=30
+*************
+16/04/2021 10:53:27,ross,Insertar abono,Factura=30 Abono= 19.5
+*************
+16/04/2021 10:53:27,ross,Cancela FACTURA,FACTURA=30
+*************
+16/04/2021 15:04:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2021 15:04:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/04/2021 15:12:19,ross,Generar Paciente,Paciente=BUSTAMANTE LOZANO DIANA MARIBEL
+*************
+16/04/2021 15:17:27,ross,01 GENERAR ORDEN,PEDIDO=225
+*************
+16/04/2021 15:17:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=225
+*************
+16/04/2021 15:27:20,ross,Actualiza FACTURA,FACTURA=31
+*************
+16/04/2021 15:27:20,ross,Ingresa FACTURA,FACTURA=31
+*************
+16/04/2021 15:27:20,ross,Insertar abono,Factura=31 Abono= 30
+*************
+16/04/2021 15:27:20,ross,Actualiza FACTURA,FACTURA=31/30
+*************
+16/04/2021 15:27:39,ross,Registra Tx Factura,Factura=31
+*************
+16/04/2021 15:30:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/04/2021 15:30:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/04/2021 15:31:36,ross,Registra Tx Factura,Factura=31
+*************
+16/04/2021 15:31:39,ross,Registra Tx Factura,Factura=31
+*************
+16/04/2021 15:31:52,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:32:41,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:33:15,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:35:01,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:36:35,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:37:04,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:37:09,ross,Registra Tx Factura,Factura=30
+*************
+16/04/2021 15:37:58,ross,Insertar abono,Factura=31 Abono= 20
+*************
+16/04/2021 15:37:58,ross,Cancela FACTURA,FACTURA=31
+*************
+16/04/2021 15:38:07,ross,Registra Tx Factura,Factura=31
+*************
+16/04/2021 15:58:06,ross,IMPRIME POR AREA,PEDIDO=164
+*************
+16/04/2021 15:59:31,ross,IMPRIME TODO,PEDIDO=164
+*************
+16/04/2021 16:00:32,ross,IMPRIME POR EMAMEN,PEDIDO=164
+*************
+16/04/2021 16:01:21,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=164
+*************
+19/04/2021 10:57:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/04/2021 10:57:10,,Ingreso CONTRASE�A FALLIDO,
+*************
+19/04/2021 10:57:11,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/04/2021 10:57:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/04/2021 11:01:23,ross,Registra Tx Factura,Factura=181
+*************
+19/04/2021 11:02:13,ross,Registra Tx Factura,Factura=181
+*************
+19/04/2021 11:19:56,ross,Registra Tx Factura,Factura=181
+*************
+19/04/2021 11:20:56,ross,Registra Tx Factura,Factura=181
+*************
+19/04/2021 12:27:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/04/2021 12:27:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/04/2021 12:43:11,ross,Registra Tx Factura,Factura=181
+*************
+20/04/2021 09:10:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 09:10:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 09:10:40,ross,01 GENERAR ORDEN,PEDIDO=226
+*************
+20/04/2021 09:10:40,ross,02 IMPRIMIR COD BARRAS,PEDIDO=226
+*************
+20/04/2021 09:14:26,ross,1 MODIFICA ORDEN,PEDIDO=226
+*************
+20/04/2021 09:15:00,ross,02 IMPRIMIR COD BARRAS,PEDIDO=226
+*************
+20/04/2021 09:15:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=226
+*************
+20/04/2021 10:15:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=226
+*************
+20/04/2021 11:36:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 11:36:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 11:36:46,ross,1 MODIFICA ORDEN400140,400141,400148,,PEDIDO=189
+*************
+20/04/2021 11:36:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=189
+*************
+20/04/2021 15:04:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 15:04:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 15:21:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 15:21:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 15:33:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 15:33:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 17:07:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 17:07:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 17:08:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 17:08:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 17:09:35,ross,01 GENERAR ORDEN,PEDIDO=227
+*************
+20/04/2021 17:09:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=227
+*************
+20/04/2021 18:16:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 18:16:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 18:21:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 18:21:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 18:26:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 18:26:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 18:35:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 18:35:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 18:51:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 18:51:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 18:57:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 18:58:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 19:19:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 19:19:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 19:20:14,ross,1 MODIFICA ORDEN,PEDIDO=227
+*************
+20/04/2021 19:23:29,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+20/04/2021 19:27:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 19:28:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 19:35:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 19:35:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 20:04:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 20:04:34,,Ingreso CONTRASE�A FALLIDO,
+*************
+20/04/2021 20:04:34,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 20:04:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 20:06:02,ross,1 MODIFICA ORDEN,PEDIDO=227
+*************
+20/04/2021 20:06:16,ross,Actualiza FACTURA,FACTURA=32
+*************
+20/04/2021 20:06:16,ross,Ingresa FACTURA,FACTURA=32
+*************
+20/04/2021 20:06:17,ross,Insertar abono,Factura=32 Abono= 1.5
+*************
+20/04/2021 20:06:17,ross,Cancela FACTURA,FACTURA=32
+*************
+20/04/2021 20:29:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 20:29:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 20:32:27,ross,01 GENERAR ORDEN,PEDIDO=228
+*************
+20/04/2021 20:32:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=228
+*************
+20/04/2021 20:53:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2021 20:53:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/04/2021 20:53:58,ross,1 MODIFICA ORDEN,PEDIDO=228
+*************
+20/04/2021 20:54:40,ross,1 MODIFICA ORDEN400151,,PEDIDO=228
+*************
+21/04/2021 09:01:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/04/2021 09:01:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/04/2021 15:00:09,ross,IMPRIME POR AREA,PEDIDO=214
+*************
+24/04/2021 12:13:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 12:13:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 13:35:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 13:35:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 13:39:59,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 13:59:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 13:59:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 13:59:52,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 14:05:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 14:05:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 14:05:24,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 14:09:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 14:09:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 14:09:29,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 14:15:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 14:15:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 14:16:04,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 14:18:15,ross,IMPRIME POR AREA,PEDIDO=222
+*************
+24/04/2021 14:18:25,ross,IMPRIME POR AREA,PEDIDO=222
+*************
+24/04/2021 14:19:03,ross,IMPRIME POR AREA,PEDIDO=223
+*************
+24/04/2021 14:19:11,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 14:21:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 14:21:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 16:57:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2021 16:57:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/04/2021 16:57:26,ross,IMPRIME POR AREA,PEDIDO=220
+*************
+24/04/2021 16:57:31,ross,IMPRIME POR AREA,PEDIDO=222
+*************
+24/04/2021 16:57:38,ross,IMPRIME POR AREA,PEDIDO=223
+*************
+25/04/2021 08:42:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 08:42:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 08:46:49,ross,Generar Paciente,Paciente=CAMPOS COBOS ERNESTO URBINO
+*************
+25/04/2021 08:48:05,ross,01 GENERAR ORDEN,PEDIDO=229
+*************
+25/04/2021 08:48:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=229
+*************
+25/04/2021 10:39:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 10:39:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 10:45:05,ross,01 GENERAR ORDEN,PEDIDO=230
+*************
+25/04/2021 10:45:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=230
+*************
+25/04/2021 11:11:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 11:11:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 11:18:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 11:18:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 11:18:59,ross,01 GENERAR ORDEN,PEDIDO=231
+*************
+25/04/2021 11:18:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=231
+*************
+25/04/2021 11:19:22,ross,Actualiza FACTURA,FACTURA=33
+*************
+25/04/2021 11:19:22,ross,Ingresa FACTURA,FACTURA=33
+*************
+25/04/2021 11:19:23,ross,Insertar abono,Factura=33 Abono= 7.5
+*************
+25/04/2021 11:19:23,ross,Cancela FACTURA,FACTURA=33
+*************
+25/04/2021 11:19:27,ross,Registra Tx Factura,Factura=33
+*************
+25/04/2021 11:24:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 11:24:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 11:30:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 11:30:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 11:51:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 11:51:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 11:53:35,ross,Actualiza Paciente,Paciente=FLORE NARANJ ROSSVA EMILI
+*************
+25/04/2021 12:07:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 12:07:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 12:08:17,ross,01 GENERAR ORDEN,PEDIDO=232
+*************
+25/04/2021 12:08:18,ross,02 IMPRIMIR COD BARRAS,PEDIDO=232
+*************
+25/04/2021 12:24:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 12:24:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 17:18:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 17:18:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 17:20:05,ross,1 MODIFICA ORDEN EXAMENES: 401104,400149,400151,,PEDIDO=229
+*************
+25/04/2021 17:33:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2021 17:33:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/04/2021 17:33:52,ross,1 MODIFICA ORDENNORMAL EXAMENES:400149,400151,,PEDIDO=230
+*************
+25/04/2021 17:34:09,ross,Actualiza FACTURA,FACTURA=34
+*************
+25/04/2021 17:34:09,ross,Ingresa FACTURA,FACTURA=34
+*************
+25/04/2021 17:34:10,ross,Insertar abono,Factura=34 Abono= 3
+*************
+25/04/2021 17:34:10,ross,Cancela FACTURA,FACTURA=34
+*************
+25/04/2021 17:35:11,ross,1 MODIFICA ORDENFYBECA,PEDIDO=229
+*************
+26/04/2021 14:56:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2021 14:56:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/04/2021 15:26:41,ross,01 GENERAR ORDEN,PEDIDO=2951
+*************
+26/04/2021 15:26:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=2951
+*************
+26/04/2021 15:51:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2021 15:51:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/04/2021 16:42:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/04/2021 16:42:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/04/2021 16:44:01,ross,1 ANULA ORDEN,PEDIDO=2955RX LUMBAR APLºOPTOMETRIAºBIOMETRIA HEMATICA º MOTIVO: test
+*************
+27/04/2021 15:54:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2021 15:55:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/04/2021 16:07:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2021 16:07:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/04/2021 15:41:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2021 15:41:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/04/2021 15:43:07,ross,01 GENERAR ORDEN  NOCHES EXAMENES: 400151,400524,400191,400197,400149,,PEDIDO=233
+*************
+28/04/2021 15:43:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=233
+*************
+28/04/2021 15:45:14,ross,1 MODIFICA ORDENKIA,PEDIDO=233
+*************
+28/04/2021 15:46:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=233
+*************
+28/04/2021 15:48:05,ross,1 MODIFICA ORDEN KIA EXAMENES: 400191,400149,400151,400524,400197,,PEDIDO=233
+*************
+28/04/2021 17:15:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2021 17:15:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/04/2021 17:15:52,ross,IMPRIME POR AREA,PEDIDO=214
+*************
+28/04/2021 17:21:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2021 17:21:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/04/2021 17:24:50,ross,Generar Paciente,Paciente=MEDINA ONOFRE ANDREA KAROLINA
+*************
+28/04/2021 17:27:18,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401105,,PEDIDO=234
+*************
+28/04/2021 17:27:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=234
+*************
+28/04/2021 17:27:48,ross,Actualiza FACTURA,FACTURA=35
+*************
+28/04/2021 17:27:48,ross,Ingresa FACTURA,FACTURA=35
+*************
+28/04/2021 17:27:50,ross,Insertar abono,Factura=35 Abono= 51.5
+*************
+28/04/2021 17:27:50,ross,Cancela FACTURA,FACTURA=35
+*************
+28/04/2021 17:27:52,ross,Registra Tx Factura,Factura=35
+*************
+28/04/2021 17:28:07,ross,Registra Tx Factura,Factura=35
+*************
+28/04/2021 17:28:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=234
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=BALSECA MORA GLADYS MARIBEL
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/235
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=BRAVO GARCIA JENNY ISABEL
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/236
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=CAMACHO VIZCAINO MAURO FELIX
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/237
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=CAIZATOA CORAQUILLA MARIA ASENCIA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/238
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=CARTAGENA ESPINOSA ANGEL EDUARDO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/239
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=CORNEJO MENDOZA ANGELO JESUS
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/240
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=CHICAIZA GUAITA OSWALDO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/241
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=CRUZ HIDALGO MARIA ESTHELA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/242
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=ESCOBAR CATOTA MARTHA CECILIA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/243
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=FIGUEROA ROCHE JULIO ANTONIO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/244
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=LEMA GUZÑAY MARIA INES
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/245
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=MALDONADO GALARZA CELSO ENRIQUE
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/246
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=MORA CAMUENDO LUIS ALBERTO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/247
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=OLMEDO ANDRADE SELESTE ELVIRA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/248
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=PACHECO ARMENDARIZ PATRICIO GUSTAVO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/249
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=PAREDES ROMAN RAFAEL MARIA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/250
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=PILATASIG CHITALOGRO ANACLETO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/251
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=PILLAJO SIMBAÑA MARIA HORTENCIA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/252
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=PINTO MERA VERNY MIGUEL
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/253
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=QUIJANO QUILLUPANGUI MANUEL DE JESUS
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/254
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=SANGUCHO PILLAJO MARIA ANGELA
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/255
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=TIPAN TACURI JOSE RAMIRO
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/256
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=TOAPANTA VEGA LUIS CRISTOBAL
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/257
+*************
+28/04/2021 17:30:05,ross,Generar Paciente,Paciente=TORRES CARRASCO JHONNY ENRIQUE
+*************
+28/04/2021 17:30:05,ross,Nuevo Pedido IMPORTACION,KIA/258
+*************
+28/04/2021 17:30:46,ross,IMPRIMIR CONTRAORDEN,
+*************
+28/04/2021 17:31:06,ross,IMPRIMIR LISTA TRABAJO,
+*************
+28/04/2021 17:31:18,ross,IMPRIMIR HOJA TRABAJO,
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,WBC=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,NEU=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,LYM=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,MON=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,EOS=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,BASO=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+28/04/2021 17:33:09,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,MON%25=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,EOS%25=
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,RBC=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,HCT=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,HGB=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,MCV=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,MCH=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,MCHC=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,PLT=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,MPV=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,PDW=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,PCT=
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,P_LCR=3
+*************
+28/04/2021 17:33:10,ross,GUARDA RESULTADOS,P_LCC=3
+*************
+28/04/2021 17:33:45,ross,GUARDA RESULTADOS,IGG_CUANH=0.34
+*************
+28/04/2021 17:33:45,ross,GUARDA RESULTADOS,IGM_CUANH=1.35
+*************
+28/04/2021 17:33:45,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+28/04/2021 17:34:34,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALORES CONFIRMADOS
+*************
+28/04/2021 17:35:03,ross,VALIDACION RESULTADO,PEDIDO=234/400149
+*************
+28/04/2021 17:35:03,ross,VALIDACION RESULTADO,PEDIDO=234/400150
+*************
+28/04/2021 17:35:04,ross,VALIDACION RESULTADO,PEDIDO=234/400151
+*************
+28/04/2021 17:35:04,ross,VALIDACION RESULTADO,PEDIDO=234/400476
+*************
+28/04/2021 17:36:03,ross,IMPRIME POR AREA,PEDIDO=234
+*************
+28/04/2021 17:36:56,ross,IMPRIME POR EMAMEN,PEDIDO=234
+*************
+28/04/2021 17:39:20,ross,ENVIO CORREO PACIENTE,PEDIDO=234
+*************
+28/04/2021 17:54:42,ross,Actualizar Rango Unico,Test=11 Rango=3.8-14
+*************
+28/04/2021 17:55:36,ross,Actualizar Rango Multiple,Test= 400172 Rango=MUJERES:                     
+ FASE FOLICULAR:  3.0 - 10.0
+ FASE OVULATORIA: 5.0 - 20.0
+ FASE LUTEA:      1.0 - 10.0
+ POSTMENOPAUSIA:  Hasta 160.0
+
+*************
+28/04/2021 19:11:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2021 19:11:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/04/2021 19:18:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2021 19:18:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/04/2021 19:19:07,ross,IMPRIME TODO,PEDIDO=1450
+*************
+28/04/2021 19:19:25,ross,IMPRIME POR AREA,PEDIDO=1451
+*************
+28/04/2021 19:19:29,ross,IMPRIME TODO,PEDIDO=1451
+*************
+29/04/2021 08:59:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/04/2021 08:59:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/04/2021 09:00:22,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=259
+*************
+29/04/2021 09:00:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=259
+*************
+29/04/2021 09:29:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/04/2021 09:29:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/04/2021 09:30:06,ross,Actualiza Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+29/04/2021 09:31:08,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+29/04/2021 09:45:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/04/2021 09:45:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/04/2021 09:47:10,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=260
+*************
+29/04/2021 09:47:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=260
+*************
+29/04/2021 09:51:54,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=261
+*************
+29/04/2021 09:51:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=261
+*************
+29/04/2021 09:57:29,ross,1 MODIFICA ORDENNORMAL,PEDIDO=259
+*************
+29/04/2021 09:59:05,ross,1 MODIFICA ORDENKIA,PEDIDO=233
+*************
+29/04/2021 12:17:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/04/2021 12:17:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/04/2021 12:17:45,ross,Nueva Area,Area=PRIMA
+*************

@@ -1,0 +1,3826 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B3BED38E-1790-414E-9894-2ACC4E2ECC88}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>Applogo.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>AnalisysLAB</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>AnalisysLAB</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>0953E2D4C62BD2F137F50B5D3A16778BED399942</ManifestCertificateThumbprint>
+    <ManifestKeyFile>ANALISYSCENTER_SQL_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>false</SignManifests>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <SignAssembly>false</SignAssembly>
+    <PublishUrl>http://localhost/PRJ_LIS/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+    <DocumentationFile>AnalisysLAB.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+    <DocumentationFile>AnalisysLAB.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Ctl_txt">
+      <Name>Ctl_txt</Name>
+      <HintPath>Ctl_txt.dll</HintPath>
+    </Reference>
+    <Reference Include="Graphing">
+      <Name>Graphing</Name>
+      <HintPath>bin\Graphing.dll</HintPath>
+    </Reference>
+    <Reference Include="HierarchicalGrid, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Fuentes\HierarchicalGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="IBM.Data.DB2.iSeries">
+      <Name>IBM.Data.DB2.iSeries</Name>
+      <HintPath>..\..\Archivos de programa\IBM\Client Access\IBM.Data.DB2.iSeries.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.EASendMailObjLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="MessagingToolkit.QRCode, Version=1.0.3541.23206, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\Debug\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Odbc">
+      <Name>Microsoft.Data.Odbc</Name>
+      <HintPath>Microsoft.Data.Odbc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Skybound.Gecko, Version=10.0.0.0, Culture=neutral, PublicKeyToken=3209ac31600d1857, processorArchitecture=x86">
+      <HintPath>..\GeckoFx\Skybound.Gecko.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.DirectoryServices">
+      <Name>system.directoryservices</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Name>System.Web.Services</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="ADODB">
+      <Guid>{00000200-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxOWC">
+      <Guid>{0002E540-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="MSDATASRC">
+      <Guid>{7C0FFAB0-CD84-11D0-949A-00A0C91110ED}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+    <COMReference Include="OWC">
+      <Guid>{0002E540-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Private>False</Private>
+    </COMReference>
+    <COMReference Include="Scripting">
+      <Guid>{420B2830-E718-11CF-893D-00A0C9054228}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fuentes\Dataset\dsImgOcup.xsc">
+      <DependentUpon>dsImgOcup.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dsImgOcup.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsImgOcup.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dsImgOcup.xss">
+      <DependentUpon>dsImgOcup.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_agendaMedico.xsc">
+      <DependentUpon>dts_agendaMedico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_agendaMedico.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_agendaMedico.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_agendaMedico.xss">
+      <DependentUpon>dts_agendaMedico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Anulados.xsc">
+      <DependentUpon>dts_Anulados.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Anulados.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Anulados.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Anulados.xss">
+      <DependentUpon>dts_Anulados.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Certificado.xsc">
+      <DependentUpon>dts_Certificado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Certificado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Certificado.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Certificado.xss">
+      <DependentUpon>dts_Certificado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Consumo.xsc">
+      <DependentUpon>dts_Consumo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Consumo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Consumo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Consumo.xss">
+      <DependentUpon>dts_Consumo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ExaFisico.xsc">
+      <DependentUpon>dts_ExaFisico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ExaFisico.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ExaFisico.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ExaFisico.xss">
+      <DependentUpon>dts_ExaFisico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ExamenFisico.xsc">
+      <DependentUpon>dts_ExamenFisico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ExamenFisico.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ExamenFisico.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ExamenFisico.xss">
+      <DependentUpon>dts_ExamenFisico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_HistoriaClinica.xsc">
+      <DependentUpon>dts_HistoriaClinica.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_HistoriaClinica.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_HistoriaClinica.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_HistoriaClinica.xss">
+      <DependentUpon>dts_HistoriaClinica.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_interpretacion.xsc">
+      <DependentUpon>dts_interpretacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_interpretacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_interpretacion.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_interpretacion.xss">
+      <DependentUpon>dts_interpretacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesAINES.xsc">
+      <DependentUpon>dts_PacientesAINES.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesAINES.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PacientesAINES.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesAINES.xss">
+      <DependentUpon>dts_PacientesAINES.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesALERGIAS.xsc">
+      <DependentUpon>dts_PacientesALERGIAS.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesALERGIAS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PacientesALERGIAS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesALERGIAS.xss">
+      <DependentUpon>dts_PacientesALERGIAS.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesAtendidos.xsc">
+      <DependentUpon>dts_PacientesAtendidos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesAtendidos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PacientesAtendidos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesAtendidos.xss">
+      <DependentUpon>dts_PacientesAtendidos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesTratamiento.xsc">
+      <DependentUpon>dts_PacientesTratamiento.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesTratamiento.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PacientesTratamiento.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PacientesTratamiento.xss">
+      <DependentUpon>dts_PacientesTratamiento.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Pacientes_HIS.xsc">
+      <DependentUpon>dts_Pacientes_HIS.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Pacientes_HIS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Pacientes_HIS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Pacientes_HIS.xss">
+      <DependentUpon>dts_Pacientes_HIS.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PlanTTo.xsc">
+      <DependentUpon>dts_PlanTTo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PlanTTo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PlanTTo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PlanTTo.xss">
+      <DependentUpon>dts_PlanTTo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recetaMedica.xsc">
+      <DependentUpon>dts_recetaMedica.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recetaMedica.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_recetaMedica.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recetaMedica.xss">
+      <DependentUpon>dts_recetaMedica.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_SignosVitales.xsc">
+      <DependentUpon>dts_SignosVitales.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_SignosVitales.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_SignosVitales.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_SignosVitales.xss">
+      <DependentUpon>dts_SignosVitales.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_TrakingCorreo.xsc">
+      <DependentUpon>dts_TrakingCorreo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_TrakingCorreo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_TrakingCorreo.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_TrakingCorreo.xss">
+      <DependentUpon>dts_TrakingCorreo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Reportes\ANALISYSCENTER_SQL_TemporaryKey.pfx" />
+    <None Include="app.config" />
+    <None Include="Fuentes\Dataset\dsImagenes.xsc">
+      <DependentUpon>dsImagenes.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dsImagenes.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsImagenes.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Fuentes\Dataset\dsImagenes.xss">
+      <DependentUpon>dsImagenes.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dsImagenes.xsx">
+      <DependentUpon>dsImagenes.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_caja.xsc">
+      <DependentUpon>dts_caja.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_caja.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_caja.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_caja.xss">
+      <DependentUpon>dts_caja.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_cajaXconvenio.xsc">
+      <DependentUpon>dts_cajaXconvenio.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_cajaXconvenio.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_cajaXconvenio.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_cajaXconvenio.xss">
+      <DependentUpon>dts_cajaXconvenio.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dataset1.xsc">
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dataset1.xss">
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dataset1.xsx">
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_abono.xsc">
+      <DependentUpon>dts_abono.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_abono.xss">
+      <DependentUpon>dts_abono.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_abono.xsx">
+      <DependentUpon>dts_abono.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_agenda.xsc">
+      <DependentUpon>dts_agenda.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_agenda.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_agenda.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_agenda.xss">
+      <DependentUpon>dts_agenda.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Antibiograma.xsc">
+      <DependentUpon>dts_Antibiograma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Antibiograma.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Antibiograma.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Antibiograma.xss">
+      <DependentUpon>dts_Antibiograma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_areas.xsc">
+      <DependentUpon>dts_areas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_areas.xss">
+      <DependentUpon>dts_areas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_areas.xsx">
+      <DependentUpon>dts_areas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_aspirantes.xsx">
+      <DependentUpon>dts_aspirantes.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Autocompletado.xsc">
+      <DependentUpon>dts_Autocompletado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Autocompletado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Autocompletado.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Autocompletado.xss">
+      <DependentUpon>dts_Autocompletado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_bonificacion.xsc">
+      <DependentUpon>dts_bonificacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_bonificacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_bonificacion.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_bonificacion.xss">
+      <DependentUpon>dts_bonificacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConHetareos.xsc">
+      <DependentUpon>dts_ConHetareos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConHetareos.xss">
+      <DependentUpon>dts_ConHetareos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConHetareos.xsx">
+      <DependentUpon>dts_ConHetareos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedicoEspe.xsc">
+      <DependentUpon>dts_ConMedicoEspe.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedicoEspe.xss">
+      <DependentUpon>dts_ConMedicoEspe.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedicoEspe.xsx">
+      <DependentUpon>dts_ConMedicoEspe.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedicoNivel.xsc">
+      <DependentUpon>dts_ConMedicoNivel.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedicoNivel.xss">
+      <DependentUpon>dts_ConMedicoNivel.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedicoNivel.xsx">
+      <DependentUpon>dts_ConMedicoNivel.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedNivel.xsc">
+      <DependentUpon>dts_ConMedNivel.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedNivel.xss">
+      <DependentUpon>dts_ConMedNivel.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConMedNivel.xsx">
+      <DependentUpon>dts_ConMedNivel.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXafiliacion.xsc">
+      <DependentUpon>dts_conteoXafiliacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXafiliacion.xss">
+      <DependentUpon>dts_conteoXafiliacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXafiliacion.xsx">
+      <DependentUpon>dts_conteoXafiliacion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXareas.xsc">
+      <DependentUpon>dts_conteoXareas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXareas.xss">
+      <DependentUpon>dts_conteoXareas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXareas.xsx">
+      <DependentUpon>dts_conteoXareas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXedad.xsc">
+      <DependentUpon>dts_conteoXedad.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXedad.xss">
+      <DependentUpon>dts_conteoXedad.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXedad.xsx">
+      <DependentUpon>dts_conteoXedad.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXservicio.xsc">
+      <DependentUpon>dts_conteoXservicio.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXservicio.xsx">
+      <DependentUpon>dts_conteoXservicio.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXsexo.xsc">
+      <DependentUpon>dts_conteoXsexo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_conteoXsexo.xsx">
+      <DependentUpon>dts_conteoXsexo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dts_contraOrden.xsc">
+      <DependentUpon>Dts_contraOrden.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dts_contraOrden.xss">
+      <DependentUpon>Dts_contraOrden.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dts_contraOrden.xsx">
+      <DependentUpon>Dts_contraOrden.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_convenios.xsc">
+      <DependentUpon>dts_convenios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_convenios.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_convenios.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Fuentes\Dataset\dts_convenios.xss">
+      <DependentUpon>dts_convenios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConVincula.xsc">
+      <DependentUpon>dts_ConVincula.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConVincula.xss">
+      <DependentUpon>dts_ConVincula.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ConVincula.xsx">
+      <DependentUpon>dts_ConVincula.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Cuentas.xsc">
+      <DependentUpon>dts_Cuentas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Cuentas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Cuentas.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Cuentas.xss">
+      <DependentUpon>dts_Cuentas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_entregaresultados.xsc">
+      <DependentUpon>dts_entregaresultados.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_entregaresultados.xss">
+      <DependentUpon>dts_entregaresultados.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_entregaresultados.xsx">
+      <DependentUpon>dts_entregaresultados.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_factura.xsc">
+      <DependentUpon>dts_factura.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_factura.xss">
+      <DependentUpon>dts_factura.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_factura.xsx">
+      <DependentUpon>dts_factura.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_factura_cobro.xsc">
+      <DependentUpon>dts_factura_cobro.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_factura_cobro.xss">
+      <DependentUpon>dts_factura_cobro.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_factura_cobro.xsx">
+      <DependentUpon>dts_factura_cobro.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_histograma.xsc">
+      <DependentUpon>dts_histograma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_histograma.xss">
+      <DependentUpon>dts_histograma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_histograma.xsx">
+      <DependentUpon>dts_histograma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_histogramaInterfaz.xsc">
+      <DependentUpon>dts_histogramaInterfaz.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_histogramaInterfaz.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_histogramaInterfaz.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_histogramaInterfaz.xss">
+      <DependentUpon>dts_histogramaInterfaz.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Historico.xsc">
+      <DependentUpon>dts_Historico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Historico.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Historico.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Historico.xss">
+      <DependentUpon>dts_Historico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_historico_manuales.xsc">
+      <DependentUpon>dts_historico_manuales.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_historico_manuales.xss">
+      <DependentUpon>dts_historico_manuales.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_historico_manuales.xsx">
+      <DependentUpon>dts_historico_manuales.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_hojaT.xsc">
+      <DependentUpon>dts_hojaT.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_hojaT.xss">
+      <DependentUpon>dts_hojaT.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_hojaT.xsx">
+      <DependentUpon>dts_hojaT.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Hormonas.xsc">
+      <DependentUpon>dts_Hormonas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Hormonas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Hormonas.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Hormonas.xss">
+      <DependentUpon>dts_Hormonas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_informe.xsc">
+      <DependentUpon>dts_informe.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_informe.xss">
+      <DependentUpon>dts_informe.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_informe.xsx">
+      <DependentUpon>dts_informe.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresos.xsc">
+      <DependentUpon>dts_ingresos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresos.xss">
+      <DependentUpon>dts_ingresos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresos.xsx">
+      <DependentUpon>dts_ingresos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresosCE.xsc">
+      <DependentUpon>dts_ingresosCE.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresosCE.xss">
+      <DependentUpon>dts_ingresosCE.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresosCE.xsx">
+      <DependentUpon>dts_ingresosCE.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresosHosp.xsc">
+      <DependentUpon>dts_ingresosHosp.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresosHosp.xss">
+      <DependentUpon>dts_ingresosHosp.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ingresosHosp.xsx">
+      <DependentUpon>dts_ingresosHosp.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_i_caducado.xsx">
+      <DependentUpon>dts_i_caducado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_i_productos.xsx">
+      <DependentUpon>dts_i_productos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_i_Proveedor.xsx">
+      <DependentUpon>dts_i_Proveedor.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_i_stock.xsx">
+      <DependentUpon>dts_i_stock.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_liquidos.xsc">
+      <DependentUpon>dts_liquidos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_liquidos.xsx">
+      <DependentUpon>dts_liquidos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_listaPrecios.xsc">
+      <DependentUpon>dts_listaPrecios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_listaPrecios.xss">
+      <DependentUpon>dts_listaPrecios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_listaPrecios.xsx">
+      <DependentUpon>dts_listaPrecios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_medico.xsc">
+      <DependentUpon>dts_medico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_medico.xss">
+      <DependentUpon>dts_medico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_medico.xsx">
+      <DependentUpon>dts_medico.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_paciente.xsx">
+      <DependentUpon>dts_paciente.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ParamCultivos.xsc">
+      <DependentUpon>dts_ParamCultivos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ParamCultivos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ParamCultivos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ParamCultivos.xss">
+      <DependentUpon>dts_ParamCultivos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ParamPlantilla.xsc">
+      <DependentUpon>dts_ParamPlantilla.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ParamPlantilla.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ParamPlantilla.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_ParamPlantilla.xss">
+      <DependentUpon>dts_ParamPlantilla.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_pedido.xsc">
+      <DependentUpon>dts_pedido.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_pedido.xss">
+      <DependentUpon>dts_pedido.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_pedido.xsx">
+      <DependentUpon>dts_pedido.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_perfiles.xsx">
+      <DependentUpon>dts_perfiles.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_precios_perfiles.xsc">
+      <DependentUpon>dts_precios_perfiles.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_precios_perfiles.xsx">
+      <DependentUpon>dts_precios_perfiles.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_produccion.xsc">
+      <DependentUpon>dts_produccion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_produccion.xss">
+      <DependentUpon>dts_produccion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_produccion.xsx">
+      <DependentUpon>dts_produccion.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_produc_paciente.xsc">
+      <DependentUpon>dts_produc_paciente.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_produc_paciente.xss">
+      <DependentUpon>dts_produc_paciente.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_produc_paciente.xsx">
+      <DependentUpon>dts_produc_paciente.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_proforma.xsc">
+      <DependentUpon>dts_proforma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_proforma.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_proforma.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_proforma.xss">
+      <DependentUpon>dts_proforma.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecEquipo.xsc">
+      <DependentUpon>dts_PruebasEjecEquipo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecEquipo.xss">
+      <DependentUpon>dts_PruebasEjecEquipo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecEquipo.xsx">
+      <DependentUpon>dts_PruebasEjecEquipo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecutadas.xsc">
+      <DependentUpon>dts_PruebasEjecutadas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecutadas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PruebasEjecutadas.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecutadas.xss">
+      <DependentUpon>dts_PruebasEjecutadas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasEjecutadas.xsx">
+      <DependentUpon>dts_PruebasEjecutadas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasNoRegistradas.xsc">
+      <DependentUpon>dts_PruebasNoRegistradas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasNoRegistradas.xss">
+      <DependentUpon>dts_PruebasNoRegistradas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasNoRegistradas.xsx">
+      <DependentUpon>dts_PruebasNoRegistradas.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasResultado.xsc">
+      <DependentUpon>dts_PruebasResultado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasResultado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_PruebasResultado.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasResultado.xss">
+      <DependentUpon>dts_PruebasResultado.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasXPedido.xsc">
+      <DependentUpon>dts_PruebasXPedido.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasXPedido.xss">
+      <DependentUpon>dts_PruebasXPedido.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_PruebasXPedido.xsx">
+      <DependentUpon>dts_PruebasXPedido.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_rangNormalT.xsx">
+      <DependentUpon>dts_rangNormalT.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_rangosNormalidad.xsx">
+      <DependentUpon>dts_rangosNormalidad.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recibo.xsc">
+      <DependentUpon>dts_recibo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recibo.xss">
+      <DependentUpon>dts_recibo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recibo.xsx">
+      <DependentUpon>dts_recibo.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recibo1.xsc">
+      <DependentUpon>dts_recibo1.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recibo1.xss">
+      <DependentUpon>dts_recibo1.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_recibo1.xsx">
+      <DependentUpon>dts_recibo1.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_rpt_ingresos.xsc">
+      <DependentUpon>dts_rpt_ingresos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_rpt_ingresos.xss">
+      <DependentUpon>dts_rpt_ingresos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_rpt_ingresos.xsx">
+      <DependentUpon>dts_rpt_ingresos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dts_servicios.xsc">
+      <DependentUpon>Dts_servicios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dts_servicios.xss">
+      <DependentUpon>Dts_servicios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\Dts_servicios.xsx">
+      <DependentUpon>Dts_servicios.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Test_Hetareos.xsc">
+      <DependentUpon>dts_Test_Hetareos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Test_Hetareos.xss">
+      <DependentUpon>dts_Test_Hetareos.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_Test_Hetareos.xsx">
+      <DependentUpon>dts_Test_Hetareos.xsd</DependentUpon>
+    </None>
+    <Content Include="Applogo.ico" />
+    <Content Include="Fuentes\Dataset\Dataset1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Dataset1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_aspirantes.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ConHetareos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ConHetareos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ConMedicoEspe.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ConMedicoEspe.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ConMedicoNivel.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ConMedicoNivel.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ConMedNivel.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ConMedNivel.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_conteoXafiliacion.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_conteoXafiliacion.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_conteoXareas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_conteoXareas.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_conteoXedad.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_conteoXedad.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_conteoXservicio.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_conteoXservicio.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_conteoXsexo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_conteoXsexo.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\Dts_contraOrden.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Dts_contraOrden.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ConVincula.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ConVincula.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_historico_manuales.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_historico_manuales.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_hojaT.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_informe.xsd">
+      <Generator>msdatasetgenerator</Generator>
+      <LastGenOutput>dts_informe.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ingresos.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ingresosCE.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_ingresosHosp.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_ingresosHosp.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_liquidos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_liquidos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_precios_perfiles.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_precios_perfiles.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_produccion.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_produccion.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_produc_paciente.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_produc_paciente.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_PruebasXPedido.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_rangNormalT.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_recibo.xsd">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_recibo1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_recibo1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_rpt_ingresos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_rpt_ingresos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\Dts_servicios.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Dts_servicios.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Dataset\dts_Test_Hetareos.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_Test_Hetareos.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Fuentes\Imagenes\barraMenu1.jpg" />
+    <Content Include="Fuentes\Columnstyles\barraMenu2.jpg" />
+    <Content Include="Imagenes\azul.gif" />
+    <None Include="Fuentes\Dataset\dts_TrazabilidadMuestra.xsc">
+      <DependentUpon>dts_TrazabilidadMuestra.xsd</DependentUpon>
+    </None>
+    <None Include="Fuentes\Dataset\dts_TrazabilidadMuestra.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dts_TrazabilidadMuestra.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Fuentes\Dataset\dts_TrazabilidadMuestra.xss">
+      <DependentUpon>dts_TrazabilidadMuestra.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="Imagenes\vacio.gif" />
+    <Content Include="Imagenes\verde.gif" />
+    <Content Include="Imagenes\x.gif" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="shdocvw.dll" />
+    <Compile Include="Fuentes\Clases\AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Agenda.vb" />
+    <Compile Include="Fuentes\Clases\Cls_Archivos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Areas.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\cls_auditoria.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Bonificacion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Ciudad.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_ClubLeones.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_conexas400.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Conexion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Convenio.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Criptografia.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Encripta.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_equipos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Factura.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Formularios.vb" />
+    <Compile Include="Fuentes\Clases\Cls_Hist.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_IniFile.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Interfases.vb" />
+    <Compile Include="Fuentes\Clases\Cls_Invitado.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_Bodega.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_ModConservacion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_Movimiento.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_Producto.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_Proveedor.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_TipoMovimiento.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_i_Unidad.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Laboratorio.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Medico.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Muestra.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_NetMail.vb" />
+    <Compile Include="Fuentes\Clases\Cls_Paciente.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Parametros.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Pedido.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Perfil.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_QC_Calibracion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Remitidos.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Resultado.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Secuencias.vb" />
+    <Compile Include="Fuentes\Clases\Cls_servicios.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_sistema.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_SNI.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Test.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_TipoTest.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_ToPdf.vb" />
+    <Compile Include="Fuentes\Clases\Cls_Trabajo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_Usuario.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Clases\Cls_WinInet.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Columnstyles\Cls_DatagridStyles.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Columnstyles\Cls_dgimpresion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dsImagenes.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsImagenes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dsImagenes.vb">
+      <DependentUpon>dsImagenes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dsImgOcup.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsImgOcup.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_agendaMedico.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_agendaMedico.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_agendaMedico.vb">
+      <DependentUpon>dts_agendaMedico.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Anulados.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Anulados.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_caja.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_caja.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_caja.vb">
+      <DependentUpon>dts_caja.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_cajaXconvenio.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_cajaXconvenio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\Dataset1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_agenda.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_agenda.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_agenda.vb">
+      <DependentUpon>dts_agenda.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Antibiograma.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Antibiograma.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Autocompletado.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Autocompletado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Autocompletado.vb">
+      <DependentUpon>dts_Autocompletado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_bonificacion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_bonificacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Certificado.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Certificado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ConHetareos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ConHetareos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ConMedicoEspe.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ConMedicoEspe.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ConMedicoNivel.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ConMedicoNivel.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ConMedNivel.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ConMedNivel.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Consumo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Consumo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_conteoXafiliacion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_conteoXafiliacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_conteoXareas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_conteoXareas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_conteoXareas.vb">
+      <DependentUpon>dts_conteoXareas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_conteoXedad.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_conteoXedad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_conteoXservicio.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_conteoXservicio.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_conteoXsexo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_conteoXsexo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\Dts_contraOrden.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dts_contraOrden.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\Dts_contraOrden.vb">
+      <DependentUpon>Dts_contraOrden.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_convenios.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_convenios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ConVincula.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ConVincula.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Cuentas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Cuentas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Cuentas.vb">
+      <DependentUpon>dts_Cuentas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_entregaresultados.vb">
+      <DependentUpon>dts_entregaresultados.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ExaFisico.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ExaFisico.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ExamenFisico.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ExamenFisico.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_histogramaInterfaz.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_histogramaInterfaz.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_HistoriaClinica.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_HistoriaClinica.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_HistoriaClinica.vb">
+      <DependentUpon>dts_HistoriaClinica.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Historico.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Historico.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_historico_manuales.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_historico_manuales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_hojaT.vb">
+      <DependentUpon>dts_hojaT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Hormonas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Hormonas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Hormonas.vb">
+      <DependentUpon>dts_Hormonas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_informe.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_informe.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ingresosHosp.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ingresosHosp.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_interpretacion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_interpretacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_liquidos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_liquidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesAINES.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PacientesAINES.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesALERGIAS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PacientesALERGIAS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesALERGIAS.vb">
+      <DependentUpon>dts_PacientesALERGIAS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesAtendidos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PacientesAtendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesAtendidos.vb">
+      <DependentUpon>dts_PacientesAtendidos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesTratamiento.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PacientesTratamiento.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PacientesTratamiento.vb">
+      <DependentUpon>dts_PacientesTratamiento.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Pacientes_HIS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Pacientes_HIS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Pacientes_HIS.vb">
+      <DependentUpon>dts_Pacientes_HIS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ParamCultivos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ParamCultivos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_ParamPlantilla.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_ParamPlantilla.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PlanTTo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PlanTTo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_precios_perfiles.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_precios_perfiles.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_produccion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_produccion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_produc_paciente.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_produc_paciente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_proforma.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_proforma.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PruebasEjecutadas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PruebasEjecutadas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PruebasResultado.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_PruebasResultado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_PruebasResultado.vb">
+      <DependentUpon>dts_PruebasResultado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_recetaMedica.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_recetaMedica.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_recetaMedica.vb">
+      <DependentUpon>dts_recetaMedica.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_recibo1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_recibo1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_rpt_ingresos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_rpt_ingresos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\Dts_servicios.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dts_servicios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_SignosVitales.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_SignosVitales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_Test_Hetareos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_Test_Hetareos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_TrakingCorreo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_TrakingCorreo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_TrazabilidadMuestra.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dts_TrazabilidadMuestra.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Dataset\dts_TrazabilidadMuestra.vb">
+      <DependentUpon>dts_TrazabilidadMuestra.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Actividad.Designer.vb">
+      <DependentUpon>frm_Actividad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Actividad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_AgendaCitaMedica.Designer.vb">
+      <DependentUpon>frm_AgendaCitaMedica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_AgendaCitaMedica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_Agenda.Designer.vb">
+      <DependentUpon>Frm_Agenda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_Agenda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Antibioticos.Designer.vb">
+      <DependentUpon>frm_Antibioticos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Antibioticos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Areas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Autocompletar.Designer.vb">
+      <DependentUpon>frm_Autocompletar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Autocompletar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Bonificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_BuscaHistorico.Designer.vb">
+      <DependentUpon>frm_BuscaHistorico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_BuscaHistorico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_BusqProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Busq_Pedidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_CertificadoAbierto.Designer.vb">
+      <DependentUpon>frm_CertificadoAbierto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_CertificadoAbierto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Cie10.Designer.vb">
+      <DependentUpon>frm_Cie10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Cie10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Cie10Gestion.Designer.vb">
+      <DependentUpon>frm_Cie10Gestion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Cie10Gestion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ciudad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ConsultaMedico.Designer.vb">
+      <DependentUpon>frm_ConsultaMedico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ConsultaMedico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Convenios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Edades.Designer.vb">
+      <DependentUpon>frm_Edades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Edades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EstCultivos.Designer.vb">
+      <DependentUpon>frm_EstCultivos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EstCultivos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EtiquetaPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EvolucionPaciente.Designer.vb">
+      <DependentUpon>frm_EvolucionPaciente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EvolucionPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ExamenFisico.Designer.vb">
+      <DependentUpon>frm_ExamenFisico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ExamenFisico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_Factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_FacturaPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_FiltroAreas.Designer.vb">
+      <DependentUpon>frm_FiltroAreas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_FiltroAreas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_formatos.Designer.vb">
+      <DependentUpon>frm_formatos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_formatos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Graficos.Designer.vb">
+      <DependentUpon>frm_Graficos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Graficos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_HistoriaClinica.Designer.vb">
+      <DependentUpon>frm_HistoriaClinica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_HistoriaClinica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_historico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_impcodigobarras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Importar.Designer.vb">
+      <DependentUpon>frm_Importar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Importar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Impresora.Designer.vb">
+      <DependentUpon>frm_Impresora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Impresora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_imprimiendo.Designer.vb">
+      <DependentUpon>frm_imprimiendo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_imprimiendo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_IngresoCutaneas.Designer.vb">
+      <DependentUpon>frm_IngresoCutaneas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_IngresoCutaneas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ingreso_Aspirantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ing_Monitor.Designer.vb">
+      <DependentUpon>frm_Ing_Monitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ing_Monitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ing_Plantilla.Designer.vb">
+      <DependentUpon>frm_Ing_Plantilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ing_Plantilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ing_Remitidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Ing_Resul_porTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Interpretacion.Designer.vb">
+      <DependentUpon>frm_Interpretacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Interpretacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Invitados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_Bodega.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_Caducado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_lote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_ModConservacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_i_Movimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_movReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_notapedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_Proveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_TipoMovimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_i_Unidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Kardex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_laboratorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_Medico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\Frm_Medico2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_mensaje.Designer.vb">
+      <DependentUpon>frm_mensaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_mensaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Muestra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Paciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Paciente2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Paciente3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_PerfilMedico.Designer.vb">
+      <DependentUpon>frm_PerfilMedico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_PerfilMedico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Preparacion.Designer.vb">
+      <DependentUpon>frm_Preparacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Preparacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Receta.Designer.vb">
+      <DependentUpon>frm_Receta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Receta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_SignosVitales.Designer.vb">
+      <DependentUpon>frm_SignosVitales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_SignosVitales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_SolicitudMeddico.Designer.vb">
+      <DependentUpon>frm_SolicitudMeddico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_SolicitudMeddico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Tendencia.Designer.vb">
+      <DependentUpon>frm_Tendencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Tendencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Vacunas.Designer.vb">
+      <DependentUpon>frm_Vacunas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Vacunas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_VacunaTratamiento.Designer.vb">
+      <DependentUpon>frm_VacunaTratamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_VacunaTratamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Vademecum.Designer.vb">
+      <DependentUpon>frm_Vademecum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Vademecum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_VademecumGestion.Designer.vb">
+      <DependentUpon>frm_VademecumGestion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_VademecumGestion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua101.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua10.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua11.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua11.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua7.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua8.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua8.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua9.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua9.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua_v.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua_v.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados10.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados10.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados11.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados11.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados7.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados8.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados8.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados9.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados9.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados_v.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados_v.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PacientesAINES.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PacientesAINES.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_AgendaConsulta.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_AgendaConsulta.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_Certificados.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Certificados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultadosP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultadosP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_Existencia.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Existencia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_facCobrar.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_facCobrar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_hoja_trabajo_micro.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_hoja_trabajo_micro.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Parametros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_PedFac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Pedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Pedido2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Perfil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Permisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Psdw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_RangNormal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_reportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Rpt_Factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Rpt_PruebasFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_servicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_test_orden.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_test_parametro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_TipoTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_Trabajo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_TrabajoFiltro.Designer.vb">
+      <DependentUpon>frm_TrabajoFiltro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_TrabajoFiltro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ValFinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ValidacionRes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ValRemitidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_VisResul.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_WebChat.Designer.vb">
+      <DependentUpon>frm_WebChat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_WebChat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Modulos\Mod_Inicio.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Modulos\Mod_wave.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Modulos\Utilidades.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_Agenda.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Agenda.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_AgendaMedico.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_AgendaMedico.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_areas.vb">
+      <DependentUpon>rpt_areas.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_aspirantes.vb">
+      <DependentUpon>rpt_aspirantes.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_AutoCompletado.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_AutoCompletado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_bonificacion.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_bonificacion.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_caja.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_caja.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_caja1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_caja1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_cajaXconvenio.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_cajaXconvenio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_cajaXconvenio1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_cajaXconvenio1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_cajaXconvenioConsolidado.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_cajaXconvenioConsolidado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_cajaXmedico.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_cajaXmedico.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_cajaXusuario.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_cajaXusuario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ConMedicoEspe.vb">
+      <DependentUpon>rpt_ConMedicoEspe.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ConOrigen.vb">
+      <DependentUpon>rpt_ConOrigen.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_contraorden.vb">
+      <DependentUpon>rpt_contraorden.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ContraOrden2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ContraOrden2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_convenios.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_convenios.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_conVincula.vb">
+      <DependentUpon>rpt_conVincula.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaCarnet.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaCarnet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua.vb">
+      <DependentUpon>rpt_entregaContinua.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaContinua2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaContinua2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados.vb">
+      <DependentUpon>rpt_entregaresultados.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultados3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultados3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultadosHOJA.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultadosHOJA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultadosSL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultadosSL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_entregaresultadosSL2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_entregaresultadosSL2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_EstadisticaPacientes.vb">
+      <DependentUpon>rpt_EstadisticaPacientes.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_EstadisticaPacientesE1.vb">
+      <DependentUpon>rpt_EstadisticaPacientesE.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_EstCultivo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_EstCultivo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_est_afiliacion.vb">
+      <DependentUpon>rpt_est_afiliacion.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_est_area.vb">
+      <DependentUpon>rpt_est_area.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_est_edades.vb">
+      <DependentUpon>rpt_est_edades.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_est_servicio.vb">
+      <DependentUpon>rpt_est_servicio.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_est_sexo.vb">
+      <DependentUpon>rpt_est_sexo.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ExaFisico.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ExaFisico.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_factura1.vb">
+      <DependentUpon>rpt_factura.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_facturaAbono.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_facturaAbono.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_facturaRecibo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_facturaRecibo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_factura_cobros.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_factura_cobros.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_HistogramaImagen.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_HistogramaImagen.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_HistogramaInterfaz.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_HistogramaInterfaz.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_historiaclinica.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_historiaclinica.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_Historico.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_Historico.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_HistoricoManual.vb">
+      <DependentUpon>rpt_HistoricoManual.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_HojaTrabajoFiltro.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_HojaTrabajoFiltro.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_hoja_trabajo.vb">
+      <DependentUpon>rpt_hoja_trabajo.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_hormonas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_hormonas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ImpHist.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ImpHist.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_informe1.vb">
+      <DependentUpon>rpt_informe.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_InformeAnulados.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_InformeAnulados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ingresos.vb">
+      <DependentUpon>rpt_ingresos.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ingresosCE1.vb">
+      <DependentUpon>rpt_ingresosCE.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ingresosHosp.vb">
+      <DependentUpon>rpt_ingresosHosp.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_IngresosPedido.vb">
+      <DependentUpon>rpt_IngresosPedido.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_interpretacion2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_interpretacion2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_interpretacion1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_interpretacion1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_i_caducado.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_i_caducado.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_I_Comprobate.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_I_Comprobate.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_I_Productos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_I_Productos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_I_Proveedor.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_I_Proveedor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_i_stock.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_i_stock.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_liquidos.vb">
+      <DependentUpon>rpt_liquidos.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_listadoCuentas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_listadoCuentas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ListadoResultados.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ListadoResultados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_listadoXconvenio.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_listadoXconvenio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_listasPrecios.vb">
+      <DependentUpon>rpt_listasPrecios.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_medico.vb">
+      <DependentUpon>rpt_medico.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_origen.vb">
+      <DependentUpon>rpt_origen.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_paciente.vb">
+      <DependentUpon>rpt_paciente.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PacientesALERGIAS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PacientesALERGIAS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PacientesALERGIAS2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PacientesALERGIAS2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PacientesALERGIAS3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PacientesALERGIAS3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_pacientesAtendidos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_pacientesAtendidos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PacientesHIS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PacientesHIS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ParamPlantilla.vb">
+      <DependentUpon>rpt_ParamPlantilla.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_pedido.vb">
+      <DependentUpon>rpt_pedido.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_perfiles.vb">
+      <DependentUpon>rpt_perfiles.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PlanTTO_G.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PlanTTO_G.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PlanTTO_G3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PlanTTO_G3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_preciop.vb">
+      <DependentUpon>rpt_preciop.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_produccion.vb">
+      <DependentUpon>rpt_produccion.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_produc_paciente.vb">
+      <DependentUpon>rpt_produc_paciente.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_proforma.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_proforma.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PruebasEjecEquipo.vb">
+      <DependentUpon>rpt_PruebasEjecEquipo.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PruebasNoRegistradas.vb">
+      <DependentUpon>rpt_PruebasNoRegistradas.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PruebasXPedido.vb">
+      <DependentUpon>rpt_PruebasXPedido.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_PrueEjecutadas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_PrueEjecutadas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_RangNormalT.vb">
+      <DependentUpon>rpt_RangNormalT.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_RangosNormalidad.vb">
+      <DependentUpon>rpt_RangosNormalidad.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_RecetaMedica.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_RecetaMedica.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ReporteResultados.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ReporteResultados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_ReporteResultados2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ReporteResultados2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\Rpt_Servicios.vb">
+      <DependentUpon>Rpt_Servicios.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_SignosVitales.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_SignosVitales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_test_hetareos.vb">
+      <DependentUpon>rpt_test_hetareos.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_trackingCorreo.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_trackingCorreo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_TratamientoPac.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_TratamientoPac.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Fuentes\Reportes\rpt_TrazabilidadMuestra.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_TrazabilidadMuestra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Fuentes\Columnstyles\Cls_DatagridStyles.resx">
+      <DependentUpon>Cls_DatagridStyles.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_abono.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_areas.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_entregaresultados.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_factura.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_factura_cobro.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_histograma.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_i_caducado.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_i_productos.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_i_Proveedor.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_i_stock.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_listaPrecios.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_medico.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_paciente.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_pedido.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_perfiles.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_PruebasEjecEquipo.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_PruebasNoRegistradas.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Dataset\dts_rangosNormalidad.xsd">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Actividad.resx">
+      <DependentUpon>frm_Actividad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_AgendaCitaMedica.resx">
+      <DependentUpon>frm_AgendaCitaMedica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_Agenda.resx">
+      <DependentUpon>Frm_Agenda.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Antibioticos.resx">
+      <DependentUpon>frm_Antibioticos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Areas.resx">
+      <DependentUpon>frm_Areas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Autocompletar.resx">
+      <DependentUpon>frm_Autocompletar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Bonificacion.resx">
+      <DependentUpon>frm_Bonificacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_BuscaHistorico.resx">
+      <DependentUpon>frm_BuscaHistorico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_BusqProducto.resx">
+      <DependentUpon>frm_BusqProducto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Busq_Pedidos.resx">
+      <DependentUpon>frm_Busq_Pedidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_CertificadoAbierto.resx">
+      <DependentUpon>frm_CertificadoAbierto.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Cie10.resx">
+      <DependentUpon>frm_Cie10.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Cie10Gestion.resx">
+      <DependentUpon>frm_Cie10Gestion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Ciudad.resx">
+      <DependentUpon>frm_Ciudad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_ConsultaMedico.resx">
+      <DependentUpon>frm_ConsultaMedico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Convenios.resx">
+      <DependentUpon>frm_Convenios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Edades.resx">
+      <DependentUpon>frm_Edades.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_EstCultivos.resx">
+      <DependentUpon>frm_EstCultivos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_EtiquetaPedido.resx">
+      <DependentUpon>frm_EtiquetaPedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_EvolucionPaciente.resx">
+      <DependentUpon>frm_EvolucionPaciente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_ExamenFisico.resx">
+      <DependentUpon>frm_ExamenFisico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_Factura.resx">
+      <DependentUpon>Frm_Factura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_FacturaPedido.resx">
+      <DependentUpon>Frm_FacturaPedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_FiltroAreas.resx">
+      <DependentUpon>frm_FiltroAreas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_formatos.resx">
+      <DependentUpon>frm_formatos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Graficos.resx">
+      <DependentUpon>frm_Graficos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_HistoriaClinica.resx">
+      <DependentUpon>frm_HistoriaClinica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_historico.resx">
+      <DependentUpon>frm_historico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_impcodigobarras.resx">
+      <DependentUpon>frm_impcodigobarras.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Importar.resx">
+      <DependentUpon>frm_Importar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Impresora.resx">
+      <DependentUpon>frm_Impresora.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_imprimiendo.resx">
+      <DependentUpon>frm_imprimiendo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_IngresoCutaneas.resx">
+      <DependentUpon>frm_IngresoCutaneas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Ingreso_Aspirantes.resx">
+      <DependentUpon>frm_Ingreso_Aspirantes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Ing_Monitor.resx">
+      <DependentUpon>frm_Ing_Monitor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Ing_Plantilla.resx">
+      <DependentUpon>frm_Ing_Plantilla.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Ing_Remitidos.resx">
+      <DependentUpon>frm_Ing_Remitidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Ing_Resul_porTest.resx">
+      <DependentUpon>frm_Ing_Resul_porTest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Inicio.resx">
+      <DependentUpon>frm_Inicio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Interpretacion.resx">
+      <DependentUpon>frm_Interpretacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Invitados.resx">
+      <DependentUpon>frm_Invitados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_Bodega.resx">
+      <DependentUpon>frm_i_Bodega.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_Caducado.resx">
+      <DependentUpon>frm_i_Caducado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_lote.resx">
+      <DependentUpon>frm_i_lote.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_ModConservacion.resx">
+      <DependentUpon>frm_i_ModConservacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_i_Movimientos.resx">
+      <DependentUpon>Frm_i_Movimientos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_movReporte.resx">
+      <DependentUpon>frm_i_movReporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_notapedido.resx">
+      <DependentUpon>frm_i_notapedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_Productos.resx">
+      <DependentUpon>frm_i_Productos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_Proveedor.resx">
+      <DependentUpon>frm_i_Proveedor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_Stock.resx">
+      <DependentUpon>frm_i_Stock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_TipoMovimiento.resx">
+      <DependentUpon>frm_i_TipoMovimiento.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_i_Unidad.resx">
+      <DependentUpon>frm_i_Unidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Kardex.resx">
+      <DependentUpon>frm_Kardex.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_laboratorio.resx">
+      <DependentUpon>frm_laboratorio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_Main.resx">
+      <DependentUpon>Frm_Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_Medico.resx">
+      <DependentUpon>Frm_Medico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\Frm_Medico2.resx">
+      <DependentUpon>Frm_Medico2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_mensaje.resx">
+      <DependentUpon>frm_mensaje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Muestra.resx">
+      <DependentUpon>frm_Muestra.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Paciente.resx">
+      <DependentUpon>frm_Paciente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Paciente2.resx">
+      <DependentUpon>frm_Paciente2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Paciente3.resx">
+      <DependentUpon>frm_Paciente3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_PerfilMedico.resx">
+      <DependentUpon>frm_PerfilMedico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Preparacion.resx">
+      <DependentUpon>frm_Preparacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Receta.resx">
+      <DependentUpon>frm_Receta.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_SignosVitales.resx">
+      <DependentUpon>frm_SignosVitales.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_SolicitudMeddico.resx">
+      <DependentUpon>frm_SolicitudMeddico.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Tendencia.resx">
+      <DependentUpon>frm_Tendencia.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Vacunas.resx">
+      <DependentUpon>frm_Vacunas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_VacunaTratamiento.resx">
+      <DependentUpon>frm_VacunaTratamiento.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Vademecum.resx">
+      <DependentUpon>frm_Vademecum.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_VademecumGestion.resx">
+      <DependentUpon>frm_VademecumGestion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua10.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua101.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua11.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua11.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua7.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua7.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua8.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua8.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua9.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua9.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua_v.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua_v.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados10.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados10.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados11.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados11.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados7.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados7.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados8.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados8.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados9.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados9.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados_v.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados_v.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PacientesAINES.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PacientesAINES.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_AgendaConsulta.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_AgendaConsulta.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_Certificados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Certificados.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultadosP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultadosP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_Existencia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Existencia.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_facCobrar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_facCobrar.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_hoja_trabajo_micro.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_hoja_trabajo_micro.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Parametros.resx">
+      <DependentUpon>frm_Parametros.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_PedFac.resx">
+      <DependentUpon>frm_PedFac.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Pedido.resx">
+      <DependentUpon>frm_Pedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Pedido2.resx">
+      <DependentUpon>frm_Pedido2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Perfil.resx">
+      <DependentUpon>frm_Perfil.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Permisos.resx">
+      <DependentUpon>frm_Permisos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Psdw.resx">
+      <DependentUpon>frm_Psdw.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_RangNormal.resx">
+      <DependentUpon>frm_RangNormal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_reportes.resx">
+      <DependentUpon>frm_reportes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Rpt_Factura.resx">
+      <DependentUpon>frm_Rpt_Factura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Rpt_PruebasFecha.resx">
+      <DependentUpon>frm_Rpt_PruebasFecha.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_servicio.resx">
+      <DependentUpon>frm_servicio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_test_orden.resx">
+      <DependentUpon>frm_test_orden.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_test_parametro.resx">
+      <DependentUpon>frm_test_parametro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_TipoTest.resx">
+      <DependentUpon>frm_TipoTest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_Trabajo.resx">
+      <DependentUpon>frm_Trabajo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_TrabajoFiltro.resx">
+      <DependentUpon>frm_TrabajoFiltro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_ValFinal.resx">
+      <DependentUpon>frm_ValFinal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_ValidacionRes.resx">
+      <DependentUpon>frm_ValidacionRes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_ValRemitidos.resx">
+      <DependentUpon>frm_ValRemitidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_VisResul.resx">
+      <DependentUpon>frm_VisResul.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_WebChat.resx">
+      <DependentUpon>frm_WebChat.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_Agenda.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Agenda.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_AgendaMedico.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_AgendaMedico.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_areas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_areas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_aspirantes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_aspirantes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_AutoCompletado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_AutoCompletado.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_bonificacion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_bonificacion.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_caja.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_caja.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_caja1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_caja1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_cajaXconvenio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_cajaXconvenio.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_cajaXconvenio1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_cajaXconvenio1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_cajaXconvenioConsolidado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_cajaXconvenioConsolidado.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_cajaXmedico.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_cajaXmedico.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_cajaXusuario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_cajaXusuario.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ConMedicoEspe.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ConMedicoEspe.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ConOrigen.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ConOrigen.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_contraorden.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_contraorden.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ContraOrden2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ContraOrden2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_convenios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_convenios.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_conVincula.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_conVincula.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaCarnet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaCarnet.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua.vb</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaContinua2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaContinua2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados.resx">
+      <DependentUpon>rpt_entregaresultados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultados3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultados3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultadosHOJA.resx">
+      <DependentUpon>rpt_entregaresultadosHOJA.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultadosHOJA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultadosHOJA.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultadosSL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultadosSL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_entregaresultadosSL2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_entregaresultadosSL2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_EstadisticaPacientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_EstadisticaPacientes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_EstadisticaPacientesE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_EstadisticaPacientesE1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_EstCultivo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_EstCultivo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_est_afiliacion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_est_afiliacion.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_est_area.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_est_area.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_est_edades.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_est_edades.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_est_servicio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_est_servicio.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_est_sexo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_est_sexo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ExaFisico.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ExaFisico.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_factura.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_factura1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_facturaAbono.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_facturaAbono.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_facturaRecibo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_facturaRecibo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_factura_cobros.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_factura_cobros.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_HistogramaImagen.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_HistogramaImagen.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_HistogramaInterfaz.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_HistogramaInterfaz.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_historiaclinica.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_historiaclinica.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_Historico.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_Historico.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_HistoricoManual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_HistoricoManual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_HojaTrabajoFiltro.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_HojaTrabajoFiltro.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_hoja_trabajo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_hoja_trabajo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_hormonas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_hormonas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ImpHist.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ImpHist.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_informe.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_informe1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_InformeAnulados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_InformeAnulados.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ingresos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ingresos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ingresosCE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ingresosCE1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ingresosHosp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ingresosHosp.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_IngresosPedido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_IngresosPedido.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_interpretacion2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_interpretacion2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_interpretacion1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_interpretacion1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_i_caducado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_i_caducado.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_I_Comprobate.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_I_Comprobate.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_I_Productos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_I_Productos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_I_Proveedor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_I_Proveedor.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_i_stock.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_i_stock.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_liquidos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_liquidos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_listadoCuentas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_listadoCuentas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ListadoResultados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ListadoResultados.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_listadoXconvenio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_listadoXconvenio.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_listasPrecios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_listasPrecios.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_medico.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_medico.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_origen.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_origen.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_paciente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_paciente.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PacientesALERGIAS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PacientesALERGIAS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PacientesALERGIAS2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PacientesALERGIAS2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PacientesALERGIAS3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PacientesALERGIAS3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_pacientesAtendidos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_pacientesAtendidos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PacientesHIS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PacientesHIS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ParamPlantilla.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ParamPlantilla.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_pedido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_pedido.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_perfiles.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_perfiles.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PlanTTO_G.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PlanTTO_G.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PlanTTO_G3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PlanTTO_G3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_preciop.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_preciop.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_produccion.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_produccion.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_produc_paciente.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_produc_paciente.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_proforma.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_proforma.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PruebasEjecEquipo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PruebasEjecEquipo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PruebasNoRegistradas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PruebasNoRegistradas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PruebasXPedido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PruebasXPedido.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_PrueEjecutadas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_PrueEjecutadas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_RangNormalT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_RangNormalT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_RangosNormalidad.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_RangosNormalidad.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_RecetaMedica.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_RecetaMedica.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ReporteResultados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ReporteResultados.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_ReporteResultados2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ReporteResultados2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\Rpt_Servicios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_Servicios.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_SignosVitales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_SignosVitales.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_test_hetareos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_test_hetareos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_trackingCorreo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_trackingCorreo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_TratamientoPac.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_TratamientoPac.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Reportes\rpt_TrazabilidadMuestra.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_TrazabilidadMuestra.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\images_new\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

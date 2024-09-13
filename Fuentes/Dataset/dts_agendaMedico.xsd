@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_agendaMedico" targetNamespace="http://tempuri.org/dts_agendaMedico.xsd" xmlns:mstns="http://tempuri.org/dts_agendaMedico.xsd" xmlns="http://tempuri.org/dts_agendaMedico.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_agendaMedico" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_agendaMedico" msprop:Generator_DataSetName="dts_agendaMedico" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AgendaMedica" msprop:Generator_UserTableName="AgendaMedica" msprop:Generator_RowDeletedName="AgendaMedicaRowDeleted" msprop:Generator_RowChangedName="AgendaMedicaRowChanged" msprop:Generator_RowClassName="AgendaMedicaRow" msprop:Generator_RowChangingName="AgendaMedicaRowChanging" msprop:Generator_RowEvArgName="AgendaMedicaRowChangeEvent" msprop:Generator_RowEvHandlerName="AgendaMedicaRowChangeEventHandler" msprop:Generator_TableClassName="AgendaMedicaDataTable" msprop:Generator_TableVarName="tableAgendaMedica" msprop:Generator_RowDeletingName="AgendaMedicaRowDeleting" msprop:Generator_TablePropName="AgendaMedica">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="age_hora" msprop:Generator_UserColumnName="age_hora" msprop:Generator_ColumnPropNameInRow="age_hora" msprop:Generator_ColumnVarNameInTable="columnage_hora" msprop:Generator_ColumnPropNameInTable="age_horaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_fecha" msprop:Generator_UserColumnName="age_fecha" msprop:Generator_ColumnPropNameInRow="age_fecha" msprop:Generator_ColumnVarNameInTable="columnage_fecha" msprop:Generator_ColumnPropNameInTable="age_fechaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PAC_NOMBRE" msprop:Generator_UserColumnName="PAC_NOMBRE" msprop:Generator_ColumnPropNameInRow="PAC_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnPAC_NOMBRE" msprop:Generator_ColumnPropNameInTable="PAC_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_EDAD" msprop:Generator_UserColumnName="PAC_EDAD" msprop:Generator_ColumnPropNameInRow="PAC_EDAD" msprop:Generator_ColumnVarNameInTable="columnPAC_EDAD" msprop:Generator_ColumnPropNameInTable="PAC_EDADColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_resumen" msprop:Generator_UserColumnName="age_resumen" msprop:Generator_ColumnPropNameInRow="age_resumen" msprop:Generator_ColumnVarNameInTable="columnage_resumen" msprop:Generator_ColumnPropNameInTable="age_resumenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_cutaneas" msprop:Generator_UserColumnName="age_cutaneas" msprop:Generator_ColumnPropNameInRow="age_cutaneas" msprop:Generator_ColumnVarNameInTable="columnage_cutaneas" msprop:Generator_ColumnPropNameInTable="age_cutaneasColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_dermografismo" msprop:Generator_UserColumnName="age_dermografismo" msprop:Generator_ColumnPropNameInRow="age_dermografismo" msprop:Generator_ColumnVarNameInTable="columnage_dermografismo" msprop:Generator_ColumnPropNameInTable="age_dermografismoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_receta" msprop:Generator_UserColumnName="age_receta" msprop:Generator_ColumnPropNameInRow="age_receta" msprop:Generator_ColumnVarNameInTable="columnage_receta" msprop:Generator_ColumnPropNameInTable="age_recetaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_tratamiento" msprop:Generator_UserColumnName="age_tratamiento" msprop:Generator_ColumnPropNameInRow="age_tratamiento" msprop:Generator_ColumnVarNameInTable="columnage_tratamiento" msprop:Generator_ColumnPropNameInTable="age_tratamientoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="age_finalizado" msprop:Generator_UserColumnName="age_finalizado" msprop:Generator_ColumnPropNameInRow="age_finalizado" msprop:Generator_ColumnVarNameInTable="columnage_finalizado" msprop:Generator_ColumnPropNameInTable="age_finalizadoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="med_nombre" msprop:Generator_UserColumnName="med_nombre" msprop:Generator_ColumnPropNameInRow="med_nombre" msprop:Generator_ColumnVarNameInTable="columnmed_nombre" msprop:Generator_ColumnPropNameInTable="med_nombreColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="esp_desc" msprop:Generator_UserColumnName="esp_desc" msprop:Generator_ColumnPropNameInRow="esp_desc" msprop:Generator_ColumnVarNameInTable="columnesp_desc" msprop:Generator_ColumnPropNameInTable="esp_descColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

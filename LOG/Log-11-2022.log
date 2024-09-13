@@ -1,0 +1,2364 @@
+01/11/2022 11:58:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2022 11:58:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2022 11:58:47,ross,GUARDA RESULTADOS,WBC=4
+*************
+01/11/2022 11:58:47,ross,GUARDA RESULTADOS,NEU=5
+*************
+01/11/2022 11:58:47,ross,GUARDA RESULTADOS,LYM=6
+*************
+01/11/2022 11:58:47,ross,GUARDA RESULTADOS,MON=5
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,EOS=4
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,BASO=3
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,LYM%25=5
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,MON%25=4
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,BASO%25=2
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,RBC=6
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,HCT=3
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,HGB=4
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,MCV=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,MCH=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,MCHC=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,RDW-CV=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,RDW-SD=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,PLT=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,MPV=77
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,PDW=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,PCT=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,P-LCR=7
+*************
+01/11/2022 11:58:48,ross,GUARDA RESULTADOS,P-LCC=7
+*************
+01/11/2022 11:59:01,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+01/11/2022 11:59:01,ross,GUARDA RESULTADOS,BIDHH=0.13
+*************
+01/11/2022 11:59:01,ross,GUARDA RESULTADOS,BIHHH=1.17
+*************
+01/11/2022 11:59:01,ross,GUARDA RESULTADOS,BITHHH=1.3
+*************
+01/11/2022 11:59:07,ross,VALIDACION RESULTADO,PEDIDO=120/400101
+*************
+01/11/2022 11:59:07,ross,VALIDACION RESULTADO,PEDIDO=120/400153
+*************
+01/11/2022 11:59:07,ross,VALIDACION RESULTADO,PEDIDO=120/400292
+*************
+01/11/2022 11:59:07,ross,VALIDACION RESULTADO,PEDIDO=120/400296
+*************
+01/11/2022 11:59:09,ross,Eliminar resultado AUX_HIS,
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,WBCH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,NEUH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,LYMH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,MONH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,EOSH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,BASOH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,MON%25H=55
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,RBCH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,HCTH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,HGBH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,MCVH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,MCHH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,RDW-CVH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,PLTH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,MPVH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,PDWH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,PCTH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,P-LCRH=5
+*************
+01/11/2022 12:05:32,ross,GUARDA RESULTADOS,P-LCCH=5
+*************
+01/11/2022 12:05:44,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+01/11/2022 12:05:44,ross,GUARDA RESULTADOS,BIDHH=0.23
+*************
+01/11/2022 12:05:44,ross,GUARDA RESULTADOS,BIHHH=0.86
+*************
+01/11/2022 12:05:44,ross,GUARDA RESULTADOS,BITHHH=1.09
+*************
+01/11/2022 12:05:46,ross,VALIDACION RESULTADO,PEDIDO=121/400101
+*************
+01/11/2022 12:05:46,ross,VALIDACION RESULTADO,PEDIDO=121/400153
+*************
+01/11/2022 12:05:46,ross,VALIDACION RESULTADO,PEDIDO=121/400292
+*************
+01/11/2022 12:05:46,ross,VALIDACION RESULTADO,PEDIDO=121/400296
+*************
+01/11/2022 12:05:46,ross,Eliminar resultado AUX_HIS,
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,WBCH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,NEUH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,LYMH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,MONH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,EOSH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,BASOH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,RBCH=5
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,HCTH=
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,HGBH=3
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,MCVH=3
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,MCHH=3
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+01/11/2022 12:06:12,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,PLTH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,MPVH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,PDWH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,PCTH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+01/11/2022 12:06:13,ross,GUARDA RESULTADOS,P-LCCH=3
+*************
+01/11/2022 12:06:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+01/11/2022 12:06:25,ross,GUARDA RESULTADOS,BIDHH=0.13
+*************
+01/11/2022 12:06:25,ross,GUARDA RESULTADOS,BIHHH=1.17
+*************
+01/11/2022 12:06:25,ross,GUARDA RESULTADOS,BITHHH=1.3
+*************
+01/11/2022 12:06:27,ross,VALIDACION RESULTADO,PEDIDO=122/400101
+*************
+01/11/2022 12:06:27,ross,VALIDACION RESULTADO,PEDIDO=122/400153
+*************
+01/11/2022 12:06:27,ross,VALIDACION RESULTADO,PEDIDO=122/400292
+*************
+01/11/2022 12:06:27,ross,VALIDACION RESULTADO,PEDIDO=122/400296
+*************
+01/11/2022 12:06:27,ross,Eliminar resultado AUX_HIS,
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,WBC=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,NEU=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,LYM=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,MON=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,EOS=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,BASO=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,NEU%25=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,LYM%25=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,MON%25=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,EOS%25=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,BASO%25=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,RBC=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,HCT=5
+*************
+01/11/2022 12:07:21,ross,GUARDA RESULTADOS,HGB=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,MCV=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,MCH=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,MCHC=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,RDW-CV=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,RDW-SD=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,PLT=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,MPV=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,PDW=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,PCT=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,P-LCR=5
+*************
+01/11/2022 12:07:22,ross,GUARDA RESULTADOS,P-LCC=55
+*************
+01/11/2022 12:07:34,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+01/11/2022 12:07:34,ross,GUARDA RESULTADOS,COLHH=189
+*************
+01/11/2022 12:07:34,ross,GUARDA RESULTADOS,AHDLHH=43
+*************
+01/11/2022 12:07:34,ross,GUARDA RESULTADOS,LDLHHH=116.6
+*************
+01/11/2022 12:07:34,ross,GUARDA RESULTADOS,TGLHH=147
+*************
+01/11/2022 12:07:37,ross,VALIDACION RESULTADO,PEDIDO=225/400101
+*************
+01/11/2022 12:07:37,ross,VALIDACION RESULTADO,PEDIDO=225/400149
+*************
+01/11/2022 12:07:37,ross,VALIDACION RESULTADO,PEDIDO=225/400150
+*************
+01/11/2022 12:07:37,ross,VALIDACION RESULTADO,PEDIDO=225/400151
+*************
+01/11/2022 12:07:37,ross,VALIDACION RESULTADO,PEDIDO=225/400476
+*************
+01/11/2022 12:07:37,ross,Eliminar resultado AUX_HIS,
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,WBCH=6
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,NEUH=6
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,LYMH=6
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,MONH=6
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,EOSH=6
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,BASOH=6
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+01/11/2022 12:08:12,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,BASO%25H=67
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,RBCH=7
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,HCTH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,HGBH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,MCVH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,MCHH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,RDW-CVH=66
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,RDW-SDH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,PLTH=66
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,MPVH=5
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,PDWH=6
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,PCTH=5
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,P-LCRH=5
+*************
+01/11/2022 12:08:13,ross,GUARDA RESULTADOS,P-LCCH=5
+*************
+01/11/2022 12:08:49,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+01/11/2022 12:08:49,ross,GUARDA RESULTADOS,COLHH=184.3
+*************
+01/11/2022 12:08:49,ross,GUARDA RESULTADOS,AHDLHHH=37.6
+*************
+01/11/2022 12:08:49,ross,GUARDA RESULTADOS,LDLHHH=115.1
+*************
+01/11/2022 12:08:49,ross,GUARDA RESULTADOS,TGLHH=158
+*************
+01/11/2022 12:16:05,ross,VALIDACION RESULTADO,PEDIDO=226/400101
+*************
+01/11/2022 12:16:05,ross,VALIDACION RESULTADO,PEDIDO=226/400149
+*************
+01/11/2022 12:16:05,ross,VALIDACION RESULTADO,PEDIDO=226/400150
+*************
+01/11/2022 12:16:05,ross,VALIDACION RESULTADO,PEDIDO=226/400151
+*************
+01/11/2022 12:16:05,ross,VALIDACION RESULTADO,PEDIDO=226/400476
+*************
+01/11/2022 12:16:05,ross,Eliminar resultado AUX_HIS,
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,WBCH=7
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,NEUH=7
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,LYMH=7
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,MONH=7
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,EOSH=8
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,BASOH=8
+*************
+01/11/2022 12:16:44,ross,GUARDA RESULTADOS,NEU%25H=8
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,MON%25H=87
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,EOS%25H=87
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,BASO%25H=78
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,RBCH=78
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,HCTH=78
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,HGBH=78
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,MCVH=78
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,MCHH=7
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,MCHCH=87
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,RDW-CVH=7
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,RDW-SDH=7
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,PLTH=7
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,MPVH=7
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,PDWH=6
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,PCTH=6
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+01/11/2022 12:16:45,ross,GUARDA RESULTADOS,P-LCCH=7
+*************
+01/11/2022 12:17:09,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+01/11/2022 12:17:09,ross,GUARDA RESULTADOS,COLHH=190.2
+*************
+01/11/2022 12:17:09,ross,GUARDA RESULTADOS,AHDLHHH=57
+*************
+01/11/2022 12:17:09,ross,GUARDA RESULTADOS,LDLHHH=99.8
+*************
+01/11/2022 12:17:09,ross,GUARDA RESULTADOS,TGLHH=167
+*************
+01/11/2022 12:17:10,ross,VALIDACION RESULTADO,PEDIDO=227/400101
+*************
+01/11/2022 12:17:11,ross,VALIDACION RESULTADO,PEDIDO=227/400149
+*************
+01/11/2022 12:17:11,ross,VALIDACION RESULTADO,PEDIDO=227/400150
+*************
+01/11/2022 12:17:11,ross,VALIDACION RESULTADO,PEDIDO=227/400151
+*************
+01/11/2022 12:17:11,ross,VALIDACION RESULTADO,PEDIDO=227/400476
+*************
+01/11/2022 12:17:11,ross,Eliminar resultado AUX_HIS,
+*************
+03/11/2022 15:44:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2022 15:44:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2022 15:55:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2022 15:55:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2022 16:20:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2022 16:20:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2022 16:26:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2022 16:26:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2022 20:44:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2022 20:44:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:45:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:45:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:49:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:49:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:51:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:51:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:53:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:53:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:54:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:54:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:56:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:56:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 10:57:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 10:57:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:01:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:01:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:02:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:02:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:04:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:04:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:06:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:06:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:08:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:08:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:09:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:09:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:11:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:11:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:13:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:13:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:18:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:18:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:23:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:23:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:24:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:24:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:35:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:35:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:36:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:36:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:39:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:39:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:42:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:42:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:44:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:44:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:46:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:46:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:51:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:52:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:52:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:52:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:54:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:54:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:56:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:56:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 11:58:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 11:58:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:00:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:00:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:02:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:02:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:05:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:05:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:07:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:07:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:08:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:08:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:10:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:10:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2022 12:11:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2022 12:11:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/11/2022 11:53:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2022 11:53:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/11/2022 16:22:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2022 16:22:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:21:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 19:21:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:24:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 19:24:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:26:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 19:26:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:27:00,ross,Actualizacon Medico,Medico=MEDICO GUARDIA
+*************
+09/11/2022 19:34:34,ross,Actualizacon Medico,Medico=MEDICO GUARDIA
+*************
+09/11/2022 19:44:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 19:44:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:45:21,ross,Actualizacon Medico,Medico=MEDICO GUARDIA
+*************
+09/11/2022 19:53:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 19:53:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:55:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 19:55:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 19:55:59,ross,Actualizacon Medico,Medico=MEDICO GUARDIA
+*************
+09/11/2022 19:59:18,ross,Actualizacon Medico,Medico=LUGMANIA ARMANADO
+*************
+09/11/2022 20:02:43,ross,Actualizacon Medico,Medico=HINOJOSA PEDRO
+*************
+09/11/2022 20:04:14,ross,Actualizacon Medico,Medico=SANTILLAN MARLENE
+*************
+09/11/2022 20:08:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 20:08:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 20:11:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 20:11:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 20:15:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 20:15:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 20:22:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 20:22:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 20:25:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 20:25:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 20:26:53,ross,Actualizacon Medico,Medico=BERNAL ESTEBES
+*************
+09/11/2022 20:31:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2022 20:31:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2022 20:32:06,ross,Nuevo Pedido PRE CARGA,NORMAL/330
+*************
+18/11/2022 10:27:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2022 10:27:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2022 10:28:06,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+18/11/2022 10:28:28,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401104,400141,400140,,PEDIDO=1
+*************
+18/11/2022 10:28:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,WBCH=3
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,LYMH=5
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,MONH=6
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,EOSH=7
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,BASOH=8
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,MON%25H=7
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,HCTH=3
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,HGBH=4
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,MCVH=5
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/11/2022 10:29:33,ross,GUARDA RESULTADOS,RDW-CVH=2
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,RDW-SDH=1
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,PLTH=3
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,MPVH=5
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,PDWH=6
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,PCTH=7
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,P-LCRH=8
+*************
+18/11/2022 10:29:34,ross,GUARDA RESULTADOS,P-LCCH=9
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,GLUCH=102.2
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,UREH=45.2
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,CREH=0.4
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,COLH=189.3
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,AHDLH=51.5
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,LDLH=102.02
+*************
+18/11/2022 10:39:43,ross,GUARDA RESULTADOS,TGLH=178.9
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400101
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400140
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400141
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+18/11/2022 10:39:44,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+18/11/2022 10:39:45,ross,VALIDACION RESULTADO,PEDIDO=1/401104
+*************
+18/11/2022 10:39:45,ross,Eliminar resultado AUX_HIS,
+*************
+18/11/2022 10:39:58,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+18/11/2022 10:40:07,ross,IMPRIME TODO,PEDIDO=1
+*************
+18/11/2022 10:40:50,ross,IMPRIME TODO,PEDIDO=1
+*************
+18/11/2022 10:42:44,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+18/11/2022 14:41:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2022 14:41:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2022 14:42:04,ross,IMPRIME TODO,PEDIDO=1
+*************
+18/11/2022 15:29:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2022 15:29:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2022 15:29:34,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+18/11/2022 15:30:00,ross,IMPRIME TODO,PEDIDO=1
+*************
+18/11/2022 15:35:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2022 15:35:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2022 15:35:18,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+18/11/2022 17:51:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2022 17:51:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 13:36:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 13:36:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 13:48:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 13:48:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:12:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:12:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:16:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:16:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:36:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:36:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:38:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:38:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:41:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:41:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:42:09,ross,Actualizacon Medico,Medico=LABORATORIO
+*************
+19/11/2022 15:54:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:54:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 15:58:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 15:58:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 16:03:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 16:03:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 16:16:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 16:16:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 17:10:10,ross,Actualizacon Medico,Medico=LABORATORIO
+*************
+19/11/2022 17:11:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 17:11:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 17:15:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 17:15:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 17:57:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 17:57:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 18:01:20,ross,Actualizacon Medico,Medico=MEDICO GUARDIA
+*************
+19/11/2022 18:03:54,ross,Actualizacon Medico,Medico=SANTILLAN MARLENE
+*************
+19/11/2022 18:04:43,ross,Actualizacon Medico,Medico=SANTILLAN MARLENE
+*************
+19/11/2022 18:05:53,ross,Actualizacon Medico,Medico=CAÑIZARES CARLOS
+*************
+19/11/2022 18:36:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 18:36:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 18:43:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2022 18:43:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2022 18:50:43,ross,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+23/11/2022 10:38:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 10:38:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 15:41:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 15:41:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 15:44:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=3
+*************
+23/11/2022 15:44:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+23/11/2022 15:44:09,ross,Actualiza FACTURA,FACTURA=1
+*************
+23/11/2022 15:44:09,ross,Ingresa FACTURA,FACTURA=1
+*************
+23/11/2022 15:44:10,ross,Insertar abono,Factura=1 Abono= 13.2
+*************
+23/11/2022 15:44:10,ross,Actualiza FACTURA,FACTURA=1/13.2
+*************
+23/11/2022 15:44:40,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+23/11/2022 15:44:53,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400230,400244,,PEDIDO=4
+*************
+23/11/2022 15:44:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+23/11/2022 15:44:58,ross,Actualiza FACTURA,FACTURA=2
+*************
+23/11/2022 15:44:58,ross,Ingresa FACTURA,FACTURA=2
+*************
+23/11/2022 15:44:59,ross,Insertar abono,Factura=2 Abono= 13.15
+*************
+23/11/2022 15:44:59,ross,Actualiza FACTURA,FACTURA=2/13.15
+*************
+23/11/2022 15:45:33,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400823,,PEDIDO=5
+*************
+23/11/2022 15:45:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+23/11/2022 15:45:52,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400783,400784,,PEDIDO=6
+*************
+23/11/2022 15:45:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=06
+*************
+23/11/2022 15:45:59,ross,Actualiza FACTURA,FACTURA=3
+*************
+23/11/2022 15:45:59,ross,Ingresa FACTURA,FACTURA=3
+*************
+23/11/2022 15:45:59,ross,Insertar abono,Factura=3 Abono= 20
+*************
+23/11/2022 15:45:59,ross,Actualiza FACTURA,FACTURA=3/20
+*************
+23/11/2022 16:05:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:05:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:08:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:08:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:10:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:10:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:12:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:12:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:17:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:17:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:22:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:22:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:27:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:27:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 16:44:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 16:44:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 17:13:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 17:13:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 17:24:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 17:24:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 17:27:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 17:27:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 17:27:53,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=7
+*************
+23/11/2022 17:27:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+23/11/2022 17:28:50,ross,1 ANULA ORDEN,PEDIDO=7DHEASºCK-MB ºCREATIN FOSFOCINASA ºTROPONINA Iº MOTIVO: se fue
+*************
+23/11/2022 17:29:47,ross,Generar Paciente,Paciente=GOMEZ PEREZ ANIBAL MERCADO
+*************
+23/11/2022 17:30:02,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400772,400601,400781,400244,400230,,PEDIDO=8
+*************
+23/11/2022 17:30:02,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+23/11/2022 17:30:20,ross,Actualiza FACTURA,FACTURA=4
+*************
+23/11/2022 17:30:20,ross,Ingresa FACTURA,FACTURA=4
+*************
+23/11/2022 17:30:21,ross,Insertar abono,Factura=4 Abono= 50.1
+*************
+23/11/2022 17:30:21,ross,Actualiza FACTURA,FACTURA=4/50.1
+*************
+23/11/2022 17:30:51,ross,1 ANULA ORDEN,PEDIDO=8BIOMETRIA HEMATICA ºANTI. HIV CUANTITATIVOºVDRLºHEPATITIS B HBsAGºELEMENTAL Y MICROSCOPICO (EMO)ºCOPROPARASITARIOº MOTIVO: test
+*************
+23/11/2022 17:46:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 17:46:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 17:53:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 17:53:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 17:54:29,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=9
+*************
+23/11/2022 17:54:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=09
+*************
+23/11/2022 17:54:47,ross,Actualiza FACTURA,FACTURA=5
+*************
+23/11/2022 17:54:47,ross,Ingresa FACTURA,FACTURA=5
+*************
+23/11/2022 17:54:49,ross,Insertar abono,Factura=5 Abono= 13.2
+*************
+23/11/2022 17:54:49,ross,Actualiza FACTURA,FACTURA=5/13.2
+*************
+23/11/2022 17:55:46,ross,1 ANULA ORDEN,PEDIDO=9COLESTEROL TOTAL ºHDL COLESTEROLºTRIGLICERIDOS ºLDL COLESTEROLº MOTIVO: ffr
+*************
+23/11/2022 18:08:03,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=1
+*************
+23/11/2022 18:08:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+23/11/2022 18:08:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401104,,PEDIDO=2
+*************
+23/11/2022 18:08:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+23/11/2022 18:08:34,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=3
+*************
+23/11/2022 18:08:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+23/11/2022 18:08:39,ross,Actualiza FACTURA,FACTURA=6
+*************
+23/11/2022 18:08:39,ross,Ingresa FACTURA,FACTURA=6
+*************
+23/11/2022 18:08:39,ross,Insertar abono,Factura=6 Abono= 13.2
+*************
+23/11/2022 18:08:39,ross,Actualiza FACTURA,FACTURA=6/13.2
+*************
+23/11/2022 18:08:46,ross,Actualiza FACTURA,FACTURA=7
+*************
+23/11/2022 18:08:46,ross,Ingresa FACTURA,FACTURA=7
+*************
+23/11/2022 18:08:46,ross,Insertar abono,Factura=7 Abono= 5
+*************
+23/11/2022 18:08:46,ross,Actualiza FACTURA,FACTURA=7/5
+*************
+23/11/2022 18:10:24,ross,1 ANULA ORDEN,PEDIDO=1COLESTEROL TOTAL ºHDL COLESTEROLºTRIGLICERIDOS ºLDL COLESTEROLº MOTIVO: test
+*************
+23/11/2022 18:20:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 18:20:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 18:24:17,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400772,400601,400781,400244,400230,,PEDIDO=4
+*************
+23/11/2022 18:24:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+23/11/2022 18:24:25,ross,Actualiza FACTURA,FACTURA=8
+*************
+23/11/2022 18:24:25,ross,Ingresa FACTURA,FACTURA=8
+*************
+23/11/2022 18:24:27,ross,Insertar abono,Factura=8 Abono= 50.1
+*************
+23/11/2022 18:24:27,ross,Actualiza FACTURA,FACTURA=8/50.1
+*************
+23/11/2022 18:39:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 18:39:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:01:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:01:19,,Ingreso CONTRASEÑA FALLIDO,
+*************
+23/11/2022 19:01:19,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:01:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:07:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:07:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:12:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:12:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:20:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:20:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:24:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:24:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:26:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:26:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2022 19:30:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2022 19:30:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 14:35:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 14:35:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 18:14:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 18:14:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 18:14:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=5
+*************
+24/11/2022 18:14:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+24/11/2022 18:16:15,ross,GUARDA RESULTADOS,COLH=120
+*************
+24/11/2022 18:16:15,ross,GUARDA RESULTADOS,TGLH=189
+*************
+24/11/2022 18:16:15,ross,GUARDA RESULTADOS,AHDLH=22
+*************
+24/11/2022 18:16:15,ross,GUARDA RESULTADOS,LDLH=60.2
+*************
+24/11/2022 18:16:28,ross,GUARDA RESULTADOS,WBCH=4
+*************
+24/11/2022 18:16:28,ross,GUARDA RESULTADOS,NEUH=4
+*************
+24/11/2022 18:16:28,ross,GUARDA RESULTADOS,LYMH=4
+*************
+24/11/2022 18:16:28,ross,GUARDA RESULTADOS,MONH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,EOSH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,BASOH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,MON%25H=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,RBCH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,HCTH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,HGBH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,MCVH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,MCHH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,RDW-SDH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,PLTH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,MPVH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,PDWH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,PCTH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+24/11/2022 18:16:29,ross,GUARDA RESULTADOS,P-LCCH=4
+*************
+24/11/2022 18:16:38,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+24/11/2022 18:16:38,ross,GUARDA RESULTADOS,COLH=120
+*************
+24/11/2022 18:16:38,ross,GUARDA RESULTADOS,AHDLH=22
+*************
+24/11/2022 18:16:38,ross,GUARDA RESULTADOS,LDLH=60.2
+*************
+24/11/2022 18:16:38,ross,GUARDA RESULTADOS,TGLH=189
+*************
+24/11/2022 18:17:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+24/11/2022 18:17:25,ross,GUARDA RESULTADOS,COLH=120
+*************
+24/11/2022 18:17:25,ross,GUARDA RESULTADOS,AHDLH=22
+*************
+24/11/2022 18:17:25,ross,GUARDA RESULTADOS,LDLH=60.2
+*************
+24/11/2022 18:17:25,ross,GUARDA RESULTADOS,TGLH=189
+*************
+24/11/2022 18:17:26,ross,VALIDACION RESULTADO,PEDIDO=5/400101
+*************
+24/11/2022 18:17:26,ross,VALIDACION RESULTADO,PEDIDO=5/400149
+*************
+24/11/2022 18:17:26,ross,VALIDACION RESULTADO,PEDIDO=5/400150
+*************
+24/11/2022 18:17:26,ross,VALIDACION RESULTADO,PEDIDO=5/400151
+*************
+24/11/2022 18:17:26,ross,VALIDACION RESULTADO,PEDIDO=5/400476
+*************
+24/11/2022 18:17:27,ross,Eliminar resultado AUX_HIS,
+*************
+24/11/2022 18:17:47,ross,IMPRIME POR AREA,PEDIDO=5
+*************
+24/11/2022 19:04:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:04:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:14:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:14:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:22:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:22:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:32:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:32:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:46:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:46:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:51:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:52:25,,Ingreso CONTRASEÑA FALLIDO,
+*************
+24/11/2022 19:52:25,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:52:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 19:59:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 19:59:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 20:01:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 20:01:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 20:21:05,ross,1 MODIFICA ORDENNORMAL,PEDIDO=5
+*************
+24/11/2022 20:22:18,ross,Guardar palabra,PALABRA=POSITIVO
+*************
+24/11/2022 20:22:24,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+24/11/2022 20:54:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 20:54:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2022 21:00:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2022 21:00:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/11/2022 11:34:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/11/2022 11:34:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/11/2022 11:38:47,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+27/11/2022 14:46:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 14:46:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 14:47:49,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,,PEDIDO=6
+*************
+27/11/2022 14:47:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=06
+*************
+27/11/2022 14:56:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 14:56:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 16:42:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 16:42:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 16:43:41,ross,Modifica USR,USR=1
+*************
+27/11/2022 16:46:54,ross,GUARDA RESULTADOS,WBCH=5.8
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,NEUH=4.7
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,LYMH=2.5
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,MONH=0.45
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,EOSH=0.23
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,BASOH=0.45
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,NEU%25H=45.0
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,LYM%25H=34.1
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,MON%25H=7.8
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,EOS%25H=3.5
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,BASO%25H=1.1
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,RBCH=5.8
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,HCTH=7.2
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,HGBH=12.7
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,MCVH=89.2
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,MCHH=41.9
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,MCHCH=33.9
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,RDW-CVH=14.5
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,RDW-SDH=39.8
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,PLTH=356
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,MPVH=11.2
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,PDWH=17.3
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,PCTH=0.98
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,P-LCRH=13.6
+*************
+27/11/2022 16:46:55,ross,GUARDA RESULTADOS,P-LCCH=0.3
+*************
+27/11/2022 16:47:37,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+27/11/2022 16:47:38,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+27/11/2022 16:47:38,ross,GUARDA RESULTADOS,AHDLH=67.2
+*************
+27/11/2022 16:47:39,ross,GUARDA RESULTADOS,LDLH=86.36
+*************
+27/11/2022 16:47:39,ross,GUARDA RESULTADOS,TGLH=178.2
+*************
+27/11/2022 16:47:42,ross,VALIDACION RESULTADO,PEDIDO=6/400101
+*************
+27/11/2022 16:47:42,ross,VALIDACION RESULTADO,PEDIDO=6/400149
+*************
+27/11/2022 16:47:42,ross,VALIDACION RESULTADO,PEDIDO=6/400150
+*************
+27/11/2022 16:47:42,ross,VALIDACION RESULTADO,PEDIDO=6/400151
+*************
+27/11/2022 16:47:42,ross,VALIDACION RESULTADO,PEDIDO=6/400476
+*************
+27/11/2022 16:47:42,ross,Eliminar resultado AUX_HIS,
+*************
+27/11/2022 16:48:10,ross,IMPRIME POR AREA,PEDIDO=6
+*************
+27/11/2022 17:23:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 17:23:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 17:30:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 17:30:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 17:39:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 17:39:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 17:43:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 17:43:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:14:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:14:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:21:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:21:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:26:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:26:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:31:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:31:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:36:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:36:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:39:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:39:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:45:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:45:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:49:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:49:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 18:59:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 18:59:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:06:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:06:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:11:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:11:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:23:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:23:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:27:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:27:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:35:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:35:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:40:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:40:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:47:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:47:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 19:55:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 19:55:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 20:15:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 20:15:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 20:23:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 20:23:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 20:46:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 20:46:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 20:57:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 20:57:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 21:01:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/11/2022 21:01:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/11/2022 21:02:51,ross,Nuevo Pedido PRE CARGA,NORMAL/7
+*************
+28/11/2022 8:58:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 8:58:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 8:59:01,ross,Generar Paciente,Paciente=PACIENTE DE PRUEBA RN
+*************
+28/11/2022 9:08:10,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=8
+*************
+28/11/2022 9:08:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+28/11/2022 9:18:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 9:18:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 9:22:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 9:22:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 9:23:38,ross,Actualizar Rango Unico,Test=11 Rango=1.2-2.8
+*************
+28/11/2022 9:24:37,ross,Actualiza Test,Test=LEUCOCITOS
+*************
+28/11/2022 9:29:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 9:29:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 9:38:01,ross,Actualizar Rango Unico,Test=11 Rango=1.2-4.4
+*************
+28/11/2022 10:02:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 10:02:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 10:03:00,ross,Actualizar Rango Unico,Test=11 Rango=1.2-3.8
+*************
+28/11/2022 12:15:16,ross,Actualiza Test,Test=LEUCOCITOS
+*************
+28/11/2022 12:16:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 12:16:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 12:18:54,ross,Actualiza Test,Test=LEUCOCITOS
+*************
+28/11/2022 12:28:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 12:28:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:03:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:03:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:07:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:07:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:11:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:11:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:16:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:16:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:27:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:27:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:32:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:32:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:35:32,ross,Actualizar Rango Unico,Test=11 Rango=1.2-6.6
+*************
+28/11/2022 15:37:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 15:37:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 15:52:12,ross,Actualizar Rango Unico,Test=11 Rango=4.5-14.8
+*************
+28/11/2022 15:52:29,ross,Actualizar Rango Unico,Test=11 Rango=5.3-11.2
+*************
+28/11/2022 16:01:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 16:01:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 16:03:51,ross,Actualizar Rango Unico,Test=11 Rango=4-10.5
+*************
+28/11/2022 16:04:46,ross,Actualizar Rango Unico,Test=11 Rango=5.3-11.9
+*************
+28/11/2022 16:19:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 16:19:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 16:19:29,ross,1 ANULA ORDEN,PEDIDO=8BIOMETRIA HEMATICA º MOTIVO: test
+*************
+28/11/2022 16:25:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 16:25:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 16:36:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 16:36:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 16:42:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 16:42:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 16:51:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 16:51:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 16:53:05,ross,Actualizar Rango Unico,Test=11 Rango=2.9-12.4
+*************
+28/11/2022 16:54:53,ross,Actualizar Rango Unico,Test=11 Rango=2-9
+*************
+28/11/2022 19:25:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/11/2022 19:25:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/11/2022 19:26:58,ross,Actualizar Rango Unico,Test=11 Rango=8.9-18.8
+*************
+28/11/2022 19:32:43,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=9
+*************
+28/11/2022 19:32:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=09
+*************
+28/11/2022 20:07:21,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=10
+*************
+28/11/2022 20:07:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10
+*************
+29/11/2022 16:07:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2022 16:07:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2022 16:08:31,ross,Generar Paciente,Paciente=PACIENTE DE PRUEBA RECIENNACIDO
+*************
+29/11/2022 16:08:49,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=11
+*************
+29/11/2022 16:08:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=11
+*************
+29/11/2022 16:10:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2022 16:10:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2022 16:11:03,ross,Actualizar Rango Unico,Test=11 Rango=13.2-18.9
+*************
+29/11/2022 16:11:19,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400101,,PEDIDO=11
+*************
+30/11/2022 8:19:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 8:19:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 8:39:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 8:39:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 8:48:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 8:48:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 8:51:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 8:51:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 8:57:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 8:57:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 8:59:28,ross,Actualizar Rango Unico,Test=24 Rango=20-30
+*************
+30/11/2022 9:00:51,ross,Generar Paciente,Paciente=PACIENTE DE PRUEBA 2SEMANAS
+*************
+30/11/2022 9:02:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 9:02:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 9:02:22,ross,Actualiza Paciente,Paciente=PACIENTE DE PRUEBA 2SEMANAS
+*************
+30/11/2022 9:02:53,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=12
+*************
+30/11/2022 9:02:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=12
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,WBCH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,NEUH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,LYMH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,MONR4=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,EOSH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,BASOH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,MON%25H=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,RBCH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,HCTH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,HGBH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,MCVH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,MCHH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,RDW-SDH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,PLTH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,MPVH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,PDWH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,PCTH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+30/11/2022 9:03:26,ross,GUARDA RESULTADOS,P-LCCH=4
+*************
+30/11/2022 9:03:31,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 9:04:23,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 9:07:12,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 9:11:38,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=13
+*************
+30/11/2022 9:11:38,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,WBCH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,NEUH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,LYMH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,MONR4=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,EOSH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,BASOH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,NEU%25H=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,MON%25H=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,EOS%25H=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,BASO%25H=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,RBCH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,HCTH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,HGBH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,MCVH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,MCHH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,RDW-CVH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,RDW-SDH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,PLTH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,MPVH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,PDWH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,PCTH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,P-LCRH=8
+*************
+30/11/2022 9:12:29,ross,GUARDA RESULTADOS,P-LCCH=8
+*************
+30/11/2022 9:12:35,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 9:12:41,ross,VALIDACION RESULTADO,PEDIDO=13/400101
+*************
+30/11/2022 9:12:41,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 9:12:52,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+30/11/2022 9:22:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 9:22:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 10:09:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 10:09:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 10:18:28,ross,Actualizar Rango Unico,Test=24 Rango=55-99
+*************
+30/11/2022 10:19:12,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=14
+*************
+30/11/2022 10:19:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+30/11/2022 10:19:25,ross,GUARDA RESULTADOS,BHH=
+*************
+30/11/2022 10:19:31,ross,VALIDACION RESULTADO,PEDIDO=14/400101
+*************
+30/11/2022 10:19:31,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 10:19:40,ross,IMPRIME POR AREA,PEDIDO=14
+*************
+30/11/2022 10:19:52,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,WBCH=7
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,NEUH=7
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,LYMH=7
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,MONH=7
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,EOSH=7
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,BASOH=7
+*************
+30/11/2022 10:20:02,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,MON%25H=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,BASO%25H=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,RBCH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,HCTH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,HGBH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,MCVH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,MCHH=77
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,MCHCH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,RDW-CVH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,RDW-SDH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,PLTH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,MPVH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,PDWH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,PCTH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,P-LCRH=7
+*************
+30/11/2022 10:20:03,ross,GUARDA RESULTADOS,P-LCCH=7
+*************
+30/11/2022 10:20:07,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 10:20:11,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 10:20:20,ross,IMPRIME POR AREA,PEDIDO=14
+*************
+30/11/2022 10:21:38,ross,IMPRIME POR AREA,PEDIDO=14
+*************
+30/11/2022 10:43:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 10:43:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 10:56:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 10:56:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 11:13:15,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=15
+*************
+30/11/2022 11:13:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+30/11/2022 11:15:15,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=16
+*************
+30/11/2022 11:15:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=16
+*************
+30/11/2022 11:15:41,ross,GUARDA RESULTADOS,WBCH=5
+*************
+30/11/2022 11:15:41,ross,GUARDA RESULTADOS,NEUH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,LYMH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,MONH2=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,EOSH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,BASOH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,RBCH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,HCTH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,HGBH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,MCVH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,MCHH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,RDW-CVH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,PLTH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,MPVH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,PDWH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,PCTH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,P-LCRH=5
+*************
+30/11/2022 11:15:42,ross,GUARDA RESULTADOS,P-LCCH=5
+*************
+30/11/2022 11:15:46,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 11:15:50,ross,VALIDACION RESULTADO,PEDIDO=16/400101
+*************
+30/11/2022 11:15:50,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 11:16:00,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 12:22:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 12:22:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 12:23:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=17
+*************
+30/11/2022 12:23:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=17
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,WBCH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,NEUH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,LYMH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,MONH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,EOSH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,BASOH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,MON%25H=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,RBCH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,HCTH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,HGBH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,MCVH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,MCHH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,RDW-CVH=5
+*************
+30/11/2022 12:24:06,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+30/11/2022 12:24:07,ross,GUARDA RESULTADOS,PLTH=5
+*************
+30/11/2022 12:24:07,ross,GUARDA RESULTADOS,MPVH=5
+*************
+30/11/2022 12:24:07,ross,GUARDA RESULTADOS,PDWH=5
+*************
+30/11/2022 12:24:07,ross,GUARDA RESULTADOS,PCTH=5
+*************
+30/11/2022 12:24:07,ross,GUARDA RESULTADOS,P-LCRH=5
+*************
+30/11/2022 12:24:07,ross,GUARDA RESULTADOS,P-LCCH=5
+*************
+30/11/2022 12:25:09,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 12:25:38,ross,GUARDA RESULTADOS,COLH=200
+*************
+30/11/2022 12:25:39,ross,GUARDA RESULTADOS,AHDLH=78
+*************
+30/11/2022 12:25:40,ross,GUARDA RESULTADOS,LDLH=86.4
+*************
+30/11/2022 12:25:41,ross,GUARDA RESULTADOS,TGLH=178
+*************
+30/11/2022 12:25:44,ross,VALIDACION RESULTADO,PEDIDO=17/400101
+*************
+30/11/2022 12:25:44,ross,VALIDACION RESULTADO,PEDIDO=17/400149
+*************
+30/11/2022 12:25:44,ross,VALIDACION RESULTADO,PEDIDO=17/400150
+*************
+30/11/2022 12:25:44,ross,VALIDACION RESULTADO,PEDIDO=17/400151
+*************
+30/11/2022 12:25:44,ross,VALIDACION RESULTADO,PEDIDO=17/400476
+*************
+30/11/2022 12:25:44,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 12:28:10,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 16:45:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 16:45:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 16:45:39,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 16:45:39,ross,GUARDA RESULTADOS,COLH=200
+*************
+30/11/2022 16:45:39,ross,GUARDA RESULTADOS,AHDLH=78
+*************
+30/11/2022 16:45:39,ross,GUARDA RESULTADOS,LDLH=86.4
+*************
+30/11/2022 16:45:39,ross,GUARDA RESULTADOS,TGLH=178
+*************
+30/11/2022 16:59:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 16:59:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 17:01:44,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 17:01:44,ross,GUARDA RESULTADOS,COLH=200
+*************
+30/11/2022 17:01:45,ross,GUARDA RESULTADOS,AHDLH=78
+*************
+30/11/2022 17:01:45,ross,GUARDA RESULTADOS,LDLH=86.4
+*************
+30/11/2022 17:01:45,ross,GUARDA RESULTADOS,TGLH=178
+*************
+30/11/2022 17:02:27,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=18
+*************
+30/11/2022 17:02:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=18
+*************
+30/11/2022 17:18:46,ross,GUARDA RESULTADOS,BHH=
+*************
+30/11/2022 17:18:48,ross,GUARDA RESULTADOS,COLH=190
+*************
+30/11/2022 17:18:48,ross,GUARDA RESULTADOS,AHDLH=55
+*************
+30/11/2022 17:18:49,ross,GUARDA RESULTADOS,LDLH=99.4
+*************
+30/11/2022 17:18:49,ross,GUARDA RESULTADOS,TGLH=178
+*************
+30/11/2022 17:19:21,ross,VALIDACION RESULTADO,PEDIDO=18/400101
+*************
+30/11/2022 17:19:21,ross,VALIDACION RESULTADO,PEDIDO=18/400149
+*************
+30/11/2022 17:19:21,ross,VALIDACION RESULTADO,PEDIDO=18/400150
+*************
+30/11/2022 17:19:21,ross,VALIDACION RESULTADO,PEDIDO=18/400151
+*************
+30/11/2022 17:19:21,ross,VALIDACION RESULTADO,PEDIDO=18/400476
+*************
+30/11/2022 17:19:22,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 17:34:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 17:34:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 17:36:10,ross,Nuevo Pedido PRE CARGA,NORMAL/19
+*************
+30/11/2022 19:07:06,ross,IMPRIME POR AREA,PEDIDO=18
+*************
+30/11/2022 19:07:25,ross,IMPRIME POR AREA,PEDIDO=13
+*************
+30/11/2022 19:26:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2022 19:26:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2022 19:34:22,ross,Generar Paciente,Paciente=CHICAIZA ARIAS GABRIEL ALEJANDRO
+*************
+30/11/2022 19:37:26,ross,Actualizacon Medico,Medico=LOPEZ MARCO
+*************
+30/11/2022 19:39:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,,PEDIDO=20
+*************
+30/11/2022 19:39:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=20
+*************
+30/11/2022 19:40:55,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400230,,PEDIDO=20
+*************
+30/11/2022 19:45:50,ross,Actualiza FACTURA,FACTURA=9
+*************
+30/11/2022 19:45:50,ross,Ingresa FACTURA,FACTURA=9
+*************
+30/11/2022 19:45:50,ross,Insertar abono,Factura=9 Abono= 15
+*************
+30/11/2022 19:45:50,ross,Actualiza FACTURA,FACTURA=9/15
+*************
+30/11/2022 19:45:55,ross,Inserta usuario web,Paciente=10 CGABRIEL
+*************
+30/11/2022 19:45:55,ross,Registra Tx Factura,Factura=9
+*************
+30/11/2022 19:47:19,ross,Insertar abono,Factura=9 Abono= 10
+*************
+30/11/2022 19:47:19,ross,Actualiza FACTURA,FACTURA=9/10
+*************
+30/11/2022 19:47:21,ross,Registra Tx Factura,Factura=9
+*************
+30/11/2022 19:47:26,ross,Registra Tx Factura,Factura=9
+*************
+30/11/2022 19:51:14,ross,Generar Paciente,Paciente=ARMIJOS MACHUCA MAYRA ALEJANDRA
+*************
+30/11/2022 19:51:15,ross,Nuevo Pedido IMPORTACION,NORMAL/21
+*************
+30/11/2022 19:51:15,ross,Generar Paciente,Paciente=BUENO GAÑAN BLANCA ARELIS
+*************
+30/11/2022 19:51:16,ross,Nuevo Pedido IMPORTACION,NORMAL/22
+*************
+30/11/2022 19:51:16,ross,Generar Paciente,Paciente=CONDE PACUSHCA MARIA DEL CARMEN
+*************
+30/11/2022 19:51:17,ross,Nuevo Pedido IMPORTACION,NORMAL/23
+*************
+30/11/2022 19:51:17,ross,Generar Paciente,Paciente=ESPINOSA CASA ANGELICA PIEDAD
+*************
+30/11/2022 19:51:17,ross,Nuevo Pedido IMPORTACION,NORMAL/24
+*************
+30/11/2022 19:51:17,ross,Generar Paciente,Paciente=GALLEGO JAUREGUI YULY ANDREA
+*************
+30/11/2022 19:51:18,ross,Nuevo Pedido IMPORTACION,NORMAL/25
+*************
+30/11/2022 19:51:18,ross,Generar Paciente,Paciente=GARRIDO MEDRANDA LORENA ELIZABETH
+*************
+30/11/2022 19:51:18,ross,Nuevo Pedido IMPORTACION,NORMAL/26
+*************
+30/11/2022 19:51:18,ross,Generar Paciente,Paciente=JIMENEZ GUERRERO MARIANA DE JE
+*************
+30/11/2022 19:51:19,ross,Nuevo Pedido IMPORTACION,NORMAL/27
+*************
+30/11/2022 19:51:19,ross,Generar Paciente,Paciente=LASCANO ERAZO JUAN CARLOS
+*************
+30/11/2022 19:51:20,ross,Nuevo Pedido IMPORTACION,NORMAL/28
+*************
+30/11/2022 19:51:20,ross,Generar Paciente,Paciente=MENDEZ SILVA DAVID RENE
+*************
+30/11/2022 19:51:21,ross,Nuevo Pedido IMPORTACION,NORMAL/29
+*************
+30/11/2022 19:51:21,ross,Generar Paciente,Paciente=NARANJO GONZALEZ LORENA ALEXAN
+*************
+30/11/2022 19:51:21,ross,Nuevo Pedido IMPORTACION,NORMAL/30
+*************
+30/11/2022 19:51:21,ross,Generar Paciente,Paciente=NUÑEZ PESANTEZ JENNY PAULINA
+*************
+30/11/2022 19:51:22,ross,Nuevo Pedido IMPORTACION,NORMAL/31
+*************
+30/11/2022 19:51:22,ross,Generar Paciente,Paciente=PAEZ PALLO ERIKA FERNANDA
+*************
+30/11/2022 19:51:23,ross,Nuevo Pedido IMPORTACION,NORMAL/32
+*************
+30/11/2022 19:51:23,ross,Generar Paciente,Paciente=PROAÑO GUIZADO CARLA PAOLA
+*************
+30/11/2022 19:51:23,ross,Nuevo Pedido IMPORTACION,NORMAL/33
+*************
+30/11/2022 19:51:23,ross,Generar Paciente,Paciente=RIVERA SORROZA IRENE YULLISSA
+*************
+30/11/2022 19:51:24,ross,Nuevo Pedido IMPORTACION,NORMAL/34
+*************
+30/11/2022 19:51:24,ross,Generar Paciente,Paciente=ROCA PESANTES LIGIA RAFAELLA
+*************
+30/11/2022 19:51:25,ross,Nuevo Pedido IMPORTACION,NORMAL/35
+*************
+30/11/2022 19:51:25,ross,Generar Paciente,Paciente=VASQUEZ CHASI KARINA ALEXANDRA
+*************
+30/11/2022 19:51:25,ross,Nuevo Pedido IMPORTACION,NORMAL/36
+*************
+30/11/2022 19:51:25,ross,Generar Paciente,Paciente=RUEDA GERMAN ANDREA ESTEFANIA
+*************
+30/11/2022 19:51:26,ross,Nuevo Pedido IMPORTACION,NORMAL/37
+*************
+30/11/2022 19:51:26,ross,Generar Paciente,Paciente=CURICHO TITUAÑA LUIS WLADIMIR
+*************
+30/11/2022 19:51:26,ross,Nuevo Pedido IMPORTACION,NORMAL/38
+*************
+30/11/2022 19:51:26,ross,Generar Paciente,Paciente=AVILES GUZMAN MARIA CRISTINA
+*************
+30/11/2022 19:51:27,ross,Nuevo Pedido IMPORTACION,NORMAL/39
+*************
+30/11/2022 19:51:27,ross,Generar Paciente,Paciente=GUAICHA GONZALEZ MARCOS LUCIO
+*************
+30/11/2022 19:51:28,ross,Nuevo Pedido IMPORTACION,NORMAL/40
+*************
+30/11/2022 19:51:28,ross,Generar Paciente,Paciente=MORALES OÑA MARLENE PAULINA
+*************
+30/11/2022 19:51:28,ross,Nuevo Pedido IMPORTACION,NORMAL/41
+*************
+30/11/2022 19:51:28,ross,Generar Paciente,Paciente=VELOZ CHAVEZ AMPARO ELIZABETH
+*************
+30/11/2022 19:51:29,ross,Nuevo Pedido IMPORTACION,NORMAL/42
+*************
+30/11/2022 19:51:29,ross,Generar Paciente,Paciente=BUNAY CARMEN ESTELA
+*************
+30/11/2022 19:51:30,ross,Nuevo Pedido IMPORTACION,NORMAL/43
+*************
+30/11/2022 19:54:55,ross,IMPRIMIR CONTRAORDEN,
+*************
+30/11/2022 19:55:22,ross,IMPRIMIR LISTA TRABAJO,
+*************
+30/11/2022 19:55:39,ross,IMPRIMIR HOJA TRABAJO,
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,WBCH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,NEUH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,LYMH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,MONH2=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,EOSH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,BASOH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,MON%25H=33
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,RBCH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,HCTH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,HGBH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,MCVH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,MCHH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,PLTH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,MPVH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,PDWH=3
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,PCTH=
+*************
+30/11/2022 19:57:58,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+30/11/2022 19:57:59,ross,GUARDA RESULTADOS,P-LCCH=3
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,COLOH=ROJO
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,DENO=1.025
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,PHO=5
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,LEUOH=++
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,ASCOH=
+*************
+30/11/2022 19:58:43,ross,GUARDA RESULTADOS,NITO=POSITIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,GLUOH=NEGATIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,HGBOH=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CELEPH=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CELCAOH=++
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,PIOO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,HEMOH=1-2
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,BACOH=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,MOCOH=+
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,URO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,FOO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,OXAO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CRIO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CILO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CIGO=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,CILCE=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,ESP=
+*************
+30/11/2022 19:58:44,ross,GUARDA RESULTADOS,OTROSO=
+*************
+30/11/2022 20:00:11,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACION: Suero lipemico
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,GLUCH=112
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,COLH=189
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,LDLH=108.32
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,TGLH=178.4
+*************
+30/11/2022 20:00:35,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+30/11/2022 20:01:12,ross,IMPRIME TODO,PEDIDO=20
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,GLUCH=112
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,COLH=189
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,LDLH=108.32
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,TGLH=178.4
+*************
+30/11/2022 20:01:16,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+30/11/2022 20:01:52,ross,VALIDACION RESULTADO,PEDIDO=20/400101
+*************
+30/11/2022 20:01:52,ross,VALIDACION RESULTADO,PEDIDO=20/400149
+*************
+30/11/2022 20:01:52,ross,VALIDACION RESULTADO,PEDIDO=20/400150
+*************
+30/11/2022 20:01:52,ross,VALIDACION RESULTADO,PEDIDO=20/400151
+*************
+30/11/2022 20:01:52,ross,VALIDACION RESULTADO,PEDIDO=20/400230
+*************
+30/11/2022 20:01:52,ross,VALIDACION RESULTADO,PEDIDO=20/400476
+*************
+30/11/2022 20:01:53,ross,VALIDACION RESULTADO,PEDIDO=20/401104
+*************
+30/11/2022 20:01:53,ross,Eliminar resultado AUX_HIS,
+*************
+30/11/2022 20:03:56,ross,IMPRIME POR AREA,PEDIDO=20
+*************
+30/11/2022 20:05:06,ross,IMPRIME TODO,PEDIDO=20
+*************
+30/11/2022 20:06:00,ross,IMPRIME POR EMAMEN,PEDIDO=20
+*************
+30/11/2022 20:06:16,ross,IMPRIME SOBRE,PEDIDO=20
+*************
+30/11/2022 20:08:28,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=20 EMAIL NO VALIDO
+*************
+30/11/2022 20:09:55,ross,Actualizar Rango Unico,Test=400149 Rango=0-190
+*************
+30/11/2022 20:11:31,ross,Nuevo Convenio,Convenio=FYBECA
+*************
+30/11/2022 20:11:31,ross,Guardar secuencia,SECUENCIA=FYBECA/1001/1500
+*************
+30/11/2022 20:19:44,ross,Nuevo Pedido PRE CARGA,NORMAL/44
+*************

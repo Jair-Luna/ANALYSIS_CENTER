@@ -1,0 +1,2696 @@
+01-04-2019 8:58:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 8:58:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 9:04:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 9:04:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 10:29:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 10:29:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 10:29:50,ross,1 GENERAR ORDEN,PEDIDO=7
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,ACAS=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,ASPO=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,BACTO=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,BILO=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CCETO=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CECA=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CEEP=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CEPO=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CETOR=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CIGO=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CILCE=
+*************
+01-04-2019 10:30:15,ross,GUARDA RESULTADOS,CILO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,CRIO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,DENO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,EMOMICROS=- MICROSCOPICO -
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,EMOQUIM=- ELEMENTAL -
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,ESO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,ESP=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,FOO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,HBGO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,HEO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,LEUO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,MOCO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,NITO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,OTROSO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,OXAO=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,PH=
+*************
+01-04-2019 10:30:16,ross,GUARDA RESULTADOS,PIOO=
+*************
+01-04-2019 10:30:17,ross,GUARDA RESULTADOS,PROO=
+*************
+01-04-2019 10:30:17,ross,GUARDA RESULTADOS,SANO=
+*************
+01-04-2019 10:30:17,ross,GUARDA RESULTADOS,URO=
+*************
+01-04-2019 10:30:17,ross,GUARDA RESULTADOS,UROO=
+*************
+01-04-2019 10:30:36,ross,GUARDA RESULTADOS,MUECULORI=ORINA
+*************
+01-04-2019 10:30:36,ross,GUARDA RESULTADOS,CONCOLORI=2
+*************
+01-04-2019 10:30:36,ross,GUARDA RESULTADOS,GERAISORI=
+*************
+01-04-2019 10:30:36,ross,GUARDA RESULTADOS,OBSCULORI=NO AMERITA
+*************
+01-04-2019 10:31:00,ross,GUARDA NOTA AREA,EXAMEN PADRE=400230/NO SE OBSERVA BACTERIAS EN 48 HORAS
+*************
+01-04-2019 10:33:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 10:33:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 10:34:03,ross,GUARDA NOTA AREA,EXAMEN PADRE=400230/
+*************
+01-04-2019 10:34:20,ross,GUARDA NOTA AREA,EXAMEN PADRE=400819/NO SE OBSERVA BACTERIAS EN 48 HORAS
+*************
+01-04-2019 10:34:42,ross,GUARDA RESULTADOS,C_ORINA=MEMO
+*************
+01-04-2019 10:34:42,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+01-04-2019 10:34:47,ross,GUARDA RESULTADOS,C_ORINA=MEMO
+*************
+01-04-2019 10:34:47,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+01-04-2019 10:34:48,ross,VALIDACION RESULTADO,PEDIDO=7/400230
+*************
+01-04-2019 10:34:48,ross,VALIDACION RESULTADO,PEDIDO=7/400819
+*************
+01-04-2019 10:34:55,ross,IMPRIME TODO,PEDIDO=7
+*************
+01-04-2019 10:41:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 10:41:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 10:42:14,ross,IMPRIME TODO,PEDIDO=7
+*************
+01-04-2019 10:51:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 10:51:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 10:56:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 10:56:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 10:57:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 10:57:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 11:03:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 11:03:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 11:06:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 11:06:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 11:07:13,ross,IMPRIME TODO,PEDIDO=7
+*************
+01-04-2019 13:41:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 13:41:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 13:49:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 13:49:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 14:04:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 14:04:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 14:35:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 14:35:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 14:37:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 14:37:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 14:41:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 14:41:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 14:47:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 14:47:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:08:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:08:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:11:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:11:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:14:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:14:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:24:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:24:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:32:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:32:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:37:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:37:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:38:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:38:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:39:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:39:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:44:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:44:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:46:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:46:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:50:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:50:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01-04-2019 17:53:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+01-04-2019 17:53:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 9:41:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 9:41:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 9:42:04,ross,1 GENERAR ORDEN,PEDIDO=8
+*************
+02-04-2019 9:42:42,ross,Actualiza FACTURA,FACTURA=1
+*************
+02-04-2019 9:42:42,ross,Ingresa FACTURA,FACTURA=1
+*************
+02-04-2019 9:42:43,ross,Insertar abono,Factura=1 Abono= 66.2
+*************
+02-04-2019 9:42:43,ross,Cancela FACTURA,FACTURA=1
+*************
+02-04-2019 9:46:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 9:46:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 9:49:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 9:49:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 9:51:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 9:52:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 9:54:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 9:54:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 9:58:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 9:58:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 10:00:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 10:00:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:27:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:27:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:30:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:30:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:34:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:34:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:35:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:35:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:38:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:38:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:42:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:42:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:44:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:44:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:49:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:49:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:53:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:53:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:55:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:55:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 12:58:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 12:58:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 13:03:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 13:03:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 13:24:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 13:24:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 13:40:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 13:40:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 13:43:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 13:43:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 14:06:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 14:06:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 15:17:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 15:17:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 15:17:35,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+02-04-2019 15:17:41,ross,IMPRIME TODO,PEDIDO=7
+*************
+02-04-2019 15:17:57,ross,IMPRIME POR EMAMEN,PEDIDO=7
+*************
+02-04-2019 16:46:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 16:46:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 16:48:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 16:48:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 16:50:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 16:50:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 16:58:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 16:58:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02-04-2019 17:01:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+02-04-2019 17:01:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 8:36:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 8:36:52,,Ingreso CONTRASEÑA FALLIDO,
+*************
+03-04-2019 8:36:52,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 8:36:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 9:04:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 9:04:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 9:05:09,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+03-04-2019 9:09:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 9:09:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 9:10:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 9:10:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 9:48:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 9:48:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 10:03:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 10:04:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 10:14:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 10:14:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:18:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:18:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:28:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:29:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:29:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:29:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:30:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:30:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:32:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:32:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:39:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:39:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:44:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:44:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 11:47:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 11:47:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 13:31:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 13:31:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:13:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:13:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:27:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:27:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:29:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:29:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:31:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:31:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:55:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:55:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:57:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:57:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 14:59:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 14:59:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 15:00:26,ross,Nuevo Convenio,Convenio=TRUESOLUTIONS
+*************
+03-04-2019 15:00:27,ross,Guardar secuencia,SECUENCIA=TRUESOLUTIONS/3001/3500
+*************
+03-04-2019 15:16:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 15:16:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03-04-2019 15:29:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+03-04-2019 15:29:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04-04-2019 15:39:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+04-04-2019 15:39:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04-04-2019 15:54:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+04-04-2019 15:54:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04-04-2019 15:58:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+04-04-2019 15:58:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04-04-2019 16:21:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+04-04-2019 16:21:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04-04-2019 16:22:38,ross,IMPRIME POR EMAMEN,PEDIDO=7
+*************
+05-04-2019 21:07:36,,SUPERADO INTENTOS FALLIDO USR,
+*************
+06-04-2019 9:57:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 9:57:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 9:58:15,ross,Nuevo Test en Lista de Precios,Test=594 0  NORMAL
+*************
+06-04-2019 9:58:15,ross,Nuevo Test en Lista de Precios,Test=594 0  URGENCIA
+*************
+06-04-2019 9:58:15,ross,INGRESA TEST,TEST=.
+*************
+06-04-2019 9:58:15,ross,Actualiza Test,Test=.
+*************
+06-04-2019 9:58:58,ross,Nuevo Test en Lista de Precios,Test=595 0  NORMAL
+*************
+06-04-2019 9:58:58,ross,Nuevo Test en Lista de Precios,Test=595 0  URGENCIA
+*************
+06-04-2019 9:58:58,ross,INGRESA TEST,TEST=,
+*************
+06-04-2019 9:58:58,ross,Actualiza Test,Test=,
+*************
+06-04-2019 10:00:57,ross,Actualiza Test,Test= 
+*************
+06-04-2019 10:01:12,ross,Actualiza Test,Test= 
+*************
+06-04-2019 10:02:39,ross,Guardar palabra,PALABRA=COLI
+*************
+06-04-2019 10:03:46,ross,Guardar palabra,PALABRA=GIARDIA
+*************
+06-04-2019 10:04:13,ross,Guardar palabra,PALABRA=OXIURUS
+*************
+06-04-2019 10:04:22,ross,Guardar palabra,PALABRA=COLI
+*************
+06-04-2019 10:04:31,ross,Guardar palabra,PALABRA=GIARDIA
+*************
+06-04-2019 10:04:37,ross,Guardar palabra,PALABRA=OXIURUS
+*************
+06-04-2019 10:05:33,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,macros_copro=- MACROSCOPICO -
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,COLOR=
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,ASPECTO=
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,CONSISTENCIA=
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,Ph=
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,MOCO=
+*************
+06-04-2019 10:06:39,ross,GUARDA RESULTADOS,RESTOS ALIMENTARIOS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,SANGRE MACROSCOPICA=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,GLOBULOS GRASOS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,MICROS_COPRO=- MICROSCOPICO -
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,GRASAS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,LEVADURAS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,FLORA BACTERIANA=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,SANGRE OCULTA=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,VERMES MICROSCOPICOS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,PIOCITOS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,POLIMORFONUCLEARES=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,PARASITOS_COPRO=- PARASITOS -
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,PARASITO1=COLI
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,PARASITO2=GIARDIA
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,INV. DE PARASITOS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,AMEBA HISTOLITICA=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,HONGOS=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,ACOLI=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,TENIA SOLIUM=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+06-04-2019 10:06:40,ross,GUARDA RESULTADOS,GIARDIA LAMDIA=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,TRICOMONA HOMINIS=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,BALANTIDIUM COLI=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,ASCARIS LUMBRICOIDES=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,HIM. NANA=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,OXIUROS=
+*************
+06-04-2019 10:06:41,ross,GUARDA RESULTADOS,OTROS=
+*************
+06-04-2019 10:06:46,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+06-04-2019 10:06:51,ross,VALIDACION RESULTADO,PEDIDO=1/400244
+*************
+06-04-2019 10:07:00,ross,IMPRIME TODO,PEDIDO=1
+*************
+06-04-2019 10:15:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 10:15:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 10:16:39,ross,GUARDA RESULTADOS,macros_copro=- MACROSCOPICO -
+*************
+06-04-2019 10:16:39,ross,GUARDA RESULTADOS,COLOR=CAFE
+*************
+06-04-2019 10:16:39,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEA
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,CONSISTENCIA=LIQUIDA
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,Ph=1.005
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,MOCO=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,RESTOS ALIMENTARIOS=+
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,SANGRE MACROSCOPICA=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,GLOBULOS GRASOS=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,MICROS_COPRO=- MICROSCOPICO -
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,GRASAS=+
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,ALMIDONES=++
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,LEVADURAS=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,FLORA BACTERIANA=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,SANGRE OCULTA=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,VERMES MICROSCOPICOS=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,PIOCITOS=++
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,POLIMORFONUCLEARES=
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,PARASITOS_COPRO=- PARASITOS -
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,PARASITO1=COLI
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,PARASITO2=GIARDIA
+*************
+06-04-2019 10:16:40,ross,GUARDA RESULTADOS,INV. DE PARASITOS=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,AMEBA HISTOLITICA=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,HONGOS=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,ACOLI=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,TENIA SOLIUM=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,GIARDIA LAMDIA=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,TRICOMONA HOMINIS=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,BALANTIDIUM COLI=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,ASCARIS LUMBRICOIDES=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,HIM. NANA=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,OXIUROS=
+*************
+06-04-2019 10:16:41,ross,GUARDA RESULTADOS,OTROS=
+*************
+06-04-2019 10:16:45,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+06-04-2019 10:16:55,ross,IMPRIME TODO,PEDIDO=1
+*************
+06-04-2019 10:20:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 10:20:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 10:20:32,ross,IMPRIME TODO,PEDIDO=1
+*************
+06-04-2019 10:24:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 10:24:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 10:24:08,ross,IMPRIME TODO,PEDIDO=1
+*************
+06-04-2019 10:55:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 10:55:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 10:56:10,ross,IMPRIME TODO,PEDIDO=1
+*************
+06-04-2019 10:56:20,ross,IMPRIME TODO,PEDIDO=1
+*************
+06-04-2019 11:15:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:15:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 11:17:44,ross,1 MODIFICA ORDEN,PEDIDO=1
+*************
+06-04-2019 11:17:56,ross,Actualiza FACTURA,FACTURA=1
+*************
+06-04-2019 11:17:56,ross,Ingresa FACTURA,FACTURA=1
+*************
+06-04-2019 11:17:57,ross,Insertar abono,Factura=1 Abono= 13.2
+*************
+06-04-2019 11:17:57,ross,Cancela FACTURA,FACTURA=1
+*************
+06-04-2019 11:32:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:32:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 11:34:43,ross,1 MODIFICA ORDEN,PEDIDO=1
+*************
+06-04-2019 11:36:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:36:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 11:48:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:48:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 11:50:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:50:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 11:52:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:52:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 11:53:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 11:53:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 12:01:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 12:01:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 12:09:17,ross,3 IMPRIMIR PEDIDO,PEDIDO=1
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,BD=3
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,BI=3
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,BT=3
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,TC=3
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,AHDL=3
+*************
+06-04-2019 12:15:53,ross,GUARDA RESULTADOS,LDL=3
+*************
+06-04-2019 12:15:55,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+06-04-2019 12:15:55,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+06-04-2019 12:15:55,ross,VALIDACION RESULTADO,PEDIDO=1/400153
+*************
+06-04-2019 12:15:55,ross,VALIDACION RESULTADO,PEDIDO=1/400292
+*************
+06-04-2019 12:15:55,ross,VALIDACION RESULTADO,PEDIDO=1/400296
+*************
+06-04-2019 12:15:55,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+06-04-2019 12:17:58,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+06-04-2019 12:22:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 12:22:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,BD=3
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,BI=3
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,BT=3
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,TC=3
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,AHDL=3
+*************
+06-04-2019 12:32:29,ross,GUARDA RESULTADOS,LDL=3
+*************
+06-04-2019 13:26:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+06-04-2019 13:26:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:09:59,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,MCHC=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,PDW=15
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:10:00,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:12:26,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,MCHC=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:12:27,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:16:24,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:16:25,ross,GUARDA RESULTADOS,MCHC=
+*************
+06-04-2019 14:16:26,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:16:26,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:16:26,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:16:26,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:16:26,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:16:26,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:19:33,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:19:33,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:19:33,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:19:33,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:19:34,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:19:35,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:19:35,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:19:35,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:20:24,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:20:24,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:20:24,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:20:25,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:21:20,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:21:20,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:21:20,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:21:20,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:21:21,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:22:18,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:22:19,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:24:11,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:24:12,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:25:14,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:25:15,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:25:16,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:29:10,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:29:11,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:30:18,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:30:18,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:30:18,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:30:18,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:30:18,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:30:19,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:30:20,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:30:20,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:30:20,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:30:20,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:30:20,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,WBC=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,NEU=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,LYM=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,MONO=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,EOS=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,BASO=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,NEU%25=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,LYM%25=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,MONO%25=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,EOS%25=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,BASO%25=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,RBC=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,HCT=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,HGB=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,MCV=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,MCH=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,PLT=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,PDW=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,MPV=
+*************
+06-04-2019 14:33:11,ross,GUARDA RESULTADOS,PCT=
+*************
+06-04-2019 14:33:12,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+06-04-2019 14:33:12,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+07-04-2019 12:37:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+07-04-2019 12:37:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07-04-2019 12:38:22,ross,IMPRIME TODO,PEDIDO=20
+*************
+09-04-2019 9:14:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 9:14:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09-04-2019 11:29:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 11:29:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09-04-2019 11:29:36,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+09-04-2019 11:30:20,ross,Actualiza FACTURA,FACTURA=2
+*************
+09-04-2019 11:30:20,ross,Ingresa FACTURA,FACTURA=2
+*************
+09-04-2019 11:30:21,ross,Insertar abono,Factura=2 Abono= 4
+*************
+09-04-2019 11:30:22,ross,Cancela FACTURA,FACTURA=2
+*************
+09-04-2019 11:35:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 11:35:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09-04-2019 11:39:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 11:39:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09-04-2019 11:43:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 11:43:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09-04-2019 11:47:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 11:47:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09-04-2019 11:50:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+09-04-2019 11:50:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10-04-2019 10:36:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10-04-2019 10:36:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10-04-2019 10:47:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+10-04-2019 10:47:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10-04-2019 15:31:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+10-04-2019 15:31:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10-04-2019 15:51:37,ross,Nuevo Convenio,Convenio=CORIS
+*************
+10-04-2019 15:51:37,ross,Guardar secuencia,SECUENCIA=CORIS/1401/1600
+*************
+10-04-2019 15:52:18,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+10-04-2019 15:54:27,ross,Eliminar Convenio,Convenio0CORIS
+*************
+10-04-2019 15:54:27,ross,Elimina Lista de Precios,Lista Precio=CORIS
+*************
+10-04-2019 15:54:27,ross,Eliminar Secuencia,SECUENCIA=CORIS
+*************
+10-04-2019 15:58:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+10-04-2019 15:58:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10-04-2019 15:58:54,ross,Nuevo Convenio,Convenio=CORIS
+*************
+10-04-2019 15:58:54,ross,Guardar secuencia,SECUENCIA=CORIS/1401/1600
+*************
+10-04-2019 16:00:37,ross,GUARDA RESULTADOS,HIV=NO REACTIVO
+*************
+10-04-2019 16:00:37,ross,GUARDA RESULTADOS,TC=120
+*************
+10-04-2019 16:00:37,ross,GUARDA RESULTADOS,TG=130
+*************
+10-04-2019 16:00:55,ross,GUARDA RESULTADOS,HIV=NO REACTIVO
+*************
+10-04-2019 16:00:55,ross,GUARDA RESULTADOS,TC=120
+*************
+10-04-2019 16:00:55,ross,GUARDA RESULTADOS,TG=130
+*************
+10-04-2019 16:01:03,ross,VALIDACION RESULTADO,PEDIDO=3/400149
+*************
+10-04-2019 16:01:03,ross,VALIDACION RESULTADO,PEDIDO=3/400151
+*************
+10-04-2019 16:01:03,ross,VALIDACION RESULTADO,PEDIDO=3/400772
+*************
+12-04-2019 16:55:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12-04-2019 16:55:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12-04-2019 16:55:23,ross,1 GENERAR ORDEN,PEDIDO=4
+*************
+14-04-2019 9:42:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-04-2019 9:42:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-04-2019 11:49:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-04-2019 11:49:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-04-2019 11:50:05,ross,1 GENERAR ORDEN,PEDIDO=5
+*************
+14-04-2019 12:26:21,ross,1 GENERAR ORDEN,PEDIDO=6
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,WBCH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,NEUH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,LYMH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,MONOH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,EOSH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,BASOH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,NEU%25H=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,MONO%25H=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,RBCH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,HCTH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,HGBH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,MCVH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,MCHH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,MCHCH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,PLTH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,PDWH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,PCTH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,MPVH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,RDW_SDH=
+*************
+14-04-2019 12:35:01,ross,GUARDA RESULTADOS,RDW_CVH=
+*************
+14-04-2019 12:36:49,ross,1 MODIFICA ORDEN,PEDIDO=6
+*************
+15-04-2019 10:49:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 10:49:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 10:50:14,ross,IMPRIME POR AREA,PEDIDO=3
+*************
+15-04-2019 10:56:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 10:56:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 10:58:13,ross,IMPRIME POR EMAMEN,PEDIDO=1
+*************
+15-04-2019 10:58:49,ross,1 GENERAR ORDEN,PEDIDO=7
+*************
+15-04-2019 10:59:06,ross,GUARDA RESULTADOS,TC=23
+*************
+15-04-2019 10:59:06,ross,GUARDA RESULTADOS,AHDL=23
+*************
+15-04-2019 10:59:07,ross,GUARDA RESULTADOS,LDL=23
+*************
+15-04-2019 10:59:07,ross,GUARDA RESULTADOS,TG=23
+*************
+15-04-2019 10:59:10,ross,VALIDACION RESULTADO,PEDIDO=7/400149
+*************
+15-04-2019 10:59:10,ross,VALIDACION RESULTADO,PEDIDO=7/400150
+*************
+15-04-2019 10:59:10,ross,VALIDACION RESULTADO,PEDIDO=7/400151
+*************
+15-04-2019 10:59:10,ross,VALIDACION RESULTADO,PEDIDO=7/400476
+*************
+15-04-2019 10:59:49,ross,IMPRIME POR EMAMEN,PEDIDO=7
+*************
+15-04-2019 11:03:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 11:03:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,WBCH=2
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,NEUH=2
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,LYMH=2
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,MONOH=2
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,EOSH=2
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,BASOH=2
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,MONO%25H=3
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+15-04-2019 11:03:52,ross,GUARDA RESULTADOS,RBCH=4
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,HCTH=4
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,HGBH=4
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,MCVH=4
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,MCHH=4
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,PLTH=5
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,PDWH=5
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,PCTH=55
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,MPVH=6
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,RDW_SDH=6
+*************
+15-04-2019 11:03:53,ross,GUARDA RESULTADOS,RDW_CVH=6
+*************
+15-04-2019 11:03:57,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+15-04-2019 11:03:57,ross,GUARDA RESULTADOS,TC=23
+*************
+15-04-2019 11:03:57,ross,GUARDA RESULTADOS,AHDL=23
+*************
+15-04-2019 11:03:57,ross,GUARDA RESULTADOS,LDL=23
+*************
+15-04-2019 11:03:57,ross,GUARDA RESULTADOS,TG=23
+*************
+15-04-2019 11:03:58,ross,VALIDACION RESULTADO,PEDIDO=7/400101
+*************
+15-04-2019 11:09:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 11:09:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 11:22:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 11:22:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 11:30:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 11:30:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 11:31:12,ross,IMPRIME POR EMAMEN,PEDIDO=7
+*************
+15-04-2019 11:31:36,ross,IMPRIME POR EMAMEN,PEDIDO=7
+*************
+15-04-2019 11:45:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 11:45:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 11:47:00,ross,1 GENERAR ORDEN,PEDIDO=8
+*************
+15-04-2019 14:44:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 14:44:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 14:52:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 14:52:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 15:13:55,ross,1 GENERAR ORDEN,PEDIDO=9
+*************
+15-04-2019 15:16:17,ross,1 GENERAR ORDEN,PEDIDO=10
+*************
+15-04-2019 15:27:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 15:27:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 15:33:27,ross,1 GENERAR ORDEN,PEDIDO=11
+*************
+15-04-2019 15:33:46,ross,1 GENERAR ORDEN,PEDIDO=12
+*************
+15-04-2019 15:40:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 15:40:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 15:56:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 15:56:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 15:59:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 15:59:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 16:17:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 16:17:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 16:28:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 16:28:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 17:01:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 17:01:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 20:22:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 20:22:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 21:22:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 21:22:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 21:38:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 21:38:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 21:44:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 21:44:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15-04-2019 21:45:01,ross,Actualizar Rango Unico,Test=400234 Rango=90-139
+*************
+15-04-2019 21:55:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+15-04-2019 21:55:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 14:26:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 14:26:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 15:36:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 15:36:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 15:50:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 15:50:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 16:31:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 16:31:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 16:35:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 16:35:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 16:38:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 16:38:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 16:41:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 16:41:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 16:50:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 16:50:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 16:56:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 16:56:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 20:43:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 20:43:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 20:51:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 20:51:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 20:56:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 20:56:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 20:58:06,ross,Actualizar Rango Unico,Test=400151 Rango=12-144
+*************
+16-04-2019 20:59:59,ross,1 GENERAR ORDEN,PEDIDO=13
+*************
+16-04-2019 21:00:22,ross,1 GENERAR ORDEN,PEDIDO=14
+*************
+16-04-2019 21:01:58,ross,Generar Paciente,Paciente=ANDRES SEBASTIAN FLORES MORALES
+*************
+16-04-2019 21:02:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+16-04-2019 21:02:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16-04-2019 21:02:50,ross,1 GENERAR ORDEN,PEDIDO=15
+*************
+16-04-2019 21:05:43,ross,Actualizar Rango Unico,Test=400149 Rango=0-200
+*************
+16-04-2019 21:08:17,ross,1 GENERAR ORDEN,PEDIDO=16
+*************
+17-04-2019 9:34:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 9:34:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 9:41:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 9:41:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 9:45:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 9:45:41,,Ingreso CONTRASEÑA FALLIDO,
+*************
+17-04-2019 9:45:41,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 9:45:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 9:48:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 9:48:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 10:02:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 10:02:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 10:25:46,ross,Actualizar Rango Unico,Test=400151 Rango=10-20
+*************
+17-04-2019 10:30:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 10:30:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 10:31:57,ross,Actualizar Rango Unico,Test=400234 Rango=88-125
+*************
+17-04-2019 10:32:59,ross,Actualizar Rango Unico,Test=400234 Rango=40-65
+*************
+17-04-2019 10:33:48,ross,1 GENERAR ORDEN,PEDIDO=17
+*************
+17-04-2019 10:34:03,ross,1 GENERAR ORDEN,PEDIDO=18
+*************
+17-04-2019 10:34:15,ross,1 GENERAR ORDEN,PEDIDO=19
+*************
+17-04-2019 11:03:01,ross,1 GENERAR ORDEN,PEDIDO=20
+*************
+17-04-2019 11:04:10,ross,1 GENERAR ORDEN,PEDIDO=21
+*************
+17-04-2019 11:53:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 11:53:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17-04-2019 11:54:42,ross,1 GENERAR ORDEN,PEDIDO=22
+*************
+17-04-2019 11:55:27,ross,1 GENERAR ORDEN,PEDIDO=23
+*************
+17-04-2019 11:56:46,ross,Actualizar Rango Unico,Test=400150 Rango=35-60
+*************
+17-04-2019 11:57:53,ross,1 GENERAR ORDEN,PEDIDO=24
+*************
+17-04-2019 13:19:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+17-04-2019 13:19:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 9:51:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 9:51:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 14:28:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 14:28:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 14:48:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 14:48:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 14:50:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 14:50:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 14:52:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 14:52:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 16:09:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 16:09:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 16:09:45,ross,1 GENERAR ORDEN,PEDIDO=25
+*************
+18-04-2019 20:39:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+18-04-2019 20:39:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18-04-2019 20:40:16,ross,1 GENERAR ORDEN,PEDIDO=26
+*************
+18-04-2019 20:40:30,ross,1 GENERAR ORDEN,PEDIDO=27
+*************
+21-04-2019 21:32:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-04-2019 21:32:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-04-2019 21:40:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-04-2019 21:40:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-04-2019 22:33:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-04-2019 22:33:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-04-2019 22:34:13,ross,1 GENERAR ORDEN,PEDIDO=28
+*************
+21-04-2019 22:35:01,ross,GUARDA RESULTADOS,WBCH=3
+*************
+21-04-2019 22:35:01,ross,GUARDA RESULTADOS,NEUH=3
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,LYMH=3
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,MONOH=3
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,EOSH=3
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,BASOH=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,RBCH=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,HCTH=4
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,HGBH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,MCVH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,MCHH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,MCHCH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,PLTH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,PDWH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,PCTH=5
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,MPVH=6
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,RDW_SDH=6
+*************
+21-04-2019 22:35:02,ross,GUARDA RESULTADOS,RDW_CVH=6
+*************
+21-04-2019 22:35:29,ross,GUARDA RESULTADOS,macros_copro=- MACROSCOPICO -
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,COLOR=CAFE
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEA
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,CONSISTENCIA=BLANDA
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,Ph=123
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,MOCO=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,RESTOS ALIMENTARIOS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,SANGRE MACROSCOPICA=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,GLOBULOS GRASOS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,MICROS_COPRO=- MICROSCOPICO -
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,GRASAS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,LEVADURAS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,FLORA BACTERIANA=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,SANGRE OCULTA=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,VERMES MICROSCOPICOS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,PIOCITOS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,POLIMORFONUCLEARES=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,PARASITOS_COPRO=- PARASITOS -
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,INV. DE PARASITOS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,AMEBA HISTOLITICA=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,HONGOS=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,ACOLI=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,TENIA SOLIUM=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+21-04-2019 22:35:30,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,GIARDIA LAMDIA=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,TRICOMONA HOMINIS=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,BALANTIDIUM COLI=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,ASCARIS LUMBRICOIDES=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,HIM. NANA=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,OXIUROS=
+*************
+21-04-2019 22:35:31,ross,GUARDA RESULTADOS,OTROS=
+*************
+21-04-2019 22:35:51,ross,GUARDA RESULTADOS,ACAS=
+*************
+21-04-2019 22:35:51,ross,GUARDA RESULTADOS,ASPO=TURBIO
+*************
+21-04-2019 22:35:51,ross,GUARDA RESULTADOS,BACTO=++
+*************
+21-04-2019 22:35:51,ross,GUARDA RESULTADOS,BILO=
+*************
+21-04-2019 22:35:51,ross,GUARDA RESULTADOS,CCETO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CECA=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CEEP=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CEPO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CETOR=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CIGO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CILCE=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CILO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,CRIO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,DENO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,EMOMICROS=- MICROSCOPICO -
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,EMOQUIM=- ELEMENTAL -
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,ESO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,ESP=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,FOO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,HBGO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,HEO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,LEUO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,MOCO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,NITO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,OTROSO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,OXAO=
+*************
+21-04-2019 22:35:52,ross,GUARDA RESULTADOS,PH=
+*************
+21-04-2019 22:35:53,ross,GUARDA RESULTADOS,PIOO=
+*************
+21-04-2019 22:35:53,ross,GUARDA RESULTADOS,PROO=
+*************
+21-04-2019 22:35:53,ross,GUARDA RESULTADOS,SANO=
+*************
+21-04-2019 22:35:53,ross,GUARDA RESULTADOS,URO=
+*************
+21-04-2019 22:35:53,ross,GUARDA RESULTADOS,UROO=
+*************
+21-04-2019 22:36:17,ross,GUARDA NOTA AREA,EXAMEN PADRE=400149/VALORES CONFIRMADOS
+*************
+21-04-2019 22:36:18,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+21-04-2019 22:36:18,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+21-04-2019 22:36:18,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+21-04-2019 22:36:18,ross,GUARDA RESULTADOS,TC=189
+*************
+21-04-2019 22:36:18,ross,GUARDA RESULTADOS,TGH=34
+*************
+21-04-2019 22:36:21,ross,VALIDACION RESULTADO,PEDIDO=28/400101
+*************
+21-04-2019 22:36:21,ross,VALIDACION RESULTADO,PEDIDO=28/400149
+*************
+21-04-2019 22:36:21,ross,VALIDACION RESULTADO,PEDIDO=28/400151
+*************
+21-04-2019 22:36:21,ross,VALIDACION RESULTADO,PEDIDO=28/400230
+*************
+21-04-2019 22:36:21,ross,VALIDACION RESULTADO,PEDIDO=28/400244
+*************
+21-04-2019 22:36:33,ross,IMPRIME POR AREA,PEDIDO=28
+*************
+21-04-2019 22:36:55,ross,IMPRIME TODO,PEDIDO=28
+*************
+21-04-2019 22:37:07,ross,IMPRIME TODO,PEDIDO=28
+*************
+22-04-2019 9:27:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 9:27:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 9:47:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 9:47:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 9:48:28,ross,Actualiza Test,Test=BIOMETRIA HEMATICA 
+*************
+22-04-2019 9:53:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 9:53:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 9:54:07,ross,Elimina Lista de Precios,Lista Precio=
+*************
+22-04-2019 9:56:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 9:56:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 9:56:55,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 9:58:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 9:58:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 9:58:33,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 9:59:26,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 10:08:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 10:08:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 10:08:58,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 10:15:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 10:15:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 10:17:02,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 12:47:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 12:47:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 12:47:38,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 12:50:50,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 12:53:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 12:53:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 12:53:45,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 12:54:42,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 12:57:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 12:57:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 12:57:57,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 13:00:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 13:00:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 13:00:29,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 13:13:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 13:14:11,,Ingreso CONTRASEÑA FALLIDO,
+*************
+22-04-2019 13:14:11,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 13:15:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 13:15:26,,Ingreso CONTRASEÑA FALLIDO,
+*************
+22-04-2019 13:15:26,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 13:15:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 13:24:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 13:24:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 13:24:48,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 13:25:27,ross,1 GENERAR ORDEN,PEDIDO=29
+*************
+22-04-2019 20:43:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 20:43:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 20:43:47,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 20:47:10,ross,1 GENERAR ORDEN,PEDIDO=30
+*************
+22-04-2019 20:57:37,ross,1 GENERAR ORDEN,PEDIDO=31
+*************
+22-04-2019 20:57:54,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 21:07:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 21:07:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 21:08:31,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+22-04-2019 21:16:15,ross,1 GENERAR ORDEN,PEDIDO=25
+*************
+22-04-2019 21:18:45,ross,1 GENERAR ORDEN,PEDIDO=26
+*************
+22-04-2019 21:23:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 21:23:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 21:34:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 21:34:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 21:34:42,ross,1 GENERAR ORDEN,PEDIDO=27
+*************
+22-04-2019 21:35:25,ross,1 MODIFICA ORDEN,PEDIDO=27
+*************
+22-04-2019 21:43:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+22-04-2019 21:43:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22-04-2019 21:43:46,ross,1 GENERAR ORDEN,PEDIDO=28
+*************
+23-04-2019 9:02:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 9:02:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 10:47:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 10:47:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 10:48:49,ross,Actualiza Test,Test=FOSFATASA ALCALINA
+*************
+23-04-2019 10:49:19,ross,Actualiza Test,Test=ALBUMINA EN SUERO 
+*************
+23-04-2019 10:50:51,ross,Actualiza Test,Test=LIPASA 
+*************
+23-04-2019 10:51:39,ross,Actualiza Test,Test=COLESTEROL LDL
+*************
+23-04-2019 10:52:10,ross,Actualiza Test,Test=UREA EN SUERO 
+*************
+23-04-2019 10:52:46,ross,Actualiza Test,Test=AMILASA EN SUERO 
+*************
+23-04-2019 10:53:33,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+23-04-2019 10:54:25,ross,Actualiza Test,Test=COLESTEROL HDL
+*************
+23-04-2019 10:56:43,ross,1 MODIFICA ORDEN,PEDIDO=46
+*************
+23-04-2019 11:19:14,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+23-04-2019 11:19:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 11:19:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 11:19:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 11:19:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 11:21:30,ross,Actualiza Test,Test=GGT
+*************
+23-04-2019 11:22:41,ross,1 MODIFICA ORDEN,PEDIDO=46
+*************
+23-04-2019 11:35:50,ross,1 MODIFICA ORDEN,PEDIDO=46
+*************
+23-04-2019 13:15:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 13:15:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 14:20:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 14:20:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 14:25:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 14:25:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 14:30:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 14:30:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 14:35:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 14:55:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 14:55:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 14:56:17,ross,Actualiza FACTURA,FACTURA=8
+*************
+23-04-2019 14:56:17,ross,Ingresa FACTURA,FACTURA=8
+*************
+23-04-2019 14:56:18,ross,Insertar abono,Factura=8 Abono= 83.5
+*************
+23-04-2019 14:56:18,ross,Cancela FACTURA,FACTURA=8
+*************
+23-04-2019 14:56:28,ross,Actualiza FACTURA,FACTURA=9
+*************
+23-04-2019 14:56:28,ross,Ingresa FACTURA,FACTURA=9
+*************
+23-04-2019 14:56:29,ross,Insertar abono,Factura=9 Abono= 43
+*************
+23-04-2019 14:56:29,ross,Cancela FACTURA,FACTURA=9
+*************
+23-04-2019 14:59:43,ross,1 GENERAR ORDEN,PEDIDO=48
+*************
+23-04-2019 15:15:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 15:15:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 15:34:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 15:34:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 15:34:19,ross,1 GENERAR ORDEN,PEDIDO=49
+*************
+23-04-2019 15:39:16,ross,Nuevo Test en Lista de Precios,Test=401102 0  NORMAL
+*************
+23-04-2019 15:39:16,ross,Nuevo Test en Lista de Precios,Test=401102 0  URGENCIA
+*************
+23-04-2019 15:39:16,ross,Nuevo Test en Lista de Precios,Test=401102 0  BAXTER
+*************
+23-04-2019 15:39:16,ross,INGRESA TEST,TEST=LITIO EN SUERO
+*************
+23-04-2019 15:39:16,ross,Actualiza Test,Test=LITIO EN SUERO
+*************
+23-04-2019 15:41:54,ross,Nuevo Test en Lista de Precios,Test=753 0  NORMAL
+*************
+23-04-2019 15:41:54,ross,Nuevo Test en Lista de Precios,Test=753 0  URGENCIA
+*************
+23-04-2019 15:41:54,ross,Nuevo Test en Lista de Precios,Test=753 0  BAXTER
+*************
+23-04-2019 15:41:54,ross,INGRESA TEST,TEST=pH
+*************
+23-04-2019 15:41:54,ross,Actualiza Test,Test=pH
+*************
+23-04-2019 15:42:36,ross,Actualiza Test,Test=SODIO EN SUERO 
+*************
+23-04-2019 15:43:18,ross,Actualiza Test,Test=POTASIO EN SUERO 
+*************
+23-04-2019 15:43:51,ross,Actualiza Test,Test=CALCIO IONICO EN SUERO
+*************
+23-04-2019 15:44:10,ross,Actualiza Test,Test=CLORO EN SUERO 
+*************
+23-04-2019 15:44:38,ross,Actualiza Test,Test=LITIO EN SUERO
+*************
+23-04-2019 15:45:51,ross,Actualiza Test,Test=CLORO EN SUERO 
+*************
+23-04-2019 15:46:54,ross,1 MODIFICA ORDEN,PEDIDO=49
+*************
+23-04-2019 15:47:27,ross,Actualiza Test,Test=ELECTROLITOS
+*************
+23-04-2019 15:47:44,ross,1 MODIFICA ORDEN,PEDIDO=49
+*************
+23-04-2019 15:49:02,ross,Actualiza Test,Test=CLORO EN SUERO 
+*************
+23-04-2019 15:49:15,ross,Actualiza Test,Test=LITIO EN SUERO
+*************
+23-04-2019 16:04:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 16:04:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 16:06:31,ross,Actualiza Test,Test=pH
+*************
+23-04-2019 16:06:44,ross,1 MODIFICA ORDEN,PEDIDO=49
+*************
+23-04-2019 18:13:17,ross,1 MODIFICA ORDEN,PEDIDO=49
+*************
+23-04-2019 18:28:21,ross,GUARDA RESULTADOS,NA_EL1=
+*************
+23-04-2019 18:28:21,ross,GUARDA RESULTADOS,K_EL1=
+*************
+23-04-2019 18:28:21,ross,GUARDA RESULTADOS,CAI_EL1=
+*************
+23-04-2019 18:28:21,ross,GUARDA RESULTADOS,CL_EL1=
+*************
+23-04-2019 18:28:21,ross,GUARDA RESULTADOS,LI_EL1=
+*************
+23-04-2019 18:28:21,ross,GUARDA RESULTADOS,ph_EL1=
+*************
+23-04-2019 21:48:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-04-2019 21:48:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-04-2019 21:49:29,ross,Actualiza Test,Test=POTASIO EN SUERO 
+*************
+23-04-2019 21:49:47,ross,1 GENERAR ORDEN,PEDIDO=29
+*************
+23-04-2019 21:50:22,ross,Actualiza Test,Test=ELECTROLITOS
+*************
+23-04-2019 21:51:30,ross,1 MODIFICA ORDEN,PEDIDO=29
+*************
+23-04-2019 21:53:32,ross,Actualiza Test,Test=POTASIO EN SUERO 
+*************
+23-04-2019 21:54:00,ross,1 GENERAR ORDEN,PEDIDO=30
+*************
+23-04-2019 21:54:48,ross,Actualiza Test,Test=ELECTROLITOS
+*************
+23-04-2019 21:56:29,ross,Actualiza Test,Test=SODIO EN SUERO 
+*************
+23-04-2019 21:57:04,ross,1 MODIFICA ORDEN,PEDIDO=30
+*************
+24-04-2019 8:53:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-04-2019 8:53:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-04-2019 8:54:26,ross,1 GENERAR ORDEN,PEDIDO=31
+*************
+24-04-2019 8:55:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-04-2019 8:55:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-04-2019 8:55:53,ross,1 GENERAR ORDEN,PEDIDO=50
+*************
+24-04-2019 9:11:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-04-2019 9:11:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-04-2019 9:11:31,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+24-04-2019 9:39:11,ross,GUARDA RESULTADOS,NA_EL1=146.03
+*************
+24-04-2019 9:39:11,ross,GUARDA RESULTADOS,K_EL1=3.733
+*************
+24-04-2019 9:39:11,ross,GUARDA RESULTADOS,CAI_EL1=1.153
+*************
+24-04-2019 9:39:11,ross,GUARDA RESULTADOS,CL_EL1=110.22
+*************
+24-04-2019 9:39:11,ross,GUARDA RESULTADOS,LI_EL1=0.152
+*************
+24-04-2019 9:39:11,ross,GUARDA RESULTADOS,ph_EL1=7.732
+*************
+24-04-2019 11:00:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-04-2019 11:00:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-04-2019 11:09:15,ross,1 ANULA ORDEN,PEDIDO=1
+*************
+24-04-2019 11:09:51,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+24-04-2019 11:21:01,ross,GUARDA RESULTADOS,NA_EL1=
+*************
+24-04-2019 11:21:01,ross,GUARDA RESULTADOS,K_EL1=
+*************
+24-04-2019 11:21:01,ross,GUARDA RESULTADOS,CAI_EL1=
+*************
+24-04-2019 11:21:01,ross,GUARDA RESULTADOS,CL_EL1=
+*************
+24-04-2019 11:21:01,ross,GUARDA RESULTADOS,LI_EL1=
+*************
+24-04-2019 11:21:01,ross,GUARDA RESULTADOS,ph_EL1=
+*************
+24-04-2019 13:16:29,ross,Generar Paciente,Paciente=ASTUDILLO ANGEL
+*************
+24-04-2019 13:21:33,ross,Actualiza Test,Test=PSA TOTAL
+*************
+24-04-2019 13:21:53,ross,Actualiza Test,Test=PSA LIBRE
+*************
+24-04-2019 13:22:00,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+26-04-2019 9:07:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+26-04-2019 9:07:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26-04-2019 9:12:05,ross,1 GENERAR ORDEN,PEDIDO=32
+*************
+26-04-2019 9:13:15,ross,AGENDAMIENTO,PEDIDO=33
+*************
+26-04-2019 16:53:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+26-04-2019 16:53:11,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26-04-2019 16:53:11,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26-04-2019 16:53:13,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26-04-2019 16:53:13,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26-04-2019 16:53:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26-04-2019 16:53:41,ross,Actualiza FACTURA,FACTURA=3
+*************
+26-04-2019 16:53:41,ross,Ingresa FACTURA,FACTURA=3
+*************
+26-04-2019 16:53:43,ross,Insertar abono,Factura=3 Abono= 14.7
+*************
+26-04-2019 16:53:43,ross,Cancela FACTURA,FACTURA=3
+*************
+28-04-2019 7:18:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 7:18:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 7:19:16,ross,1 GENERAR ORDEN,PEDIDO=34
+*************
+28-04-2019 7:19:30,ross,1 GENERAR ORDEN,PEDIDO=35
+*************
+28-04-2019 7:19:53,ross,1 GENERAR ORDEN,PEDIDO=36
+*************
+28-04-2019 7:32:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 7:32:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 8:54:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 8:54:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 9:05:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 9:05:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 9:29:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 9:29:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 9:35:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 9:35:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 9:36:41,ross,1 MODIFICA ORDEN,PEDIDO=34
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,WBCH=4.13
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,NEUH=0.09
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,LYMH=
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,MONOH=
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,EOSH=
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,BASOH=
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,NEU%25H=2.21
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,MONO%25H=
+*************
+28-04-2019 9:41:12,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,RBCH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,HCTH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,HGBH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,MCVH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,MCHH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,MCHCH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,PLTH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,PDWH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,PCTH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,MPVH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,RDW_SDH=
+*************
+28-04-2019 9:41:13,ross,GUARDA RESULTADOS,RDW_CVH=
+*************
+28-04-2019 9:43:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 9:44:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 9:44:16,ross,1 MODIFICA ORDEN,PEDIDO=34
+*************
+28-04-2019 9:48:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 9:48:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 9:51:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 9:51:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 12:11:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 12:11:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 12:12:03,ross,Actualiza Test,Test=COPROPARASITARIO
+*************
+28-04-2019 12:12:40,ross,Actualiza Test,Test=COPROPARASITARIO 1
+*************
+28-04-2019 12:13:45,ross,1 GENERAR ORDEN,PEDIDO=242
+*************
+28-04-2019 12:16:14,ross,1 GENERAR ORDEN,PEDIDO=243
+*************
+28-04-2019 12:16:34,ross,1 GENERAR ORDEN,PEDIDO=244
+*************
+28-04-2019 12:17:30,ross,Actualiza Test,Test=COPROPARASITARIO
+*************
+28-04-2019 13:14:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 13:14:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 13:29:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 13:29:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 15:27:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 15:28:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 15:35:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 15:35:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 15:59:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 15:59:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 16:00:13,ross,GUARDA RESULTADOS,WBC=10.5
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,NEU=7.14
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,LYM=2.9
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,MONO=0.52
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,EOS=
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,BASO=
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,NEU%25=68.0
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,LYM%25=27.0
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,MONO%25=3
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,EOS%25=1
+*************
+28-04-2019 16:00:14,ross,GUARDA RESULTADOS,BASO%25=1
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,RBC=4.71
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,HCT=42.8
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,HGB=14.8
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,MCV=90.9
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,MCH=31.4
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,MCHC=34.5
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,PLT=482
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,PDW=10.8
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,MPV=8.5
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,PCT=0.40
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,RDW_CV=12.7
+*************
+28-04-2019 16:00:15,ross,GUARDA RESULTADOS,RDW_SD=55.4
+*************
+28-04-2019 16:03:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 16:03:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 16:03:33,ross,GUARDA RESULTADOS,WBC=10.5
+*************
+28-04-2019 16:03:33,ross,GUARDA RESULTADOS,NEU=7.14
+*************
+28-04-2019 16:03:33,ross,GUARDA RESULTADOS,LYM=2.9
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,MONO=0.52
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,EOS=
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,BASO=
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,NEU%25=68.0
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,LYM%25=27.0
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,MONO%25=3
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,EOS%25=1
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,BASO%25=1
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,RBC=4.71
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,HCT=42.8
+*************
+28-04-2019 16:03:34,ross,GUARDA RESULTADOS,HGB=14.8
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,MCV=90.9
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,MCH=31.4
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,MCHC=34.5
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,PLT=482
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,PDW=10.8
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,MPV=8.5
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,PCT=0.40
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,RDW_CV=12.7
+*************
+28-04-2019 16:03:35,ross,GUARDA RESULTADOS,RDW_SD=55.4
+*************
+28-04-2019 16:53:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-04-2019 16:53:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-04-2019 16:53:45,ross,IMPRIME POR AREA,PEDIDO=213
+*************
+28-04-2019 16:53:52,ross,IMPRIME POR AREA,PEDIDO=213
+*************

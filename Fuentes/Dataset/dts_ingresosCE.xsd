@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_ingresosCE" targetNamespace="http://tempuri.org/dts_ingresosCE.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_ingresosCE.xsd" xmlns:mstns="http://tempuri.org/dts_ingresosCE.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_ingresosCE" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="INGRESOSCE">
+					<xs:complexType>
+						<xs:sequence></xs:sequence>
+						<xs:attribute name="ped_id" type="xs:long" />
+						<xs:attribute name="con_nombre" type="xs:string" />
+						<xs:attribute name="ped_fecing" type="xs:date" />
+						<xs:attribute name="tes_id" type="xs:long" />
+						<xs:attribute name="lip_precio" type="xs:double" />
+						<xs:attribute name="FECHAI" type="xs:date" />
+						<xs:attribute name="FECHAF" type="xs:date" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

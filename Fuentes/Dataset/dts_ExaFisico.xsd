@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_ExaFisico" targetNamespace="http://tempuri.org/dts_ExaFisico.xsd" xmlns:mstns="http://tempuri.org/dts_ExaFisico.xsd" xmlns="http://tempuri.org/dts_ExaFisico.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_ExaFisico" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_ExaFisico" msprop:Generator_DataSetName="dts_ExaFisico" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ExaFisico" msprop:Generator_UserTableName="ExaFisico" msprop:Generator_RowDeletedName="ExaFisicoRowDeleted" msprop:Generator_RowChangedName="ExaFisicoRowChanged" msprop:Generator_RowClassName="ExaFisicoRow" msprop:Generator_RowChangingName="ExaFisicoRowChanging" msprop:Generator_RowEvArgName="ExaFisicoRowChangeEvent" msprop:Generator_RowEvHandlerName="ExaFisicoRowChangeEventHandler" msprop:Generator_TableClassName="ExaFisicoDataTable" msprop:Generator_TableVarName="tableExaFisico" msprop:Generator_RowDeletingName="ExaFisicoRowDeleting" msprop:Generator_TablePropName="ExaFisico">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="efi_fecha" msprop:Generator_UserColumnName="efi_fecha" msprop:Generator_ColumnVarNameInTable="columnefi_fecha" msprop:Generator_ColumnPropNameInRow="efi_fecha" msprop:Generator_ColumnPropNameInTable="efi_fechaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="efi_cabeza" msprop:Generator_UserColumnName="efi_cabeza" msprop:Generator_ColumnPropNameInRow="efi_cabeza" msprop:Generator_ColumnVarNameInTable="columnefi_cabeza" msprop:Generator_ColumnPropNameInTable="efi_cabezaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_oidos" msprop:Generator_UserColumnName="efi_oidos" msprop:Generator_ColumnPropNameInRow="efi_oidos" msprop:Generator_ColumnVarNameInTable="columnefi_oidos" msprop:Generator_ColumnPropNameInTable="efi_oidosColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_nariz" msprop:Generator_UserColumnName="efi_nariz" msprop:Generator_ColumnPropNameInRow="efi_nariz" msprop:Generator_ColumnVarNameInTable="columnefi_nariz" msprop:Generator_ColumnPropNameInTable="efi_narizColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_orofaringe" msprop:Generator_UserColumnName="efi_orofaringe" msprop:Generator_ColumnPropNameInRow="efi_orofaringe" msprop:Generator_ColumnVarNameInTable="columnefi_orofaringe" msprop:Generator_ColumnPropNameInTable="efi_orofaringeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_cuello" msprop:Generator_UserColumnName="efi_cuello" msprop:Generator_ColumnPropNameInRow="efi_cuello" msprop:Generator_ColumnVarNameInTable="columnefi_cuello" msprop:Generator_ColumnPropNameInTable="efi_cuelloColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_torax" msprop:Generator_UserColumnName="efi_torax" msprop:Generator_ColumnPropNameInRow="efi_torax" msprop:Generator_ColumnVarNameInTable="columnefi_torax" msprop:Generator_ColumnPropNameInTable="efi_toraxColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_pulmones" msprop:Generator_UserColumnName="efi_pulmones" msprop:Generator_ColumnPropNameInRow="efi_pulmones" msprop:Generator_ColumnVarNameInTable="columnefi_pulmones" msprop:Generator_ColumnPropNameInTable="efi_pulmonesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_corazon" msprop:Generator_UserColumnName="efi_corazon" msprop:Generator_ColumnPropNameInRow="efi_corazon" msprop:Generator_ColumnVarNameInTable="columnefi_corazon" msprop:Generator_ColumnPropNameInTable="efi_corazonColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_abdomen" msprop:Generator_UserColumnName="efi_abdomen" msprop:Generator_ColumnPropNameInRow="efi_abdomen" msprop:Generator_ColumnVarNameInTable="columnefi_abdomen" msprop:Generator_ColumnPropNameInTable="efi_abdomenColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="efi_extremidades" msprop:Generator_UserColumnName="efi_extremidades" msprop:Generator_ColumnPropNameInRow="efi_extremidades" msprop:Generator_ColumnVarNameInTable="columnefi_extremidades" msprop:Generator_ColumnPropNameInTable="efi_extremidadesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="edad" msprop:Generator_UserColumnName="edad" msprop:Generator_ColumnPropNameInRow="edad" msprop:Generator_ColumnVarNameInTable="columnedad" msprop:Generator_ColumnPropNameInTable="edadColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

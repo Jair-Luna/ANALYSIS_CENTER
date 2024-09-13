@@ -1,0 +1,2038 @@
+01/11/2020 08:06:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2020 08:06:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/11/2020 08:17:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2020 08:17:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/11/2020 08:23:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2020 08:23:37,,Ingreso CONTRASE�A FALLIDO,
+*************
+01/11/2020 08:23:37,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/11/2020 08:23:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/11/2020 08:24:14,ross,01 GENERAR ORDEN,PEDIDO=1252
+*************
+01/11/2020 08:24:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1252
+*************
+01/11/2020 08:30:43,ross,Actualizar Area,Area=OCUPACIONAL
+*************
+01/11/2020 08:31:02,ross,Actualizar Area,Area=OCUPACIONAL
+*************
+01/11/2020 11:55:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2020 11:55:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/11/2020 11:56:37,ross,01 GENERAR ORDEN,PEDIDO=1253
+*************
+01/11/2020 11:56:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1253
+*************
+01/11/2020 12:06:19,ross,IMPRIMIR CONTRAORDEN,
+*************
+01/11/2020 12:19:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2020 12:19:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/11/2020 12:26:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2020 12:26:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/11/2020 10:35:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2020 10:35:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/11/2020 11:13:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2020 11:13:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/11/2020 11:13:31,ross,01 GENERAR ORDEN,PEDIDO=1254
+*************
+02/11/2020 11:13:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1254
+*************
+02/11/2020 11:13:49,ross,GUARDA RESULTADOS,IGG_CUANH=0.003
+*************
+02/11/2020 11:13:49,ross,GUARDA RESULTADOS,IGM_CUANH=12
+*************
+02/11/2020 11:13:49,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+02/11/2020 11:13:55,ross,VALIDACION RESULTADO,PEDIDO=1254/401105
+*************
+02/11/2020 11:14:04,ross,IMPRIME POR AREA,PEDIDO=1254
+*************
+02/11/2020 11:17:06,ross,Actualiza Test,Test=IGM ANTICUERPO
+*************
+02/11/2020 11:17:10,ross,IMPRIME POR AREA,PEDIDO=1254
+*************
+02/11/2020 11:18:22,ross,IMPRIME POR AREA,PEDIDO=1254
+*************
+02/11/2020 11:23:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2020 11:23:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/11/2020 11:23:11,ross,IMPRIME POR AREA,PEDIDO=1254
+*************
+02/11/2020 13:26:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2020 13:26:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/11/2020 13:26:36,ross,IMPRIME POR AREA,PEDIDO=1254
+*************
+02/11/2020 14:03:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2020 14:03:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+02/11/2020 14:04:15,ross,01 GENERAR ORDEN,PEDIDO=1255
+*************
+02/11/2020 14:04:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1255
+*************
+04/11/2020 12:21:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 12:21:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 16:44:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 16:44:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 16:45:21,ross,01 GENERAR ORDEN,PEDIDO=1256
+*************
+04/11/2020 16:45:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1256
+*************
+04/11/2020 16:45:39,ross,Actualiza FACTURA,FACTURA=234
+*************
+04/11/2020 16:45:39,ross,Ingresa FACTURA,FACTURA=234
+*************
+04/11/2020 16:45:40,ross,Insertar abono,Factura=234 Abono= 71
+*************
+04/11/2020 16:45:40,ross,Cancela FACTURA,FACTURA=234
+*************
+04/11/2020 16:45:42,ross,Registra Tx Factura,Factura=234
+*************
+04/11/2020 16:49:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 16:49:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 16:49:17,ross,Registra Tx Factura,Factura=234
+*************
+04/11/2020 16:51:24,ross,Registra Tx Factura,Factura=234
+*************
+04/11/2020 18:20:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 18:20:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 18:29:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 18:29:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 18:31:24,ross,Elimina Lista de Precios,Lista Precio=LABORATORIO
+*************
+04/11/2020 18:31:53,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+04/11/2020 18:38:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 18:38:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 18:39:37,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+04/11/2020 18:54:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 18:54:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 18:56:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 18:56:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 19:08:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 19:08:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 19:10:02,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+04/11/2020 19:14:31,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+04/11/2020 19:30:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 19:30:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 20:02:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 20:02:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 20:03:25,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+04/11/2020 21:01:36,ross,Elimina Lista de Precios,Lista Precio=URGENCIA
+*************
+04/11/2020 21:35:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 21:35:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 21:36:04,ross,01 GENERAR ORDEN,PEDIDO=1257
+*************
+04/11/2020 21:36:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1257
+*************
+04/11/2020 21:48:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 21:48:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 21:57:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 21:57:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:10:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 22:10:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:13:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 22:13:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:20:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 22:20:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:37:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 22:37:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:44:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 22:45:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:49:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 22:49:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/11/2020 22:59:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2020 23:00:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 09:21:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 09:21:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 09:22:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 09:22:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 09:31:14,ross,01 GENERAR ORDEN,PEDIDO=1258
+*************
+05/11/2020 09:31:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1258
+*************
+05/11/2020 09:53:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 09:53:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 11:00:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 11:01:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 11:03:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 11:03:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 11:11:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 11:11:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 11:15:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 11:15:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 11:27:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 11:27:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 11:27:30,ross,1 MODIFICA ORDEN,PEDIDO=1258
+*************
+05/11/2020 11:27:44,ross,1 MODIFICA ORDEN,PEDIDO=1258
+*************
+05/11/2020 14:41:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 14:41:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 14:56:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 14:56:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 14:57:05,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+05/11/2020 15:12:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 15:12:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 15:13:00,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+05/11/2020 15:13:18,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 15:14:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 15:14:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 15:21:30,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 15:21:35,ross,Elimina Lista de Precios,Lista Precio=LABORATORIO
+*************
+05/11/2020 15:24:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 15:24:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 15:25:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 15:25:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 15:25:56,ross,Elimina Lista de Precios,Lista Precio=LABORATORIO
+*************
+05/11/2020 15:26:02,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 15:49:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 15:49:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 15:58:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 15:58:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 15:59:14,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:01:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:01:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:01:29,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 16:05:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:05:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:05:42,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 16:18:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:18:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:21:48,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 16:25:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:25:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:26:51,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 16:32:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:32:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:33:01,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:33:32,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:42:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:42:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:46:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:46:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:47:14,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:47:49,ross,Elimina Lista de Precios,Lista Precio=LABORATORIO
+*************
+05/11/2020 16:48:15,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:49:28,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:52:10,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:56:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 16:56:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 16:57:08,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 16:57:46,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 17:04:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 17:04:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 17:08:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 17:08:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 17:08:40,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 17:09:34,ross,Elimina Lista de Precios,Lista Precio=CLINICA
+*************
+05/11/2020 17:47:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 17:47:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 17:47:59,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 18:00:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 18:00:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 18:00:57,ross,Elimina Lista de Precios,Lista Precio=FYBECA
+*************
+05/11/2020 19:13:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 19:13:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 19:32:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2020 19:32:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+05/11/2020 19:32:41,ross,01 GENERAR ORDEN,PEDIDO=1259
+*************
+05/11/2020 19:32:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1259
+*************
+06/11/2020 09:45:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 09:45:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 10:13:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 10:13:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 10:25:56,ross,Elimina Lista de Precios,Lista Precio=NORMAL
+*************
+06/11/2020 10:26:37,ross,01 GENERAR ORDEN,PEDIDO=1260
+*************
+06/11/2020 10:26:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1260
+*************
+06/11/2020 10:43:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 10:43:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 10:51:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 10:51:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 11:31:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 11:31:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 11:36:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 11:36:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 11:38:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 11:38:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 12:26:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 12:26:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 14:32:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 14:32:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 14:40:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 14:40:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 14:51:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 14:51:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 15:10:02,ross,Actualiza Test,Test=AUDIOMETRIA
+*************
+06/11/2020 15:10:12,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+06/11/2020 15:11:13,ross,Nuevo Test en Lista de Precios,Test=401117 15  NORMAL
+*************
+06/11/2020 15:11:13,ross,Nuevo Test en Lista de Precios,Test=401117 15  LABORATORIO
+*************
+06/11/2020 15:11:13,ross,Nuevo Test en Lista de Precios,Test=401117 15  CLINICA
+*************
+06/11/2020 15:11:13,ross,Nuevo Test en Lista de Precios,Test=401117 15  AMBACAR
+*************
+06/11/2020 15:11:13,ross,INGRESA TEST,TEST=ELECTROCARDIOGRAFIA
+*************
+06/11/2020 15:11:13,ross,Actualiza Test,Test=ELECTROCARDIOGRAFIA
+*************
+06/11/2020 15:11:46,ross,Nuevo Test en Lista de Precios,Test=401118 15  NORMAL
+*************
+06/11/2020 15:11:46,ross,Nuevo Test en Lista de Precios,Test=401118 15  LABORATORIO
+*************
+06/11/2020 15:11:46,ross,Nuevo Test en Lista de Precios,Test=401118 15  CLINICA
+*************
+06/11/2020 15:11:46,ross,Nuevo Test en Lista de Precios,Test=401118 15  AMBACAR
+*************
+06/11/2020 15:11:46,ross,INGRESA TEST,TEST=RAYOS X
+*************
+06/11/2020 15:11:46,ross,Actualiza Test,Test=RAYOS X
+*************
+06/11/2020 15:18:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 15:18:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 15:22:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 15:22:21,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 16:31:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 16:31:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 16:34:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 16:34:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 17:03:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 17:03:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 17:10:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 17:10:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 17:24:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 17:24:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 17:38:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 17:38:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 17:41:48,ross,Actualiza Test,Test=AUDIOMETRIA
+*************
+06/11/2020 17:42:32,ross,Nuevo Test en Lista de Precios,Test=401119 25  NORMAL
+*************
+06/11/2020 17:42:32,ross,Nuevo Test en Lista de Precios,Test=401119 25  LABORATORIO
+*************
+06/11/2020 17:42:32,ross,Nuevo Test en Lista de Precios,Test=401119 25  CLINICA
+*************
+06/11/2020 17:42:32,ross,Nuevo Test en Lista de Precios,Test=401119 25  AMBACAR
+*************
+06/11/2020 17:42:32,ross,INGRESA TEST,TEST=ESPIROMETRIA
+*************
+06/11/2020 17:42:32,ross,Actualiza Test,Test=ESPIROMETRIA
+*************
+06/11/2020 18:59:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 18:59:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 19:00:59,ross,1 MODIFICA ORDEN,PEDIDO=1260
+*************
+06/11/2020 19:19:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 19:19:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 21:22:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 21:22:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 21:29:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 21:29:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 21:42:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 21:43:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 21:43:44,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+06/11/2020 21:44:32,ross,01 GENERAR ORDEN,PEDIDO=5573
+*************
+06/11/2020 21:44:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=5573
+*************
+06/11/2020 21:54:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2020 21:54:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/11/2020 23:26:47,ross,01 GENERAR ORDEN,PEDIDO=5573
+*************
+06/11/2020 23:26:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=5573
+*************
+07/11/2020 13:08:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2020 13:08:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/11/2020 13:16:08,ross,Generar Paciente,Paciente=GONZALEZ ASTUDILLO IVAR HERNAN
+*************
+07/11/2020 13:20:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2020 13:20:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/11/2020 13:21:12,ross,Generar Paciente,Paciente=PEÑAHERRERA YANEZ ANDREA GARDENIA
+*************
+07/11/2020 13:26:26,ross,01 GENERAR ORDEN,PEDIDO=1261
+*************
+07/11/2020 13:26:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1261
+*************
+07/11/2020 13:28:21,ross,03 IMPRIMIR PEDIDO,PEDIDO=1261
+*************
+07/11/2020 13:29:53,ross,Actualiza FACTURA,FACTURA=235
+*************
+07/11/2020 13:29:53,ross,Ingresa FACTURA,FACTURA=235
+*************
+07/11/2020 13:29:53,ross,Insertar abono,Factura=235 Abono= 30
+*************
+07/11/2020 13:29:53,ross,Actualiza FACTURA,FACTURA=235/30
+*************
+07/11/2020 13:29:59,ross,Registra Tx Factura,Factura=235
+*************
+07/11/2020 13:30:07,ross,Registra Tx Factura,Factura=235
+*************
+07/11/2020 13:31:13,ross,Registra Tx Factura,Factura=235
+*************
+07/11/2020 13:32:05,ross,Insertar abono,Factura=235 Abono= 16.8
+*************
+07/11/2020 13:32:05,ross,Cancela FACTURA,FACTURA=235
+*************
+07/11/2020 13:32:08,ross,Registra Tx Factura,Factura=235
+*************
+07/11/2020 13:35:51,ross,Nuevo Pedido IMPORTACION,NORMAL/1262
+*************
+07/11/2020 13:35:51,ross,Nuevo Pedido IMPORTACION,NORMAL/1263
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1264
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1265
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1266
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1267
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1268
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1269
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1270
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1271
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1272
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1273
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1274
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1275
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1276
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1277
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1278
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1279
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1280
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1281
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1282
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1283
+*************
+07/11/2020 13:35:52,ross,Nuevo Pedido IMPORTACION,NORMAL/1284
+*************
+07/11/2020 13:41:10,ross,Nuevo Test en Lista de Precios,Test=401120 15  NORMAL
+*************
+07/11/2020 13:41:10,ross,Nuevo Test en Lista de Precios,Test=401120 15  LABORATORIO
+*************
+07/11/2020 13:41:10,ross,Nuevo Test en Lista de Precios,Test=401120 15  CLINICA
+*************
+07/11/2020 13:41:10,ross,Nuevo Test en Lista de Precios,Test=401120 15  AMBACAR
+*************
+07/11/2020 13:41:10,ross,INGRESA TEST,TEST=rx torax 
+*************
+07/11/2020 13:41:10,ross,Actualiza Test,Test=rx torax 
+*************
+07/11/2020 13:43:53,ross,IMPRIMIR CONTRAORDEN,
+*************
+07/11/2020 13:44:05,ross,IMPRIMIR CONTRAORDEN,
+*************
+07/11/2020 13:44:26,ross,IMPRIMIR CONTRAORDEN,
+*************
+07/11/2020 13:44:38,ross,IMPRIMIR LISTA TRABAJO,
+*************
+07/11/2020 13:44:43,ross,IMPRIMIR LISTA TRABAJO,
+*************
+07/11/2020 13:51:20,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/SUERO LIPEMICO
+*************
+07/11/2020 13:52:16,ross,VALIDACION RESULTADO,PEDIDO=1261/400149
+*************
+07/11/2020 13:52:16,ross,VALIDACION RESULTADO,PEDIDO=1261/400150
+*************
+07/11/2020 13:52:16,ross,VALIDACION RESULTADO,PEDIDO=1261/400151
+*************
+07/11/2020 13:52:16,ross,VALIDACION RESULTADO,PEDIDO=1261/400476
+*************
+07/11/2020 13:52:23,ross,VALIDACION RESULTADO,PEDIDO=1261/400149
+*************
+07/11/2020 13:52:23,ross,VALIDACION RESULTADO,PEDIDO=1261/400150
+*************
+07/11/2020 13:52:23,ross,VALIDACION RESULTADO,PEDIDO=1261/400151
+*************
+07/11/2020 13:52:23,ross,VALIDACION RESULTADO,PEDIDO=1261/400476
+*************
+07/11/2020 13:53:54,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+07/11/2020 13:56:35,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+07/11/2020 13:56:40,ross,IMPRIME TODO,PEDIDO=1261
+*************
+07/11/2020 13:57:26,ross,IMPRIME POR EMAMEN,PEDIDO=1261
+*************
+07/11/2020 14:03:36,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=1261 EMAIL NO VALIDO
+*************
+07/11/2020 16:00:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2020 16:00:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/11/2020 16:00:21,ross,IMPRIMIR CONTRAORDEN,
+*************
+07/11/2020 16:00:27,ross,IMPRIMIR LISTA TRABAJO,
+*************
+07/11/2020 16:01:29,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+07/11/2020 16:01:46,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+07/11/2020 16:01:51,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+07/11/2020 16:01:54,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+07/11/2020 16:16:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2020 16:16:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/11/2020 16:17:43,ross,01 GENERAR ORDEN,PEDIDO=1285
+*************
+07/11/2020 16:17:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1285
+*************
+07/11/2020 16:17:55,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+07/11/2020 16:18:09,ross,Eliina Rango Multiple,Teq_id=1894
+*************
+07/11/2020 16:18:49,ross,IMPRIMIR HOJA TRABAJO,
+*************
+07/11/2020 16:19:09,ross,IMPRIMIR LISTA TRABAJO,
+*************
+07/11/2020 16:19:12,ross,IMPRIMIR CONTRAORDEN,
+*************
+07/11/2020 16:23:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2020 16:23:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/11/2020 18:06:02,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+08/11/2020 17:14:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 17:14:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 17:20:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 17:20:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 17:22:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 17:22:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 17:22:37,ross,Actualiza Test,Test=AUDIOMETRIA
+*************
+08/11/2020 17:30:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 17:30:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 17:35:38,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+08/11/2020 17:35:51,ross,Actualiza Test,Test=RAYOS X
+*************
+08/11/2020 17:36:01,ross,Actualiza Test,Test=ESPIROMETRIA
+*************
+08/11/2020 17:57:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 17:57:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 18:07:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 18:07:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 18:17:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 18:17:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 18:27:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 18:27:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 19:45:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 19:45:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 20:29:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 20:29:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 20:39:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 20:39:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 20:51:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 20:51:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 21:03:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 21:03:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 21:27:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 21:27:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 21:37:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 21:37:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 21:46:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 21:46:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 22:05:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 22:05:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/11/2020 22:07:16,ross,GUARDA RESULTADOS,OPTOMETRIAH=VISION COLORES OI:^8|VISION COLORES OD:^3|REFRACCION ADD:^9|AVSCC OI:^4|REFRACCION OI:^1|REFRACCION OD:^2|AVSCC OD:^5|AVSC OI:^5|PLAN:^6|AVSC OD:^7|DIAGNOSTICO:^34|^3|APF:^2|APP:^1|
+*************
+08/11/2020 22:17:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2020 22:17:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 10:53:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 10:53:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 14:31:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 14:32:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 14:34:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 14:34:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 14:55:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 14:55:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 14:56:33,ross,01 GENERAR ORDEN,PEDIDO=1286
+*************
+09/11/2020 14:56:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1286
+*************
+09/11/2020 15:02:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 15:02:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 15:07:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 15:07:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 15:14:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 15:14:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 15:17:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 15:17:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 15:24:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 15:24:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+09/11/2020 16:17:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2020 16:17:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 18:50:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 18:50:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 18:55:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=4666
+*************
+10/11/2020 18:55:32,ross,Inserta usuario web,Paciente=3812 YPOZO
+*************
+10/11/2020 18:55:33,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+10/11/2020 18:55:42,ross,03 IMPRIMIR PEDIDO,PEDIDO=4666
+*************
+10/11/2020 18:57:08,ross,Registra Tx Factura,Factura=17755
+*************
+10/11/2020 18:57:15,ross,Registra Tx Factura,Factura=17755
+*************
+10/11/2020 19:18:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 19:18:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 19:20:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=4718
+*************
+10/11/2020 19:59:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 19:59:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 20:00:28,ross,01 GENERAR ORDEN,PEDIDO=1287
+*************
+10/11/2020 20:00:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1287
+*************
+10/11/2020 20:05:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1287
+*************
+10/11/2020 20:17:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 20:17:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 20:17:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1287
+*************
+10/11/2020 20:18:50,ross,Inserta usuario web,Paciente=8 RFLORES
+*************
+10/11/2020 20:18:52,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,WBCH=6
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,LYM%25H=6
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,NEU%25H=6
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,BASO%25H=6
+*************
+10/11/2020 20:19:43,ross,GUARDA RESULTADOS,LYMH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,MONH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,NEUH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,EOSH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,BASOH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,RBCH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,HGBH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,HCTH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,MCVH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,MCHH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,RDW_CVH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,RDW_SDH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,PLTH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,MPVH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,PDWH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,PCTH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,P_LCRH=6
+*************
+10/11/2020 20:19:44,ross,GUARDA RESULTADOS,P_LCCH=6
+*************
+10/11/2020 20:20:06,ross,VALIDACION RESULTADO,PEDIDO=1287/400101
+*************
+10/11/2020 20:20:06,ross,VALIDACION RESULTADO,PEDIDO=1287/400149
+*************
+10/11/2020 20:20:06,ross,VALIDACION RESULTADO,PEDIDO=1287/400151
+*************
+10/11/2020 20:20:16,ross,IMPRIME POR AREA,PEDIDO=1287
+*************
+10/11/2020 20:23:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 20:23:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 20:23:29,ross,IMPRIME POR AREA,PEDIDO=1287
+*************
+10/11/2020 20:23:39,ross,IMPRIME TODO,PEDIDO=1287
+*************
+10/11/2020 20:23:43,ross,IMPRIME TODO,PEDIDO=1287
+*************
+10/11/2020 20:37:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 20:37:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 20:38:01,ross,IMPRIME POR AREA,PEDIDO=1287
+*************
+10/11/2020 20:38:12,ross,IMPRIME POR EMAMEN,PEDIDO=1287
+*************
+10/11/2020 20:38:18,ross,IMPRIME SOBRE,PEDIDO=1287
+*************
+10/11/2020 20:38:24,ross,IMPRIME SOBRE,PEDIDO=1287
+*************
+10/11/2020 20:45:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 20:45:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 20:46:31,ross,IMPRIME POR AREA,PEDIDO=1287
+*************
+10/11/2020 20:47:32,ross,1 MODIFICA ORDEN,PEDIDO=1287
+*************
+10/11/2020 20:52:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 20:52:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 20:55:21,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+10/11/2020 21:05:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 21:05:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 21:05:43,ross,IMPRIMIR CONTRAORDEN,
+*************
+10/11/2020 21:05:55,ross,IMPRIMIR LISTA TRABAJO,
+*************
+10/11/2020 21:06:08,ross,IMPRIMIR HOJA TRABAJO,
+*************
+10/11/2020 21:06:52,ross,Nueva Abreviatura,Parametro=OPTOM
+*************
+10/11/2020 21:07:07,ross,Nueva Abreviatura,Parametro=AUDIOM
+*************
+10/11/2020 21:07:38,ross,Nueva Abreviatura,Parametro=ELECTROC
+*************
+10/11/2020 21:07:46,ross,Nueva Abreviatura,Parametro=ESPIROM
+*************
+10/11/2020 21:08:07,ross,IMPRIMIR HOJA TRABAJO,
+*************
+10/11/2020 21:08:34,ross,1 MODIFICA ORDEN,PEDIDO=1287
+*************
+10/11/2020 21:08:56,ross,Actualiza Test,Test=ELECTROCARDIOGRAMA
+*************
+10/11/2020 21:09:21,ross,Actualiza Test,Test=OPTOMETRIA
+*************
+10/11/2020 21:09:42,ross,Actualiza Test,Test=ESPIROMETRIA
+*************
+10/11/2020 21:09:50,ross,Actualiza Test,Test=AUDIOMETRIA
+*************
+10/11/2020 21:10:09,ross,Actualiza Test,Test=ELECTROCARDIOGRAMA
+*************
+10/11/2020 21:23:11,ross,1 MODIFICA ORDEN,PEDIDO=1287
+*************
+10/11/2020 21:28:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 21:28:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 21:33:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 21:33:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 21:33:40,ross,Actualiza Test,Test=ELECTROCARDIOGRAMA
+*************
+10/11/2020 21:46:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 21:46:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:03:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 22:03:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:13:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 22:13:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:16:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 22:16:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:23:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 22:23:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:30:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 22:30:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:56:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2020 22:56:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+10/11/2020 22:59:45,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+10/11/2020 23:02:18,ross,GUARDA RESULTADOS,OPTOMETRIAH=VISION COLORES OI:^8|VISION COLORES OD:^4|REFRACCION ADD:^1|AVSCC OI:^4|REFRACCION OI:^2|REFRACCION OD:^3|AVSCC OD:^6|AVSC OI:^5|PLAN:^6|AVSC OD:^7|DIAGNOSTICO:^5|^3|APF:^2|APP:^1|
+*************
+10/11/2020 23:03:58,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^55|DIAG. OI:^44|DIAG. OD:^33|OTOSCOPIA:^22|
+*************
+10/11/2020 23:04:54,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+11/11/2020 19:27:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2020 19:27:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/11/2020 19:27:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1287
+*************
+11/11/2020 19:28:12,ross,01 GENERAR ORDEN,PEDIDO=1288
+*************
+11/11/2020 19:28:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1288
+*************
+11/11/2020 19:32:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2020 19:32:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/11/2020 19:33:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1288
+*************
+11/11/2020 19:38:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2020 19:38:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/11/2020 19:38:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1288
+*************
+11/11/2020 19:39:31,ross,VALIDACION RESULTADO,PEDIDO=1288/400151
+*************
+11/11/2020 19:39:42,ross,IMPRIME POR AREA,PEDIDO=1288
+*************
+11/11/2020 19:47:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2020 19:47:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,WBCH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,MON%25H=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,BASO%25H=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,LYMH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,MONH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,NEUH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,EOSH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,BASOH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,RBCH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,HGBH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,HCTH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,MCVH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,MCHH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,MCHCH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,RDW_CVH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,RDW_SDH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,PLTH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,MPVH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,PDWH=7
+*************
+11/11/2020 19:47:54,ross,GUARDA RESULTADOS,PCTH=7
+*************
+11/11/2020 19:47:55,ross,GUARDA RESULTADOS,P_LCRH=7
+*************
+11/11/2020 19:47:55,ross,GUARDA RESULTADOS,P_LCCH=7
+*************
+11/11/2020 19:53:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2020 19:53:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,WBCH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,LYM%25H=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,MON%25H=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,BASO%25H=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,LYMH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,MONH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,NEUH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,EOSH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,BASOH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,RBCH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,HGBH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,HCTH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,MCVH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,MCHH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,MCHCH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,RDW_CVH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,RDW_SDH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,PLTH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,MPVH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,PDWH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,PCTH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,P_LCRH=7
+*************
+11/11/2020 19:54:14,ross,GUARDA RESULTADOS,P_LCCH=7
+*************
+12/11/2020 11:27:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2020 11:27:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/11/2020 11:27:35,ross,01 GENERAR ORDEN,PEDIDO=1289
+*************
+12/11/2020 11:27:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1289
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,WBCH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,MON%25H=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,NEU%25H=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,EOS%25H=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,BASO%25H=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,LYMH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,MONH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,NEUH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,EOSH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,BASOH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,RBCH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,HGBH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,HCTH=8
+*************
+12/11/2020 11:28:10,ross,GUARDA RESULTADOS,MCVH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,MCHH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,RDW_CVH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,RDW_SDH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,PLTH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,MPVH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,PDWH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,PCTH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,P_LCRH=8
+*************
+12/11/2020 11:28:11,ross,GUARDA RESULTADOS,P_LCCH=8
+*************
+12/11/2020 11:28:19,ross,VALIDACION RESULTADO,PEDIDO=1289/400101
+*************
+12/11/2020 11:28:19,ross,VALIDACION RESULTADO,PEDIDO=1289/400149
+*************
+12/11/2020 11:28:19,ross,VALIDACION RESULTADO,PEDIDO=1289/400150
+*************
+12/11/2020 11:28:19,ross,VALIDACION RESULTADO,PEDIDO=1289/400151
+*************
+12/11/2020 11:28:19,ross,VALIDACION RESULTADO,PEDIDO=1289/400476
+*************
+12/11/2020 12:02:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2020 12:02:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/11/2020 12:17:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2020 12:17:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 18:47:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 18:47:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 18:55:57,ross,01 GENERAR ORDEN,PEDIDO=1290
+*************
+16/11/2020 18:55:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1290
+*************
+16/11/2020 18:56:11,ross,Actualiza FACTURA,FACTURA=236.
+*************
+16/11/2020 18:56:11,ross,Ingresa FACTURA,FACTURA=236.
+*************
+16/11/2020 18:56:35,ross,Insertar abono,Factura=236. Abono= 13
+*************
+16/11/2020 18:56:35,ross,Cancela FACTURA,FACTURA=236.
+*************
+16/11/2020 18:59:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 19:00:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 19:00:23,ross,01 GENERAR ORDEN,PEDIDO=1291
+*************
+16/11/2020 19:00:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1291
+*************
+16/11/2020 19:30:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 19:30:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 19:35:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 19:35:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 19:35:33,ross,Actualiza FACTURA,FACTURA=237.
+*************
+16/11/2020 19:35:33,ross,Ingresa FACTURA,FACTURA=237.
+*************
+16/11/2020 19:35:35,ross,Insertar abono,Factura=237. Abono= 16
+*************
+16/11/2020 19:35:35,ross,Cancela FACTURA,FACTURA=237.
+*************
+16/11/2020 19:38:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 19:38:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 19:39:07,ross,01 GENERAR ORDEN,PEDIDO=1292
+*************
+16/11/2020 19:39:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1292
+*************
+16/11/2020 19:40:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 19:40:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 19:45:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2020 19:45:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+16/11/2020 19:45:53,ross,Actualiza FACTURA,FACTURA=238_
+*************
+16/11/2020 19:46:06,ross,Actualiza FACTURA,FACTURA=238M
+*************
+16/11/2020 19:46:13,ross,Actualiza FACTURA,FACTURA=238M
+*************
+16/11/2020 22:10:52,,SUPERADO INTENTOS FALLIDO USR,
+*************
+16/11/2020 22:25:44,,SUPERADO INTENTOS FALLIDO USR,
+*************
+16/11/2020 22:39:23,,SUPERADO INTENTOS FALLIDO USR,
+*************
+17/11/2020 08:16:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2020 08:17:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/11/2020 08:20:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2020 08:20:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/11/2020 08:20:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2020 08:20:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:42,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:20:43,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+17/11/2020 08:21:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2020 08:21:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 09:24:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 09:24:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 10:47:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 10:47:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 10:49:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 10:49:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 11:00:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 11:00:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 11:06:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 11:06:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 11:16:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 11:16:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 20:49:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 20:49:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+19/11/2020 21:11:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2020 21:11:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 11:18:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 11:18:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 11:18:34,ross,01 GENERAR ORDEN,PEDIDO=1293
+*************
+20/11/2020 11:18:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1293
+*************
+                                                                          20/11/2020 13:59:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 13:59:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:18:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:18:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:23:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:23:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:37:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:37:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:40:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:40:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:47:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:47:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:50:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:50:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 14:52:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 14:52:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 18:45:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 18:45:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 18:46:00,ross,1 ANULA ORDEN,PEDIDO=1293CULTIVO DE SECRECIÓN FARÍNGEAº MOTIVO: demo
+*************
+20/11/2020 18:57:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2020 18:57:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/11/2020 19:02:11,ross,Generar Paciente,Paciente=RECALDE RIOS LENIN ANDRES
+*************
+20/11/2020 19:08:46,ross,01 GENERAR ORDEN,PEDIDO=1294
+*************
+20/11/2020 19:08:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1294
+*************
+20/11/2020 19:19:45,ross,Actualiza FACTURA,FACTURA=238
+*************
+20/11/2020 19:19:45,ross,Ingresa FACTURA,FACTURA=238
+*************
+20/11/2020 19:19:45,ross,Insertar abono,Factura=238 Abono= 25
+*************
+20/11/2020 19:19:45,ross,Actualiza FACTURA,FACTURA=238/25
+*************
+20/11/2020 19:19:53,ross,Registra Tx Factura,Factura=238
+*************
+20/11/2020 19:20:35,ross,Registra Tx Factura,Factura=238
+*************
+20/11/2020 19:20:59,ross,Registra Tx Factura,Factura=238
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1295
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1296
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1297
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1298
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1299
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1300
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1301
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1302
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1303
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1304
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1305
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1306
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1307
+*************
+20/11/2020 19:25:42,ross,Nuevo Pedido IMPORTACION,FYBECA/1308
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1309
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1310
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1311
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1312
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1313
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1314
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1315
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1316
+*************
+20/11/2020 19:25:43,ross,Nuevo Pedido IMPORTACION,FYBECA/1317
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1318
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1319
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1320
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1321
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1322
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1323
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1324
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1325
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1326
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1327
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1328
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1329
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1330
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1331
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1332
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1333
+*************
+20/11/2020 19:27:32,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1334
+*************
+20/11/2020 19:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1335
+*************
+20/11/2020 19:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/1336
+*************
+20/11/2020 19:28:52,ross,AGENDAMIENTO,PEDIDO=1337
+*************
+20/11/2020 19:29:39,ross,IMPRIMIR CONTRAORDEN,
+*************
+20/11/2020 19:29:56,ross,IMPRIMIR LISTA TRABAJO,
+*************
+20/11/2020 19:30:13,ross,IMPRIMIR HOJA TRABAJO,
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,WBCH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,LYMH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,MONH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,NEUH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,EOSH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,BASOH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,RBCH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,HGBH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,HCTH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,MCVH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,MCHH=2
+*************
+20/11/2020 19:32:24,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,PLTH=
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,MPVH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,PDWH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,PCTH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,P_LCRH=2
+*************
+20/11/2020 19:32:25,ross,GUARDA RESULTADOS,P_LCCH=
+*************
+20/11/2020 19:33:15,ross,GUARDA RESULTADOS,IGG_CUANH=0.003
+*************
+20/11/2020 19:33:15,ross,GUARDA RESULTADOS,IGM_CUANH=0.9
+*************
+20/11/2020 19:33:15,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,COLO=AMBAR
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,PHO=5
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,LEUOH=++
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,UROOH=
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,HGBOH=
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,CELEPH=
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,PIOO=
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,HEMOH=8-10
+*************
+20/11/2020 19:34:03,ross,GUARDA RESULTADOS,BACOH=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,MOCOH=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,URO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,FOO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,OXAO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,CRIO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,CILO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,CIGO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,CILCE=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,ESP=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,ASCOH=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,OTROSO=
+*************
+20/11/2020 19:34:04,ross,GUARDA RESULTADOS,CCETO=
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400101
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400114
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400149
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400150
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400151
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400230
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/400476
+*************
+20/11/2020 19:38:13,ross,VALIDACION RESULTADO,PEDIDO=1294/401105
+*************
+20/11/2020 19:41:45,ross,IMPRIME POR AREA,PEDIDO=1294
+*************
+20/11/2020 19:43:54,ross,IMPRIME TODO,PEDIDO=1294
+*************
+20/11/2020 19:44:48,ross,IMPRIME POR EMAMEN,PEDIDO=1294
+*************
+20/11/2020 19:45:06,ross,IMPRIME POR EMAMEN,PEDIDO=1294
+*************
+20/11/2020 19:46:07,ross,IMPRIME SOBRE,PEDIDO=1294
+*************
+20/11/2020 19:51:29,ross,ENVIO CORREO PACIENTE,PEDIDO=1294
+*************
+21/11/2020 20:02:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 20:03:15,,Ingreso CONTRASE�A FALLIDO,
+*************
+21/11/2020 20:03:15,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 20:03:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 20:04:23,ross,01 GENERAR ORDEN,PEDIDO=1338
+*************
+21/11/2020 20:04:24,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1338
+*************
+21/11/2020 20:17:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 20:17:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 20:20:22,ross,1 MODIFICA ORDEN,PEDIDO=1338
+*************
+21/11/2020 21:00:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 21:00:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 21:01:33,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 21:03:43,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 21:09:04,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 21:09:17,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 21:09:36,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 22:16:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 22:16:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 22:17:01,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 22:34:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 22:34:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 22:38:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 22:38:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 22:46:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 22:46:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 22:55:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 22:55:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 23:08:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 23:08:33,,Ingreso CONTRASE�A FALLIDO,
+*************
+21/11/2020 23:08:33,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 23:08:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 23:09:45,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 23:14:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2020 23:14:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/11/2020 23:14:29,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+21/11/2020 23:15:24,ross,GUARDA RESULTADOS,AUDIOMETRIAH=RECOMEND:^|DIAG. OI:^|DIAG. OD:^|OTOSCOPIA:^|
+*************
+23/11/2020 17:15:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2020 17:15:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/11/2020 17:16:22,ross,IMPRIME POR AREA,PEDIDO=1288
+*************
+23/11/2020 18:17:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2020 18:17:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/11/2020 18:17:17,ross,IMPRIME POR AREA,PEDIDO=1261
+*************
+23/11/2020 18:22:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2020 18:22:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/11/2020 19:19:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2020 19:19:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/11/2020 19:24:14,ross,01 GENERAR ORDEN,PEDIDO=1342
+*************
+24/11/2020 19:24:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1342
+*************
+24/11/2020 20:20:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2020 20:20:41,,Ingreso CONTRASE�A FALLIDO,
+*************
+24/11/2020 20:20:41,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/11/2020 20:20:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/11/2020 11:06:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2020 11:06:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/11/2020 11:08:18,ross,Nuevo Pedido IMPORTACION,NORMAL/1346
+*************
+26/11/2020 11:08:18,ross,Nuevo Pedido IMPORTACION,NORMAL/1347
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1348
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1349
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1350
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1351
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1352
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1353
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1354
+*************
+26/11/2020 11:08:19,ross,Nuevo Pedido IMPORTACION,NORMAL/1355
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1356
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1357
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1358
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1359
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1360
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1361
+*************
+26/11/2020 11:08:20,ross,Nuevo Pedido IMPORTACION,NORMAL/1362
+*************
+26/11/2020 11:08:21,ross,Nuevo Pedido IMPORTACION,NORMAL/1363
+*************
+26/11/2020 11:08:21,ross,Nuevo Pedido IMPORTACION,NORMAL/1364
+*************
+26/11/2020 11:08:21,ross,Nuevo Pedido IMPORTACION,NORMAL/1365
+*************
+26/11/2020 11:08:21,ross,Nuevo Pedido IMPORTACION,NORMAL/1366
+*************
+26/11/2020 11:08:21,ross,Nuevo Pedido IMPORTACION,NORMAL/1367
+*************
+26/11/2020 11:08:21,ross,Nuevo Pedido IMPORTACION,NORMAL/1368
+*************
+29/11/2020 19:37:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2020 19:37:54,,Ingreso CONTRASE�A FALLIDO,
+*************
+29/11/2020 19:37:54,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/11/2020 19:37:56,,Ingreso CONTRASE�A FALLIDO,
+*************
+29/11/2020 19:37:56,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/11/2020 19:37:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/11/2020 19:39:10,ross,Generar Paciente,Paciente=CAICEDO ARIAS PAOLA CRISTINA
+*************
+29/11/2020 19:40:34,ross,01 GENERAR ORDEN,PEDIDO=1369
+*************
+29/11/2020 19:40:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1369
+*************
+29/11/2020 19:41:17,ross,01 GENERAR ORDEN,PEDIDO=1370
+*************
+29/11/2020 19:41:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1370
+*************
+29/11/2020 19:41:43,ross,VALIDACION RESULTADO,PEDIDO=1370/400151
+*************
+29/11/2020 19:42:05,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=1370
+*************
+29/11/2020 19:43:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2020 19:43:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/11/2020 19:43:25,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=1370
+*************
+30/11/2020 15:28:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 15:28:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 15:28:53,ross,01 GENERAR ORDEN,PEDIDO=1371
+*************
+30/11/2020 15:28:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1371
+*************
+30/11/2020 15:42:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 15:42:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 15:43:01,ross,Actualiza Test,Test=HEMATOCRITO
+*************
+30/11/2020 15:43:24,ross,Actualiza Test,Test=COLINESTERSAS PLASMATICA
+*************
+30/11/2020 15:43:47,ross,Actualiza Test,Test=COLINESTERASA ERITROCITARIA
+*************
+30/11/2020 15:44:10,ross,01 GENERAR ORDEN,PEDIDO=1372
+*************
+30/11/2020 15:44:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1372
+*************
+30/11/2020 16:43:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 16:43:27,,Ingreso CONTRASE�A FALLIDO,
+*************
+30/11/2020 16:43:27,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 16:43:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 16:44:08,ross,Actualiza Test,Test=ACETIL COLINESTERASA
+*************
+30/11/2020 16:44:19,ross,01 GENERAR ORDEN,PEDIDO=1373
+*************
+30/11/2020 16:44:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1373
+*************
+30/11/2020 16:44:41,ross,Actualiza Test,Test=ACETIL COLINESTERASA
+*************
+30/11/2020 17:24:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 17:24:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 18:29:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 18:29:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 19:07:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 19:07:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 20:50:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 20:50:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 20:55:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 20:55:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 21:02:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 21:02:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 21:15:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 21:15:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/11/2020 21:38:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2020 21:38:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************

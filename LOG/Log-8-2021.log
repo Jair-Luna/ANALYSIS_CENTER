@@ -1,0 +1,1729 @@
+01/08/2021 18:35:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 18:35:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 19:32:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 19:32:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 19:32:38,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=90
+*************
+01/08/2021 19:32:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=90
+*************
+01/08/2021 19:38:58,ross,VALIDACION RESULTADO,PEDIDO=90/400149
+*************
+01/08/2021 19:43:00,ross,IMPRIME TODO,PEDIDO=90
+*************
+01/08/2021 19:53:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 19:53:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 19:54:21,ross,1 MODIFICA ORDENNORMAL,PEDIDO=90
+*************
+01/08/2021 19:55:14,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=91
+*************
+01/08/2021 19:55:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=91
+*************
+01/08/2021 20:03:34,ross,GUARDA RESULTADOS,WBCH=6.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,NEUH=2.3
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,LYMH=1.01
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,MONH=1.67
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,EOSH=0.99
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,BASOH=0.56
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,NEU%25H=37.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,LYM%25H=12.3
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,MON%25H=2.08
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,EOS%25H=3.3
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,BASO%25H=1.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,RBCH=4.3
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,HCTH=42.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,HGBH=13.9
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,MCVH=87.6
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,MCHH=31.0
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,MCHCH=35.8
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,RDW-CVH=17.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,RDW-SDH=51.8
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,PLTH=345.8
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,MPVH=10.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,PDWH=18.3
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,PCTH=0.1
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,P-LCRH=39.7
+*************
+01/08/2021 20:03:38,ross,GUARDA RESULTADOS,P-LCCH=0.01
+*************
+01/08/2021 20:05:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:05:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 20:19:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:19:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 20:26:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:26:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 20:37:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:37:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 20:46:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:46:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 20:52:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:52:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 20:56:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 20:56:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 21:03:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 21:03:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 21:05:25,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+01/08/2021 21:12:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 21:12:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 21:12:34,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+01/08/2021 21:13:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 21:13:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 21:24:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 21:24:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 21:45:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 21:45:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 21:52:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 21:52:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 22:09:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 22:09:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 22:17:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 22:17:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 22:42:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 22:42:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 22:46:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 22:46:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 22:58:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 22:58:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 23:15:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 23:15:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/08/2021 23:27:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/08/2021 23:27:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 12:57:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 12:57:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 14:03:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 14:03:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 14:09:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 14:09:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 14:18:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 14:18:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 14:28:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 14:28:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 14:45:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 14:45:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 14:46:05,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+02/08/2021 14:59:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 14:59:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 15:01:04,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+02/08/2021 15:34:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 15:34:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 15:35:04,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+02/08/2021 15:35:21,ross,IMPRIME TODO,PEDIDO=91
+*************
+02/08/2021 15:47:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 15:47:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 15:47:56,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+02/08/2021 15:48:04,ross,IMPRIME TODO,PEDIDO=91
+*************
+02/08/2021 15:48:14,ross,IMPRIME POR EMAMEN,PEDIDO=91
+*************
+02/08/2021 16:09:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 16:09:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 16:09:47,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+02/08/2021 16:09:52,ross,IMPRIME TODO,PEDIDO=91
+*************
+02/08/2021 16:09:58,ross,IMPRIME POR AREA,PEDIDO=91
+*************
+02/08/2021 16:41:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 16:41:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 16:42:16,ross,Actualizar Convenio,Convenio=FYBECA
+*************
+02/08/2021 16:42:16,ross,Actualizar Secuencia,SECUENCIA=FYBECA/1201/1400
+*************
+02/08/2021 16:42:16,ross,Actualizar LISTA PRECIO=FYBECA,
+*************
+02/08/2021 18:52:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401104,400141,,PEDIDO=92
+*************
+02/08/2021 18:52:26,ross,02 IMPRIMIR COD BARRAS,PEDIDO=92
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,WBCH=1
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,NEUH=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,LYMH=3
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,MONH=4
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,EOSH=5
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,BASOH=6
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,RBCH=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,HCTH=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,HGBH=1
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,MCVH=2
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,MCHH=43
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,MCHCH=43
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,PLTH=3
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,MPVH=3
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,PDWH=3
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,PCTH=34
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+02/08/2021 18:53:17,ross,GUARDA RESULTADOS,P-LCCH=43
+*************
+02/08/2021 19:49:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 19:49:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,WBCH=1
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,NEUH=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,LYMH=3
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,MONH=4
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,EOSH=5
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,BASOH=6
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,RBCH=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,HCTH=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,HGBH=1
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,MCVH=2
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,MCHH=43
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,MCHCH=43
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,PLTH=3
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,MPVH=3
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,PDWH=3
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,PCTH=34
+*************
+02/08/2021 19:50:53,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+02/08/2021 19:50:54,ross,GUARDA RESULTADOS,P-LCCH=43
+*************
+02/08/2021 20:47:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 20:47:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 22:01:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 22:01:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 22:08:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 22:08:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 22:13:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 22:13:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 22:17:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 22:17:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/08/2021 22:22:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/08/2021 22:22:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 09:34:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 09:34:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 09:34:49,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=93
+*************
+03/08/2021 09:34:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=93
+*************
+03/08/2021 09:35:15,ross,Actualiza FACTURA,FACTURA=9
+*************
+03/08/2021 09:35:16,ross,Ingresa FACTURA,FACTURA=9
+*************
+03/08/2021 09:35:19,ross,Insertar abono,Factura=9 Abono= 9.45
+*************
+03/08/2021 09:35:19,ross,Cancela FACTURA,FACTURA=9
+*************
+03/08/2021 09:36:07,ross,Registra Tx Factura,Factura=9
+*************
+03/08/2021 10:07:22,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES:
+Valores confirmados
+*************
+03/08/2021 10:25:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 10:25:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 10:52:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 10:52:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 11:14:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 11:14:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 11:15:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 11:15:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 11:41:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 11:41:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 11:54:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 11:54:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 12:02:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 12:02:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 12:12:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 12:12:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 16:50:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 16:50:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 16:50:39,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 16:54:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 16:54:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 17:07:17,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 17:07:26,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 17:44:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 17:44:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 17:44:40,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 18:15:32,ross,Actualizacon Medico,Medico=FLORESºSEBASTIAN
+*************
+03/08/2021 18:15:41,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 18:15:41,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 18:15:41,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 18:15:43,ross,LEE USUARIO WEB,Busca credenciales
+*************
+03/08/2021 19:09:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 19:09:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 19:13:26,ross,VALIDACION RESULTADO,PEDIDO=93/400149
+*************
+03/08/2021 19:13:26,ross,VALIDACION RESULTADO,PEDIDO=93/400150
+*************
+03/08/2021 19:13:26,ross,VALIDACION RESULTADO,PEDIDO=93/400151
+*************
+03/08/2021 19:13:26,ross,VALIDACION RESULTADO,PEDIDO=93/400476
+*************
+03/08/2021 20:21:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 20:21:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 21:02:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 21:02:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 21:07:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 21:07:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 21:11:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 21:11:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 21:27:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 21:27:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/08/2021 21:36:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/08/2021 21:36:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 10:34:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 10:34:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 10:35:44,ross,Nuevo Test en Lista de Precios,Test=401146 10  NORMAL
+*************
+04/08/2021 10:35:44,ross,Nuevo Test en Lista de Precios,Test=401146 10  URGENCIA
+*************
+04/08/2021 10:35:44,ross,Nuevo Test en Lista de Precios,Test=401146 10  NOCHES
+*************
+04/08/2021 10:35:44,ross,Nuevo Test en Lista de Precios,Test=401146 10  FYBECA
+*************
+04/08/2021 10:35:44,ross,Nuevo Test en Lista de Precios,Test=401146 10  IESS
+*************
+04/08/2021 10:35:44,ross,Nuevo Test en Lista de Precios,Test=401146 10  KIA
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  REFERIDOS
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  AUTOMOTORS
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  BIOMUJER
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  WESTER
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  TRUESOLUTIONS
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  FOSNECA
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  REVIR
+*************
+04/08/2021 10:35:45,ross,Nuevo Test en Lista de Precios,Test=401146 10  SUPER 12
+*************
+04/08/2021 10:35:45,ross,INGRESA TEST,TEST=HISTORIA CLINICA
+*************
+04/08/2021 10:35:45,ross,Actualiza Test,Test=HISTORIA CLINICA
+*************
+04/08/2021 10:36:12,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401115,401119,401146,,PEDIDO=94
+*************
+04/08/2021 10:36:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+04/08/2021 10:36:46,ross,VALIDACION RESULTADO,PEDIDO=94/400149
+*************
+04/08/2021 10:36:46,ross,VALIDACION RESULTADO,PEDIDO=94/400150
+*************
+04/08/2021 10:36:46,ross,VALIDACION RESULTADO,PEDIDO=94/400151
+*************
+04/08/2021 10:36:46,ross,VALIDACION RESULTADO,PEDIDO=94/400476
+*************
+04/08/2021 10:51:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 10:51:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 11:03:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 11:03:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 11:04:31,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+04/08/2021 11:04:54,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+04/08/2021 11:05:24,ross,Actualiza Test,Test=HISTORIA CLINICA
+*************
+04/08/2021 11:05:46,ross,GUARDA RESULTADOS,HC_DOCH=
+*************
+04/08/2021 11:05:56,ross,VALIDACION RESULTADO,PEDIDO=94/401115
+*************
+04/08/2021 11:05:56,ross,VALIDACION RESULTADO,PEDIDO=94/401119
+*************
+04/08/2021 11:05:56,ross,VALIDACION RESULTADO,PEDIDO=94/401146
+*************
+04/08/2021 11:12:44,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+04/08/2021 11:12:49,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+04/08/2021 11:48:37,ross,01 GENERAR ORDEN  AUTOMOTORS EXAMENES: 400149,400150,400476,400151,401115,,PEDIDO=95
+*************
+04/08/2021 11:48:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=95
+*************
+04/08/2021 11:49:04,ross,VALIDACION RESULTADO,PEDIDO=95/400149
+*************
+04/08/2021 11:49:04,ross,VALIDACION RESULTADO,PEDIDO=95/400150
+*************
+04/08/2021 11:49:04,ross,VALIDACION RESULTADO,PEDIDO=95/400151
+*************
+04/08/2021 11:49:04,ross,VALIDACION RESULTADO,PEDIDO=95/400476
+*************
+04/08/2021 11:49:30,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+04/08/2021 11:49:36,ross,VALIDACION RESULTADO,PEDIDO=95/401115
+*************
+04/08/2021 14:52:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 14:52:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 15:03:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 15:03:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 15:14:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 15:14:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 16:12:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 16:12:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 16:23:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 16:23:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 16:26:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 16:26:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 16:29:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 16:29:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 16:42:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/08/2021 16:42:18,,Ingreso CONTRASEÑA FALLIDO,
+*************
+04/08/2021 16:42:18,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/08/2021 16:42:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 11:11:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 11:11:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 11:12:37,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401115,401119,,PEDIDO=96
+*************
+05/08/2021 11:12:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=96
+*************
+05/08/2021 11:13:23,ross,VALIDACION RESULTADO,PEDIDO=96/400149
+*************
+05/08/2021 11:13:23,ross,VALIDACION RESULTADO,PEDIDO=96/400150
+*************
+05/08/2021 11:13:23,ross,VALIDACION RESULTADO,PEDIDO=96/400151
+*************
+05/08/2021 11:13:23,ross,VALIDACION RESULTADO,PEDIDO=96/400476
+*************
+05/08/2021 12:22:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 12:22:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 12:23:13,ross,IMPRIME POR AREA,PEDIDO=96
+*************
+05/08/2021 12:37:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 12:37:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 12:37:45,ross,IMPRIME POR AREA,PEDIDO=96
+*************
+05/08/2021 12:39:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 12:39:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 12:41:14,ross,IMPRIME POR AREA,PEDIDO=96
+*************
+05/08/2021 12:47:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 12:47:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 14:14:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 14:14:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 14:15:19,ross,IMPRIME POR AREA,PEDIDO=96
+*************
+05/08/2021 15:05:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 15:05:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:16:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 15:16:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:27:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 15:27:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:29:55,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401115,401119,401116,,PEDIDO=5899
+*************
+05/08/2021 15:29:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=5899
+*************
+05/08/2021 15:39:11,ross,VALIDACION RESULTADO,PEDIDO=5899/400149
+*************
+05/08/2021 15:39:11,ross,VALIDACION RESULTADO,PEDIDO=5899/400150
+*************
+05/08/2021 15:39:12,ross,VALIDACION RESULTADO,PEDIDO=5899/400151
+*************
+05/08/2021 15:39:12,ross,VALIDACION RESULTADO,PEDIDO=5899/400476
+*************
+05/08/2021 15:39:17,ross,Inserta usuario web,Paciente=365 PCOBO
+*************
+05/08/2021 15:45:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 15:45:20,,Ingreso CONTRASEÑA FALLIDO,
+*************
+05/08/2021 15:45:20,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:45:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:47:06,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+05/08/2021 15:53:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 15:53:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:53:42,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+05/08/2021 15:56:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 15:56:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 15:57:50,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+05/08/2021 16:06:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 16:06:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 16:07:44,ross,Inserta usuario web,Paciente=365 PCOBO
+*************
+05/08/2021 16:10:33,ross,Inserta usuario web,Paciente=365 PCOBO
+*************
+05/08/2021 16:11:41,ross,IMPRIME POR AREA,PEDIDO=5899
+*************
+05/08/2021 16:20:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 16:20:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/08/2021 16:46:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/08/2021 16:46:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/08/2021 11:21:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/08/2021 11:21:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/08/2021 11:22:36,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=97
+*************
+06/08/2021 11:22:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=97
+*************
+06/08/2021 11:22:51,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=98
+*************
+06/08/2021 11:22:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=98
+*************
+06/08/2021 11:23:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=99
+*************
+06/08/2021 11:23:04,ross,02 IMPRIMIR COD BARRAS,PEDIDO=99
+*************
+06/08/2021 11:23:21,ross,VALIDACION RESULTADO,PEDIDO=97/400149
+*************
+06/08/2021 11:23:21,ross,VALIDACION RESULTADO,PEDIDO=97/400150
+*************
+06/08/2021 11:23:21,ross,VALIDACION RESULTADO,PEDIDO=97/400151
+*************
+06/08/2021 11:23:21,ross,VALIDACION RESULTADO,PEDIDO=97/400476
+*************
+06/08/2021 11:23:28,ross,VALIDACION RESULTADO,PEDIDO=98/400151
+*************
+06/08/2021 11:23:36,ross,VALIDACION RESULTADO,PEDIDO=99/400149
+*************
+06/08/2021 11:23:48,ross,IMPRIME POR AREA,PEDIDO=97
+*************
+06/08/2021 11:23:55,ross,IMPRIME POR AREA,PEDIDO=98
+*************
+06/08/2021 12:33:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/08/2021 12:33:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/08/2021 12:35:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/08/2021 12:35:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 11:06:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 11:06:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 11:06:44,ross,Actualizacon Medico,Medico=DANIEL PASOCHOA
+*************
+07/08/2021 17:01:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 17:01:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 17:03:35,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,400149,,PEDIDO=100
+*************
+07/08/2021 17:03:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+07/08/2021 17:16:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 17:16:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 17:53:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 17:53:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 17:57:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 17:57:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 18:31:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 18:31:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 18:40:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 18:40:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 19:17:46,ross,VALIDACION RESULTADO,PEDIDO=100/400149
+*************
+07/08/2021 19:17:46,ross,VALIDACION RESULTADO,PEDIDO=100/400151
+*************
+07/08/2021 19:42:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 19:42:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 19:48:58,ross,IMPRIME POR AREA,PEDIDO=100
+*************
+07/08/2021 20:00:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 20:00:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 20:14:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 20:14:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 20:46:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 20:46:12,,Ingreso CONTRASEÑA FALLIDO,
+*************
+07/08/2021 20:46:12,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 20:46:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 20:58:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/08/2021 20:58:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/08/2021 20:59:32,ross,IMPRIME POR AREA,PEDIDO=100
+*************
+09/08/2021 19:43:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 19:43:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 19:50:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 19:50:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 19:56:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 19:56:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 19:59:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 19:59:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 20:00:31,ross,IMPRIME POR AREA,PEDIDO=100
+*************
+09/08/2021 20:00:54,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=101
+*************
+09/08/2021 20:00:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=101
+*************
+09/08/2021 20:01:11,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=102
+*************
+09/08/2021 20:01:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=102
+*************
+09/08/2021 20:01:41,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400141,,PEDIDO=103
+*************
+09/08/2021 20:01:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=103
+*************
+09/08/2021 20:02:21,ross,VALIDACION RESULTADO,PEDIDO=101/400151
+*************
+09/08/2021 20:02:54,ross,VALIDACION RESULTADO,PEDIDO=102/400149
+*************
+09/08/2021 20:03:09,ross,VALIDACION RESULTADO,PEDIDO=103/400141
+*************
+09/08/2021 20:29:01,ross,IMPRIME POR AREA,PEDIDO=101
+*************
+09/08/2021 20:29:21,ross,IMPRIME POR AREA,PEDIDO=102
+*************
+09/08/2021 20:29:30,ross,IMPRIME POR AREA,PEDIDO=103
+*************
+09/08/2021 20:30:10,ross,IMPRIME POR AREA,PEDIDO=101
+*************
+09/08/2021 20:31:42,ross,IMPRIME POR AREA,PEDIDO=102
+*************
+09/08/2021 20:32:11,ross,IMPRIME POR AREA,PEDIDO=103
+*************
+09/08/2021 20:38:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 20:38:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 20:39:07,ross,IMPRIME POR AREA,PEDIDO=101
+*************
+09/08/2021 20:39:35,ross,IMPRIME POR AREA,PEDIDO=102
+*************
+09/08/2021 20:40:11,ross,IMPRIME POR AREA,PEDIDO=103
+*************
+09/08/2021 20:41:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 20:41:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 20:43:04,ross,IMPRIME POR AREA,PEDIDO=101
+*************
+09/08/2021 20:53:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 20:53:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 20:59:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 20:59:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:04:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:04:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:14:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:14:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:21:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:21:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:28:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:28:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:31:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:31:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:39:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:39:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:46:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:46:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:51:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:51:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 21:55:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 21:55:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 22:05:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 22:05:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/08/2021 22:12:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/08/2021 22:12:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/08/2021 08:59:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2021 08:59:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/08/2021 15:55:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/08/2021 15:55:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/08/2021 15:55:53,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 597,,PEDIDO=104
+*************
+10/08/2021 15:55:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=104
+*************
+11/08/2021 17:15:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/08/2021 17:15:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 16:24:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 16:24:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 16:46:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 16:46:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 17:40:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 17:40:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 17:51:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 17:51:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 17:52:31,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=105
+*************
+12/08/2021 17:52:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=105
+*************
+12/08/2021 17:53:14,ross,VALIDACION RESULTADO,PEDIDO=105/400149
+*************
+12/08/2021 17:53:14,ross,VALIDACION RESULTADO,PEDIDO=105/400150
+*************
+12/08/2021 17:53:14,ross,VALIDACION RESULTADO,PEDIDO=105/400151
+*************
+12/08/2021 17:53:15,ross,VALIDACION RESULTADO,PEDIDO=105/400476
+*************
+12/08/2021 17:53:38,ross,IMPRIME POR AREA,PEDIDO=105
+*************
+12/08/2021 19:23:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 19:23:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 19:43:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 19:43:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 19:46:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/08/2021 19:46:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/08/2021 19:49:15,ross,IMPRIME POR AREA,PEDIDO=105
+*************
+13/08/2021 10:27:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/08/2021 10:27:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/08/2021 16:23:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2021 16:23:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/08/2021 16:24:36,ross,IMPRIME POR AREA,PEDIDO=105
+*************
+14/08/2021 16:25:21,ross,IMPRIME POR AREA,PEDIDO=103
+*************
+14/08/2021 16:25:32,ross,IMPRIME POR AREA,PEDIDO=102
+*************
+14/08/2021 17:59:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/08/2021 17:59:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/08/2021 19:37:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2021 19:37:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/08/2021 19:37:52,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=106
+*************
+15/08/2021 19:37:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=106
+*************
+15/08/2021 19:38:14,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=107
+*************
+15/08/2021 19:38:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=107
+*************
+15/08/2021 19:38:52,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=108
+*************
+15/08/2021 19:38:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=108
+*************
+15/08/2021 19:39:19,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,400140,400141,401104,,PEDIDO=109
+*************
+15/08/2021 19:39:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=109
+*************
+15/08/2021 19:43:33,ross,VALIDACION RESULTADO,PEDIDO=106/400149
+*************
+15/08/2021 19:43:33,ross,VALIDACION RESULTADO,PEDIDO=106/400150
+*************
+15/08/2021 19:43:33,ross,VALIDACION RESULTADO,PEDIDO=106/400151
+*************
+15/08/2021 19:43:33,ross,VALIDACION RESULTADO,PEDIDO=106/400476
+*************
+15/08/2021 19:44:18,ross,Inserta usuario web,Paciente=4 RFLORES
+*************
+15/08/2021 19:45:41,ross,VALIDACION RESULTADO,PEDIDO=107/400191
+*************
+15/08/2021 19:45:41,ross,VALIDACION RESULTADO,PEDIDO=107/400197
+*************
+15/08/2021 19:45:41,ross,VALIDACION RESULTADO,PEDIDO=107/400524
+*************
+15/08/2021 19:45:41,ross,VALIDACION RESULTADO,PEDIDO=107/400836
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,WBCH=1
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,NEUH=2
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,LYMH=3
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,MONH=4
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,EOSH=5
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,BASOH=6
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,EOS%25H=8
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,BASO%25H=7
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,RBCH=6
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,HCTH=4
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,HGBH=3
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,MCVH=2
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,MCHH=1
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,RDW-SDH=4
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,PLTH=5
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,MPVH=6
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,PDWH=7
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,PCTH=3
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+15/08/2021 19:46:11,ross,GUARDA RESULTADOS,P-LCCH=5
+*************
+15/08/2021 19:46:28,ross,VALIDACION RESULTADO,PEDIDO=108/400149
+*************
+15/08/2021 19:46:28,ross,VALIDACION RESULTADO,PEDIDO=108/400150
+*************
+15/08/2021 19:46:28,ross,VALIDACION RESULTADO,PEDIDO=108/400151
+*************
+15/08/2021 19:46:28,ross,VALIDACION RESULTADO,PEDIDO=108/400476
+*************
+15/08/2021 19:46:49,ross,VALIDACION RESULTADO,PEDIDO=109/400140
+*************
+15/08/2021 19:46:49,ross,VALIDACION RESULTADO,PEDIDO=109/400141
+*************
+15/08/2021 19:46:49,ross,VALIDACION RESULTADO,PEDIDO=109/400151
+*************
+15/08/2021 19:46:49,ross,VALIDACION RESULTADO,PEDIDO=109/401104
+*************
+15/08/2021 20:13:28,ross,IMPRIME POR AREA,PEDIDO=106
+*************
+15/08/2021 20:14:21,ross,IMPRIME TODO,PEDIDO=106
+*************
+15/08/2021 20:33:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2021 20:33:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/08/2021 20:33:55,ross,IMPRIME POR AREA,PEDIDO=106
+*************
+15/08/2021 20:40:32,ross,IMPRIME TODO,PEDIDO=106
+*************
+15/08/2021 20:41:51,ross,IMPRIME POR EMAMEN,PEDIDO=106
+*************
+15/08/2021 20:42:10,ross,IMPRIME POR AREA,PEDIDO=107
+*************
+15/08/2021 20:57:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2021 20:57:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/08/2021 21:05:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/08/2021 21:05:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/08/2021 10:31:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2021 10:31:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/08/2021 12:05:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2021 12:05:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/08/2021 12:05:29,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401105,,PEDIDO=110
+*************
+17/08/2021 12:05:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=110
+*************
+17/08/2021 12:05:51,ross,GUARDA RESULTADOS,IGG_CUANH=1.09
+*************
+17/08/2021 12:05:51,ross,GUARDA RESULTADOS,IGM_CUANH=2.3
+*************
+17/08/2021 12:05:51,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+17/08/2021 12:06:07,ross,IMPRIME POR AREA,PEDIDO=110
+*************
+17/08/2021 12:06:16,ross,IMPRIME TODO,PEDIDO=110
+*************
+17/08/2021 12:06:35,ross,IMPRIME TODO,PEDIDO=110
+*************
+17/08/2021 12:07:55,ross,IMPRIME TODO,PEDIDO=110
+*************
+17/08/2021 13:19:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/08/2021 13:19:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/08/2021 13:19:49,ross,IMPRIME TODO,PEDIDO=110
+*************
+18/08/2021 17:55:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2021 17:55:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/08/2021 17:55:57,ross,IMPRIME TODO,PEDIDO=110
+*************
+18/08/2021 19:40:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/08/2021 19:40:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2021 09:15:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2021 09:15:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2021 09:15:45,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=111
+*************
+19/08/2021 09:15:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=111
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,WBCH=5
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,NEUH=6
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,LYMH=7
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,MONH=8
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,EOSH=6
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,BASOH=5
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,BASO%25H=8
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,RBCH=8
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,HCTH=7
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,HGBH=6
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,MCVH=5
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,MCHH=4
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,RDW-SDH=5
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,PLTH=6
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,MPVH=7
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,PDWH=8
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,PCTH=9
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,P-LCRH=2
+*************
+19/08/2021 09:17:34,ross,GUARDA RESULTADOS,P-LCCH=1
+*************
+19/08/2021 09:17:47,ross,VALIDACION RESULTADO,PEDIDO=111/400149
+*************
+19/08/2021 09:17:47,ross,VALIDACION RESULTADO,PEDIDO=111/400150
+*************
+19/08/2021 09:17:47,ross,VALIDACION RESULTADO,PEDIDO=111/400151
+*************
+19/08/2021 09:17:47,ross,VALIDACION RESULTADO,PEDIDO=111/400476
+*************
+19/08/2021 09:32:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2021 09:32:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2021 09:32:54,ross,IMPRIME POR AREA,PEDIDO=111
+*************
+19/08/2021 09:33:33,ross,IMPRIME TODO,PEDIDO=111
+*************
+19/08/2021 09:34:07,ross,IMPRIME POR EMAMEN,PEDIDO=111
+*************
+19/08/2021 09:34:17,ross,IMPRIME POR AREA,PEDIDO=111
+*************
+19/08/2021 09:34:29,ross,IMPRIME TODO,PEDIDO=111
+*************
+19/08/2021 09:34:39,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=111
+*************
+19/08/2021 10:37:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/08/2021 10:37:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/08/2021 10:37:37,ross,IMPRIME POR AREA,PEDIDO=111
+*************
+19/08/2021 11:22:48,ross,IMPRIME TODO,PEDIDO=111
+*************
+19/08/2021 11:24:41,ross,ENVIO CORREO PACIENTE,PEDIDO=111
+*************
+21/08/2021 15:26:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2021 15:28:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2021 15:28:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/08/2021 15:31:21,ross,Generar Paciente,Paciente=VASQUEZ ALCIVAR INGRID JAKELINE
+*************
+21/08/2021 15:34:16,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401105,,PEDIDO=112
+*************
+21/08/2021 15:34:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=112
+*************
+21/08/2021 15:35:09,ross,1 MODIFICA ORDENNORMAL,PEDIDO=112
+*************
+21/08/2021 15:36:43,ross,Actualiza FACTURA,FACTURA=10
+*************
+21/08/2021 15:36:43,ross,Ingresa FACTURA,FACTURA=10
+*************
+21/08/2021 15:36:43,ross,Insertar abono,Factura=10 Abono= 25
+*************
+21/08/2021 15:36:43,ross,Actualiza FACTURA,FACTURA=10/25
+*************
+21/08/2021 15:36:49,ross,Registra Tx Factura,Factura=10
+*************
+21/08/2021 15:37:07,ross,Registra Tx Factura,Factura=10
+*************
+21/08/2021 15:38:01,ross,Insertar abono,Factura=10 Abono= 31.5
+*************
+21/08/2021 15:38:01,ross,Cancela FACTURA,FACTURA=10
+*************
+21/08/2021 15:38:08,ross,Registra Tx Factura,Factura=10
+*************
+21/08/2021 15:38:37,ross,03 IMPRIMIR PEDIDO,PEDIDO=112
+*************
+21/08/2021 15:39:11,ross,IMPRIMIR CONTRAORDEN,
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,WBC=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,NEU=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,LYM=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,MON=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,EOS=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,BASO=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,MON%25=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,RBC=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,HCT=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,HGB=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,MCV=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,MCH=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,MCHC=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,RDW-CV=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,RDW-SD=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,PLT=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,MPV=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,PDW=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,PCT=4
+*************
+21/08/2021 15:40:51,ross,GUARDA RESULTADOS,P-LCR=4
+*************
+21/08/2021 15:40:52,ross,GUARDA RESULTADOS,P-LCC=4
+*************
+21/08/2021 15:41:31,ross,GUARDA RESULTADOS,IGG_CUANH=1.4
+*************
+21/08/2021 15:41:31,ross,GUARDA RESULTADOS,IGM_CUANH=6.2
+*************
+21/08/2021 15:41:31,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+21/08/2021 15:42:28,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALORES CONFIRMADOS
+*************
+21/08/2021 15:42:38,ross,VALIDACION RESULTADO,PEDIDO=112/400149
+*************
+21/08/2021 15:42:38,ross,VALIDACION RESULTADO,PEDIDO=112/400150
+*************
+21/08/2021 15:42:38,ross,VALIDACION RESULTADO,PEDIDO=112/400151
+*************
+21/08/2021 15:42:38,ross,VALIDACION RESULTADO,PEDIDO=112/400476
+*************
+21/08/2021 15:42:38,ross,VALIDACION RESULTADO,PEDIDO=112/401104
+*************
+21/08/2021 15:43:10,ross,IMPRIME POR AREA,PEDIDO=112
+*************
+21/08/2021 16:22:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2021 16:22:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/08/2021 16:32:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2021 16:32:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/08/2021 16:40:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2021 16:40:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/08/2021 16:41:13,ross,Actualizacon Medico,Medico=HERNANDEZ JUANITO
+*************
+21/08/2021 16:55:31,ross,Actualizar Convenio,Convenio=PARTICULAR
+*************
+21/08/2021 16:55:44,ross,Actualizar Secuencia,SECUENCIA=PARTICULAR/1/1000
+*************
+21/08/2021 16:56:01,ross,Actualizar LISTA PRECIO=PARTICULAR,
+*************
+21/08/2021 17:09:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/08/2021 17:10:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/08/2021 11:55:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2021 11:56:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/08/2021 12:00:51,ross,Actualizar Convenio,Convenio=EMERGENCIA
+*************
+23/08/2021 12:00:54,ross,Actualizar Secuencia,SECUENCIA=EMERGENCIA/5000/6000
+*************
+23/08/2021 12:00:54,ross,Actualizar LISTA PRECIO=EMERGENCIA,
+*************
+23/08/2021 12:20:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2021 12:20:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/08/2021 12:21:59,ross,Actualizar Convenio,Convenio=URGENCIA
+*************
+23/08/2021 12:21:59,ross,Actualizar Secuencia,SECUENCIA=URGENCIA/5000/6000
+*************
+23/08/2021 12:21:59,ross,Actualizar LISTA PRECIO=URGENCIA,
+*************
+23/08/2021 12:22:00,ross,Actualizar pedido en convenio =URGENCIA,
+*************
+23/08/2021 12:22:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2021 12:22:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/08/2021 12:55:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/08/2021 12:55:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/08/2021 12:56:03,ross,Actualizar Convenio,Convenio=NORMAL
+*************
+23/08/2021 12:56:04,ross,Actualizar Secuencia,SECUENCIA=NORMAL/1/1000
+*************
+23/08/2021 12:56:04,ross,Actualizar LISTA PRECIO=NORMAL,
+*************
+23/08/2021 12:56:07,ross,Actualizar pedido en convenio =NORMAL,
+*************
+25/08/2021 08:26:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/08/2021 08:26:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/08/2021 16:33:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2021 16:33:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/08/2021 16:33:28,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+26/08/2021 16:34:08,ross,IMPRIME TODO,PEDIDO=22
+*************
+26/08/2021 16:51:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2021 16:51:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/08/2021 16:51:21,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+26/08/2021 16:51:40,ross,IMPRIME POR AREA,PEDIDO=22
+*************
+26/08/2021 16:52:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2021 16:52:35,scava,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/08/2021 16:53:06,scava,VALIDACION RESULTADO,PEDIDO=23/400166
+*************
+26/08/2021 16:53:06,scava,VALIDACION RESULTADO,PEDIDO=23/400168
+*************
+26/08/2021 16:53:07,scava,VALIDACION RESULTADO,PEDIDO=23/400786
+*************
+26/08/2021 16:53:14,scava,IMPRIME POR AREA,PEDIDO=23
+*************
+26/08/2021 16:53:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/08/2021 16:53:54,alema,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/08/2021 16:54:15,alema,VALIDACION RESULTADO,PEDIDO=19/400149
+*************
+26/08/2021 16:54:15,alema,VALIDACION RESULTADO,PEDIDO=19/400150
+*************
+26/08/2021 16:54:15,alema,VALIDACION RESULTADO,PEDIDO=19/400151
+*************
+26/08/2021 16:54:15,alema,VALIDACION RESULTADO,PEDIDO=19/400476
+*************
+26/08/2021 16:54:22,alema,IMPRIME POR AREA,PEDIDO=19
+*************
+27/08/2021 12:50:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2021 12:50:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/08/2021 12:50:23,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,,PEDIDO=113
+*************
+27/08/2021 12:50:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=113
+*************
+27/08/2021 12:50:43,ross,VALIDACION RESULTADO,PEDIDO=113/400149
+*************
+27/08/2021 14:25:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2021 14:25:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/08/2021 17:56:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/08/2021 17:56:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/08/2021 17:56:56,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=114
+*************
+27/08/2021 17:56:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=114
+*************
+27/08/2021 17:58:37,ross,VALIDACION RESULTADO,PEDIDO=114/400149
+*************
+27/08/2021 17:58:38,ross,VALIDACION RESULTADO,PEDIDO=114/400150
+*************
+27/08/2021 17:58:38,ross,VALIDACION RESULTADO,PEDIDO=114/400151
+*************
+27/08/2021 17:58:38,ross,VALIDACION RESULTADO,PEDIDO=114/400476
+*************
+29/08/2021 17:48:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 17:48:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 17:49:19,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=115
+*************
+29/08/2021 17:49:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=115
+*************
+29/08/2021 17:52:43,ross,Actualiza FACTURA,FACTURA=11
+*************
+29/08/2021 17:52:43,ross,Ingresa FACTURA,FACTURA=11
+*************
+29/08/2021 17:52:48,ross,Insertar abono,Factura=11 Abono= 0.01
+*************
+29/08/2021 17:52:51,ross,Actualiza FACTURA,FACTURA=11/0.01
+*************
+29/08/2021 17:54:22,ross,Insertar abono,Factura=11 Abono= 1.49
+*************
+29/08/2021 17:54:22,ross,Cancela FACTURA,FACTURA=11
+*************
+29/08/2021 17:54:58,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=116
+*************
+29/08/2021 17:54:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=116
+*************
+29/08/2021 18:16:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 18:16:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 18:23:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 18:23:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 18:33:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 18:33:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 18:34:01,ross,Actualiza FACTURA,FACTURA=12
+*************
+29/08/2021 18:34:01,ross,Ingresa FACTURA,FACTURA=12
+*************
+29/08/2021 18:34:11,ross,Insertar abono,Factura=12 Abono= 0
+*************
+29/08/2021 18:34:13,ross,Cancela FACTURA,FACTURA=12
+*************
+29/08/2021 18:34:39,ross,Registra Tx Factura,Factura=12
+*************
+29/08/2021 18:56:07,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,,PEDIDO=117
+*************
+29/08/2021 18:56:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=117
+*************
+29/08/2021 18:56:41,ross,Actualiza FACTURA,FACTURA=13
+*************
+29/08/2021 18:56:41,ross,Ingresa FACTURA,FACTURA=13
+*************
+29/08/2021 18:56:42,ross,Insertar abono,Factura=13 Abono= 40
+*************
+29/08/2021 18:56:42,ross,Actualiza FACTURA,FACTURA=13/40
+*************
+29/08/2021 19:09:34,ross,Insertar abono,Factura=13 Abono= 26
+*************
+29/08/2021 19:10:01,ross,Cancela FACTURA,FACTURA=13
+*************
+29/08/2021 19:21:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 19:21:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 19:29:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 19:29:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 19:40:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 19:40:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 19:41:15,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,401115,,PEDIDO=118
+*************
+29/08/2021 19:41:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=118
+*************
+29/08/2021 19:41:37,ross,VALIDACION RESULTADO,PEDIDO=118/400151
+*************
+29/08/2021 19:42:13,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 20:07:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 20:07:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 20:09:14,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 21:50:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 21:50:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 21:50:56,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 22:14:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:14:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:14:51,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 22:15:05,ross,IMPRIME TODO,PEDIDO=118
+*************
+29/08/2021 22:30:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:30:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:30:29,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 22:34:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:34:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:34:50,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 22:38:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:39:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:42:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:42:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:42:23,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 22:46:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:46:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:47:07,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+29/08/2021 22:49:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/08/2021 22:49:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/08/2021 22:50:06,ross,IMPRIME POR AREA,PEDIDO=118
+*************
+30/08/2021 10:18:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 10:18:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 10:18:58,ross,IMPRIME TODO,PEDIDO=118
+*************
+30/08/2021 10:27:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 10:27:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 10:28:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=119
+*************
+30/08/2021 10:28:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=119
+*************
+30/08/2021 10:28:38,ross,VALIDACION RESULTADO,PEDIDO=119/400151
+*************
+30/08/2021 10:29:26,ross,IMPRIME POR AREA,PEDIDO=119
+*************
+30/08/2021 10:41:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 10:41:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 10:42:36,ross,IMPRIME POR AREA,PEDIDO=6530
+*************
+30/08/2021 11:00:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 11:00:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 11:08:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 11:08:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 11:09:06,ross,IMPRIME POR AREA,PEDIDO=6530
+*************
+30/08/2021 11:55:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 11:55:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 11:55:42,ross,IMPRIME TODO,PEDIDO=6560
+*************
+30/08/2021 11:56:01,ross,IMPRIME POR AREA,PEDIDO=6560
+*************
+30/08/2021 12:09:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 12:09:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 12:09:36,ross,IMPRIME POR AREA,PEDIDO=6560
+*************
+30/08/2021 12:09:57,ross,IMPRIME TODO,PEDIDO=6560
+*************
+30/08/2021 12:28:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 12:28:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 12:32:09,ross,IMPRIME POR AREA,PEDIDO=6560
+*************
+30/08/2021 12:51:09,ross,IMPRIME POR AREA,PEDIDO=6560
+*************
+30/08/2021 13:17:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 13:17:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 13:19:22,ross,IMPRIME POR AREA,PEDIDO=6560
+*************
+30/08/2021 14:19:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/08/2021 14:19:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/08/2021 14:41:10,ross,IMPRIME POR AREA,PEDIDO=6562
+*************

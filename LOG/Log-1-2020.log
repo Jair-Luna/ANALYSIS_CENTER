@@ -1,0 +1,1364 @@
+02/01/2020 10:07:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 10:07:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 10:07:42,ross,01 GENERAR ORDEN,PEDIDO=86
+*************
+02/01/2020 10:09:04,ross,Actualiza FACTURA,FACTURA=13
+*************
+02/01/2020 10:09:04,ross,Ingresa FACTURA,FACTURA=13
+*************
+02/01/2020 10:09:22,ross,Actualiza FACTURA,FACTURA=14
+*************
+02/01/2020 10:09:22,ross,Ingresa FACTURA,FACTURA=14
+*************
+02/01/2020 10:09:27,ross,Insertar abono,Factura=13 Abono= 40.07
+*************
+02/01/2020 10:09:27,ross,Cancela FACTURA,FACTURA=13
+*************
+02/01/2020 10:09:45,ross,1 ANULA ORDEN,PEDIDO=86
+*************
+02/01/2020 10:11:36,ross,01 GENERAR ORDEN,PEDIDO=87
+*************
+02/01/2020 10:12:28,ross,Actualiza FACTURA,FACTURA=15
+*************
+02/01/2020 10:12:28,ross,Ingresa FACTURA,FACTURA=15
+*************
+02/01/2020 10:13:29,ross,Insertar abono,Factura=15 Abono= 40.07
+*************
+02/01/2020 10:13:29,ross,Cancela FACTURA,FACTURA=15
+*************
+02/01/2020 10:13:51,ross,01 GENERAR ORDEN,PEDIDO=88
+*************
+02/01/2020 10:14:30,ross,Actualizacón Médico,Medico=FLORES DANNA SOFIA
+*************
+02/01/2020 10:14:33,ross,1 MODIFICA ORDEN,PEDIDO=88
+*************
+02/01/2020 10:14:47,ross,1 MODIFICA ORDEN,PEDIDO=87
+*************
+02/01/2020 10:15:26,ross,Actualiza FACTURA,FACTURA=16
+*************
+02/01/2020 10:15:26,ross,Ingresa FACTURA,FACTURA=16
+*************
+02/01/2020 10:15:26,ross,Insertar abono,Factura=16 Abono= 46
+*************
+02/01/2020 10:15:26,ross,Cancela FACTURA,FACTURA=16
+*************
+02/01/2020 10:15:28,ross,Registra Tx Factura,Factura=16
+*************
+02/01/2020 10:34:39,ross,Registra Tx Factura,Factura=15
+*************
+02/01/2020 10:36:32,ross,01 GENERAR ORDEN,PEDIDO=89
+*************
+02/01/2020 10:36:38,ross,Actualiza FACTURA,FACTURA=17
+*************
+02/01/2020 10:36:38,ross,Ingresa FACTURA,FACTURA=17
+*************
+02/01/2020 10:36:38,ross,Insertar abono,Factura=17 Abono= 20
+*************
+02/01/2020 10:36:38,ross,Actualiza FACTURA,FACTURA=17/20
+*************
+02/01/2020 10:37:09,ross,1 MODIFICA ORDEN,PEDIDO=89
+*************
+02/01/2020 11:01:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 11:01:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 11:11:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 11:11:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 11:34:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 11:34:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 11:53:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 11:53:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 12:06:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 12:06:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 16:19:45,ross,01 GENERAR ORDEN,PEDIDO=90
+*************
+02/01/2020 17:29:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 17:29:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 17:51:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 17:51:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 18:03:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 18:03:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 18:48:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 18:48:47,,Ingreso CONTRASEÑA FALLIDO,
+*************
+02/01/2020 18:48:47,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 18:48:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/01/2020 19:05:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/01/2020 19:05:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 16:21:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 16:21:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 17:21:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 17:21:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 17:45:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 17:45:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 21:22:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 21:22:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 21:33:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 21:33:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 22:17:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 22:17:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 22:32:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 22:32:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 22:41:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 22:41:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 23:12:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 23:12:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 23:20:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 23:20:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 23:25:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 23:25:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2020 23:37:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2020 23:37:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2020 7:38:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2020 7:38:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2020 8:03:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2020 8:03:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2020 13:03:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2020 13:03:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2020 13:12:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2020 13:12:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2020 16:11:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2020 16:11:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2020 16:11:46,ross,01 GENERAR ORDEN,PEDIDO=91
+*************
+04/01/2020 17:16:06,ross,GUARDA RESULTADOS,TGRH=114.5
+*************
+04/01/2020 17:16:06,ross,GUARDA RESULTADOS,UREA=29.6
+*************
+04/01/2020 17:16:06,ross,GUARDA RESULTADOS,TCH=185
+*************
+04/01/2020 17:16:06,ross,GUARDA RESULTADOS,GLU=72.2
+*************
+04/01/2020 17:16:06,ross,GUARDA RESULTADOS,CREH=0.92
+*************
+07/01/2020 9:43:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2020 9:43:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2020 9:44:13,ross,01 GENERAR ORDEN,PEDIDO=92
+*************
+07/01/2020 11:23:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2020 11:23:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2020 11:34:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2020 11:34:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2020 11:36:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2020 11:36:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2020 12:07:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2020 12:07:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2020 18:42:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2020 18:42:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/01/2020 7:19:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/01/2020 7:19:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/01/2020 7:20:14,ross,01 GENERAR ORDEN,PEDIDO=93
+*************
+10/01/2020 7:22:11,ross,GUARDA RESULTADOS,WBCH=1
+*************
+10/01/2020 7:22:11,ross,GUARDA RESULTADOS,LYMH=2
+*************
+10/01/2020 7:22:11,ross,GUARDA RESULTADOS,NEUH=3
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,MONOH=4
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,EOSH=5
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,BASOH=6
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,HGBH=3
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,RBCH=4
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,HCTH=5
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,MCVH=6
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,MCHH=7
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,RDW_SDH=9
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,RDW_CVH=0
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,PLTH=1
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,PDWH=2
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,MPVH=3
+*************
+10/01/2020 7:22:12,ross,GUARDA RESULTADOS,PCTH=5
+*************
+10/01/2020 7:22:24,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+10/01/2020 7:22:26,ross,VALIDACION RESULTADO,PEDIDO=93/400101
+*************
+10/01/2020 7:23:01,ross,Actualiza FACTURA,FACTURA=18
+*************
+10/01/2020 7:23:01,ross,Ingresa FACTURA,FACTURA=18
+*************
+10/01/2020 7:23:03,ross,Insertar abono,Factura=18 Abono= 5
+*************
+10/01/2020 7:23:03,ross,Cancela FACTURA,FACTURA=18
+*************
+10/01/2020 7:23:05,ross,Registra Tx Factura,Factura=18
+*************
+10/01/2020 7:23:30,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+10/01/2020 7:27:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/01/2020 7:27:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/01/2020 7:28:03,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+10/01/2020 7:30:01,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+14/01/2020 10:05:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/01/2020 10:05:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/01/2020 10:06:18,ross,01 GENERAR ORDEN,PEDIDO=94
+*************
+14/01/2020 10:06:22,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+14/01/2020 10:06:22,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+14/01/2020 10:08:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/01/2020 10:08:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/01/2020 10:08:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+14/01/2020 10:08:44,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+14/01/2020 10:14:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+14/01/2020 10:14:47,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+14/01/2020 10:17:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/01/2020 10:17:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/01/2020 10:17:14,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+14/01/2020 10:17:14,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+14/01/2020 10:18:24,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+14/01/2020 10:18:24,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+14/01/2020 10:44:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/01/2020 10:45:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/01/2020 10:45:24,ross,02 IMPRIMIR COD BARRAS,PEDIDO=94
+*************
+14/01/2020 10:45:25,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+15/01/2020 10:02:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 10:02:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 10:06:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 10:06:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 10:15:01,ross,01 GENERAR ORDEN,PEDIDO=616
+*************
+15/01/2020 10:15:14,ross,01 GENERAR ORDEN,PEDIDO=617
+*************
+15/01/2020 10:15:34,ross,Actualiza FACTURA,FACTURA=589
+*************
+15/01/2020 10:15:34,ross,Ingresa FACTURA,FACTURA=589
+*************
+15/01/2020 10:15:34,ross,Insertar abono,Factura=589 Abono= 20
+*************
+15/01/2020 10:15:34,ross,Actualiza FACTURA,FACTURA=589/20
+*************
+15/01/2020 10:15:42,ross,Registra Tx Factura,Factura=589
+*************
+15/01/2020 10:16:54,ross,01 GENERAR ORDEN,PEDIDO=618
+*************
+15/01/2020 10:17:04,ross,Actualiza FACTURA,FACTURA=590
+*************
+15/01/2020 10:17:04,ross,Ingresa FACTURA,FACTURA=590
+*************
+15/01/2020 10:17:05,ross,Insertar abono,Factura=590 Abono= 47.5
+*************
+15/01/2020 10:17:05,ross,Cancela FACTURA,FACTURA=590
+*************
+15/01/2020 10:17:12,ross,Registra Tx Factura,Factura=590
+*************
+15/01/2020 10:17:30,ross,01 GENERAR ORDEN,PEDIDO=619
+*************
+15/01/2020 10:18:01,ross,Actualiza FACTURA,FACTURA=591
+*************
+15/01/2020 10:18:01,ross,Ingresa FACTURA,FACTURA=591
+*************
+15/01/2020 10:18:02,ross,Insertar abono,Factura=591 Abono= 38
+*************
+15/01/2020 10:18:02,ross,Cancela FACTURA,FACTURA=591
+*************
+15/01/2020 10:18:04,ross,Registra Tx Factura,Factura=591
+*************
+15/01/2020 10:19:33,ross,Registra Tx Factura,Factura=591
+*************
+15/01/2020 10:26:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 10:26:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 10:33:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 10:33:44,,Ingreso CONTRASEÑA FALLIDO,
+*************
+15/01/2020 10:33:44,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 10:33:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 10:40:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 10:40:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:00:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:00:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:04:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:04:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:14:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:14:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:21:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:21:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:27:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:27:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:49:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:49:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 11:53:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 11:53:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 12:02:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 12:02:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 12:09:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 12:09:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 12:17:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 12:17:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 16:46:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 16:46:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 16:56:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 16:56:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 16:58:50,ross,01 GENERAR ORDEN,PEDIDO=620
+*************
+15/01/2020 16:59:09,ross,Actualiza FACTURA,FACTURA=592
+*************
+15/01/2020 16:59:09,ross,Ingresa FACTURA,FACTURA=592
+*************
+15/01/2020 16:59:09,ross,Insertar abono,Factura=592 Abono= 10
+*************
+15/01/2020 16:59:09,ross,Actualiza FACTURA,FACTURA=592/10
+*************
+15/01/2020 16:59:10,ross,Registra Tx Factura,Factura=592
+*************
+15/01/2020 17:20:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 17:20:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 17:21:23,ross,Insertar abono,Factura=592 Abono= 0.5
+*************
+15/01/2020 17:21:23,ross,Actualiza FACTURA,FACTURA=592/0.5
+*************
+15/01/2020 17:21:25,ross,Registra Tx Factura,Factura=592
+*************
+15/01/2020 17:21:53,ross,Insertar abono,Factura=592 Abono= 10
+*************
+15/01/2020 17:21:53,ross,Actualiza FACTURA,FACTURA=592/10
+*************
+15/01/2020 17:21:55,ross,Registra Tx Factura,Factura=592
+*************
+15/01/2020 17:22:16,ross,Actualiza FACTURA,FACTURA=593
+*************
+15/01/2020 17:22:16,ross,Ingresa FACTURA,FACTURA=593
+*************
+15/01/2020 17:22:16,ross,Insertar abono,Factura=593 Abono= 10
+*************
+15/01/2020 17:22:16,ross,Actualiza FACTURA,FACTURA=593/10
+*************
+15/01/2020 17:22:17,ross,Registra Tx Factura,Factura=593
+*************
+15/01/2020 17:27:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 17:27:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 17:27:31,ross,Insertar abono,Factura=593 Abono= 10
+*************
+15/01/2020 17:27:31,ross,Actualiza FACTURA,FACTURA=593/10
+*************
+15/01/2020 17:27:34,ross,Registra Tx Factura,Factura=593
+*************
+15/01/2020 17:27:37,ross,Insertar abono,Factura=593 Abono= 10
+*************
+15/01/2020 17:27:37,ross,Actualiza FACTURA,FACTURA=593/10
+*************
+15/01/2020 17:27:51,ross,Insertar abono,Factura=592 Abono= 8
+*************
+15/01/2020 17:27:51,ross,Cancela FACTURA,FACTURA=592
+*************
+15/01/2020 17:27:53,ross,Registra Tx Factura,Factura=592
+*************
+15/01/2020 17:31:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 17:31:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 17:46:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 17:46:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 17:52:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 17:52:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 17:53:17,ross,01 GENERAR ORDEN,PEDIDO=621
+*************
+15/01/2020 17:53:25,ross,Actualiza FACTURA,FACTURA=594
+*************
+15/01/2020 17:53:25,ross,Ingresa FACTURA,FACTURA=594
+*************
+15/01/2020 17:53:25,ross,Insertar abono,Factura=594 Abono= 20
+*************
+15/01/2020 17:53:25,ross,Actualiza FACTURA,FACTURA=594/20
+*************
+15/01/2020 17:53:27,ross,Registra Tx Factura,Factura=594
+*************
+15/01/2020 17:53:39,ross,Registra Tx Factura,Factura=594
+*************
+15/01/2020 17:59:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 17:59:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 17:59:37,ross,01 GENERAR ORDEN,PEDIDO=622
+*************
+15/01/2020 17:59:46,ross,Actualiza FACTURA,FACTURA=595
+*************
+15/01/2020 17:59:46,ross,Ingresa FACTURA,FACTURA=595
+*************
+15/01/2020 17:59:46,ross,Insertar abono,Factura=595 Abono= 27.5
+*************
+15/01/2020 17:59:46,ross,Actualiza FACTURA,FACTURA=595/27.5
+*************
+15/01/2020 17:59:47,ross,Registra Tx Factura,Factura=595
+*************
+15/01/2020 18:12:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 18:12:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 18:14:20,ross,01 GENERAR ORDEN,PEDIDO=623
+*************
+15/01/2020 18:14:29,ross,Actualiza FACTURA,FACTURA=596
+*************
+15/01/2020 18:14:30,ross,Ingresa FACTURA,FACTURA=596
+*************
+15/01/2020 18:14:30,ross,Insertar abono,Factura=596 Abono= 25
+*************
+15/01/2020 18:14:30,ross,Actualiza FACTURA,FACTURA=596/25
+*************
+15/01/2020 18:14:32,ross,Registra Tx Factura,Factura=596
+*************
+15/01/2020 18:42:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 18:42:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 18:42:28,ross,01 GENERAR ORDEN,PEDIDO=624
+*************
+15/01/2020 18:42:34,ross,Actualiza FACTURA,FACTURA=597
+*************
+15/01/2020 18:42:34,ross,Ingresa FACTURA,FACTURA=597
+*************
+15/01/2020 18:42:34,ross,Insertar abono,Factura=597 Abono= 20
+*************
+15/01/2020 18:42:34,ross,Actualiza FACTURA,FACTURA=597/20
+*************
+15/01/2020 18:42:36,ross,Registra Tx Factura,Factura=597
+*************
+15/01/2020 21:28:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2020 21:28:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2020 21:28:53,ross,01 GENERAR ORDEN,PEDIDO=625
+*************
+15/01/2020 21:28:59,ross,Actualiza FACTURA,FACTURA=598
+*************
+15/01/2020 21:28:59,ross,Ingresa FACTURA,FACTURA=598
+*************
+15/01/2020 21:28:59,ross,Insertar abono,Factura=598 Abono= 3
+*************
+15/01/2020 21:28:59,ross,Actualiza FACTURA,FACTURA=598/3
+*************
+15/01/2020 21:29:02,ross,Registra Tx Factura,Factura=598
+*************
+15/01/2020 21:45:20,ross,Registra Tx Factura,Factura=598
+*************
+16/01/2020 10:21:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/01/2020 10:21:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/01/2020 10:21:37,ross,01 GENERAR ORDEN,PEDIDO=626
+*************
+16/01/2020 10:21:44,ross,Actualiza FACTURA,FACTURA=599
+*************
+16/01/2020 10:21:44,ross,Ingresa FACTURA,FACTURA=599
+*************
+16/01/2020 10:21:44,ross,Insertar abono,Factura=599 Abono= 20
+*************
+16/01/2020 10:21:44,ross,Actualiza FACTURA,FACTURA=599/20
+*************
+16/01/2020 10:21:50,ross,Registra Tx Factura,Factura=599
+*************
+17/01/2020 7:34:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 7:34:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 7:35:11,ross,01 GENERAR ORDEN,PEDIDO=627
+*************
+17/01/2020 7:35:23,ross,Actualiza FACTURA,FACTURA=600
+*************
+17/01/2020 7:35:23,ross,Ingresa FACTURA,FACTURA=600
+*************
+17/01/2020 7:35:23,ross,Insertar abono,Factura=600 Abono= 20
+*************
+17/01/2020 7:35:23,ross,Actualiza FACTURA,FACTURA=600/20
+*************
+17/01/2020 7:35:31,ross,Registra Tx Factura,Factura=600
+*************
+17/01/2020 8:22:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 8:22:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 8:22:22,ross,Insertar abono,Factura=600 Abono= 27.5
+*************
+17/01/2020 8:22:22,ross,Cancela FACTURA,FACTURA=600
+*************
+17/01/2020 8:22:27,ross,Registra Tx Factura,Factura=600
+*************
+17/01/2020 10:20:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 10:20:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 10:26:32,ross,01 GENERAR ORDEN,PEDIDO=628
+*************
+17/01/2020 10:26:39,ross,Actualiza FACTURA,FACTURA=601
+*************
+17/01/2020 10:26:39,ross,Ingresa FACTURA,FACTURA=601
+*************
+17/01/2020 10:26:39,ross,Insertar abono,Factura=601 Abono= 30
+*************
+17/01/2020 10:26:39,ross,Actualiza FACTURA,FACTURA=601/30
+*************
+17/01/2020 10:26:44,ross,Registra Tx Factura,Factura=601
+*************
+17/01/2020 10:54:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 10:54:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 11:03:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 11:03:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 11:04:13,ross,01 GENERAR ORDEN,PEDIDO=629
+*************
+17/01/2020 11:04:21,ross,Actualiza FACTURA,FACTURA=602
+*************
+17/01/2020 11:04:21,ross,Ingresa FACTURA,FACTURA=602
+*************
+17/01/2020 11:04:21,ross,Insertar abono,Factura=602 Abono= 20
+*************
+17/01/2020 11:04:21,ross,Actualiza FACTURA,FACTURA=602/20
+*************
+17/01/2020 11:04:27,ross,Registra Tx Factura,Factura=602
+*************
+17/01/2020 11:30:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 11:30:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 11:30:36,ross,01 GENERAR ORDEN,PEDIDO=630
+*************
+17/01/2020 11:30:41,ross,Actualiza FACTURA,FACTURA=603
+*************
+17/01/2020 11:30:41,ross,Ingresa FACTURA,FACTURA=603
+*************
+17/01/2020 11:30:41,ross,Insertar abono,Factura=603 Abono= 5
+*************
+17/01/2020 11:30:41,ross,Actualiza FACTURA,FACTURA=603/5
+*************
+17/01/2020 11:30:46,ross,Registra Tx Factura,Factura=603
+*************
+17/01/2020 11:43:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 11:43:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 11:43:38,ross,01 GENERAR ORDEN,PEDIDO=631
+*************
+17/01/2020 11:51:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 11:51:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 11:51:26,ross,Actualiza FACTURA,FACTURA=604
+*************
+17/01/2020 11:51:26,ross,Ingresa FACTURA,FACTURA=604
+*************
+17/01/2020 11:51:26,ross,Insertar abono,Factura=604 Abono= 30
+*************
+17/01/2020 11:51:26,ross,Actualiza FACTURA,FACTURA=604/30
+*************
+17/01/2020 11:51:31,ross,Registra Tx Factura,Factura=604
+*************
+17/01/2020 12:06:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 12:06:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 12:07:29,ross,01 GENERAR ORDEN,PEDIDO=632
+*************
+17/01/2020 12:07:34,ross,Actualiza FACTURA,FACTURA=605
+*************
+17/01/2020 12:07:34,ross,Ingresa FACTURA,FACTURA=605
+*************
+17/01/2020 12:07:34,ross,Insertar abono,Factura=605 Abono= 5
+*************
+17/01/2020 12:07:34,ross,Actualiza FACTURA,FACTURA=605/5
+*************
+17/01/2020 16:53:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/01/2020 16:53:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/01/2020 16:54:05,ross,01 GENERAR ORDEN,PEDIDO=633
+*************
+20/01/2020 9:30:03,ross,Actualiza FACTURA,FACTURA=606
+*************
+20/01/2020 9:30:03,ross,Ingresa FACTURA,FACTURA=606
+*************
+20/01/2020 9:30:03,ross,Insertar abono,Factura=606 Abono= 2
+*************
+20/01/2020 9:30:03,ross,Actualiza FACTURA,FACTURA=606/2
+*************
+20/01/2020 9:30:07,ross,Registra Tx Factura,Factura=606
+*************
+20/01/2020 10:02:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2020 10:02:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2020 10:02:39,ross,01 GENERAR ORDEN,PEDIDO=634
+*************
+20/01/2020 10:02:45,ross,Actualiza FACTURA,FACTURA=607
+*************
+20/01/2020 10:02:45,ross,Ingresa FACTURA,FACTURA=607
+*************
+20/01/2020 10:02:45,ross,Insertar abono,Factura=607 Abono= 20
+*************
+20/01/2020 10:02:45,ross,Actualiza FACTURA,FACTURA=607/20
+*************
+20/01/2020 10:02:52,ross,Registra Tx Factura,Factura=607
+*************
+20/01/2020 10:43:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2020 10:43:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2020 10:43:45,ross,01 GENERAR ORDEN,PEDIDO=635
+*************
+20/01/2020 10:43:57,ross,Actualiza FACTURA,FACTURA=608
+*************
+20/01/2020 10:43:57,ross,Ingresa FACTURA,FACTURA=608
+*************
+20/01/2020 10:43:57,ross,Insertar abono,Factura=608 Abono= 40
+*************
+20/01/2020 10:43:57,ross,Actualiza FACTURA,FACTURA=608/40
+*************
+20/01/2020 10:44:02,ross,Registra Tx Factura,Factura=608
+*************
+20/01/2020 15:17:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2020 15:17:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2020 15:17:39,ross,01 GENERAR ORDEN,PEDIDO=636
+*************
+20/01/2020 15:17:47,ross,Actualiza FACTURA,FACTURA=609
+*************
+20/01/2020 15:17:47,ross,Ingresa FACTURA,FACTURA=609
+*************
+20/01/2020 15:17:47,ross,Insertar abono,Factura=609 Abono= 15
+*************
+20/01/2020 15:17:47,ross,Actualiza FACTURA,FACTURA=609/15
+*************
+20/01/2020 15:17:52,ross,Registra Tx Factura,Factura=609
+*************
+20/01/2020 16:39:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2020 16:39:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2020 16:39:35,ross,01 GENERAR ORDEN,PEDIDO=637
+*************
+20/01/2020 16:39:43,ross,Actualiza FACTURA,FACTURA=610
+*************
+20/01/2020 16:39:43,ross,Ingresa FACTURA,FACTURA=610
+*************
+20/01/2020 16:39:43,ross,Insertar abono,Factura=610 Abono= 30
+*************
+20/01/2020 16:39:43,ross,Actualiza FACTURA,FACTURA=610/30
+*************
+20/01/2020 16:39:49,ross,Registra Tx Factura,Factura=610
+*************
+20/01/2020 18:47:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2020 18:47:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2020 18:48:28,ross,01 GENERAR ORDEN,PEDIDO=638
+*************
+20/01/2020 18:49:19,ross,Actualiza FACTURA,FACTURA=611
+*************
+20/01/2020 18:49:19,ross,Ingresa FACTURA,FACTURA=611
+*************
+20/01/2020 18:49:19,ross,Insertar abono,Factura=611 Abono= 23
+*************
+20/01/2020 18:49:19,ross,Actualiza FACTURA,FACTURA=611/23
+*************
+20/01/2020 18:49:23,ross,Registra Tx Factura,Factura=611
+*************
+20/01/2020 18:50:14,ross,Insertar abono,Factura=611 Abono= 24.5
+*************
+20/01/2020 18:50:14,ross,Cancela FACTURA,FACTURA=611
+*************
+20/01/2020 18:50:18,ross,Registra Tx Factura,Factura=611
+*************
+20/01/2020 18:51:39,ross,01 GENERAR ORDEN,PEDIDO=639
+*************
+20/01/2020 18:51:49,ross,Actualiza FACTURA,FACTURA=612
+*************
+20/01/2020 18:51:49,ross,Ingresa FACTURA,FACTURA=612
+*************
+20/01/2020 18:51:49,ross,Insertar abono,Factura=612 Abono= 20
+*************
+20/01/2020 18:51:49,ross,Actualiza FACTURA,FACTURA=612/20
+*************
+20/01/2020 18:51:56,ross,Registra Tx Factura,Factura=612
+*************
+20/01/2020 18:54:43,ross,Insertar abono,Factura=612 Abono= 27.5
+*************
+20/01/2020 18:54:43,ross,Cancela FACTURA,FACTURA=612
+*************
+20/01/2020 18:54:47,ross,Registra Tx Factura,Factura=612
+*************
+20/01/2020 21:52:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2020 21:52:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 8:43:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 8:43:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 15:00:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 15:00:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 15:44:45,ross,01 GENERAR ORDEN,PEDIDO=860
+*************
+21/01/2020 15:45:17,ross,Actualiza FACTURA,FACTURA=829
+*************
+21/01/2020 15:45:17,ross,Ingresa FACTURA,FACTURA=829
+*************
+21/01/2020 15:45:17,ross,Insertar abono,Factura=829 Abono= 20
+*************
+21/01/2020 15:45:17,ross,Actualiza FACTURA,FACTURA=829/20
+*************
+21/01/2020 15:45:20,ross,Registra Tx Factura,Factura=829
+*************
+21/01/2020 15:50:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 15:50:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 15:50:28,ross,01 GENERAR ORDEN,PEDIDO=861
+*************
+21/01/2020 15:50:47,ross,Actualiza FACTURA,FACTURA=830
+*************
+21/01/2020 15:50:47,ross,Ingresa FACTURA,FACTURA=830
+*************
+21/01/2020 15:50:47,ross,Insertar abono,Factura=830 Abono= 30
+*************
+21/01/2020 15:50:47,ross,Actualiza FACTURA,FACTURA=830/30
+*************
+21/01/2020 15:50:52,ross,Registra Tx Factura,Factura=830
+*************
+21/01/2020 16:13:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 16:13:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 16:28:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 16:28:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 16:39:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 16:39:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 18:50:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 18:50:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 19:33:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 19:33:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 20:11:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 20:11:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 20:34:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 20:34:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 20:45:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 20:45:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 20:49:02,ross,Insertar abono,Factura=830 Abono= 8
+*************
+21/01/2020 20:49:02,ross,Cancela FACTURA,FACTURA=830
+*************
+21/01/2020 20:49:08,ross,Registra Tx Factura,Factura=830
+*************
+21/01/2020 21:22:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 21:22:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 21:30:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 21:30:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 21:38:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 21:38:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 21:45:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 21:45:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 21:52:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 21:52:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 22:00:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 22:00:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 22:32:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 22:32:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 22:57:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 22:57:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 23:13:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 23:13:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 23:15:18,ross,01 GENERAR ORDEN,PEDIDO=862
+*************
+21/01/2020 23:15:34,ross,Actualiza FACTURA,FACTURA=831
+*************
+21/01/2020 23:15:34,ross,Ingresa FACTURA,FACTURA=831
+*************
+21/01/2020 23:15:35,ross,Insertar abono,Factura=831 Abono= 27.5
+*************
+21/01/2020 23:15:35,ross,Actualiza FACTURA,FACTURA=831/27.5
+*************
+21/01/2020 23:15:42,ross,Registra Tx Factura,Factura=831
+*************
+21/01/2020 23:23:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2020 23:23:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2020 23:24:01,ross,01 GENERAR ORDEN,PEDIDO=863
+*************
+21/01/2020 23:24:14,ross,Actualiza FACTURA,FACTURA=832
+*************
+21/01/2020 23:24:14,ross,Ingresa FACTURA,FACTURA=832
+*************
+21/01/2020 23:24:14,ross,Insertar abono,Factura=832 Abono= 17.5
+*************
+21/01/2020 23:24:14,ross,Actualiza FACTURA,FACTURA=832/17.5
+*************
+21/01/2020 23:24:22,ross,Registra Tx Factura,Factura=832
+*************
+21/01/2020 23:25:22,ross,Insertar abono,Factura=832 Abono= 30
+*************
+21/01/2020 23:25:22,ross,Cancela FACTURA,FACTURA=832
+*************
+21/01/2020 23:25:24,ross,Registra Tx Factura,Factura=832
+*************
+22/01/2020 8:47:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/01/2020 8:47:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/01/2020 8:48:32,ross,01 GENERAR ORDEN,PEDIDO=864
+*************
+23/01/2020 9:02:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 9:02:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 9:02:53,ross,01 GENERAR ORDEN,PEDIDO=865
+*************
+23/01/2020 9:30:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 9:30:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 9:56:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 9:56:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 9:57:42,ross,Actualiza FACTURA,FACTURA=833
+*************
+23/01/2020 9:57:42,ross,Ingresa FACTURA,FACTURA=833
+*************
+23/01/2020 9:57:44,ross,Insertar abono,Factura=833 Abono= 47.5
+*************
+23/01/2020 9:57:44,ross,Cancela FACTURA,FACTURA=833
+*************
+23/01/2020 9:57:46,ross,Registra Tx Factura,Factura=833
+*************
+23/01/2020 10:08:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 10:08:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 10:09:01,ross,01 GENERAR ORDEN,PEDIDO=866
+*************
+23/01/2020 10:09:10,ross,Actualiza FACTURA,FACTURA=834
+*************
+23/01/2020 10:09:10,ross,Ingresa FACTURA,FACTURA=834
+*************
+23/01/2020 10:09:10,ross,Insertar abono,Factura=834 Abono= 40
+*************
+23/01/2020 10:09:10,ross,Actualiza FACTURA,FACTURA=834/40
+*************
+23/01/2020 10:09:12,ross,Registra Tx Factura,Factura=834
+*************
+23/01/2020 10:09:15,ross,Registra Tx Factura,Factura=834
+*************
+23/01/2020 10:19:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 10:19:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 10:19:54,ross,Insertar abono,Factura=834 Abono= 7
+*************
+23/01/2020 10:19:54,ross,Actualiza FACTURA,FACTURA=834/7
+*************
+23/01/2020 10:19:56,ross,Registra Tx Factura,Factura=834
+*************
+23/01/2020 10:34:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 10:34:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 10:35:18,ross,01 GENERAR ORDEN,PEDIDO=867
+*************
+23/01/2020 10:35:31,ross,Actualiza FACTURA,FACTURA=835
+*************
+23/01/2020 10:35:31,ross,Ingresa FACTURA,FACTURA=835
+*************
+23/01/2020 10:35:31,ross,Insertar abono,Factura=835 Abono= 40
+*************
+23/01/2020 10:35:31,ross,Actualiza FACTURA,FACTURA=835/40
+*************
+23/01/2020 10:35:33,ross,Registra Tx Factura,Factura=835
+*************
+23/01/2020 12:07:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 12:07:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 12:07:39,ross,Insertar abono,Factura=835 Abono= 7.5
+*************
+23/01/2020 12:07:39,ross,Cancela FACTURA,FACTURA=835
+*************
+23/01/2020 12:07:40,ross,Registra Tx Factura,Factura=835
+*************
+23/01/2020 12:09:42,ross,Registra Tx Factura,Factura=835
+*************
+23/01/2020 12:32:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 12:32:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 15:08:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 15:08:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 15:09:14,ross,IMPRIME POR AREA,PEDIDO=845
+*************
+23/01/2020 16:18:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 16:18:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 18:04:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 18:04:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 18:13:15,ross,Generar Paciente,Paciente=LOPEZ ROBALINO BERTHA ILIANA
+*************
+23/01/2020 18:21:17,ross,01 GENERAR ORDEN,PEDIDO=868
+*************
+23/01/2020 18:25:13,ross,Actualiza FACTURA,FACTURA=836
+*************
+23/01/2020 18:25:13,ross,Ingresa FACTURA,FACTURA=836
+*************
+23/01/2020 18:25:13,ross,Insertar abono,Factura=836 Abono= 30
+*************
+23/01/2020 18:25:13,ross,Actualiza FACTURA,FACTURA=836/30
+*************
+23/01/2020 18:25:20,ross,Registra Tx Factura,Factura=836
+*************
+23/01/2020 18:27:13,ross,Insertar abono,Factura=836 Abono= 33
+*************
+23/01/2020 18:27:13,ross,Cancela FACTURA,FACTURA=836
+*************
+23/01/2020 18:27:21,ross,Registra Tx Factura,Factura=836
+*************
+23/01/2020 18:27:27,ross,Registra Tx Factura,Factura=836
+*************
+23/01/2020 18:28:52,ross,IMPRIMIR HOJA TRABAJO,
+*************
+23/01/2020 18:29:05,ross,IMPRIMIR LISTA TRABAJO,
+*************
+23/01/2020 18:29:07,ross,IMPRIMIR CONTRAORDEN,
+*************
+23/01/2020 18:29:41,ross,IMPRIMIR HOJA TRABAJO,
+*************
+23/01/2020 18:30:18,ross,IMPRIMIR CONTRAORDEN,
+*************
+23/01/2020 18:33:32,ross,GUARDA RESULTADOS,WBC=2
+*************
+23/01/2020 18:33:32,ross,GUARDA RESULTADOS,LYM=2
+*************
+23/01/2020 18:33:32,ross,GUARDA RESULTADOS,NEU=2
+*************
+23/01/2020 18:33:32,ross,GUARDA RESULTADOS,MONO=2
+*************
+23/01/2020 18:33:32,ross,GUARDA RESULTADOS,EOS=2
+*************
+23/01/2020 18:33:32,ross,GUARDA RESULTADOS,BASO=2
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,LYM%25=
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,NEU%25=2
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,MONO%25=3
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,HGB=3
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,RBC=3
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,HCT=3
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,MCV=4
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,MCH=4
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,MCHC=4
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,RDW_SD=4
+*************
+23/01/2020 18:33:33,ross,GUARDA RESULTADOS,RDW_CV=4
+*************
+23/01/2020 18:33:34,ross,GUARDA RESULTADOS,PLT=4
+*************
+23/01/2020 18:33:34,ross,GUARDA RESULTADOS,PDW=4
+*************
+23/01/2020 18:33:34,ross,GUARDA RESULTADOS,MPV=4
+*************
+23/01/2020 18:33:34,ross,GUARDA RESULTADOS,VSG1H=4
+*************
+23/01/2020 18:34:33,ross,GUARDA NOTA AREA,EXAMEN PADRE=400142/SUERO LIPEMICO
+*************
+23/01/2020 18:35:45,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+23/01/2020 18:35:46,ross,GUARDA RESULTADOS,CKMB=POSITIVO
+*************
+23/01/2020 18:35:46,ross,GUARDA RESULTADOS,GLU=120
+*************
+23/01/2020 18:35:46,ross,GUARDA RESULTADOS,COLH=180
+*************
+23/01/2020 18:35:46,ross,GUARDA RESULTADOS,TRIGH=140
+*************
+23/01/2020 18:35:46,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+23/01/2020 18:36:09,ross,VALIDACION RESULTADO,PEDIDO=868/400101
+*************
+23/01/2020 18:36:09,ross,VALIDACION RESULTADO,PEDIDO=868/400142
+*************
+23/01/2020 18:36:09,ross,VALIDACION RESULTADO,PEDIDO=868/400149
+*************
+23/01/2020 18:36:09,ross,VALIDACION RESULTADO,PEDIDO=868/400151
+*************
+23/01/2020 18:36:09,ross,VALIDACION RESULTADO,PEDIDO=868/400191
+*************
+23/01/2020 18:36:09,ross,VALIDACION RESULTADO,PEDIDO=868/400197
+*************
+23/01/2020 18:37:34,ross,IMPRIME POR AREA,PEDIDO=868
+*************
+23/01/2020 18:39:29,ross,IMPRIME TODO,PEDIDO=868
+*************
+23/01/2020 18:40:32,ross,IMPRIME POR EMAMEN,PEDIDO=868
+*************
+23/01/2020 18:40:50,ross,IMPRIME SOBRE,PEDIDO=868
+*************
+23/01/2020 18:41:13,ross,IMPRIME POR AREA,PEDIDO=868
+*************
+23/01/2020 18:49:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 18:49:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 18:50:00,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=834 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:01,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=835 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:02,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=836 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:04,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=838 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:05,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=839 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:06,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=826 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:07,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=840 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:08,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=841 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:10,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=842 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:11,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=843 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:12,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=844 EMAIL NO VALIDO
+*************
+23/01/2020 18:50:14,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=845 EMAIL NO VALIDO
+*************
+23/01/2020 18:58:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 18:58:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2020 18:59:09,ross,Nuevo Convenio,Convenio=KIA
+*************
+23/01/2020 18:59:09,ross,Guardar secuencia,SECUENCIA=KIA/1000/1100
+*************
+23/01/2020 19:03:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2020 19:03:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/01/2020 10:58:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/01/2020 10:58:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 14:55:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 14:55:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 14:56:02,ross,01 GENERAR ORDEN,PEDIDO=2449
+*************
+28/01/2020 14:56:15,ross,Actualiza FACTURA,FACTURA=1285
+*************
+28/01/2020 14:56:15,ross,Ingresa FACTURA,FACTURA=1285
+*************
+28/01/2020 14:56:16,ross,Insertar abono,Factura=1285 Abono= 28
+*************
+28/01/2020 14:56:16,ross,Cancela FACTURA,FACTURA=1285
+*************
+28/01/2020 14:56:18,ross,Registra Tx Factura,Factura=1285
+*************
+28/01/2020 15:00:06,ross,Registra Tx Factura,Factura=1285
+*************
+28/01/2020 15:06:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 15:06:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 15:19:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 15:19:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 15:31:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 15:31:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 15:41:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 15:41:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 16:19:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 16:19:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 16:19:27,ross,01 GENERAR ORDEN,PEDIDO=2450
+*************
+28/01/2020 16:19:41,ross,Actualiza FACTURA,FACTURA=1286
+*************
+28/01/2020 16:19:42,ross,Ingresa FACTURA,FACTURA=1286
+*************
+28/01/2020 16:19:43,ross,Insertar abono,Factura=1286 Abono= 28
+*************
+28/01/2020 16:19:43,ross,Cancela FACTURA,FACTURA=1286
+*************
+28/01/2020 16:19:44,ross,Registra Tx Factura,Factura=1286
+*************
+28/01/2020 16:19:50,ross,Registra Tx Factura,Factura=1286
+*************
+28/01/2020 16:19:55,ross,Registra Tx Factura,Factura=1286
+*************
+28/01/2020 16:25:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 16:25:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 16:26:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 16:26:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 16:31:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/01/2020 16:31:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/01/2020 16:32:18,ross,Registra Tx Factura,Factura=1285
+*************
+29/01/2020 11:42:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2020 11:42:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2020 18:25:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2020 18:25:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2020 18:48:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2020 18:48:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2020 19:03:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2020 19:03:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/01/2020 19:18:25,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+30/01/2020 19:19:57,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+30/01/2020 19:20:17,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+30/01/2020 19:28:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/01/2020 19:28:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2020 9:36:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2020 9:36:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2020 9:40:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/01/2020 9:41:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/01/2020 9:41:45,ross,Actualizar Convenio,Convenio=CHEVROLET
+*************
+31/01/2020 9:41:48,ross,Elimina Lista de Precios,Lista Precio=CHEVROLET
+*************
+01/01/2020 14:27:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/01/2020 14:27:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/01/2020 14:40:08,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400476,400150,400149,400151,400847,,PEDIDO=33509
+*************

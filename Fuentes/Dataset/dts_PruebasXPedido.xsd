@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_PruebasXPedido" targetNamespace="http://tempuri.org/dts_PruebasXPedido.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_PruebasXPedido.xsd" xmlns:mstns="http://tempuri.org/dts_PruebasXPedido.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_PruebasXPedido" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="PRUEBASXPEDIDO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PEDIDO" type="xs:long" minOccurs="0" />
+							<xs:element name="FECHA" type="xs:date" minOccurs="0" />
+							<xs:element name="NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="TEST" type="xs:string" minOccurs="0" />
+							<xs:element name="PRUEBAS" type="xs:int" minOccurs="0" />
+							<xs:element name="FEC_INI" type="xs:date" minOccurs="0" />
+							<xs:element name="FEC_FIN" type="xs:date" minOccurs="0" />
+							<xs:element name="TURNO" type="xs:integer" minOccurs="0" />
+							<xs:element name="SERVICIO" type="xs:string" minOccurs="0" />
+							<xs:element name="ANTECEDENTE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

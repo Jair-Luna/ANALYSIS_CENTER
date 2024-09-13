@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_i_caducado" targetNamespace="http://tempuri.org/dts_i_caducado.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_i_caducado.xsd" xmlns:mstns="http://tempuri.org/dts_i_caducado.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_i_caducado" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="CADUCADO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PRODUCTO" type="xs:string" minOccurs="0" />
+							<xs:element name="CANTIDAD" type="xs:double" minOccurs="0" />
+							<xs:element name="UNIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FECHA" type="xs:date" minOccurs="0" />
+							<xs:element name="MOVIMIENTO" type="xs:string" minOccurs="0" />
+							<xs:element name="BODEGA" type="xs:string" minOccurs="0" />
+							<xs:element name="ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

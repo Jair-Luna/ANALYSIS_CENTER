@@ -1,0 +1,1232 @@
+02/05/2024 12:30:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/05/2024 12:30:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2024 19:04:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2024 19:04:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2024 19:04:21,ross,Nuevo Pedido PRE CARGA,NORMAL/73
+*************
+08/05/2024 20:13:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2024 20:13:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2024 20:14:11,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400295,,PEDIDO=88
+*************
+08/05/2024 20:14:30,ross,03 IMPRIMIR PEDIDO,PEDIDO=88
+*************
+08/05/2024 20:25:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2024 20:25:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/05/2024 20:26:28,ross,03 IMPRIMIR PEDIDO,PEDIDO=88
+*************
+08/05/2024 20:46:30,ross,03 IMPRIMIR PEDIDO,PEDIDO=88
+*************
+08/05/2024 20:56:28,ross,Nuevo Pedido PRE CARGA,NORMAL/89
+*************
+08/05/2024 20:56:28,ross,GUARDA ENCUESTA,2218
+*************
+08/05/2024 21:08:37,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400295,401143,,PEDIDO=90
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,WBCH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,NEUH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,LYMH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,MONH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,EOSH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,BASOH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,MON%25H=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,RBCH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,HCTH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,HGBH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,MCVH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,MCHH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,RDW-CVH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,RDW-SDH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,PLTH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,MPVH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,PDWH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,PCTH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,P-LCRH=4
+*************
+08/05/2024 21:10:07,ross,GUARDA RESULTADOS,P-LCCH=4
+*************
+08/05/2024 21:11:06,ross,GUARDA NOTA AREA,AREA EXAMEN =11/Observaciones: Suero lipemico
+*************
+08/05/2024 21:11:08,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+08/05/2024 21:11:08,ross,GUARDA RESULTADOS,COLH=129
+*************
+08/05/2024 21:11:08,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+08/05/2024 21:11:08,ross,GUARDA RESULTADOS,LDLH=57.2
+*************
+08/05/2024 21:11:08,ross,GUARDA RESULTADOS,TGLH=189
+*************
+08/05/2024 21:11:12,ross,VALIDACION RESULTADO,PEDIDO=90/400101
+*************
+08/05/2024 21:11:13,ross,VALIDACION RESULTADO,PEDIDO=90/400149
+*************
+08/05/2024 21:11:13,ross,VALIDACION RESULTADO,PEDIDO=90/400150
+*************
+08/05/2024 21:11:13,ross,VALIDACION RESULTADO,PEDIDO=90/400151
+*************
+08/05/2024 21:11:13,ross,VALIDACION RESULTADO,PEDIDO=90/400476
+*************
+08/05/2024 21:11:13,ross,Eliminar resultado AUX_HIS,
+*************
+08/05/2024 21:11:29,ross,IMPRIME POR AREA,PEDIDO=90
+*************
+08/05/2024 21:35:08,ross,Actualiza Paciente,Paciente=FLORES MORALES DANNA SOFIA
+*************
+08/05/2024 21:35:28,ross,Nuevo Pedido PRE CARGA,NORMAL/91
+*************
+08/05/2024 21:35:28,ross,GUARDA ENCUESTA,3776
+*************
+10/05/2024 16:47:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/05/2024 16:47:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/05/2024 16:47:49,ross,IMPRIME POR AREA,PEDIDO=90
+*************
+10/05/2024 16:47:54,ross,IMPRIME TODO,PEDIDO=90
+*************
+13/05/2024 8:42:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 8:44:05,,Ingreso CONTRASEÑA FALLIDO,
+*************
+13/05/2024 8:44:05,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 8:44:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 10:38:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 10:38:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 10:42:35,ross,Nuevo Test en Lista de Precios,Test=401332 10  NORMAL
+*************
+13/05/2024 10:42:35,ross,Nuevo Test en Lista de Precios,Test=401332 10  URGENCIA
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  FYBECA
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  JACINTO
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  DRA. SAMI MENDOZA
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  CEMEDEFA
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  MEDES
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  RENALVIDA
+*************
+13/05/2024 10:42:36,ross,Nuevo Test en Lista de Precios,Test=401332 10  MUNDO
+*************
+13/05/2024 10:42:36,ross,Actualiza Test,Test=TORCH IGM
+*************
+13/05/2024 10:42:36,ross,INGRESA TEST,TEST=TORCH IGM
+*************
+13/05/2024 10:43:02,ross,Actualiza Test,Test=TORCH IGM
+*************
+13/05/2024 10:43:22,ross,Actualiza Test,Test=TORCH IGM
+*************
+13/05/2024 10:44:35,ross,Actualiza Test,Test=TORCH IGG
+*************
+13/05/2024 10:45:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 10:45:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 10:47:46,ross,Actualiza Test,Test=TOXOPLASMA IgG
+*************
+13/05/2024 10:48:33,ross,Actualiza Test,Test=RUBEOLA IgG
+*************
+13/05/2024 10:49:11,ross,Actualiza Test,Test=CITOMEGALOVIRUS IgG
+*************
+13/05/2024 10:52:32,ross,Actualiza Test,Test=RUBEOLA IgG
+*************
+13/05/2024 10:53:31,ross,Actualiza Test,Test=CITOMEGALOVIRUS IgG
+*************
+13/05/2024 10:56:48,ross,Actualiza Test,Test=RUBEOLA IgG
+*************
+13/05/2024 10:58:30,ross,Actualiza Test,Test=TOXOPLASMA IgM
+*************
+13/05/2024 10:59:14,ross,Actualiza Test,Test=CITOMEGALOVIRUS IgM
+*************
+13/05/2024 10:59:53,ross,Actualiza Test,Test=RUBEOLA IgM
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  NORMAL
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  URGENCIA
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  FYBECA
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  JACINTO
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  DRA. SAMI MENDOZA
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  CEMEDEFA
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  MEDES
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  RENALVIDA
+*************
+13/05/2024 11:01:06,ross,Nuevo Test en Lista de Precios,Test=1356 0  MUNDO
+*************
+13/05/2024 11:01:06,ross,Actualiza Test,Test=HERPES IgM
+*************
+13/05/2024 11:01:06,ross,INGRESA TEST,TEST=HERPES IgM
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  NORMAL
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  URGENCIA
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  FYBECA
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  JACINTO
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  DRA. SAMI MENDOZA
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  CEMEDEFA
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  MEDES
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  RENALVIDA
+*************
+13/05/2024 11:01:51,ross,Nuevo Test en Lista de Precios,Test=1357 0  MUNDO
+*************
+13/05/2024 11:01:51,ross,Actualiza Test,Test=HERPES IgG
+*************
+13/05/2024 11:01:51,ross,INGRESA TEST,TEST=HERPES IgG
+*************
+13/05/2024 11:04:02,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400831,,PEDIDO=92
+*************
+13/05/2024 11:04:21,ross,GUARDA RESULTADOS,TOXGGH=1
+*************
+13/05/2024 11:04:21,ross,GUARDA RESULTADOS,RUBGH=2
+*************
+13/05/2024 11:04:21,ross,GUARDA RESULTADOS,CITGH=3
+*************
+13/05/2024 11:04:21,ross,GUARDA RESULTADOS,HERPGH=4
+*************
+13/05/2024 11:04:26,ross,GUARDA RESULTADOS,TORCH_GH=MEMO
+*************
+13/05/2024 11:04:27,ross,VALIDACION RESULTADO,PEDIDO=92/400831
+*************
+13/05/2024 11:04:27,ross,Eliminar resultado AUX_HIS,
+*************
+13/05/2024 11:04:43,ross,IMPRIME POR AREA,PEDIDO=92
+*************
+13/05/2024 11:22:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 11:22:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 11:22:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400818,,PEDIDO=93
+*************
+13/05/2024 11:23:11,ross,GUARDA RESULTADOS,MU6H=HECES
+*************
+13/05/2024 11:23:11,ross,GUARDA RESULTADOS,CCOL6H=
+*************
+13/05/2024 11:23:11,ross,GUARDA RESULTADOS,GER6H=
+*************
+13/05/2024 11:23:11,ross,GUARDA RESULTADOS,ANCHH=-ANTIBIOGRAMA-
+*************
+13/05/2024 11:23:11,ross,GUARDA RESULTADOS,OBS7H=
+*************
+13/05/2024 11:23:11,ross,GUARDA ANTIBIOGRANA,AMIKACINA=Resstente 2-4
+*************
+13/05/2024 11:23:11,ross,GUARDA ANTIBIOGRANA,AMPI + SULBACTAM=Resstente 2-4
+*************
+13/05/2024 11:23:11,ross,GUARDA ANTIBIOGRANA,CLARITROMICINA=Sensible 6-9
+*************
+13/05/2024 11:23:38,ross,GUARDA RESULTADOS,C_HECESH=MEMO
+*************
+13/05/2024 11:23:39,ross,VALIDACION RESULTADO,PEDIDO=93/400818
+*************
+13/05/2024 11:23:40,ross,Eliminar resultado AUX_HIS,
+*************
+13/05/2024 11:23:52,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+13/05/2024 11:26:11,ross,GUARDA RESULTADOS,C_HECESH=MEMO
+*************
+13/05/2024 11:26:44,ross,IMPRIME POR AREA,PEDIDO=93
+*************
+13/05/2024 11:36:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 11:36:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 11:39:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 11:39:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 11:40:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 11:40:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 15:55:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 15:55:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2024 16:20:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2024 16:20:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 16:55:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 16:55:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 16:57:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 16:57:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 17:10:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 17:10:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 17:15:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 17:15:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 17:29:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 17:29:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 17:47:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 17:47:37,,Ingreso CONTRASEÑA FALLIDO,
+*************
+14/05/2024 17:47:37,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 17:47:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 19:28:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 19:28:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 19:33:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 19:33:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 20:24:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 20:24:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 20:48:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 20:48:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 20:50:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 20:50:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 20:51:59,ross,Nuevo Pedido PRE CARGA,NORMAL/95
+*************
+14/05/2024 21:03:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2024 21:03:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2024 21:04:12,ross,Operación de Movimiento Inventario,
+*************
+14/05/2024 21:04:12,ross,Inserción de detalle movimiento inventario,
+*************
+15/05/2024 7:52:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 7:52:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 7:52:54,ross,Operación de Movimiento Inventario,
+*************
+15/05/2024 7:52:54,ross,Inserción de detalle movimiento inventario,
+*************
+15/05/2024 9:10:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 9:10:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 9:56:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 9:56:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:02:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:02:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:02:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:03:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:22:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:22:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:28:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:28:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:33:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:33:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:41:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:41:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:45:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 10:45:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 10:49:46,ross,Operación de Movimiento Inventario,
+*************
+15/05/2024 10:49:46,ross,Inserción de detalle movimiento inventario,
+*************
+15/05/2024 10:49:59,ross,Operación de Movimiento Inventario,
+*************
+15/05/2024 10:49:59,ross,Inserción de detalle movimiento inventario,
+*************
+15/05/2024 10:50:09,ross,Operación de Movimiento Inventario,
+*************
+15/05/2024 10:50:09,ross,Inserción de detalle movimiento inventario,
+*************
+15/05/2024 11:07:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 11:07:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 11:07:53,ross,Nuevo Pedido PRE CARGA,NORMAL/107
+*************
+15/05/2024 11:07:53,ross,GUARDA ENCUESTA,2642
+*************
+15/05/2024 11:08:11,ross,Operación de Movimiento Inventario,
+*************
+15/05/2024 11:08:11,ross,Inserción de detalle movimiento inventario,
+*************
+15/05/2024 15:41:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 15:41:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 15:47:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 15:47:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 15:50:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 15:50:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 15:58:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 15:58:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 16:36:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 16:36:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 17:31:38,ross,Nuevo Servicio,SERVICIO=IESS
+*************
+15/05/2024 17:42:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 17:42:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 17:42:50,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400168,400167,,PEDIDO=110
+*************
+15/05/2024 17:52:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 17:52:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 18:02:23,ross,GUARDA RESULTADOS,TSHH=2.3
+*************
+15/05/2024 18:02:23,ross,GUARDA RESULTADOS,F4H=12.5
+*************
+15/05/2024 18:02:25,ross,VALIDACION RESULTADO,PEDIDO=114/400167
+*************
+15/05/2024 18:02:25,ross,VALIDACION RESULTADO,PEDIDO=114/400168
+*************
+15/05/2024 18:02:26,ross,Eliminar resultado AUX_HIS,
+*************
+15/05/2024 18:02:34,ross,IMPRIME POR AREA,PEDIDO=114
+*************
+15/05/2024 18:07:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 18:07:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 18:09:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 18:09:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 18:22:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 18:22:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 18:35:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 18:35:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:23:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 19:23:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:24:06,ross,IMPRIME TODO,PEDIDO=90
+*************
+15/05/2024 19:28:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 19:28:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:28:45,ross,IMPRIME TODO,PEDIDO=90
+*************
+15/05/2024 19:30:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 19:30:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:30:49,ross,IMPRIME TODO,PEDIDO=90
+*************
+15/05/2024 19:31:15,ross,IMPRIME TODO,PEDIDO=90
+*************
+15/05/2024 19:35:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 19:35:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:36:01,ross,IMPRIME TODO,PEDIDO=90
+*************
+15/05/2024 19:36:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+15/05/2024 19:36:25,ross,GUARDA RESULTADOS,COLH=129
+*************
+15/05/2024 19:36:25,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+15/05/2024 19:36:25,ross,GUARDA RESULTADOS,LDLH=57.2
+*************
+15/05/2024 19:36:25,ross,GUARDA RESULTADOS,TGLH=189
+*************
+15/05/2024 19:36:30,ross,Eliminar resultado AUX_HIS,
+*************
+15/05/2024 19:38:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 19:38:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:38:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+15/05/2024 19:38:25,ross,GUARDA RESULTADOS,COLH=129
+*************
+15/05/2024 19:38:25,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+15/05/2024 19:38:25,ross,GUARDA RESULTADOS,LDLH=57.2
+*************
+15/05/2024 19:38:25,ross,GUARDA RESULTADOS,TGLH=189
+*************
+15/05/2024 19:38:30,ross,Eliminar resultado AUX_HIS,
+*************
+15/05/2024 19:54:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2024 19:54:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/05/2024 19:55:02,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+15/05/2024 19:55:02,ross,GUARDA RESULTADOS,COLH=129
+*************
+15/05/2024 19:55:02,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+15/05/2024 19:55:02,ross,GUARDA RESULTADOS,LDLH=57.2
+*************
+15/05/2024 19:55:02,ross,GUARDA RESULTADOS,TGLH=189
+*************
+15/05/2024 19:55:04,ross,Eliminar resultado AUX_HIS,
+*************
+15/05/2024 19:55:22,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+15/05/2024 19:55:22,ross,GUARDA RESULTADOS,COLH=129
+*************
+15/05/2024 19:55:22,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+15/05/2024 19:55:22,ross,GUARDA RESULTADOS,LDLH=57.2
+*************
+15/05/2024 19:55:22,ross,GUARDA RESULTADOS,TGLH=189
+*************
+15/05/2024 19:55:26,ross,Eliminar resultado AUX_HIS,
+*************
+16/05/2024 8:05:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:05:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:07:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:07:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:11:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:11:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:25:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:25:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:28:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:28:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:29:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:29:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:34:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:34:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:46:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:46:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/05/2024 8:49:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/05/2024 8:49:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/05/2024 16:54:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/05/2024 16:54:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/05/2024 16:56:49,ross,Nuevo Pedido PRE CARGA,NORMAL/115
+*************
+18/05/2024 16:56:50,ross,GUARDA ENCUESTA,2835
+*************
+18/05/2024 17:54:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/05/2024 17:54:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/05/2024 8:24:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/05/2024 8:24:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/05/2024 8:45:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2024 8:46:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/05/2024 8:50:20,ross,Nuevo Producto,
+*************
+20/05/2024 8:51:06,ross,Operación de Movimiento Inventario,
+*************
+20/05/2024 8:51:06,ross,Inserción de detalle movimiento inventario,
+*************
+20/05/2024 8:51:24,ross,Nuevo Pedido PRE CARGA,NORMAL/117
+*************
+20/05/2024 8:51:24,ross,GUARDA ENCUESTA,2975
+*************
+20/05/2024 8:54:36,ross,Nuevo Producto,
+*************
+20/05/2024 8:56:00,ross,Operación de Movimiento Inventario,
+*************
+20/05/2024 8:56:00,ross,Inserción de detalle movimiento inventario,
+*************
+20/05/2024 8:57:55,ross,Operación de Movimiento Inventario,
+*************
+20/05/2024 8:57:55,ross,Inserción de detalle movimiento inventario,
+*************
+20/05/2024 9:00:03,ross,Nuevo Producto,
+*************
+20/05/2024 9:01:20,ross,Operación de Movimiento Inventario,
+*************
+20/05/2024 9:01:20,ross,Inserción de detalle movimiento inventario,
+*************
+20/05/2024 9:01:47,ross,Nuevo Pedido PRE CARGA,NORMAL/118
+*************
+20/05/2024 9:01:47,ross,GUARDA ENCUESTA,2980
+*************
+20/05/2024 9:02:06,ross,Operación de Movimiento Inventario,
+*************
+20/05/2024 9:02:06,ross,Inserción de detalle movimiento inventario,
+*************
+20/05/2024 10:48:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2024 10:48:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 16:40:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 16:40:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 17:05:07,ross,Nuevo Pedido PRE CARGA,NORMAL/119
+*************
+22/05/2024 17:05:08,ross,GUARDA ENCUESTA,3114
+*************
+22/05/2024 17:28:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 17:28:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 17:30:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 17:30:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 18:47:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 18:47:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 18:51:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 18:51:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 18:52:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 18:52:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 19:41:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 19:41:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 19:50:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 19:50:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 19:53:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 19:53:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:04:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:04:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:06:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:06:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:08:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:08:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:11:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:11:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:16:42,ross,Actualizar Producto,
+*************
+22/05/2024 20:26:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:26:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:34:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:34:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:45:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:45:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:52:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:52:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:55:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:55:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 20:58:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 20:58:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:15:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:15:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:16:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:16:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:19:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:19:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:24:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:24:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:36:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:36:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:38:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:38:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:40:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:40:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:51:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:51:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:55:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:55:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 21:56:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 21:57:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 22:28:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 22:28:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/05/2024 22:29:48,ross,IMPRIME POR AREA,PEDIDO=23
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,COLH=189
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,AHDLH=78
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,LDLH=98
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,TGLH=65
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,ASTH=23
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,ALTH=34
+*************
+22/05/2024 22:30:10,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+22/05/2024 22:30:14,ross,Eliminar resultado AUX_HIS,
+*************
+22/05/2024 22:33:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2024 22:33:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 8:40:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 8:40:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 8:49:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 8:49:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 8:54:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 8:54:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 8:58:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 8:58:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 10:54:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 10:54:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 10:58:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 10:58:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 11:59:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 12:00:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 15:00:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 15:00:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 15:04:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2024 15:04:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/05/2024 15:12:47,ross,Generar Paciente,Paciente=AGUILAR GONZALEZ KAREN JEOVANA
+*************
+23/05/2024 15:16:15,ross,Generar Paciente,Paciente=LOPEZ PEREZ JUAN PEDRO
+*************
+23/05/2024 15:22:08,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400230,400149,400150,400476,400151,400295,401104,,PEDIDO=120
+*************
+23/05/2024 15:22:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=120
+*************
+23/05/2024 15:26:19,ross,03 IMPRIMIR PEDIDO,PEDIDO=120
+*************
+23/05/2024 15:32:27,ross,Actualiza FACTURA,FACTURA=24
+*************
+23/05/2024 15:32:27,ross,Ingresa FACTURA,FACTURA=24
+*************
+23/05/2024 15:32:27,ross,Insertar abono,Factura=24 Abono= 10
+*************
+23/05/2024 15:32:27,ross,Actualiza FACTURA,FACTURA=24/10
+*************
+23/05/2024 15:32:35,ross,Inserta usuario web,Paciente=123 AKAREN
+*************
+23/05/2024 15:32:35,ross,Registra Tx Factura,Factura=24
+*************
+23/05/2024 15:33:19,ross,Registra Tx Factura,Factura=24
+*************
+23/05/2024 15:34:31,ross,Insertar abono,Factura=24 Abono= 10
+*************
+23/05/2024 15:34:31,ross,Actualiza FACTURA,FACTURA=24/10
+*************
+23/05/2024 15:34:33,ross,Registra Tx Factura,Factura=24
+*************
+23/05/2024 15:34:46,ross,Registra Tx Factura,Factura=24
+*************
+23/05/2024 15:34:52,ross,Registra Tx Factura,Factura=24
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/121
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/122
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/123
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/124
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/125
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/126
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/127
+*************
+23/05/2024 15:38:15,ross,Nuevo Pedido IMPORTACION,JACINTO/128
+*************
+23/05/2024 15:38:16,ross,Nuevo Pedido IMPORTACION,JACINTO/129
+*************
+23/05/2024 15:38:16,ross,Nuevo Pedido IMPORTACION,JACINTO/130
+*************
+23/05/2024 15:38:16,ross,Nuevo Pedido IMPORTACION,JACINTO/131
+*************
+23/05/2024 15:38:16,ross,Nuevo Pedido IMPORTACION,JACINTO/132
+*************
+23/05/2024 15:38:16,ross,Nuevo Pedido IMPORTACION,JACINTO/133
+*************
+23/05/2024 15:40:58,ross,IMPRIMIR CONTRAORDEN,
+*************
+23/05/2024 15:41:31,ross,IMPRIMIR LISTA TRABAJO,
+*************
+23/05/2024 15:41:47,ross,IMPRIMIR HOJA TRABAJO,
+*************
+23/05/2024 15:42:04,ross,IMPRIMIR HOJA TRABAJO,
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,WBCH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,NEUH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,LYMH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,MONH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,EOSH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,BASOH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,MON%25H=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,EOS%25H=11
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,RBCH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,HCTH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,HGBH=
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,MCVH=11
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,MCHH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,RDW-CVH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,RDW-SDH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,PLTH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,MPVH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,PDWH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,PCTH=1
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,P-LCRH=11
+*************
+23/05/2024 15:47:32,ross,GUARDA RESULTADOS,P-LCCH=1
+*************
+23/05/2024 15:48:35,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+23/05/2024 15:48:35,ross,GUARDA RESULTADOS,COLOH=PAJIZO
+*************
+23/05/2024 15:48:35,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+23/05/2024 15:48:35,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+23/05/2024 15:48:35,ross,GUARDA RESULTADOS,DENO=1.025
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,PHO=5
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,LEUOH=++
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,ASCOH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,GLUOH=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,HGBOH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CELEPH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,HEMOH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,MOCOH=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,LEVA_ORINA=++
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,URO=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,FOO=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,OXAO=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CRIO=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CILO=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CIGO=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,CILCE=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,ESP=
+*************
+23/05/2024 15:48:36,ross,GUARDA RESULTADOS,OTROSO=
+*************
+23/05/2024 15:50:39,ross,GUARDA NOTA AREA,AREA EXAMEN =11/Observaciones: Suero lipemico
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,GLUCH=180
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,AHDLH=56
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,LDLH=106.28
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,TGLH=134.6
+*************
+23/05/2024 15:51:28,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/400101
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/400149
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/400150
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/400151
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/400230
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/400476
+*************
+23/05/2024 15:52:21,ross,VALIDACION RESULTADO,PEDIDO=120/401104
+*************
+23/05/2024 15:52:21,ross,Eliminar resultado AUX_HIS,
+*************
+23/05/2024 15:56:10,ross,IMPRIME POR AREA,PEDIDO=120
+*************
+23/05/2024 15:57:13,ross,IMPRIME TODO,PEDIDO=120
+*************
+23/05/2024 15:58:40,ross,IMPRIME POR EMAMEN,PEDIDO=120
+*************
+23/05/2024 15:59:28,ross,IMPRIME SOBRE,PEDIDO=120
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,GLUCH=180
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,COLH=189.2
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,AHDLH=56
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,LDLH=106.28
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,TGLH=134.6
+*************
+23/05/2024 16:01:56,ross,GUARDA RESULTADOS,EMOH=MEMO
+*************
+23/05/2024 16:02:17,ross,IMPRIME POR AREA,PEDIDO=120
+*************
+23/05/2024 16:12:31,ross,Actualizar Convenio,Convenio=TRANS AZUAY
+*************
+23/05/2024 16:12:31,ross,Actualizar Secuencia,SECUENCIA=TRANS AZUAY/1001/1200
+*************
+23/05/2024 16:12:31,ross,Actualizar LISTA PRECIO=TRANS AZUAY,
+*************
+23/05/2024 16:12:32,ross,Actualizar pedido en convenio =TRANS AZUAY,
+*************
+23/05/2024 16:13:07,ross,Nuevo Convenio,Convenio=TRANVIA
+*************
+23/05/2024 16:13:07,ross,Guardar secuencia,SECUENCIA=TRANVIA/1501/1600
+*************
+23/05/2024 16:20:00,ross,Actualizar Convenio,Convenio=DRA. JORGE CRODERO
+*************
+23/05/2024 16:20:00,ross,Actualizar Secuencia,SECUENCIA=DRA. JORGE CRODERO/1301/1400
+*************
+23/05/2024 16:20:00,ross,Actualizar LISTA PRECIO=DRA. JORGE CRODERO,
+*************
+23/05/2024 16:20:01,ross,Actualizar pedido en convenio =DRA. JORGE CRODERO,
+*************
+23/05/2024 16:21:10,ross,Nuevo Convenio,Convenio=FABRICA ACERO
+*************
+23/05/2024 16:21:10,ross,Guardar secuencia,SECUENCIA=FABRICA ACERO/1601/1700
+*************
+23/05/2024 16:23:54,ross,Actualizar Rango Unico,Test=401104 Rango=70-120
+*************
+23/05/2024 16:24:13,ross,Actualizar Rango Unico,Test=400149 Rango=0-190
+*************
+23/05/2024 16:26:35,ross,Actualizar Rango Multiple,Test= 400172 Rango=Hombre adulto : 1.6 - 8.0
+Mujeres 
+Fase folicular : 2.5 - 10.0
+Mitad del ciclo : 3.1 - 17.7
+Fase lutea : 1.5 - 9.0
+Postmenopausia : 23.0 -116.3
+Niños : 0.5 - 3.3
+*************
+23/05/2024 16:32:17,ross,01 GENERAR ORDEN  TRANS AZUAY EXAMENES: 400819,,PEDIDO=134
+*************
+23/05/2024 16:34:02,ross,GUARDA RESULTADOS,MUECULORI=ORINA de 24 h
+*************
+23/05/2024 16:34:02,ross,GUARDA RESULTADOS,GERAISORI=ESCHERICHA COLI
+*************
+23/05/2024 16:34:02,ross,GUARDA RESULTADOS,CONCOLORI=100.000
+*************
+23/05/2024 16:34:02,ross,GUARDA RESULTADOS,OBSCULORI=
+*************
+23/05/2024 16:34:02,ross,GUARDA RESULTADOS,ANTI=-ANTIBIOGRAMA-
+*************
+23/05/2024 16:34:02,ross,GUARDA RESULTADOS,TINGRAMH=
+*************
+23/05/2024 16:34:02,ross,GUARDA ANTIBIOGRANA,AMIKACINA=SENSIBLE
+*************
+23/05/2024 16:34:02,ross,GUARDA ANTIBIOGRANA,GENTAMICINA=SENSIBLE
+*************
+23/05/2024 16:34:02,ross,GUARDA ANTIBIOGRANA,AMOX. + AC. CLAVULANICO=SENSIBLE
+*************
+23/05/2024 16:34:02,ross,GUARDA ANTIBIOGRANA,AMPI + SULBACTAM=SENSIBLE
+*************
+23/05/2024 16:34:02,ross,GUARDA ANTIBIOGRANA,AZITROMICINA=INTERMEDIO
+*************
+23/05/2024 16:34:02,ross,GUARDA ANTIBIOGRANA,CEFTAZIDIMA=RESISTENTE
+*************
+23/05/2024 16:34:08,ross,GUARDA RESULTADOS,C_ORINAH=MEMO
+*************
+23/05/2024 16:34:09,ross,VALIDACION RESULTADO,PEDIDO=134/400819
+*************
+23/05/2024 16:34:09,ross,Eliminar resultado AUX_HIS,
+*************
+23/05/2024 16:34:25,ross,IMPRIME POR AREA,PEDIDO=134
+*************
+23/05/2024 16:36:23,ross,IMPRIME POR AREA,PEDIDO=120
+*************
+23/05/2024 16:36:35,ross,IMPRIME POR AREA,PEDIDO=120
+*************
+23/05/2024 16:38:16,ross,Actualizar Area,Area=QUIMICA SANGUINEA
+*************
+31/05/2024 14:34:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2024 14:34:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+31/05/2024 14:35:25,ross,Nuevo Perfil,PERFIL=PERFIL UNO
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=PICO PILCO KLEBER EDUARDO
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/135
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=AYALA GUAMANGATE SAUL GONZALO
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/136
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=ANCHUNDIA SANCHEZ JOSE LAUREANO
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/137
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=BARREIRO ROMERO MARCO ANDRES
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/138
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=BARREZUETA INTRIAGO BAUDILIO SEBASTIAN
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/139
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=VIDAL MONTES RAMON LEONARDO
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/140
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=RISCO PONCE JOSE LUIS
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/141
+*************
+31/05/2024 14:36:45,ross,Generar Paciente,Paciente=MILLINGALLI PUMACURO EDWIN DIEGO
+*************
+31/05/2024 14:36:45,ross,Nuevo Pedido IMPORTACION,NORMAL/142
+*************
+31/05/2024 14:36:46,ross,Generar Paciente,Paciente=MANTUANO INTRIAGO ANGEL FRANKLIN
+*************
+31/05/2024 14:36:46,ross,Nuevo Pedido IMPORTACION,NORMAL/143
+*************
+31/05/2024 14:36:46,ross,Generar Paciente,Paciente=MILLINGALLI PUMACURO KEVIN JOEL
+*************
+31/05/2024 14:36:46,ross,Nuevo Pedido IMPORTACION,NORMAL/144
+*************
+31/05/2024 14:36:46,ross,Generar Paciente,Paciente=TOAQUIZA SUNTASI LUIS PATRICIO
+*************
+31/05/2024 14:36:46,ross,Nuevo Pedido IMPORTACION,NORMAL/145
+*************
+31/05/2024 14:36:46,ross,Generar Paciente,Paciente=VERA SANCHEZ DANNY ROBERTO
+*************
+31/05/2024 14:36:46,ross,Nuevo Pedido IMPORTACION,NORMAL/146
+*************
+31/05/2024 14:36:46,ross,Generar Paciente,Paciente=CHIGUANO TOAPANTA LUIS
+*************
+31/05/2024 14:36:46,ross,Nuevo Pedido IMPORTACION,NORMAL/147
+*************
+31/05/2024 14:54:13,ross,Nuevo Pedido PRE CARGA,NORMAL/148
+*************
+31/05/2024 14:54:13,ross,GUARDA ENCUESTA,3716
+*************

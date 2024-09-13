@@ -1,0 +1,1230 @@
+01/12/2017 12:23:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 12:23:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 12:26:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 12:26:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 12:34:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 12:34:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 12:35:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 12:35:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 14:31:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 14:31:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 14:33:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 14:33:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 14:42:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 14:42:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 14:43:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 14:43:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 15:00:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 15:00:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 16:37:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 16:37:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 16:41:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 16:41:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 16:43:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 16:43:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/12/2017 16:59:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/12/2017 16:59:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 14:01:25,,SUPERADO INTENTOS FALLIDO USR,
+*************
+05/12/2017 14:01:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 14:01:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 15:38:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 15:38:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 15:48:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 15:48:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 15:54:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 15:54:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 15:56:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 15:56:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 16:44:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 16:44:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 16:47:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 16:47:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 16:49:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 16:49:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 16:52:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 16:52:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/12/2017 16:54:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/12/2017 16:54:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 11:23:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 11:23:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 11:23:50,ross,1 GENERAR ORDEN,PEDIDO=35
+*************
+18/12/2017 11:24:29,ross,Guardar antibiotico,ANTIBIOTICO=FLOXIFLOXI
+*************
+18/12/2017 11:35:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 11:35:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 11:38:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 11:38:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 11:38:35,ross,1 MODIFICA ORDEN,PEDIDO=35
+*************
+18/12/2017 11:39:27,ross,IMPRIME TODO,PEDIDO=3
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,WBCH=34
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,LYMH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 11:40:02,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 11:40:03,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 11:40:32,ross,GUARDA RESULTADOS,MUECULORI=ORINA
+*************
+18/12/2017 11:40:32,ross,GUARDA RESULTADOS,CONCOLORI=122
+*************
+18/12/2017 11:40:32,ross,GUARDA RESULTADOS,GERAISORI=ESCHERICHA COLI
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,ACIDO NALIDIXICO=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,AMIKACINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,AMOX. + AC. CLAVULONICO=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,AMPI + SULBACTAM=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,AZITROMICINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,FOSFOMICINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CEFTRIOXONA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CEFUROXINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CIPROFLOXACINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CLINDAMICINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CLARITROMICINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,ERITROMICINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,GENTAMICINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,IMIPENEM=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CLOXACILLIN=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,NETILCIMINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,NITROFURANTOINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,NORFLOXACINA=S
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,OXACILINA=RS
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,OFLOXACINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,PIP. TAZOBACTAM=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,SULFA - TRIMETOP=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,VANCOMICINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CEFALEXINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,TETRACICLINA=R
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,CEFALOTINA=I
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,LINCOMICINA=I
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,NEOMICINA=I
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,AMOXICILINA=I
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,AMOXICILINA=I
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,MI ANTIBIOTICO=I
+*************
+18/12/2017 11:40:32,ross,GUARDA ANTIBIOGRANA,FLOXIFLOXI=I
+*************
+18/12/2017 11:40:37,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+18/12/2017 11:40:38,ross,VALIDACION RESULTADO,PEDIDO=35/400101
+*************
+18/12/2017 11:40:38,ross,VALIDACION RESULTADO,PEDIDO=35/400819
+*************
+18/12/2017 11:40:46,ross,IMPRIME TODO,PEDIDO=35
+*************
+18/12/2017 11:53:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 11:53:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 11:54:16,ross,1 MODIFICA ORDEN,PEDIDO=35
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,WBCH=5
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,LYMH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 11:54:49,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,WBCH=5
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 11:55:00,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 11:57:39,ross,GUARDA RESULTADOS,WBCH=5
+*************
+18/12/2017 11:58:03,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 11:58:22,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 11:58:26,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 11:58:31,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 11:58:32,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 11:58:34,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 11:58:35,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 11:58:36,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 11:58:37,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 11:58:38,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 11:58:39,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 11:58:40,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 11:58:41,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 11:58:45,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 11:58:46,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 11:58:47,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 11:58:48,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 11:58:48,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 11:58:49,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 11:58:49,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 11:58:50,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 11:58:51,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 11:58:51,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 11:58:52,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 11:58:52,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 11:59:11,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,LYMH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 11:59:13,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 11:59:14,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 12:12:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 12:12:37,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/12/2017 12:12:37,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 12:12:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 12:13:15,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 12:13:15,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 12:13:15,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 12:13:16,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 12:13:16,ross,GUARDA RESULTADOS,LYMH=4
+*************
+18/12/2017 12:13:16,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 12:13:16,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 12:13:17,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 12:13:18,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 12:13:18,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 12:13:18,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 12:13:19,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 12:13:19,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 12:13:19,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 12:13:19,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 12:13:20,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 12:13:20,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 12:13:20,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 12:13:20,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 12:13:20,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 12:24:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 12:24:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 13:47:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 13:47:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 13:57:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 13:57:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:01:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:01:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:02:20,ross,GUARDA RESULTADOS,WBCH=
+*************
+18/12/2017 14:02:24,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 14:02:25,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 14:02:25,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 14:02:26,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 14:02:26,ross,GUARDA RESULTADOS,LYMH=4
+*************
+18/12/2017 14:02:27,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 14:02:27,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 14:02:28,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 14:02:28,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 14:02:29,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 14:02:29,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 14:02:30,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 14:02:31,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 14:02:31,ross,GUARDA RESULTADOS,MID%25H=4
+*************
+18/12/2017 14:02:32,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 14:02:33,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 14:02:33,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 14:02:34,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 14:02:34,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 14:02:35,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 14:02:36,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 14:02:37,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 14:02:37,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 14:02:38,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 14:02:38,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 14:02:40,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,WBCH=
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,LYMH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MID%25H=
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 14:02:58,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 14:08:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:08:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:10:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:10:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:13:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:13:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,WBCH=
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,NEUH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MONOH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,EOSH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,BASOH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,LYMH=33
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,GRAN%25H=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MIDH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,GRANH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MID%25H=
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,RBCH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MCVH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MCHH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,HCTH=4
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MPVH=3
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,PCTH=3
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/12/2017 14:14:18,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/12/2017 14:15:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:15:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:16:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:16:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:17:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:17:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:18:51,ross,Actualiza Test,Test=BETA HCG CUALITATIVA
+*************
+18/12/2017 14:19:10,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+18/12/2017 14:19:15,ross,Guardar palabra,PALABRA=POSITIVO
+*************
+18/12/2017 14:19:34,ross,1 GENERAR ORDEN,PEDIDO=36
+*************
+18/12/2017 14:22:30,ross,1 MODIFICA ORDEN,PEDIDO=36
+*************
+18/12/2017 14:28:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:28:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:38:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:38:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 14:39:02,ross,1 MODIFICA ORDEN,PEDIDO=36
+*************
+18/12/2017 14:40:59,ross,Eliminar Palabra,PALABRA=POSITIVO
+*************
+18/12/2017 14:41:04,ross,Eliminar Palabra,PALABRA=NEGATIVO
+*************
+18/12/2017 14:41:15,ross,Guardar palabra,PALABRA=POSITIVO
+*************
+18/12/2017 14:41:21,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+18/12/2017 14:41:54,ross,1 GENERAR ORDEN,PEDIDO=37
+*************
+18/12/2017 14:57:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 14:57:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:00:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 15:00:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:11:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 15:11:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:28:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 15:28:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:30:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 15:30:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:40:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 15:40:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:41:43,ross,1 GENERAR ORDEN,PEDIDO=38
+*************
+18/12/2017 15:42:21,ross,GUARDA RESULTADOS,HCGQ=POSITIVO
+*************
+18/12/2017 15:42:23,ross,VALIDACION RESULTADO,PEDIDO=38/400571
+*************
+18/12/2017 15:42:44,ross,IMPRIME TODO,PEDIDO=38
+*************
+18/12/2017 15:47:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 15:47:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 15:47:25,ross,GUARDA RESULTADOS,HCGQ=POSITIVO
+*************
+18/12/2017 15:47:35,ross,IMPRIME TODO,PEDIDO=38
+*************
+18/12/2017 16:01:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 16:01:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 16:04:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 16:04:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 16:05:30,ross,1 GENERAR ORDEN,PEDIDO=39
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,WBC=4
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,NEU=3
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MONO=5
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,EOS=6
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,BASO=7
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,LYM=8
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,GRAN%25=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MID=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,NEU%25=10
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MONO%25=4
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,EOS%25=5
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,BASO%25=6
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,LYM%25=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,GRAN=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MID%25=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,RBC=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,PLT=1
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MCV=2
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,PDW=2
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MCH=3
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,HCT=43
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,MPV=4
+*************
+18/12/2017 16:06:12,ross,GUARDA RESULTADOS,HGB=4
+*************
+18/12/2017 16:06:20,ross,GUARDA RESULTADOS,RDW_SD=4
+*************
+18/12/2017 16:06:20,ross,GUARDA RESULTADOS,RDW_CV=5
+*************
+18/12/2017 16:06:20,ross,GUARDA RESULTADOS,MCHC=6
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,WBC=4
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,NEU=3
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MONO=5
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,EOS=6
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,BASO=7
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,LYM=8
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,GRAN%25=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MID=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,NEU%25=10
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MONO%25=4
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,EOS%25=5
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,BASO%25=6
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,LYM%25=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,GRAN=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MID%25=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,RBC=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,PLT=1
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MCV=2
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,PDW=2
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MCH=3
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,HCT=43
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MPV=4
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,HGB=4
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,PCT=4
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,RDW_SD=4
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,RDW_CV=5
+*************
+18/12/2017 16:06:32,ross,GUARDA RESULTADOS,MCHC=6
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,ASPO=TRANSPARENTE
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,DENO=1.000
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,PH=5.5
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,LEUO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,ESO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,NITO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,PROO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CCETO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,ACAS=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,BILO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,UROO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,SANO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,HBGO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CERE=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CEEP=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,PIOO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,HEO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,BACTO=ESCASAS
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,MOCO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,OXAO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CILO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CETOR=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CIGO=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,CILCE=
+*************
+18/12/2017 16:06:54,ross,GUARDA RESULTADOS,ESP=
+*************
+18/12/2017 16:06:55,ross,GUARDA RESULTADOS,URO=
+*************
+18/12/2017 16:06:55,ross,GUARDA RESULTADOS,CECA=
+*************
+18/12/2017 16:06:55,ross,GUARDA RESULTADOS,FOO=
+*************
+18/12/2017 16:06:55,ross,GUARDA RESULTADOS,CRIO=
+*************
+18/12/2017 16:06:55,ross,GUARDA RESULTADOS,OTROSO=
+*************
+18/12/2017 16:07:25,ross,GUARDA RESULTADOS,MUECULORI=ORINA
+*************
+18/12/2017 16:07:25,ross,GUARDA RESULTADOS,CONCOLORI=1200
+*************
+18/12/2017 16:07:25,ross,GUARDA RESULTADOS,GERAISORI=COLI
+*************
+18/12/2017 16:07:25,ross,GUARDA RESULTADOS,OBSCULORI=
+*************
+18/12/2017 16:07:25,ross,GUARDA ANTIBIOGRANA,ACIDO NALIDIXICO=I
+*************
+18/12/2017 16:07:25,ross,GUARDA ANTIBIOGRANA,AMIKACINA=R
+*************
+18/12/2017 16:07:25,ross,GUARDA ANTIBIOGRANA,AMOX. + AC. CLAVULONICO=R
+*************
+18/12/2017 16:07:25,ross,GUARDA ANTIBIOGRANA,CIPROFLOXACINA=S
+*************
+18/12/2017 16:07:25,ross,GUARDA ANTIBIOGRANA,CLINDAMICINA=S
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,WBC=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,NEU=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MONO=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,EOS=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,BASO=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,LYM=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,GRAN%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MID=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,NEU%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MONO%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,EOS%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,BASO%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,LYM%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,GRAN=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MID%25=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,RBC=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,PLT=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MCV=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,PDW=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MCH=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,HCT=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MPV=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,HGB=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,PCT=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,RDW_SD=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,RDW_CV=1
+*************
+18/12/2017 16:07:39,ross,GUARDA RESULTADOS,MCHC=1
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,HCGQ=NEGATIVO
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,C_ORINA=MEMO
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,CHOL=180
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,AHDL=35
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,LDL=2
+*************
+18/12/2017 16:08:03,ross,GUARDA RESULTADOS,TGL=300
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400101
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400149
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400150
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400151
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400230
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400476
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400571
+*************
+18/12/2017 16:08:06,ross,VALIDACION RESULTADO,PEDIDO=39/400819
+*************
+18/12/2017 16:08:17,ross,IMPRIME TODO,PEDIDO=39
+*************
+18/12/2017 16:10:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 16:10:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 16:11:06,ross,IMPRIME TODO,PEDIDO=39
+*************
+18/12/2017 16:13:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 16:13:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 16:15:04,ross,GUARDA NOTA AREA,AREA=2/VALOR CONFIRMADO
+*************
+18/12/2017 16:15:57,ross,GUARDA NOTA AREA,AREA=2/VALORES CONFIRMADOS
+*************
+18/12/2017 16:44:35,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/12/2017 16:50:28,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/12/2017 16:59:49,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/12/2017 17:01:14,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/12/2017 17:01:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 17:01:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/12/2017 17:02:17,ross,Nuevo Laboratorio,Laboratorio=SEDE SERVILAB 1
+*************
+18/12/2017 17:02:30,ross,Actualizar Laboratorio,Laboratorio=MATRIZ SERVILAB
+*************
+18/12/2017 17:02:55,,Ingreso CONTRASEÑA FALLIDO,
+*************
+18/12/2017 17:02:55,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/12/2017 17:03:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/12/2017 17:03:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 11:53:01,,Ingreso CONTRASEÑA FALLIDO,
+*************
+19/12/2017 11:53:01,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 11:54:56,,Ingreso CONTRASEÑA FALLIDO,
+*************
+19/12/2017 11:54:56,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 11:58:04,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 11:58:12,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 13:28:47,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 13:53:24,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 13:53:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 13:53:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 14:11:00,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 14:11:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 14:11:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 14:17:40,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 14:17:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 14:17:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 14:53:15,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 14:53:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 14:53:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 14:56:27,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 15:26:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 15:26:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 15:29:04,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 15:30:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 15:30:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 15:40:46,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/12/2017 15:41:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/12/2017 15:41:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/12/2017 15:47:57,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 14:59:37,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 14:59:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 14:59:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/12/2017 15:02:11,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 15:02:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 15:02:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/12/2017 15:10:34,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 15:10:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 15:10:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/12/2017 15:12:40,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 15:13:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 15:13:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/12/2017 15:22:45,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 15:22:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 15:22:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/12/2017 15:34:57,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 15:35:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 15:35:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/12/2017 15:37:04,,CARGA SEDES,Busca tabla laboratorio
+*************
+26/12/2017 15:37:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/12/2017 15:37:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/12/2017 11:02:05,,CARGA SEDES,Busca tabla laboratorio
+*************
+28/12/2017 11:03:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/12/2017 11:03:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/12/2017 11:09:16,,CARGA SEDES,Busca tabla laboratorio
+*************
+28/12/2017 11:09:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/12/2017 11:09:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

@@ -1,0 +1,1930 @@
+03/01/2022 10:13:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 10:13:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 11:11:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 11:11:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 11:41:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 11:41:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 12:12:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 12:12:58,,Ingreso CONTRASEÑA FALLIDO,
+*************
+03/01/2022 12:12:58,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 12:13:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 17:26:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 17:26:17,,Ingreso CONTRASEÑA FALLIDO,
+*************
+03/01/2022 17:26:17,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 17:26:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 17:26:38,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+03/01/2022 18:28:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 18:28:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 18:29:40,ross,Generar Paciente,Paciente=BALSECA MORA GLADYS MARIBEL
+*************
+03/01/2022 18:29:49,ross,Nuevo Pedido IMPORTACION,NORMAL/3
+*************
+03/01/2022 18:29:49,ross,Generar Paciente,Paciente=BRAVO GARCIA JENNY ISABEL
+*************
+03/01/2022 18:29:51,ross,Nuevo Pedido IMPORTACION,NORMAL/4
+*************
+03/01/2022 18:29:51,ross,Generar Paciente,Paciente=CAMACHO VIZCAINO MAURO FELIX
+*************
+03/01/2022 18:29:51,ross,Nuevo Pedido IMPORTACION,NORMAL/5
+*************
+03/01/2022 18:29:51,ross,Generar Paciente,Paciente=CAIZATOA CORAQUILLA MARIA ASENCIA
+*************
+03/01/2022 18:29:51,ross,Nuevo Pedido IMPORTACION,NORMAL/6
+*************
+03/01/2022 18:29:51,ross,Generar Paciente,Paciente=CARTAGENA ESPINOSA ANGEL EDUARDO
+*************
+03/01/2022 18:29:51,ross,Nuevo Pedido IMPORTACION,NORMAL/7
+*************
+03/01/2022 18:29:51,ross,Generar Paciente,Paciente=CORNEJO MENDOZA ANGELO JESUS
+*************
+03/01/2022 18:29:51,ross,Nuevo Pedido IMPORTACION,NORMAL/8
+*************
+03/01/2022 18:29:51,ross,Generar Paciente,Paciente=CHICAIZA GUAITA OSWALDO
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/9
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=CRUZ HIDALGO MARIA ESTHELA
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/10
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=ESCOBAR CATOTA MARTHA CECILIA
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/11
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=FIGUEROA ROCHE JULIO ANTONIO
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/12
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=LEMA GUZÑAY MARIA INES
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/13
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=MALDONADO GALARZA CELSO ENRIQUE
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/14
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=MORA CAMUENDO LUIS ALBERTO
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/15
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=OLMEDO ANDRADE SELESTE ELVIRA
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/16
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=PACHECO ARMENDARIZ PATRICIO GUSTAVO
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/17
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=PAREDES ROMAN RAFAEL MARIA
+*************
+03/01/2022 18:29:52,ross,Nuevo Pedido IMPORTACION,NORMAL/18
+*************
+03/01/2022 18:29:52,ross,Generar Paciente,Paciente=PILATASIG CHITALOGRO ANACLETO
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/19
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=PILLAJO SIMBAÑA MARIA HORTENCIA
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/20
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=PINTO MERA VERNY MIGUEL
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/21
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=QUIJANO QUILLUPANGUI MANUEL DE JESUS
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/22
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=SANGUCHO PILLAJO MARIA ANGELA
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/23
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=TIPAN TACURI JOSE RAMIRO
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/24
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=TOAPANTA VEGA LUIS CRISTOBAL
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/25
+*************
+03/01/2022 18:29:53,ross,Generar Paciente,Paciente=TORRES CARRASCO JHONNY ENRIQUE
+*************
+03/01/2022 18:29:53,ross,Nuevo Pedido IMPORTACION,NORMAL/26
+*************
+03/01/2022 18:36:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 18:36:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 18:38:12,ross,Actualiza Paciente,Paciente=PACIENTE DE PRUEBA ADULTO
+*************
+03/01/2022 18:38:37,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/27
+*************
+03/01/2022 18:38:38,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/28
+*************
+03/01/2022 18:38:39,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/29
+*************
+03/01/2022 18:38:39,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/30
+*************
+03/01/2022 18:38:39,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/31
+*************
+03/01/2022 20:34:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/01/2022 20:34:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/01/2022 20:35:13,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+04/01/2022 12:40:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2022 12:40:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2022 12:40:32,ross,Generar Paciente,Paciente=ALMEIDA REINA AMELIA EDELMIRA
+*************
+04/01/2022 12:40:32,ross,Nuevo Pedido IMPORTACION,NORMAL/32
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=BENITES VALENCIA AUGUSTOA ARCADIO
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/33
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=FUENTES MIRANDA BENIGNO ANDRES
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/34
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=GAIBOR ERAZO CARLOS HUMBERTO
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/35
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=JARAMILLO PACHECO MANUEL EDUARDO
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/36
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=LEON BARZALLO MARIA DE LOURDES
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/37
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=LOPEZ ESCUDERO KEVIN JOEL
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/38
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=MEJIA VERGARA MAGALY MARGARITA
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/39
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=PALACIOS LEBRO PEDRO DAMIAN
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/40
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=PIZA SILVA JIMMY JAVIER
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/41
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=SALAS ARIAS AMADA APOLONIA
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/42
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=SANTOS NAULA JOSE DANIEL
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/43
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=SUAREZ VERA JOSE AGUSTIN
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/44
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=VARGAS ALVARADO EDUARDO ELADIO
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/45
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=VILLANAR VASQUEZ JUAN ARTEMIO
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/46
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=AQUINO HERRERA VIDAL VALENTIN
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/47
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=CANDO MESTANZA LUIS HOMERO
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/48
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=CARBO POZO PEDRO AGUSTIN
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/49
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=CARRASCO MOROCHO IRIS DE JESUS
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/50
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=CHANALATA CUVI IRENE SOLANDI
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/51
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=FRANCO MONCADA RINA ELIZABETH
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/52
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=JARAMILLO MORAN ROLANDO ANDRES
+*************
+04/01/2022 12:40:33,ross,Nuevo Pedido IMPORTACION,NORMAL/53
+*************
+04/01/2022 12:40:33,ross,Generar Paciente,Paciente=LOPEZ ANGAMARCA ERICK JOEL
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/54
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=RAMOS ESPINOZA RUBEN DARIO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/55
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=RAMOS PAREDES NORMA YOLANDA
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/56
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=SANCHEZ MANZABA VICENTA NARCISA
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/57
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=VARGAS BERRUZ ROMULO FRANCISCO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/58
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=VARGAS OCHOA ARNULFO BENIGNO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/59
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=YEPEZ LINDAO JUANITA DEL PILAR
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/60
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=AGUILAR LIMONES JOSE HUMBERTO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/61
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=ALCIVAR VALERO MANUELA DE JESUS
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/62
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=ARIAS RONQUILLO CECILIA JOHANA
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/63
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=BRAVO GOMEZ ZOILA MARIA
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/64
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=CAMPOVERDE ICAZA JOSE LIONSO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/65
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=FLORES VALLEJO NORMA CRISTINA
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/66
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=GUEVARA ABARCA HUGO EFRAIN
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/67
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=HUACON MILLAN GERMANIA SOFIA
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/68
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=MERINO ESPINOZA MARILYN MILAGROS
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/69
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=MONTIEL CERVANTES FELIX
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/70
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=BAJAÑA LUIZ VICENTE HUMBERTO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/71
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=PALACIOS CABEZAS NENA ELAIS
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/72
+*************
+04/01/2022 12:40:34,ross,Generar Paciente,Paciente=PAREDES ARIAS CARLOS EDUARDO
+*************
+04/01/2022 12:40:34,ross,Nuevo Pedido IMPORTACION,NORMAL/73
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=PONCE CEDÑO MARIA CELESTE
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/74
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=SANTANA ROCAFUERTE PEDRO CELESTINO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/75
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=TORRES CASTRO FREDDY BONIFACIO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/76
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=CASTRO MORAN GUIDO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/77
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ACOSTA NAVAS MERCEDES ISABEL
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/78
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=GARCIA YEPEZ VICTOR
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/79
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=FRANCO ALMEIDA JUANA AURORA
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/80
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=CALEÑO HIDALGO LUGIA BOLIVAR
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/81
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=PACHECO ARTIAGA LUCY ANGELICA
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/82
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ALCIVAR ESTRELLA ANGELA ESPERANZA
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/83
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=MIRANDA ORDOÑEZ HERMENEGILDO ROBERTO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/84
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ORTIZ MURILLO PEDRO HUMBERTO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/85
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=TOAPANTA CONTRERAS LINNER DEL ROSARIO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/86
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=VERA BARAHONA GERMANIA ARCADIA
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/87
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ZAMBRANO MORA REGINA LUCIA
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/88
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ROJAS UVE LUCIA FERNANDA
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/89
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=GAROFALO GUILLIN VICTOR ROBERTO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/90
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ACURIO MEJIA JOSE VICENTE
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/91
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ACURIO SANTIN GUSTAVO RODRIGO
+*************
+04/01/2022 12:40:35,ross,Nuevo Pedido IMPORTACION,NORMAL/92
+*************
+04/01/2022 12:40:35,ross,Generar Paciente,Paciente=ALVARADO ICAZA LORENZO ANTONIO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/93
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=ALVARADO VERA MANUEL HUMBERTO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/94
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=BAEZ GARCIA BRIGIE JAZMIN
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/95
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=BARBOTO RUIZ MIGUEL EVANGELISTA
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/96
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=BRAVO POVEDA VICENTE FRANKLIN
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/97
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=BRIONES BUSTAMANTE YINA PATRICIA
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/98
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=CADENA MENDEZ BLANCA EMPERATRIZ
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/99
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=CARRASCO SANTILLAN CARLOS PLUTARCO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/100
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=COELLO LEON SERGIO ROMULO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/101
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=DIAZ ESLAO MARCOS ALBERTO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/102
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=GARAICOA LOOR ANDRES FRANCISCO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/103
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=GARCIA PONCE JOHANNA ROCIO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/104
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=GUERRERO LEAL BERTHA MARILU
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/105
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=MENDOZA BAYAS ANGEL RICARDO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/106
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=MENENDEZ HURTADO ORLANDO XAVIER
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/107
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=MORA VITE DARWIN VICENTE
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/108
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=SANCHEZ SEGUNDO BOLIVAR
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/109
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=SARCO SALAZAR LUIS FERNANDO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/110
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=SILVA TAPIA JULIO JACINTO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/111
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=SILVA TOMALA ROSA VIRGINIA
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/112
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=TORRES CEREZO JULIA DEL CARMEN
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/113
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=VACA PIZA GLADIS BENITA
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/114
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=VALENCIA CASTILLO MARIO GEOVANNY
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/115
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=VARGAS ESPINOZA PEDRO DARIO
+*************
+04/01/2022 12:40:36,ross,Nuevo Pedido IMPORTACION,NORMAL/116
+*************
+04/01/2022 12:40:36,ross,Generar Paciente,Paciente=VITE AYALA TEODORO FRANCISCO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/117
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=VITE PAZ ANGELA HAYDEE
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/118
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=RIVERA BARCO MARIANA DE JESUS
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/119
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA JOSE ALBERTO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/120
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=LUQUE MORAN JULIA FELIPA
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/121
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=QUINGA GUTIERREZ LUIS ALBERTO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/122
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=RODRIGUEZ MORA ANA PILAR
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/123
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=CAICEDO RIVADENEIRA RAFAELA EMILIA
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/124
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=CAMPOSANO GARCIA MIGUEL ALBERTO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/125
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=CARPIO MONTOYA PEDRO FELIX
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/126
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=CELI ARIAS WELLINGTON ANTONIO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/127
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=CRUZ REYES MARTHA DEL ROCIO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/128
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=DE LA CRUZ VERA WILSON LAUTARO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/129
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=ELIZONDO VERA NELLY POMPELLA
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/130
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=ESPIN JARA FREDDY ENRIQUE
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/131
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=MARTINEZ SANTILLAN MERCEDES AIDA
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/132
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=MINDIOLA BURGOS KLEBER ANTONIO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/133
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=MORAN TORRES ADALBERTO RAMON
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/134
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=OLAYA ACOSTA JORGE JAVIER
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/135
+*************
+04/01/2022 12:40:37,ross,Generar Paciente,Paciente=VILLANAR MONTALVO LUIS ANTONIO
+*************
+04/01/2022 12:40:37,ross,Nuevo Pedido IMPORTACION,NORMAL/136
+*************
+04/01/2022 21:01:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/01/2022 21:01:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/01/2022 21:02:53,ross,Actualizar Servicio,SERVICIO=SANTA FE CALUMA
+*************
+04/01/2022 21:03:57,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+04/01/2022 21:04:05,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=137
+*************
+04/01/2022 21:04:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=137
+*************
+04/01/2022 21:04:29,ross,1 MODIFICA ORDENNORMAL,PEDIDO=137
+*************
+04/01/2022 21:05:12,ross,VALIDACION RESULTADO,PEDIDO=137/400151
+*************
+04/01/2022 21:06:43,ross,Inserta usuario web,Paciente=135 MMORALES
+*************
+04/01/2022 21:25:08,ross,ENVIO CORREO PACIENTE,PEDIDO=137
+*************
+07/01/2022 9:56:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2022 9:56:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2022 9:57:01,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+07/01/2022 10:07:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/01/2022 10:07:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/01/2022 10:11:25,ross,Generar Paciente,Paciente=PIGUAVE REYES JOSE MANUEL
+*************
+07/01/2022 10:13:55,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401144,,PEDIDO=138
+*************
+07/01/2022 10:13:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=138
+*************
+07/01/2022 10:14:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=138
+*************
+07/01/2022 10:16:00,ross,Actualiza FACTURA,FACTURA=1
+*************
+07/01/2022 10:16:00,ross,Ingresa FACTURA,FACTURA=1
+*************
+07/01/2022 10:16:00,ross,Insertar abono,Factura=1 Abono= 30
+*************
+07/01/2022 10:16:00,ross,Actualiza FACTURA,FACTURA=1/30
+*************
+07/01/2022 10:16:02,ross,Registra Tx Factura,Factura=1
+*************
+07/01/2022 10:18:06,ross,Insertar abono,Factura=1 Abono= 25
+*************
+07/01/2022 10:18:06,ross,Cancela FACTURA,FACTURA=1
+*************
+07/01/2022 10:18:10,ross,Registra Tx Factura,Factura=1
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/139
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/140
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/141
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/142
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/143
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/144
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/145
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/146
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/147
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/148
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/149
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/150
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/151
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/152
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/153
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/154
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/155
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/156
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/157
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/158
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/159
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/160
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/161
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/162
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/163
+*************
+07/01/2022 10:19:54,ross,Nuevo Pedido IMPORTACION,NORMAL/164
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/165
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/166
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/167
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/168
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/169
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/170
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/171
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/172
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/173
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/174
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/175
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/176
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/177
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/178
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/179
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/180
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/181
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/182
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/183
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/184
+*************
+07/01/2022 10:19:55,ross,Nuevo Pedido IMPORTACION,NORMAL/185
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/186
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/187
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/188
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/189
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/190
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/191
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/192
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/193
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/194
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/195
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/196
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/197
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/198
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/199
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/200
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/201
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/202
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/203
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/204
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/205
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/206
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/207
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/208
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/209
+*************
+07/01/2022 10:19:56,ross,Nuevo Pedido IMPORTACION,NORMAL/210
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/211
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/212
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/213
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/214
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/215
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/216
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/217
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/218
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/219
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/220
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/221
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/222
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/223
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/224
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/225
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/226
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/227
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/228
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/229
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/230
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/231
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/232
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/233
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/234
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/235
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/236
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/237
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/238
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/239
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/240
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/241
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/242
+*************
+07/01/2022 10:19:57,ross,Nuevo Pedido IMPORTACION,NORMAL/243
+*************
+07/01/2022 10:20:49,ross,IMPRIMIR CONTRAORDEN,
+*************
+07/01/2022 10:21:07,ross,IMPRIMIR LISTA TRABAJO,
+*************
+07/01/2022 10:21:21,ross,IMPRIMIR HOJA TRABAJO,
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,WBCH=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,NEUH=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,LYMH=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,MONH=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,EOSH=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,BASOH=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,RBCH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,HCTH=222
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,HGBH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,MCVH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,MCHH=22
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,RDW-CVH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,RDW-SDH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,PLTH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,MPVH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,PDWH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,PCTH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,P-LCRH=2
+*************
+07/01/2022 10:23:58,ross,GUARDA RESULTADOS,P-LCCH=2
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,SINTCH=NO
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,LUGARDH=COMUNITARIO
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,FECHACOVH=11-31-2021
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,LUHAFEH=
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,PRUEBH=NO
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+07/01/2022 10:25:22,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+07/01/2022 10:25:23,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+07/01/2022 10:25:23,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 POSITIVO
+*************
+07/01/2022 10:25:23,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+07/01/2022 10:25:23,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+07/01/2022 10:26:37,ross,GUARDA NOTA AREA,AREA EXAMEN =85/SUERO LIPEMICO
+*************
+07/01/2022 10:26:44,ross,GUARDA NOTA AREA,AREA EXAMEN =85/
+*************
+07/01/2022 10:26:47,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+07/01/2022 10:27:13,ross,VALIDACION RESULTADO,PEDIDO=138/400101
+*************
+07/01/2022 10:27:13,ross,VALIDACION RESULTADO,PEDIDO=138/400149
+*************
+07/01/2022 10:27:13,ross,VALIDACION RESULTADO,PEDIDO=138/400150
+*************
+07/01/2022 10:27:13,ross,VALIDACION RESULTADO,PEDIDO=138/400151
+*************
+07/01/2022 10:27:13,ross,VALIDACION RESULTADO,PEDIDO=138/400476
+*************
+07/01/2022 10:27:13,ross,VALIDACION RESULTADO,PEDIDO=138/401144
+*************
+07/01/2022 10:28:21,ross,IMPRIME POR AREA,PEDIDO=138
+*************
+07/01/2022 10:29:52,ross,IMPRIME TODO,PEDIDO=138
+*************
+07/01/2022 10:30:34,ross,IMPRIME POR EMAMEN,PEDIDO=138
+*************
+07/01/2022 10:30:47,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=138
+*************
+07/01/2022 10:31:01,ross,IMPRIME SOBRE,PEDIDO=138
+*************
+07/01/2022 10:35:36,ross,ENVIO CORREO PACIENTE,PEDIDO=138
+*************
+07/01/2022 10:37:50,ross,Actualizar Rango Unico,Test=400149 Rango=10-190
+*************
+08/01/2022 16:39:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/01/2022 16:39:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/01/2022 16:49:44,ross,IMPRIME POR AREA,PEDIDO=10869
+*************
+08/01/2022 17:32:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/01/2022 17:32:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/01/2022 17:36:00,ross,IMPRIME POR AREA,PEDIDO=10876
+*************
+10/01/2022 16:12:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/01/2022 16:12:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/01/2022 12:21:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/01/2022 12:22:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/01/2022 8:06:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/01/2022 8:06:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 8:54:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 8:54:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 8:55:18,ross,IMPRIME POR AREA,PEDIDO=138
+*************
+15/01/2022 9:13:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 9:13:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 9:13:17,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=244
+*************
+15/01/2022 9:13:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=244
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,SINTCH=TOS
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,LUGARDH=COMUNITARIO
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,FECHACOVH=
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,LUHAFEH=
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,PRUEBH=
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+15/01/2022 9:13:47,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+15/01/2022 9:14:02,ross,Eliminar Test,TEST=1275
+*************
+15/01/2022 9:14:18,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+15/01/2022 9:14:18,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,SINTCH=TOS
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,LUGARDH=COMUNITARIO
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,FECHACOVH=11-12-2021
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,PRUEBH=NO
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+15/01/2022 9:14:19,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+15/01/2022 9:14:24,ross,VALIDACION RESULTADO,PEDIDO=244/401144
+*************
+15/01/2022 9:14:37,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 9:21:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 9:21:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 9:21:42,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 9:22:23,ross,Actualiza Test,Test=INTERVALO DE REFERENCIA
+*************
+15/01/2022 9:22:55,ross,Actualiza Test,Test=OBSERVACIONES
+*************
+15/01/2022 9:23:15,ross,Actualiza Test,Test=INTERVALO DE REFERENCIA
+*************
+15/01/2022 9:23:21,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 9:27:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 9:27:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 9:34:10,ross,Generar Paciente,Paciente=JACOME APRAEZ TANYA CAROLINA
+*************
+15/01/2022 9:40:23,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400114,400230,,PEDIDO=245
+*************
+15/01/2022 9:40:24,ross,02 IMPRIMIR COD BARRAS,PEDIDO=245
+*************
+15/01/2022 9:41:40,ross,1 MODIFICA ORDENNORMAL,PEDIDO=245
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/246
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/247
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/248
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/249
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/250
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/251
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/252
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/253
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/254
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/255
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/256
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/257
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/258
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/259
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/260
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/261
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/262
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/263
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/264
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/265
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/266
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/267
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/268
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/269
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/270
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/271
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/272
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/273
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/274
+*************
+15/01/2022 9:46:25,ross,Nuevo Pedido IMPORTACION,NORMAL/275
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/276
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/277
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/278
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/279
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/280
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/281
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/282
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/283
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/284
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/285
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/286
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/287
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/288
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/289
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/290
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/291
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/292
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/293
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/294
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/295
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/296
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/297
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/298
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/299
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/300
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/301
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/302
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/303
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/304
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/305
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/306
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/307
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/308
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/309
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/310
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/311
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/312
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/313
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/314
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/315
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/316
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/317
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/318
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/319
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/320
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/321
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/322
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/323
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/324
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/325
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/326
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/327
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/328
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/329
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/330
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/331
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/332
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/333
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/334
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/335
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/336
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/337
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/338
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/339
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/340
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/341
+*************
+15/01/2022 9:46:26,ross,Nuevo Pedido IMPORTACION,NORMAL/342
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/343
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/344
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/345
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/346
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/347
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/348
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/349
+*************
+15/01/2022 9:46:27,ross,Nuevo Pedido IMPORTACION,NORMAL/350
+*************
+15/01/2022 9:54:24,ross,IMPRIMIR CONTRAORDEN,
+*************
+15/01/2022 9:55:20,ross,IMPRIMIR LISTA TRABAJO,
+*************
+15/01/2022 9:55:34,ross,IMPRIMIR HOJA TRABAJO,
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,WBC=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,NEU=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,LYM=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,MON=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,EOS=44
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,BASO=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,NEU%25=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,LYM%25=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,MON%25=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,RBC=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,HCT=
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,HGB=44
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,MCV=4
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,MCH=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,MCHC=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,RDW-CV=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,RDW-SD=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,PLT=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,MPV=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,PDW=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,PCT=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,P-LCR=3
+*************
+15/01/2022 10:00:13,ross,GUARDA RESULTADOS,P-LCC=3
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,COLO=AMBAR
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,DENO=1.020
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,PHO=5
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,LEUOH=+
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,GLUO=100
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,UROOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,HGBOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CELPOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CELEPH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,PIOO=8-10
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,HEMOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,BACOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,MOCOH=+
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,URO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,FOO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,OXAO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CRIO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CILO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CIGO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CILCE=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,ESP=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,ASCOH=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,OTROSO=
+*************
+15/01/2022 10:01:32,ross,GUARDA RESULTADOS,CCETO=
+*************
+15/01/2022 10:03:43,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBERVACIONES: Suero lipemico
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400101
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400114
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400149
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400150
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400151
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400230
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/400476
+*************
+15/01/2022 10:05:47,ross,VALIDACION RESULTADO,PEDIDO=245/401104
+*************
+15/01/2022 10:12:23,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+15/01/2022 10:13:55,ross,IMPRIME TODO,PEDIDO=245
+*************
+15/01/2022 10:14:38,ross,IMPRIME POR EMAMEN,PEDIDO=245
+*************
+15/01/2022 10:14:55,ross,IMPRIME POR EMAMEN,PEDIDO=245
+*************
+15/01/2022 10:15:05,ross,IMPRIME SOBRE,PEDIDO=245
+*************
+15/01/2022 10:18:00,ross,ENVIO CORREO PACIENTE,PEDIDO=245
+*************
+15/01/2022 10:26:54,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 11:34:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 11:34:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 11:34:45,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 11:54:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 11:54:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 11:54:24,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 12:21:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 12:21:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 12:21:37,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 12:21:45,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+15/01/2022 12:24:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 12:24:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 12:24:39,ross,IMPRIME TODO,PEDIDO=245
+*************
+15/01/2022 12:24:56,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+15/01/2022 12:25:06,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+15/01/2022 12:29:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 12:29:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 12:29:21,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 12:29:31,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+15/01/2022 12:34:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/01/2022 12:34:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/01/2022 12:34:22,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+15/01/2022 12:34:29,ross,IMPRIME TODO,PEDIDO=244
+*************
+15/01/2022 12:34:36,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+15/01/2022 12:34:47,ross,IMPRIME TODO,PEDIDO=245
+*************
+18/01/2022 10:41:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/01/2022 10:41:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/01/2022 10:42:29,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=351
+*************
+18/01/2022 10:42:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=351
+*************
+18/01/2022 10:43:09,ross,1 MODIFICA ORDENNORMAL,PEDIDO=351
+*************
+18/01/2022 10:43:48,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400476,,PEDIDO=351
+*************
+20/01/2022 19:31:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/01/2022 19:31:38,,Ingreso CONTRASEÑA FALLIDO,
+*************
+20/01/2022 19:31:38,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2022 19:31:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/01/2022 19:32:16,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+21/01/2022 10:36:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2022 10:36:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2022 10:59:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2022 10:59:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2022 11:16:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2022 11:16:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2022 11:24:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2022 11:24:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2022 11:26:51,ross,ENVIO CORREO PACIENTE,PEDIDO=244
+*************
+21/01/2022 15:23:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2022 15:23:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/01/2022 16:07:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/01/2022 16:07:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 12:22:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:22:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 12:22:29,ross,03 IMPRIMIR PEDIDO,PEDIDO=43876
+*************
+23/01/2022 12:22:48,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:23:19,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:26:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:26:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 12:26:51,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:27:46,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:28:04,ross,IMPRIME TODO,PEDIDO=43876
+*************
+23/01/2022 12:29:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:29:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 12:30:13,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:30:35,ross,IMPRIME TODO,PEDIDO=43876
+*************
+23/01/2022 12:30:55,ross,IMPRIME TODO,PEDIDO=43876
+*************
+23/01/2022 12:31:12,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:33:59,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:34:20,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:34:42,ross,IMPRIME TODO,PEDIDO=43876
+*************
+23/01/2022 12:40:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:40:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 12:40:53,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:41:18,ross,IMPRIME TODO,PEDIDO=43876
+*************
+23/01/2022 12:41:34,ross,IMPRIME TODO,PEDIDO=43876
+*************
+23/01/2022 12:43:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:43:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 12:44:07,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 12:53:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:54:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 12:54:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 13:00:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 13:00:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 13:00:50,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 13:02:55,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400148,400142,400141,,PEDIDO=43877
+*************
+23/01/2022 13:02:55,ross,02 IMPRIMIR COD BARRAS,PEDIDO=43877
+*************
+23/01/2022 13:25:45,ross,VALIDACION RESULTADO,PEDIDO=43877/400142
+*************
+23/01/2022 13:25:45,ross,VALIDACION RESULTADO,PEDIDO=43877/400149
+*************
+23/01/2022 13:25:45,ross,VALIDACION RESULTADO,PEDIDO=43877/400150
+*************
+23/01/2022 13:51:00,ross,IMPRIME POR AREA,PEDIDO=43877
+*************
+23/01/2022 13:55:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 13:55:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 13:55:27,ross,IMPRIME POR AREA,PEDIDO=43877
+*************
+23/01/2022 13:55:39,ross,IMPRIME POR AREA,PEDIDO=43876
+*************
+23/01/2022 13:56:03,ross,01 GENERAR ORDEN  NEURO SALUD EXAMENES: 400151,,PEDIDO=43878
+*************
+23/01/2022 13:56:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=43878
+*************
+23/01/2022 13:56:20,ross,VALIDACION RESULTADO,PEDIDO=43878/400151
+*************
+23/01/2022 13:56:48,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 13:57:10,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:00:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 14:00:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 14:00:42,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:00:55,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:01:25,ross,IMPRIME POR AREA,PEDIDO=43877
+*************
+23/01/2022 14:09:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 14:09:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 14:10:14,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:10:27,ross,IMPRIME POR AREA,PEDIDO=43877
+*************
+23/01/2022 14:11:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 14:11:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 14:12:10,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:12:20,ross,IMPRIME POR AREA,PEDIDO=43877
+*************
+23/01/2022 14:16:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 14:16:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 14:16:41,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:16:57,ross,Eliminar Convenio,Convenio0NEURO SALUD
+*************
+23/01/2022 14:16:57,ross,Elimina Lista de Precios,Lista Precio=NEURO SALUD
+*************
+23/01/2022 14:16:57,ross,Eliminar Secuencia,SECUENCIA=NEURO SALUD
+*************
+23/01/2022 14:17:37,ross,Nuevo Servicio,SERVICIO=NEURO SALUD
+*************
+23/01/2022 14:17:51,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:18:30,ross,1 MODIFICA ORDENNORMAL,PEDIDO=43878
+*************
+23/01/2022 14:18:49,ross,IMPRIME POR AREA,PEDIDO=43878
+*************
+23/01/2022 14:18:59,ross,IMPRIME POR AREA,PEDIDO=43877
+*************
+23/01/2022 15:37:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 15:37:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 15:47:18,ross,Actualiza Test,Test=CULTIVO DE SECRECIÓN FARÍNGEA
+*************
+23/01/2022 15:47:58,ross,IMPRIME POR AREA,PEDIDO=43776
+*************
+23/01/2022 15:48:19,ross,IMPRIME TODO,PEDIDO=43776
+*************
+23/01/2022 15:48:41,ross,IMPRIME POR AREA,PEDIDO=43776
+*************
+23/01/2022 18:31:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 18:31:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 18:49:05,ross,Actualiza Test,Test=HBCORPUSCULAR MEDIA 
+*************
+23/01/2022 18:52:25,ross,Actualiza Test,Test=CONC. HB CORPUSCULAR 
+*************
+23/01/2022 18:55:33,ross,Actualizar Rango Multiple,Test=400101 Rango=.
+*************
+23/01/2022 18:55:51,ross,Actualizar Rango Multiple,Test=400408 Rango=.
+*************
+23/01/2022 18:56:01,ross,Actualizar Rango Multiple,Test=400101 Rango=.
+*************
+23/01/2022 18:56:14,ross,Eliina Rango Multiple,Teq_id=1333
+*************
+23/01/2022 18:56:30,ross,Eliina Rango Multiple,Teq_id=1330
+*************
+23/01/2022 18:56:42,ross,Actualizar Rango Multiple,Test=400408 Rango=.
+*************
+23/01/2022 18:56:58,ross,Actualiza Test,Test=BIOMETRIA HEMATICA 
+*************
+23/01/2022 18:57:07,ross,Actualiza Test,Test=ERITROSEDIMENTACION
+*************
+23/01/2022 18:57:26,ross,1 MODIFICA ORDENNORMAL,PEDIDO=43882
+*************
+23/01/2022 19:18:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 19:18:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 19:25:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/01/2022 19:25:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/01/2022 19:25:59,ross,IMPRIME POR AREA,PEDIDO=43804
+*************
+23/01/2022 19:26:12,ross,IMPRIME TODO,PEDIDO=43804
+*************
+26/01/2022 20:47:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 20:47:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 20:50:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 20:50:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 20:54:40,ross,01 GENERAR ORDEN  URGENCIA EXAMENES: 401115,,PEDIDO=352
+*************
+26/01/2022 20:54:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=352
+*************
+26/01/2022 20:55:31,ross,Actualiza Test,Test=AUDIOMETRIA
+*************
+26/01/2022 20:56:21,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+26/01/2022 20:56:33,ross,VALIDACION RESULTADO,PEDIDO=352/401115
+*************
+26/01/2022 22:15:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:15:40,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:29:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:30:18,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:32:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:32:40,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:36:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:36:52,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26/01/2022 22:36:53,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:36:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:38:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:39:28,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:47:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:47:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 22:50:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 22:50:53,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 23:10:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 23:10:54,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 23:33:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 23:33:55,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 23:40:54,19178724,IMPRIME POR AREA,PEDIDO=11940
+*************
+26/01/2022 23:41:17,19178724,IMPRIME POR AREA,PEDIDO=11940
+*************
+26/01/2022 23:42:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 23:42:17,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 23:48:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 23:49:01,19178724,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 23:50:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/01/2022 23:50:32,optometria2021,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/01/2022 23:51:25,optometria2021,GUARDA RESULTADOS,OPTOMETRIAH=
+*************
+26/01/2022 23:51:47,optometria2021,VALIDACION RESULTADO,PEDIDO=11884/401116
+*************
+27/01/2022 11:11:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2022 11:11:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2022 14:16:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2022 14:16:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2022 14:17:27,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,400230,,PEDIDO=353
+*************
+27/01/2022 14:17:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=353
+*************
+27/01/2022 14:17:57,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=354
+*************
+27/01/2022 14:17:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=354
+*************
+27/01/2022 14:18:07,ross,Inserta usuario web,Paciente=5 PPACIENTE
+*************
+27/01/2022 14:18:08,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+27/01/2022 14:21:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2022 14:21:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2022 14:30:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2022 14:30:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2022 16:13:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2022 16:13:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/01/2022 16:18:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/01/2022 16:18:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 8:35:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 8:35:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 8:35:44,ross,IMPRIME POR AREA,PEDIDO=137
+*************
+29/01/2022 8:35:54,ross,IMPRIME POR AREA,PEDIDO=138
+*************
+29/01/2022 8:39:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 8:39:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 8:40:04,ross,IMPRIME POR AREA,PEDIDO=138
+*************
+29/01/2022 8:40:27,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 8:40:39,ross,IMPRIME POR AREA,PEDIDO=245
+*************
+29/01/2022 8:40:53,ross,IMPRIME POR AREA,PEDIDO=352
+*************
+29/01/2022 8:52:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 8:52:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 8:52:59,ross,IMPRIME POR AREA,PEDIDO=138
+*************
+29/01/2022 11:21:59,,SUPERADO INTENTOS FALLIDO USR,
+*************
+29/01/2022 11:22:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 11:22:11,,Ingreso CONTRASEÑA FALLIDO,
+*************
+29/01/2022 11:22:11,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 11:22:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 11:22:33,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 11:23:00,ross,Modifica USR,USR=1
+*************
+29/01/2022 11:23:03,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 11:23:50,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 11:26:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 11:26:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 11:26:42,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 12:09:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 12:09:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 12:09:35,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 12:11:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 12:11:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 12:11:35,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 12:14:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 12:14:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/01/2022 12:14:45,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+29/01/2022 13:38:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/01/2022 13:38:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

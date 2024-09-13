@@ -1,0 +1,2130 @@
+01/11/2023 10:44:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 10:44:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 10:56:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 10:56:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:03:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:04:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:09:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:09:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:28:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:28:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:29:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:29:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:34:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:34:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:39:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:39:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 11:41:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 11:41:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 12:10:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 12:10:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 12:34:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 12:34:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 12:36:48,ross,Nuevo Pedido PRE CARGA,NORMAL/213
+*************
+01/11/2023 12:38:20,ross,Operación de Movimiento Inventario,
+*************
+01/11/2023 12:38:20,ross,Inserción de detalle movimiento inventario,
+*************
+01/11/2023 12:38:20,ross,Inserción de detalle movimiento inventario,
+*************
+01/11/2023 12:38:53,ross,Operación de Movimiento Inventario,
+*************
+01/11/2023 12:38:53,ross,Inserción de detalle movimiento inventario,
+*************
+01/11/2023 12:39:02,ross,Operación de Movimiento Inventario,
+*************
+01/11/2023 12:39:02,ross,Inserción de detalle movimiento inventario,
+*************
+01/11/2023 14:34:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2023 16:27:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2023 16:28:38,ross,Nuevo Pedido PRE CARGA,NORMAL/214
+*************
+01/11/2023 16:40:33,ross,Actualizacon Medico,Medico=ALERGOLOGIA 1
+*************
+06/11/2023 19:27:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2023 19:27:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/11/2023 19:27:40,ross,Actualizar Convenio,Convenio=JACINTO
+*************
+06/11/2023 19:27:40,ross,Actualizar Secuencia,SECUENCIA=JACINTO/1201/1300
+*************
+06/11/2023 19:27:40,ross,Actualizar LISTA PRECIO=JACINTO,
+*************
+06/11/2023 19:27:42,ross,Actualizar pedido en convenio =JACINTO,
+*************
+06/11/2023 19:31:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/11/2023 19:31:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/11/2023 19:32:05,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400295,,PEDIDO=1
+*************
+06/11/2023 19:32:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400295,,PEDIDO=2
+*************
+06/11/2023 19:33:08,ross,1 MODIFICA ORDENJACINTO,PEDIDO=2
+*************
+06/11/2023 19:34:47,ross,1 MODIFICA ORDENJACINTO,PEDIDO=1
+*************
+06/11/2023 19:35:30,ross,GUARDA RESULTADOS,COLH=33
+*************
+06/11/2023 19:35:31,ross,GUARDA RESULTADOS,AHDLH=44
+*************
+06/11/2023 19:35:31,ross,GUARDA RESULTADOS,LDLH=55
+*************
+06/11/2023 19:35:31,ross,GUARDA RESULTADOS,TGLH=66
+*************
+06/11/2023 19:35:35,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+06/11/2023 19:35:36,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+06/11/2023 19:35:36,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+06/11/2023 19:35:37,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+06/11/2023 19:35:39,ross,Eliminar resultado AUX_HIS,
+*************
+06/11/2023 19:37:12,ross,GUARDA RESULTADOS,COLH=333
+*************
+06/11/2023 19:37:12,ross,GUARDA RESULTADOS,AHDLH=444
+*************
+06/11/2023 19:37:12,ross,GUARDA RESULTADOS,LDLH=555
+*************
+06/11/2023 19:37:13,ross,GUARDA RESULTADOS,TGLH=666
+*************
+06/11/2023 19:37:15,ross,VALIDACION RESULTADO,PEDIDO=2/400149
+*************
+06/11/2023 19:37:15,ross,VALIDACION RESULTADO,PEDIDO=2/400150
+*************
+06/11/2023 19:37:16,ross,VALIDACION RESULTADO,PEDIDO=2/400151
+*************
+06/11/2023 19:37:16,ross,VALIDACION RESULTADO,PEDIDO=2/400476
+*************
+06/11/2023 19:37:17,ross,Eliminar resultado AUX_HIS,
+*************
+13-11-2023 9:30:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 9:30:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:17:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:17:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:42:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:42:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:46:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:46:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:48:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:48:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:55:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:55:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:56:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:56:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 10:58:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 10:58:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 11:00:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 11:00:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 11:02:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 11:02:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 11:05:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 11:05:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 11:07:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 11:07:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 11:55:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 11:55:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 11:59:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 11:59:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 12:01:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 12:01:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 12:07:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 12:07:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 12:09:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 12:09:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 15:11:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 15:11:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 18:08:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+13-11-2023 18:08:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13-11-2023 18:09:07,ross,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:10:49,ross,GUARDA CUTANEAS,3
+*************
+13-11-2023 18:12:22,ross,Operación de Movimiento Inventario,
+*************
+13-11-2023 18:12:22,ross,Inserción de detalle movimiento inventario,
+*************
+14-11-2023 6:07:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 6:07:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 10:32:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 10:32:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 10:49:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 10:49:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 10:51:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 10:51:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 11:07:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 11:07:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 11:36:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 11:36:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 11:36:40,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:36:40,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:05,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:08,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:09,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:37:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 11:37:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:24,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:44,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:52,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:54,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:54,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:55,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:55,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:55,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:52:56,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:01,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:01,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:01,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:18,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:18,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:18,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 11:53:18,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:00:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 12:00:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 12:02:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 12:02:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 12:03:06,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:03:09,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:03:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:03:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:03:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:03:10,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:05:30,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:05:30,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:05:30,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:05:30,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:05:30,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:05:30,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:07:44,ross,ELIMINA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:07:44,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:07:44,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:07:44,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:07:44,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:07:44,ross,GUARDA EXISTENCIA TEMP,0
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:23,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:24,ross,Eliminar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:31,ross,Guardar Bodega,
+*************
+14-11-2023 12:42:32,ross,Eliminar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:17,ross,Guardar Bodega,
+*************
+14-11-2023 12:43:58,ross,Eliminar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:44:12,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 12:45:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:49,ross,Guardar Bodega,
+*************
+14-11-2023 12:45:53,ross,Eliminar Bodega,
+*************
+14-11-2023 13:03:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:03:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 13:08:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:08:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 13:09:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:09:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 13:11:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:11:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 13:15:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:15:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 13:16:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:16:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14-11-2023 13:18:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+14-11-2023 13:18:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 10:36:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 10:36:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 10:58:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 10:58:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:09,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:10,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:48,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:00:49,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:15,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:24,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:25,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:26,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:26,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:27,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:28,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:28,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:29,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:29,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:30,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:32,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:01:33,ross,GUARDA CUTANEAS,19
+*************
+20-11-2023 11:06:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 11:06:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 11:12:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 11:12:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 11:18:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 11:18:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 11:24:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 11:24:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 11:34:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 11:34:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 11:58:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 11:58:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 12:06:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+20-11-2023 12:06:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20-11-2023 12:10:41,ross,Nuevo Pedido PRE CARGA,NORMAL/4
+*************
+20-11-2023 12:27:01,ross,Operación de Movimiento Inventario,
+*************
+20-11-2023 12:27:01,ross,Inserción de detalle movimiento inventario,
+*************
+21-11-2023 0:24:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 0:24:09,,Ingreso CONTRASEÑA FALLIDO,
+*************
+21-11-2023 0:24:09,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 0:24:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:02,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:25:03,ross,GUARDA CUTANEAS,19
+*************
+21-11-2023 0:29:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 0:29:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 9:42:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 9:42:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 10:57:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 10:57:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:08:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:08:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:12:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:12:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:14:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:14:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:16:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:16:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:19:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:19:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:21:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:21:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:27:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:27:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:28:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:28:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:29:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:29:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:36:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:36:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:40:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:40:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21-11-2023 11:45:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21-11-2023 11:45:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-11-2023 18:38:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-11-2023 18:38:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-11-2023 18:42:20,ross,Operación de Movimiento Inventario,
+*************
+23-11-2023 18:42:20,ross,Inserción de detalle movimiento inventario,
+*************
+23-11-2023 19:27:51,ross,Operación de Movimiento Inventario,
+*************
+23-11-2023 19:27:51,ross,Inserción de detalle movimiento inventario,
+*************
+23-11-2023 19:31:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+23-11-2023 19:31:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23-11-2023 19:32:12,ross,Nuevo Pedido PRE CARGA,NORMAL/22
+*************
+23-11-2023 19:34:38,ross,Operación de Movimiento Inventario,
+*************
+23-11-2023 19:34:38,ross,Inserción de detalle movimiento inventario,
+*************
+26-11-2023 17:30:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+26-11-2023 17:30:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:33:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:33:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:34:28,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:34:28,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 17:35:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:35:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:36:08,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:37:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:37:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:37:23,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:37:23,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 17:39:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:39:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:41:40,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:47:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:47:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:49:01,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:53:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:53:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:54:18,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:56:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:56:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:57:07,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 17:58:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 17:58:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 17:59:15,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 18:01:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 18:01:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 18:04:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 18:04:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 18:05:15,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 18:56:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 18:56:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 18:58:59,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:01:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:01:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:10:18,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:12:11,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 19:17:26,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:21:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:21:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:23:00,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:23:59,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 19:24:20,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:28:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:28:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:28:50,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:33:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:33:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:33:24,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:40:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:40:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:40:52,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:44:43,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 19:46:19,ross,Nuevo Pedido PRE CARGA,NORMAL/23
+*************
+24-11-2023 19:46:54,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:48:42,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:52:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:52:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:53:57,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:54:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 19:55:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 19:57:30,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 19:57:51,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 19:58:39,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 20:10:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:10:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:12:07,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:13:14,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:17:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:17:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:18:24,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:18:42,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 20:23:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:23:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:24:39,ross,Nuevo Pedido PRE CARGA,NORMAL/24
+*************
+24-11-2023 20:25:47,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:34:37,ross,Nuevo Pedido PRE CARGA,NORMAL/25
+*************
+24-11-2023 20:35:53,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:38:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:38:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:40:28,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:41:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:41:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:42:37,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:48:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:48:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:49:12,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:50:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:50:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:51:08,ross,Nuevo Pedido PRE CARGA,NORMAL/26
+*************
+24-11-2023 20:52:23,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:55:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:55:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 20:56:42,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 20:59:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 20:59:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:00:16,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:01:39,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 21:03:44,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:08:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:08:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:09:44,ross,Nuevo Pedido PRE CARGA,NORMAL/27
+*************
+24-11-2023 21:10:03,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:10:24,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 21:11:04,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:13:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:13:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:14:24,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:16:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:16:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:17:39,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:19:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:19:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:20:12,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:21:59,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 21:22:45,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:24:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:24:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:24:22,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:27:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:27:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:28:23,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:29:03,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 21:30:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:30:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:32:15,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:33:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:33:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:34:09,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:35:28,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 21:37:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:37:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:38:12,ross,Nuevo Pedido PRE CARGA,NORMAL/28
+*************
+24-11-2023 21:41:02,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:43:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:43:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:45:07,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:46:17,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 21:47:00,ross,Nuevo Pedido PRE CARGA,NORMAL/29
+*************
+24-11-2023 21:47:20,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:50:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:50:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:50:43,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:55:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:55:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 21:57:18,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 21:59:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 21:59:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 22:00:06,ross,Nuevo Pedido PRE CARGA,NORMAL/30
+*************
+24-11-2023 22:00:35,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:01:43,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 22:02:40,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:04:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 22:04:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 22:05:11,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:05:43,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:05:45,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 22:06:49,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:12:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 22:12:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 22:13:21,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:14:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 22:14:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 22:15:33,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:15:54,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 22:16:16,ross,Nuevo Pedido PRE CARGA,NORMAL/1
+*************
+24-11-2023 22:17:54,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:18:13,ross,Inserción de detalle movimiento inventario,
+*************
+24-11-2023 22:19:01,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:24:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 22:24:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 22:24:34,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:26:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+24-11-2023 22:26:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24-11-2023 22:27:30,ross,Operación de Movimiento Inventario,
+*************
+24-11-2023 22:27:40,ross,Inserción de detalle movimiento inventario,
+*************
+28-11-2023 21:29:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-11-2023 21:29:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-11-2023 21:29:52,ross,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+28-11-2023 21:30:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-11-2023 21:30:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-11-2023 21:31:19,ross,Operación de Movimiento Inventario,
+*************
+28-11-2023 21:31:20,ross,Inserción de detalle movimiento inventario,
+*************
+28-11-2023 21:31:54,ross,Operación de Movimiento Inventario,
+*************
+28-11-2023 21:32:01,ross,Inserción de detalle movimiento inventario,
+*************
+28-11-2023 21:32:23,ross,Operación de Movimiento Inventario,
+*************
+28-11-2023 21:34:00,ross,Inserción de detalle movimiento inventario,
+*************
+28-11-2023 21:38:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-11-2023 21:38:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-11-2023 21:43:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-11-2023 21:43:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-11-2023 21:49:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-11-2023 21:49:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-11-2023 21:50:24,ross,Nuevo CIE10,Cie=A00 A003
+*************
+28-11-2023 22:21:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+28-11-2023 22:21:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28-11-2023 22:22:14,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:14,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:14,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:14,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:14,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:15,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:15,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:15,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:15,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:15,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:15,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:16,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:16,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:16,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:16,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:16,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:16,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:17,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:18,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:19,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:20,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:21,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:22,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:22,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:22,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:22,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:22,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:23,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:24,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:25,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:25,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:25,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:25,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:25,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:26,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:26,ross,GUARDA CUTANEAS,2
+*************
+28-11-2023 22:22:26,ross,GUARDA CUTANEAS,2
+*************
+29/11/2023 17:57:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 17:57:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 17:57:46,ross,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+29/11/2023 19:27:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 19:27:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 19:28:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 19:28:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 19:30:17,ross,Nuevo CIE10,Cie=A00 A004
+*************
+29/11/2023 19:31:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 19:31:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 19:34:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 19:34:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 19:54:23,ross,Nuevo CIE10,Cie=A01 A015
+*************
+29/11/2023 20:22:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 20:22:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 20:26:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 20:26:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 20:34:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 20:34:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 20:35:48,ross,Nuevo CIE10,Cie=A01 A014
+*************
+29/11/2023 20:40:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 20:40:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:12,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:41:13,ross,GUARDA CUTANEAS,3
+*************
+29/11/2023 20:46:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 20:46:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:00:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:00:44,,Ingreso CONTRASEÑA FALLIDO,
+*************
+29/11/2023 21:00:44,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:00:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:03:44,ross,Nuevo Pedido PRE CARGA,NORMAL/4
+*************
+29/11/2023 21:06:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:06:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:10:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:10:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:12:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:12:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:14:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:14:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:17:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:17:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:19:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:19:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:23:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:23:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2023 21:32:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2023 21:32:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

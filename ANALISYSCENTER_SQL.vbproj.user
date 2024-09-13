@@ -1,0 +1,70 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\C:\Program Files\Business Objects\Common\2.8\managed\C:\Archivos de programa\Business Objects\Common\2.8\managed\C:\Archivos de programa\Archivos comunes\Business Objects\2.7\Managed\;C:\Program Files\Lumino\;E:\LUMINO_CDL\bin\;E:\LUMINO_CDL\;c:\winnt\assembly\gac\crystaldecisions.windows.forms\9.1.3300.0__692fbea5521e1304\;e:\lis\system\;C:\Documents and Settings\Administrator\Desktop\CODIGO JPO\WEB BROWSER\Google\bin\;E:\LIS\bin\;E:\LIS_ult\system\;E:\LIS_ult\bin\;D:\LIS\system\;D:\LIS\bin\;E:\LUMINO_PUCE\system\;E:\LUMINO_PUCE\bin\;C:\Program Files\Microsoft.NET\Odbc.Net\;E:\LUMINO_CDL\system\;C:\LUMINO_CDL\bin\;C:\LUMINO_CDL\;E:\LUMINNO_CDL\bin\;C:\Lumino_PUCE\bin\;C:\Program Files\Lumino\bin\;C:\Program Files\Lumino_CDL\bin\;C:\Program Files\LuminoCDL\bin\;E:\LuminoIESS15-ene\bin\;E:\LuminoIESS15-ene\;E:\LuminoIESS\bin\;E:\LuminoIESS\;\\Pclis05\LuminoPoli\bin\;\\Pclis05\LuminoPoli\;D:\LuminoPolicia\bin\;D:\LuminoPolicia\;C:\Program Files\Common Files\Business Objects\2.7\Managed\;C:\Program Files\LuminoPOLICIA\;C:\Program Files\LuminioPOLICIA\;C:\Archivos de programa\IBM\Client Access\;C:\Program Files\LuminocruzBlanca\bin\;C:\Program Files\LuminocruzBlanca\;C:\Program Files\LuminoIESSCUENCA Opera\bin\;C:\Program Files\LuminoIESSCUENCA Opera\;C:\Documents and Settings\Rossvan\Mis documentos\Visual Studio Projects\LuminocruzBlanca\bin\;C:\Documents and Settings\Rossvan\Mis documentos\Visual Studio Projects\LuminocruzBlanca\</ReferencePath>
+    <CopyProjectDestinationFolder>
+    </CopyProjectDestinationFolder>
+    <CopyProjectUncPath>
+    </CopyProjectUncPath>
+    <CopyProjectOption>0</CopyProjectOption>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectTrust>0</ProjectTrust>
+    <PublishUrlHistory>http://localhost/PRJ_LIS/</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartAction>Project</StartAction>
+    <StartArguments>
+    </StartArguments>
+    <StartPage>
+    </StartPage>
+    <StartProgram>
+    </StartProgram>
+    <StartURL>
+    </StartURL>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartWithIE>false</StartWithIE>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartAction>Project</StartAction>
+    <StartArguments>
+    </StartArguments>
+    <StartPage>
+    </StartPage>
+    <StartProgram>
+    </StartProgram>
+    <StartURL>
+    </StartURL>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartWithIE>false</StartWithIE>
+  </PropertyGroup>
+</Project>

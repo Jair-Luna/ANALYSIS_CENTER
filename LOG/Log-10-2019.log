@@ -1,0 +1,1810 @@
+01/10/2019 17:16:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/10/2019 17:16:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/10/2019 17:26:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/10/2019 17:26:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/10/2019 17:28:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/10/2019 17:28:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 15:54:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/10/2019 15:54:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 15:55:38,ross,Generar Paciente,Paciente=FLORES NARANJO
+*************
+02/10/2019 15:56:12,ross,01 GENERAR ORDEN,PEDIDO=19
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,WBCH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,LYMH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,NEUH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,MONOH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,EOSH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,BASOH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,HGBH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,RBCH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,HCTH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,MCVH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,MCHH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,RDW_SDH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,RDW_CVH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,PLTH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,PDWH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,MPVH=1
+*************
+02/10/2019 15:56:35,ross,GUARDA RESULTADOS,PCTH=1
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,PHO=5
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,LEUO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,PROTO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,UROO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,SANO=NEGATIVO
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,HGBO=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CELEPH=1-2
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,BACO=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CILCE=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,ASCOH=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CELPOH=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CIGO=
+*************
+02/10/2019 15:56:56,ross,GUARDA RESULTADOS,CILO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,OXAO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,CRIO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,URO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,CCETO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,ESP=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,FOO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,HEMOH=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,MOCO=
+*************
+02/10/2019 15:56:57,ross,GUARDA RESULTADOS,OTROSO=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,COLOR=MARRON
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,CONSISTENCIA=PASTOSA
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,Ph=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,SANC2=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,VMICC2=++
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,RAC2=+++
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,GRASAS=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,LEVADURAS=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,PIOCITO=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,FBACC2=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,INVPAC2=-INV. DE PARASITOS-
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,AMBHC1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,ACOLI=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,TENCP1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,LANDC1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+02/10/2019 15:57:09,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+02/10/2019 15:57:10,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+02/10/2019 15:57:10,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+02/10/2019 15:57:10,ross,GUARDA RESULTADOS,NANAC1=
+*************
+02/10/2019 15:57:10,ross,GUARDA RESULTADOS,OTROS=
+*************
+02/10/2019 15:57:34,ross,GUARDA NOTA AREA,EXAMEN PADRE=400847/SUERO LIPEMICO
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,HB1C=2
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,TCH=2
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,TGH=2
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,AHDL=2
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,VLDL=2
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,LDLH=2
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,fPSA=3
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,PSA=3
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+02/10/2019 15:57:45,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400101
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400145
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400149
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400150
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400151
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400230
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400244
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400476
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400783
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400784
+*************
+02/10/2019 15:57:48,ross,VALIDACION RESULTADO,PEDIDO=19/400847
+*************
+02/10/2019 15:58:06,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+02/10/2019 16:10:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/10/2019 16:10:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 16:10:33,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+02/10/2019 16:11:36,ross,IMPRIME TODO,PEDIDO=19
+*************
+02/10/2019 16:12:07,ross,IMPRIME POR EMAMEN,PEDIDO=19
+*************
+02/10/2019 16:18:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/10/2019 16:18:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 16:18:24,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+02/10/2019 16:18:56,ross,GUARDA NOTA AREA,EXAMEN PADRE=400151/SUERO LIPEMICO
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,HB1C=2
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,TCH=2
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,TGH=2
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,AHDL=2
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,VLDL=2
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,LDLH=2
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,fPSA=3
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,PSA=3
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+02/10/2019 16:18:59,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+02/10/2019 16:19:09,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+02/10/2019 16:19:37,ross,IMPRIME TODO,PEDIDO=19
+*************
+02/10/2019 16:24:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/10/2019 16:24:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 16:24:19,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+02/10/2019 17:15:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/10/2019 17:15:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 17:16:01,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+02/10/2019 17:18:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/10/2019 17:18:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/10/2019 17:18:43,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+03/10/2019 11:21:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/10/2019 11:21:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/10/2019 11:21:22,ross,Actualiza FACTURA,FACTURA=6
+*************
+03/10/2019 11:21:22,ross,Ingresa FACTURA,FACTURA=6
+*************
+03/10/2019 11:21:24,ross,Insertar abono,Factura=6 Abono= 70
+*************
+03/10/2019 11:21:24,ross,Cancela FACTURA,FACTURA=6
+*************
+03/10/2019 11:21:26,ross,Registra Tx Factura,Factura=6
+*************
+03/10/2019 11:22:24,ross,Registra Tx Factura,Factura=6
+*************
+03/10/2019 11:22:29,ross,Actualiza FACTURA,FACTURA=7
+*************
+03/10/2019 11:22:29,ross,Ingresa FACTURA,FACTURA=7
+*************
+03/10/2019 11:22:30,ross,Insertar abono,Factura=6 Abono= 70
+*************
+03/10/2019 11:22:30,ross,Cancela FACTURA,FACTURA=6
+*************
+03/10/2019 11:22:31,ross,Registra Tx Factura,Factura=6
+*************
+03/10/2019 11:23:07,ross,01 GENERAR ORDEN,PEDIDO=20
+*************
+03/10/2019 11:23:39,ross,Actualiza FACTURA,FACTURA=8
+*************
+03/10/2019 11:23:39,ross,Ingresa FACTURA,FACTURA=8
+*************
+03/10/2019 11:23:40,ross,Insertar abono,Factura=8 Abono= 70
+*************
+03/10/2019 11:23:40,ross,Cancela FACTURA,FACTURA=8
+*************
+03/10/2019 11:23:42,ross,Registra Tx Factura,Factura=8
+*************
+03/10/2019 11:26:56,ross,Registra Tx Factura,Factura=8
+*************
+03/10/2019 12:15:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/10/2019 12:15:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/10/2019 16:01:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/10/2019 16:01:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 11:51:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 11:51:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 11:56:44,ross,Generar Paciente,Paciente=AMORES MONTENEGRO CARLOS IVAN
+*************
+08/10/2019 11:56:44,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/21
+*************
+08/10/2019 11:56:44,ross,Generar Paciente,Paciente=ARGUELLO HERRERA CESAR ANDRES
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/22
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=AYOVI PALMA IVONNE DEL ROCIO
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/23
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=CHAVEZ BEDON TATIANA KARINA
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/24
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=CHICAIZA SANTOS MARCO ANTONIO
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/25
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=ESCANDON PATIÑO ADRIANA PAOLA
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/26
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=GRANDA PALADINES RONAL PAVEL
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/27
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=QUIÑONEZ ORTIZ FELIX MEDARDO
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/28
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=SANTANDER VASQUEZ PAMELA EVELIN
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/29
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=SANTIN AGUIRRE ANDREA MABEL
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/30
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=SILVA CAMPOVERDE GISSELA MARELY
+*************
+08/10/2019 11:56:45,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/31
+*************
+08/10/2019 11:56:45,ross,Generar Paciente,Paciente=SHUALO MAYRA
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/32
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=VALLE ROSERO JORGE ENRIQUE
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/33
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=VALVERDE CHAVEZ JOSE LUIS
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/34
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=RODRIGUEZ PARRA CARLOS JAVIER
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/35
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=ALVAREZ JACOME GENNY DEL ROCIO
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/36
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=BRIONES ALCIVAR JAVIER ANTONIO
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/37
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=RODRIGUEZ BAQUE LEONEL RICARDO
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/38
+*************
+08/10/2019 11:56:46,ross,Generar Paciente,Paciente=MONTENRGRO JEREZ MAX VLADIMIR
+*************
+08/10/2019 11:56:46,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/39
+*************
+08/10/2019 12:25:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 12:25:16,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/10/2019 12:25:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 12:25:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 12:32:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 12:32:54,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/10/2019 12:32:54,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 12:32:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 12:33:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 12:33:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 12:54:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 12:54:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 12:55:05,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/40
+*************
+08/10/2019 12:55:05,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/41
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/42
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/43
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/44
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/45
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/46
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/47
+*************
+08/10/2019 12:55:06,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/48
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/49
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/50
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/51
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/52
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/53
+*************
+08/10/2019 12:55:07,ross,Generar Paciente,Paciente=RODRIGUEZ PARRA CARLOS JAVIER
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/54
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/55
+*************
+08/10/2019 12:55:07,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/56
+*************
+08/10/2019 12:55:08,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/57
+*************
+08/10/2019 12:55:08,ross,Nuevo Pedido PRE CARGA,TRUESOLUTIONS/58
+*************
+08/10/2019 13:47:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 13:47:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 13:53:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 13:53:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 13:55:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 13:55:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 13:58:02,ross,Nuevo Pedido PRE CARGA,NORMAL/59
+*************
+08/10/2019 13:58:09,ross,Nuevo Pedido PRE CARGA,NORMAL/60
+*************
+08/10/2019 13:58:11,ross,Nuevo Pedido PRE CARGA,NORMAL/61
+*************
+08/10/2019 13:58:11,ross,Nuevo Pedido PRE CARGA,NORMAL/62
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/63
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/64
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/65
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/66
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/67
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/68
+*************
+08/10/2019 13:58:12,ross,Nuevo Pedido PRE CARGA,NORMAL/69
+*************
+08/10/2019 13:58:13,ross,Nuevo Pedido PRE CARGA,NORMAL/70
+*************
+08/10/2019 13:58:13,ross,Nuevo Pedido PRE CARGA,NORMAL/71
+*************
+08/10/2019 13:58:13,ross,Nuevo Pedido PRE CARGA,NORMAL/72
+*************
+08/10/2019 13:58:13,ross,Nuevo Pedido PRE CARGA,NORMAL/73
+*************
+08/10/2019 13:58:13,ross,Nuevo Pedido PRE CARGA,NORMAL/74
+*************
+08/10/2019 13:58:14,ross,Nuevo Pedido PRE CARGA,NORMAL/75
+*************
+08/10/2019 13:58:14,ross,Nuevo Pedido PRE CARGA,NORMAL/76
+*************
+08/10/2019 13:58:14,ross,Nuevo Pedido PRE CARGA,NORMAL/77
+*************
+08/10/2019 23:02:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 23:02:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 23:16:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 23:16:07,,Ingreso CONTRASEÑA FALLIDO,
+*************
+08/10/2019 23:16:07,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 23:16:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/10/2019 23:21:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/10/2019 23:21:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2019 11:03:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/10/2019 11:04:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2019 11:11:19,ross,Generar Paciente,Paciente=ERAZO RAMIREZ XAVIER EDUARDO
+*************
+11/10/2019 11:15:25,ross,PROFORMAR,PEDIDO=78
+*************
+11/10/2019 11:16:17,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+11/10/2019 11:16:27,ross,IMPRIMIR PROFORMA,Proforma=78
+*************
+11/10/2019 11:17:06,ross,1 MODIFICA ORDEN,PEDIDO=78
+*************
+11/10/2019 11:17:08,ross,CONVIERTE PROFORMA,PEDIDO=78
+*************
+11/10/2019 11:17:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=78
+*************
+11/10/2019 11:17:10,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+11/10/2019 11:17:52,ross,Actualiza FACTURA,FACTURA=9
+*************
+11/10/2019 11:17:52,ross,Ingresa FACTURA,FACTURA=9
+*************
+11/10/2019 11:17:52,ross,Insertar abono,Factura=9 Abono= 3
+*************
+11/10/2019 11:17:52,ross,Actualiza FACTURA,FACTURA=9/3
+*************
+11/10/2019 11:18:18,ross,Actualiza FACTURA,FACTURA=10
+*************
+11/10/2019 11:18:18,ross,Ingresa FACTURA,FACTURA=10
+*************
+11/10/2019 11:18:18,ross,Insertar abono,Factura=9 Abono= 3
+*************
+11/10/2019 11:18:18,ross,Actualiza FACTURA,FACTURA=9/3
+*************
+11/10/2019 11:19:43,ross,Insertar abono,Factura=10 Abono= 31.5
+*************
+11/10/2019 11:19:43,ross,Cancela FACTURA,FACTURA=10
+*************
+11/10/2019 11:19:46,ross,Registra Tx Factura,Factura=10
+*************
+11/10/2019 11:20:37,ross,Registra Tx Factura,Factura=10
+*************
+11/10/2019 11:23:22,ross,AGENDAMIENTO,PEDIDO=79
+*************
+11/10/2019 11:32:34,ross,Nuevo Pedido PRE CARGA,NORMAL/80
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/81
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/82
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/83
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/84
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/85
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/86
+*************
+11/10/2019 11:32:35,ross,Nuevo Pedido PRE CARGA,NORMAL/87
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/88
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/89
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/90
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/91
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/92
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/93
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/94
+*************
+11/10/2019 11:32:36,ross,Nuevo Pedido PRE CARGA,NORMAL/95
+*************
+11/10/2019 11:32:37,ross,Nuevo Pedido PRE CARGA,NORMAL/96
+*************
+11/10/2019 11:32:37,ross,Nuevo Pedido PRE CARGA,NORMAL/97
+*************
+11/10/2019 11:32:37,ross,Nuevo Pedido PRE CARGA,NORMAL/98
+*************
+11/10/2019 11:35:24,ross,IMPRIMIR HOJA TRABAJO,
+*************
+11/10/2019 11:35:34,ross,IMPRIMIR HOJA TRABAJO,
+*************
+11/10/2019 11:37:38,ross,IMPRIMIR HOJA TRABAJO,
+*************
+11/10/2019 11:42:24,ross,GUARDA RESULTADOS,WBCH=3.5
+*************
+11/10/2019 11:42:24,ross,GUARDA RESULTADOS,LYMH=1
+*************
+11/10/2019 11:42:24,ross,GUARDA RESULTADOS,NEUH=1
+*************
+11/10/2019 11:42:24,ross,GUARDA RESULTADOS,MONOH=1
+*************
+11/10/2019 11:42:24,ross,GUARDA RESULTADOS,EOSH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,BASOH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,HGBH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,RBCH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,HCTH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,MCVH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,MCHH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,RDW_SDH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,RDW_CVH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,PLTH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,PDWH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,MPVH=1
+*************
+11/10/2019 11:42:25,ross,GUARDA RESULTADOS,PCTH=1
+*************
+11/10/2019 11:43:38,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+11/10/2019 11:43:38,ross,GUARDA RESULTADOS,GLUCPP2H=1
+*************
+11/10/2019 11:43:38,ross,GUARDA RESULTADOS,HB1C=1
+*************
+11/10/2019 11:43:38,ross,GUARDA RESULTADOS,GLU=1
+*************
+11/10/2019 11:44:10,ross,VALIDACION RESULTADO,PEDIDO=78/400101
+*************
+11/10/2019 11:44:10,ross,VALIDACION RESULTADO,PEDIDO=78/400142
+*************
+11/10/2019 11:44:10,ross,VALIDACION RESULTADO,PEDIDO=78/400145
+*************
+11/10/2019 11:44:10,ross,VALIDACION RESULTADO,PEDIDO=78/400568
+*************
+11/10/2019 11:44:47,ross,IMPRIME POR AREA,PEDIDO=78
+*************
+11/10/2019 11:45:30,ross,IMPRIME TODO,PEDIDO=78
+*************
+11/10/2019 11:47:23,ross,IMPRIME POR EMAMEN,PEDIDO=78
+*************
+11/10/2019 11:47:42,ross,IMPRIME SOBRE,PEDIDO=78
+*************
+11/10/2019 11:54:36,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=78 EMAIL NO VALIDO
+*************
+11/10/2019 11:55:54,ross,Actualiza Paciente,Paciente=ERAZO RAMIREZ XAVIER EDUARDO
+*************
+11/10/2019 11:56:02,ross,ERROR ENVIO CORREO PACIENTE,PEDIDO=78 EMAIL NO VALIDO
+*************
+11/10/2019 11:56:31,ross,ENVIO CORREO PACIENTE,PEDIDO=78
+*************
+11/10/2019 11:58:51,ross,Eliminar Bonificación,Bonificacion=BONO 27
+*************
+11/10/2019 11:59:07,ross,Guardar Bonificación,Bonificacion=BONO 49% 49
+*************
+11/10/2019 11:59:34,ross,Actualizacón Médico,Medico=REYES KAROLYS DAVID
+*************
+11/10/2019 12:04:24,ross,Nuevo Convenio,Convenio=CENTRO MEDICO
+*************
+11/10/2019 12:04:25,ross,Guardar secuencia,SECUENCIA=CENTRO MEDICO/2001/3001
+*************
+11/10/2019 12:04:31,ross,Elimina Lista de Precios,Lista Precio=CENTRO MEDICO
+*************
+11/10/2019 12:08:23,ross,Actualiza Test,Test=BIOMETRIA HEMATICA 
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:37,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:19:38,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+11/10/2019 12:20:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/10/2019 12:20:17,XERAZO,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/10/2019 12:29:09,XERAZO,Actualizar Rango Unico,Test=400142 Rango=70-110
+*************
+11/10/2019 12:30:34,XERAZO,Actualizar Rango Unico,Test=400141 Rango=0.6-1.3
+*************
+11/10/2019 12:33:13,XERAZO,Eliminar Perfil,4
+*************
+15/10/2019 17:27:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/10/2019 17:27:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/10/2019 17:28:28,ross,01 GENERAR ORDEN,PEDIDO=99
+*************
+16/10/2019 12:04:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/10/2019 12:04:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/10/2019 12:04:59,ross,01 GENERAR ORDEN,PEDIDO=100
+*************
+16/10/2019 12:05:19,ross,GUARDA RESULTADOS,TCH=12
+*************
+16/10/2019 12:05:19,ross,GUARDA RESULTADOS,GLU=13
+*************
+16/10/2019 12:05:19,ross,GUARDA RESULTADOS,TGH=14
+*************
+16/10/2019 12:05:20,ross,VALIDACION RESULTADO,PEDIDO=100/400142
+*************
+16/10/2019 12:05:20,ross,VALIDACION RESULTADO,PEDIDO=100/400149
+*************
+16/10/2019 12:05:20,ross,VALIDACION RESULTADO,PEDIDO=100/400151
+*************
+16/10/2019 12:10:05,ross,GUARDA RESULTADOS,TCH=12
+*************
+16/10/2019 12:10:05,ross,GUARDA RESULTADOS,GLU=13
+*************
+16/10/2019 12:10:05,ross,GUARDA RESULTADOS,TGH=14
+*************
+16/10/2019 16:54:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 16:54:06,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 16:57:51,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 16:57:51,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 17:02:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 17:02:20,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 17:34:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/10/2019 17:34:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/10/2019 17:34:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 17:34:30,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 17:34:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 17:34:49,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 17:35:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 17:35:56,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 17:36:11,ross,02 IMPRIMIR COD BARRAS,PEDIDO=100
+*************
+16/10/2019 17:36:11,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+16/10/2019 17:47:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/10/2019 17:48:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/10/2019 17:48:31,ross,GUARDA RESULTADOS,TCH=12
+*************
+16/10/2019 17:48:31,ross,GUARDA RESULTADOS,GLU=13
+*************
+16/10/2019 17:48:31,ross,GUARDA RESULTADOS,TGH=14
+*************
+16/10/2019 17:54:17,ross,GUARDA RESULTADOS,TCH=12
+*************
+16/10/2019 17:54:17,ross,GUARDA RESULTADOS,GLU=13
+*************
+16/10/2019 17:54:17,ross,GUARDA RESULTADOS,TGH=14
+*************
+16/10/2019 17:55:46,ross,GUARDA RESULTADOS,TCH=12
+*************
+16/10/2019 17:55:46,ross,GUARDA RESULTADOS,GLU=13
+*************
+16/10/2019 17:55:46,ross,GUARDA RESULTADOS,TGH=14
+*************
+16/10/2019 18:10:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/10/2019 18:10:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/10/2019 18:10:14,ross,GUARDA RESULTADOS,TCH=12
+*************
+16/10/2019 18:10:15,ross,GUARDA RESULTADOS,GLU=13
+*************
+16/10/2019 18:10:15,ross,GUARDA RESULTADOS,TGH=14
+*************
+17/10/2019 9:11:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 9:11:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 9:11:48,ross,01 GENERAR ORDEN,PEDIDO=218
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,WBCR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,NEUR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,LYMR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,MONOR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,EOSR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,BASOR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,NEU%25R=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,LYM%25R=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,MONO%25R=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,EOS%25R=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,BASO%25R=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,sep01=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,RBCR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,HGBR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,HCTR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,MCVR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,MCHR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,MCHCR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,RDW_CVR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,RDW_SDR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,sep02=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,PLTR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,PCTR=2
+*************
+17/10/2019 9:13:33,ross,GUARDA RESULTADOS,MPVR=2
+*************
+17/10/2019 9:13:34,ross,GUARDA RESULTADOS,PDWR=2
+*************
+17/10/2019 9:13:34,ross,GUARDA RESULTADOS,PDWCR=
+*************
+17/10/2019 9:13:34,ross,GUARDA RESULTADOS,P_LCRR=
+*************
+17/10/2019 9:13:34,ross,GUARDA RESULTADOS,P_LCCR=
+*************
+17/10/2019 9:13:40,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 9:13:43,ross,VALIDACION RESULTADO,PEDIDO=218/400101
+*************
+17/10/2019 10:10:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 10:10:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 10:10:44,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:16:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 10:16:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 10:22:29,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:24:35,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:25:06,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:30:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 10:30:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 10:30:29,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:32:59,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:41:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 10:41:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 10:41:52,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 10:42:51,ross,Actualiza Mail Paciente,Paciente=168 rossvanflores@hotmail.com
+*************
+17/10/2019 10:42:51,ross,Inserta usuario web,Paciente=168 RFLORES
+*************
+17/10/2019 21:12:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 21:12:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 21:12:52,ross,01 GENERAR ORDEN,PEDIDO=219
+*************
+17/10/2019 21:20:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/10/2019 21:20:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/10/2019 21:20:29,ross,01 GENERAR ORDEN,PEDIDO=220
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,WBC=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,NEU=33
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,LYM=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,MONO=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,EOS=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,BASO=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,MONO%25=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,EOS%25=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,BASO%25=3
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,sep01=
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,RBC=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,HGB=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,HCT=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,MCV=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,MCH=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,MCHC=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,RDW_CV=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,RDW_SD=4
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,sep02=
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,PLT=5
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,PCT=5
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,MPV=5
+*************
+17/10/2019 21:21:30,ross,GUARDA RESULTADOS,PDW=5
+*************
+17/10/2019 21:21:31,ross,GUARDA RESULTADOS,PDWC=
+*************
+17/10/2019 21:21:31,ross,GUARDA RESULTADOS,P_LCR=
+*************
+17/10/2019 21:21:31,ross,GUARDA RESULTADOS,P_LCC=
+*************
+17/10/2019 21:21:42,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+17/10/2019 21:21:44,ross,VALIDACION RESULTADO,PEDIDO=220/400101
+*************
+17/10/2019 21:22:07,ross,Actualiza Mail Paciente,Paciente=169 rossvanflores@hotmail.com
+*************
+17/10/2019 21:22:07,ross,Inserta usuario web,Paciente=169 MMORALES
+*************
+19/10/2019 14:01:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/10/2019 14:01:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/10/2019 14:01:43,ross,01 GENERAR ORDEN,PEDIDO=221
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,WBCR=1
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,NEUR=2
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,LYMR=3
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,MONOR=4
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,EOSR=5
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,BASOR=5
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,NEU%25R=6
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,LYM%25R=7
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,MONO%25R=8
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,EOS%25R=9
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,BASO%25R=10
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,sep01=
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,RBCR=11
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,HGBR=12
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,HCTR=13
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,MCVR=14
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,MCHR=15
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,MCHCR=16
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,RDW_CVR=17
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,RDW_SDR=18
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,sep02=
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,PLTR=19
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,PCTR=20
+*************
+19/10/2019 14:02:36,ross,GUARDA RESULTADOS,MPVR=21
+*************
+19/10/2019 14:02:37,ross,GUARDA RESULTADOS,PDWR=22
+*************
+19/10/2019 14:02:37,ross,GUARDA RESULTADOS,PDWCR=23
+*************
+19/10/2019 14:02:37,ross,GUARDA RESULTADOS,P_LCRR=24
+*************
+19/10/2019 14:02:37,ross,GUARDA RESULTADOS,P_LCCR=25
+*************
+19/10/2019 14:02:41,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+19/10/2019 14:02:46,ross,VALIDACION RESULTADO,PEDIDO=221/400101
+*************
+19/10/2019 14:13:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/10/2019 14:13:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/10/2019 14:14:02,ross,IMPRIME POR AREA,PEDIDO=221
+*************
+20/10/2019 13:32:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 13:33:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 13:33:58,ross,01 GENERAR ORDEN,PEDIDO=101
+*************
+20/10/2019 13:34:56,ross,1 ANULA ORDEN,PEDIDO=101
+*************
+20/10/2019 13:36:12,ross,01 GENERAR ORDEN,PEDIDO=102
+*************
+20/10/2019 13:42:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 13:42:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 13:42:36,ross,01 GENERAR ORDEN,PEDIDO=1736
+*************
+20/10/2019 13:43:20,ross,GUARDA RESULTADOS,WBCR=1
+*************
+20/10/2019 13:43:20,ross,GUARDA RESULTADOS,NEUR=1
+*************
+20/10/2019 13:43:20,ross,GUARDA RESULTADOS,LYMR=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,MONOR=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,EOSR=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,BASOR=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,NEU%25R=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,LYM%25R=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,MONO%25R=1
+*************
+20/10/2019 13:43:21,ross,GUARDA RESULTADOS,EOS%25R=1
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,BASO%25R=1
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,sep01=-----------------------------
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,RBCR=2
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,HGBR=2
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,HCTR=2
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,MCVR=2
+*************
+20/10/2019 13:43:22,ross,GUARDA RESULTADOS,MCHR=2
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,MCHCR=2
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,RDW_CVR=2
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,RDW_SDR=2
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,sep02=-----------------------------
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,PLTR=3
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,PCTR=3
+*************
+20/10/2019 13:43:23,ross,GUARDA RESULTADOS,MPVR=3
+*************
+20/10/2019 13:43:24,ross,GUARDA RESULTADOS,PDWSR=3
+*************
+20/10/2019 13:43:24,ross,GUARDA RESULTADOS,PDWCR=3
+*************
+20/10/2019 13:43:24,ross,GUARDA RESULTADOS,P_LCRR=3
+*************
+20/10/2019 13:43:24,ross,GUARDA RESULTADOS,P_LCCR=3
+*************
+20/10/2019 13:43:28,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+20/10/2019 13:43:33,ross,VALIDACION RESULTADO,PEDIDO=1736/400101
+*************
+20/10/2019 13:43:52,ross,Actualiza Mail Paciente,Paciente=168 rossvanflores@hotmail.com
+*************
+20/10/2019 13:43:52,ross,Inserta usuario web,Paciente=168 RFLORES
+*************
+20/10/2019 13:47:11,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+20/10/2019 13:47:31,ross,IMPRIME POR AREA,PEDIDO=1736
+*************
+20/10/2019 14:04:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 14:04:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 14:17:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 14:17:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 14:26:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 14:26:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 14:30:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 14:30:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 14:31:44,ross,IMPRIME POR AREA,PEDIDO=1736
+*************
+20/10/2019 15:37:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 15:37:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 15:38:12,ross,IMPRIME POR AREA,PEDIDO=1736
+*************
+20/10/2019 15:38:29,ross,IMPRIME TODO,PEDIDO=1736
+*************
+20/10/2019 15:38:58,ross,1 MODIFICA ORDEN,PEDIDO=1736
+*************
+20/10/2019 15:39:30,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+20/10/2019 15:39:30,ross,GUARDA RESULTADOS,TGR=10
+*************
+20/10/2019 15:39:33,ross,VALIDACION RESULTADO,PEDIDO=1736/400151
+*************
+20/10/2019 15:39:47,ross,IMPRIME POR AREA,PEDIDO=1736
+*************
+20/10/2019 15:40:00,ross,IMPRIME TODO,PEDIDO=1736
+*************
+20/10/2019 15:40:20,ross,IMPRIME POR AREA,PEDIDO=1736
+*************
+20/10/2019 15:40:38,ross,IMPRIME POR EMAMEN,PEDIDO=1736
+*************
+20/10/2019 15:41:03,ross,IMPRIME POR EMAMEN,PEDIDO=1736
+*************
+20/10/2019 15:45:26,ross,IMPRIME POR EMAMEN,PEDIDO=1736
+*************
+20/10/2019 15:47:00,ross,IMPRIME POR EMAMEN,PEDIDO=1736
+*************
+20/10/2019 15:47:13,ross,IMPRIME POR EMAMEN,PEDIDO=1736
+*************
+20/10/2019 15:48:40,ross,IMPRIME POR EMAMEN,PEDIDO=1736
+*************
+20/10/2019 16:36:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 16:36:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 16:37:29,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+20/10/2019 16:37:29,ross,GUARDA RESULTADOS,TGR=10
+*************
+20/10/2019 16:51:53,ross,Inserta usuario web,Paciente=3 
+*************
+20/10/2019 19:16:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 19:16:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 22:23:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 22:23:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 23:35:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 23:35:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 23:47:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 23:47:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/10/2019 23:54:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/10/2019 23:54:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:26:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:26:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:33:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:33:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:38:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:38:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:43:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:43:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:48:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:48:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:53:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:53:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 0:59:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 0:59:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 1:05:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 1:05:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 1:11:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 1:11:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 1:17:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 1:17:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 1:23:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 1:23:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 1:29:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 1:29:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 1:33:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 1:33:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 14:14:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 14:14:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 16:15:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 16:15:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 16:15:40,ross,IMPRIME POR AREA,PEDIDO=100
+*************
+21/10/2019 16:20:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 16:20:25,,Ingreso CONTRASEÑA FALLIDO,
+*************
+21/10/2019 16:20:25,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 16:20:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 16:21:46,ross,IMPRIME POR AREA,PEDIDO=1735
+*************
+21/10/2019 16:21:54,ross,IMPRIME TODO,PEDIDO=1735
+*************
+21/10/2019 16:27:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 16:27:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 16:28:12,ross,IMPRIME POR EMAMEN,PEDIDO=1735
+*************
+21/10/2019 16:34:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/10/2019 16:34:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/10/2019 16:35:11,ross,IMPRIME POR EMAMEN,PEDIDO=1735
+*************
+21/10/2019 16:35:22,ross,IMPRIME POR AREA,PEDIDO=1735
+*************
+23/10/2019 12:01:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/10/2019 12:01:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/10/2019 12:01:27,ross,01 GENERAR ORDEN,PEDIDO=1805
+*************
+23/10/2019 12:01:41,ross,01 GENERAR ORDEN,PEDIDO=1806
+*************
+23/10/2019 12:01:57,ross,01 GENERAR ORDEN,PEDIDO=1807
+*************
+24/10/2019 9:24:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/10/2019 9:24:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/10/2019 9:24:18,ross,01 GENERAR ORDEN,PEDIDO=1808
+*************
+24/10/2019 9:24:26,ross,Actualiza FACTURA,FACTURA=7774
+*************
+24/10/2019 9:24:26,ross,Ingresa FACTURA,FACTURA=7774
+*************
+24/10/2019 9:24:27,ross,Insertar abono,Factura=7774 Abono= 2
+*************
+24/10/2019 9:24:27,ross,Cancela FACTURA,FACTURA=7774
+*************
+24/10/2019 9:24:31,ross,Registra Tx Factura,Factura=7774
+*************
+24/10/2019 9:24:53,ross,Actualiza FACTURA,FACTURA=7775
+*************
+24/10/2019 9:24:53,ross,Ingresa FACTURA,FACTURA=7775
+*************
+24/10/2019 9:24:54,ross,Insertar abono,Factura=7774 Abono= 2
+*************
+24/10/2019 9:24:54,ross,Cancela FACTURA,FACTURA=7774
+*************
+24/10/2019 9:25:01,ross,Registra Tx Factura,Factura=7774
+*************
+24/10/2019 9:28:28,ross,01 GENERAR ORDEN,PEDIDO=1809
+*************
+24/10/2019 9:28:38,ross,Actualiza FACTURA,FACTURA=7776
+*************
+24/10/2019 9:28:38,ross,Ingresa FACTURA,FACTURA=7776
+*************
+24/10/2019 9:28:39,ross,Insertar abono,Factura=7776 Abono= 2
+*************
+24/10/2019 9:28:39,ross,Cancela FACTURA,FACTURA=7776
+*************
+24/10/2019 9:28:43,ross,Registra Tx Factura,Factura=7776
+*************
+24/10/2019 9:35:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/10/2019 9:35:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2019 15:00:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/10/2019 15:00:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/10/2019 15:00:59,ross,IMPRIME POR AREA,PEDIDO=1327
+*************
+26/10/2019 15:05:56,ross,Generar Paciente,Paciente=VELOZ SALINAS TOBIAS LUIS
+*************
+26/10/2019 15:08:07,ross,AGENDAMIENTO,PEDIDO=1810
+*************
+26/10/2019 15:09:31,ross,01 GENERAR ORDEN,PEDIDO=1811
+*************
+26/10/2019 15:10:11,ross,Actualiza FACTURA,FACTURA=7777
+*************
+26/10/2019 15:10:11,ross,Ingresa FACTURA,FACTURA=7777
+*************
+26/10/2019 15:10:14,ross,Insertar abono,Factura=7777 Abono= 13
+*************
+26/10/2019 15:10:14,ross,Cancela FACTURA,FACTURA=7777
+*************
+26/10/2019 15:10:18,ross,Registra Tx Factura,Factura=7777
+*************
+26/10/2019 15:10:24,ross,Registra Tx Factura,Factura=7777
+*************
+26/10/2019 15:12:42,ross,IMPRIMIR HOJA TRABAJO,
+*************
+26/10/2019 15:16:01,ross,GUARDA RESULTADOS,WBCH=1
+*************
+26/10/2019 15:16:01,ross,GUARDA RESULTADOS,NEUH=1
+*************
+26/10/2019 15:16:02,ross,GUARDA RESULTADOS,LYMH=1
+*************
+26/10/2019 15:16:02,ross,GUARDA RESULTADOS,MONOH=1
+*************
+26/10/2019 15:16:02,ross,GUARDA RESULTADOS,EOSH=1
+*************
+26/10/2019 15:16:02,ross,GUARDA RESULTADOS,BASOH=1
+*************
+26/10/2019 15:16:02,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,sep01=-----------------------------
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,RBCH=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,HGBH=1
+*************
+26/10/2019 15:16:03,ross,GUARDA RESULTADOS,HCTH=1
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,MCVH=1
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,MCHH=1
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,RDW_CVH=1
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,RDW_SDH=
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,sep02=-----------------------------
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,PLTH=1
+*************
+26/10/2019 15:16:04,ross,GUARDA RESULTADOS,PCTH=1
+*************
+26/10/2019 15:16:05,ross,GUARDA RESULTADOS,MPVH=1
+*************
+26/10/2019 15:16:05,ross,GUARDA RESULTADOS,PDWSH=1
+*************
+26/10/2019 15:16:05,ross,GUARDA RESULTADOS,PDWCH=1
+*************
+26/10/2019 15:16:05,ross,GUARDA RESULTADOS,P_LCRH=
+*************
+26/10/2019 15:16:05,ross,GUARDA RESULTADOS,P_LCCH=
+*************
+26/10/2019 15:17:13,ross,GUARDA RESULTADOS,ANAQUI1=- FISICO -
+*************
+26/10/2019 15:17:13,ross,GUARDA RESULTADOS,COLO=
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,ASPO=
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,EMOQUI=-QUIMICO-
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,DENOH=
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,PHOH=6.0
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,LEUOH=
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,NITO=
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,PROTOH=30
+*************
+26/10/2019 15:17:14,ross,GUARDA RESULTADOS,GLUOH=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,CEG1H=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,UROOH=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,BILOH=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,SANOH=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,HGBOH=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,ANAMIC1=- MICROSCOPICO -
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,CELEPH=
+*************
+26/10/2019 15:17:15,ross,GUARDA RESULTADOS,LEU02H=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,PIOOH=2-3
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,BACO=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,CILCE=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,ASCOH=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,CELPOH=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,CIGO=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,CILO=
+*************
+26/10/2019 15:17:16,ross,GUARDA RESULTADOS,OXAO=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,CRIO=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,URO=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,CCETO=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,ESP=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,FOO=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,HEMOH=
+*************
+26/10/2019 15:17:17,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+26/10/2019 15:17:18,ross,GUARDA RESULTADOS,MOCO=
+*************
+26/10/2019 15:17:18,ross,GUARDA RESULTADOS,OTROSO=
+*************
+26/10/2019 15:18:09,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+26/10/2019 15:18:09,ross,GUARDA RESULTADOS,CKMB=1
+*************
+26/10/2019 15:18:09,ross,GUARDA RESULTADOS,TPI=1
+*************
+26/10/2019 15:18:09,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+26/10/2019 15:18:22,ross,VALIDACION RESULTADO,PEDIDO=1810/400101
+*************
+26/10/2019 15:18:22,ross,VALIDACION RESULTADO,PEDIDO=1810/400191
+*************
+26/10/2019 15:18:22,ross,VALIDACION RESULTADO,PEDIDO=1810/400197
+*************
+26/10/2019 15:18:22,ross,VALIDACION RESULTADO,PEDIDO=1810/400230
+*************
+26/10/2019 15:18:39,ross,IMPRIME POR AREA,PEDIDO=1810
+*************
+26/10/2019 15:19:42,ross,IMPRIME TODO,PEDIDO=1810
+*************
+26/10/2019 15:20:19,ross,IMPRIME POR EMAMEN,PEDIDO=1810
+*************
+26/10/2019 15:20:54,ross,IMPRIME SOBRE,PEDIDO=1810
+*************
+29/10/2019 18:58:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/10/2019 18:58:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2019 19:00:42,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+29/10/2019 19:01:14,ross,01 GENERAR ORDEN,PEDIDO=16
+*************
+29/10/2019 19:01:40,ross,GUARDA RESULTADOS,WBC=1
+*************
+29/10/2019 19:01:40,ross,GUARDA RESULTADOS,LYM=2
+*************
+29/10/2019 19:01:40,ross,GUARDA RESULTADOS,NEU=3
+*************
+29/10/2019 19:01:40,ross,GUARDA RESULTADOS,MONO=4
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,EOS=5
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,BASO=6
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,LYM%25=
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,NEU%25=8
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,MONO%25=9
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,EOS%25=0
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,BASO%25=1
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,HGB=2
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,RBC=3
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,HCT=4
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,MCV=5
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,MCH=6
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,MCHC=7
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,RDW_SD=8
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,RDW_CV=9
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,PLT=0
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,PDW=1
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,MPV=2
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,PCT=3
+*************
+29/10/2019 19:01:41,ross,GUARDA RESULTADOS,VSG1H=4
+*************
+29/10/2019 19:01:44,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+29/10/2019 19:01:45,ross,VALIDACION RESULTADO,PEDIDO=16/400101
+*************
+29/10/2019 19:01:59,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+29/10/2019 19:02:07,ross,IMPRIME TODO,PEDIDO=16
+*************
+29/10/2019 19:02:18,ross,IMPRIME TODO,PEDIDO=15
+*************
+29/10/2019 19:08:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/10/2019 19:08:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/10/2019 19:08:15,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+29/10/2019 19:08:32,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+29/10/2019 19:08:59,ross,IMPRIME TODO,PEDIDO=16
+*************
+30/10/2019 7:08:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/10/2019 7:08:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/10/2019 7:09:02,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+30/10/2019 7:09:17,ross,IMPRIME TODO,PEDIDO=16
+*************
+30/10/2019 7:09:35,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+30/10/2019 7:14:45,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+30/10/2019 7:14:57,ross,IMPRIME SOBRE,PEDIDO=16
+*************
+30/10/2019 7:21:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/10/2019 7:21:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/10/2019 11:38:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/10/2019 11:39:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/10/2019 11:50:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/10/2019 11:50:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/10/2019 11:50:51,ross,01 GENERAR ORDEN,PEDIDO=17
+*************
+30/10/2019 11:51:54,ross,Actualiza FACTURA,FACTURA=2
+*************
+30/10/2019 11:51:55,ross,Ingresa FACTURA,FACTURA=2
+*************
+30/10/2019 11:51:56,ross,Insertar abono,Factura=2 Abono= 17.5
+*************
+30/10/2019 11:51:56,ross,Cancela FACTURA,FACTURA=2
+*************
+31/10/2019 7:48:33,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+31/10/2019 7:49:49,ross,01 GENERAR ORDEN,PEDIDO=18
+*************
+31/10/2019 7:50:09,ross,Registra Tx Factura,Factura=2
+*************
+31/10/2019 7:50:33,ross,Actualiza FACTURA,FACTURA=3
+*************
+31/10/2019 7:50:34,ross,Ingresa FACTURA,FACTURA=3
+*************
+31/10/2019 7:50:34,ross,Insertar abono,Factura=3 Abono= 5
+*************
+31/10/2019 7:50:34,ross,Actualiza FACTURA,FACTURA=3/5
+*************
+31/10/2019 8:09:39,ross,01 GENERAR ORDEN,PEDIDO=19
+*************
+31/10/2019 8:11:52,ross,01 GENERAR ORDEN,PEDIDO=20
+*************
+31/10/2019 8:12:14,ross,01 GENERAR ORDEN,PEDIDO=21
+*************
+31/10/2019 8:12:32,ross,Actualiza FACTURA,FACTURA=4
+*************
+31/10/2019 8:12:32,ross,Ingresa FACTURA,FACTURA=4
+*************
+31/10/2019 8:12:34,ross,Insertar abono,Factura=4 Abono= 46
+*************
+31/10/2019 8:12:34,ross,Cancela FACTURA,FACTURA=4
+*************
+31/10/2019 8:12:50,ross,Actualiza FACTURA,FACTURA=5
+*************
+31/10/2019 8:12:50,ross,Ingresa FACTURA,FACTURA=5
+*************
+31/10/2019 8:12:50,ross,Insertar abono,Factura=5 Abono= 50
+*************
+31/10/2019 8:12:50,ross,Actualiza FACTURA,FACTURA=5/50
+*************

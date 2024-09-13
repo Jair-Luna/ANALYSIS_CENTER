@@ -1,0 +1,3876 @@
+01/05/2020 11:45:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 11:45:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 11:45:34,ross,IMPRIME POR AREA,PEDIDO=5600
+*************
+01/05/2020 11:47:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 11:47:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 17:56:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 17:56:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 17:56:18,ross,IMPRIME POR AREA,PEDIDO=5602
+*************
+01/05/2020 18:51:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 18:51:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 19:16:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 19:16:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 19:25:28,ross,01 GENERAR ORDEN,PEDIDO=1496
+*************
+01/05/2020 19:25:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=1496
+*************
+01/05/2020 19:25:32,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+01/05/2020 19:26:31,ross,Actualiza Test,Test=CREATIN FOSFOCINASA 
+*************
+01/05/2020 19:27:11,ross,GUARDA RESULTADOS,CKMB=1
+*************
+01/05/2020 19:27:11,ross,GUARDA RESULTADOS,CFOSFH=2
+*************
+01/05/2020 19:27:11,ross,GUARDA RESULTADOS,TPI=3
+*************
+01/05/2020 19:27:16,ross,VALIDACION RESULTADO,PEDIDO=1496/400191
+*************
+01/05/2020 19:27:16,ross,VALIDACION RESULTADO,PEDIDO=1496/400197
+*************
+01/05/2020 19:27:17,ross,VALIDACION RESULTADO,PEDIDO=1496/400524
+*************
+01/05/2020 19:38:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 19:38:10,,Ingreso CONTRASE�A FALLIDO,
+*************
+01/05/2020 19:38:10,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 19:38:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 19:52:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 19:52:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+01/05/2020 21:26:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/05/2020 21:26:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 18:51:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 18:51:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 18:52:00,ross,01 GENERAR ORDEN,PEDIDO=26
+*************
+04/05/2020 18:52:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=26
+*************
+04/05/2020 18:52:01,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+04/05/2020 18:52:15,ross,01 GENERAR ORDEN,PEDIDO=27
+*************
+04/05/2020 18:52:16,ross,02 IMPRIMIR COD BARRAS,PEDIDO=27
+*************
+04/05/2020 18:52:16,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+04/05/2020 18:52:58,ross,01 GENERAR ORDEN,PEDIDO=28
+*************
+04/05/2020 18:52:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=28
+*************
+04/05/2020 18:52:59,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+04/05/2020 19:06:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 19:06:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 19:40:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 19:40:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 21:01:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 21:01:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 21:10:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 21:10:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 21:10:32,ross,GUARDA RESULTADOS,COLH=188
+*************
+04/05/2020 21:32:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 21:32:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 22:12:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 22:12:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+04/05/2020 22:18:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2020 22:18:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+06/05/2020 20:54:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2020 20:54:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+07/05/2020 17:47:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/05/2020 17:47:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 11:42:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2020 11:42:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 11:43:17,ross,Generar Paciente,Paciente=ARTEAGA MOLINEROS CARLOS ANTONIO
+*************
+08/05/2020 11:43:18,ross,Nuevo Pedido PRE CARGA,NORMAL/5925
+*************
+08/05/2020 11:43:18,ross,Generar Paciente,Paciente=ARTINIEGA MONTERO JULIO SEGUNDO
+*************
+08/05/2020 11:43:18,ross,Nuevo Pedido PRE CARGA,NORMAL/5926
+*************
+08/05/2020 11:43:18,ross,Generar Paciente,Paciente=AYORA PORTERO IRINA ISABEL
+*************
+08/05/2020 11:43:18,ross,Nuevo Pedido PRE CARGA,NORMAL/5927
+*************
+08/05/2020 11:43:18,ross,Generar Paciente,Paciente=CONDOR MOLINA ELIANA SOFIA
+*************
+08/05/2020 11:43:18,ross,Nuevo Pedido PRE CARGA,NORMAL/5928
+*************
+08/05/2020 11:43:18,ross,Generar Paciente,Paciente=CHILUIZA SIRIZACA KLEBER JOSE
+*************
+08/05/2020 11:43:18,ross,Nuevo Pedido PRE CARGA,NORMAL/5929
+*************
+08/05/2020 12:08:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2020 12:08:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 12:09:45,ross,Nuevo Pedido PRE CARGA,NORMAL/29
+*************
+08/05/2020 12:09:46,ross,Nuevo Pedido PRE CARGA,NORMAL/30
+*************
+08/05/2020 12:09:46,ross,Nuevo Pedido PRE CARGA,NORMAL/31
+*************
+08/05/2020 12:09:46,ross,Nuevo Pedido PRE CARGA,NORMAL/32
+*************
+08/05/2020 12:09:46,ross,Nuevo Pedido PRE CARGA,NORMAL/33
+*************
+08/05/2020 12:10:21,ross,GUARDA RESULTADOS,LDLH=1
+*************
+08/05/2020 12:10:21,ross,GUARDA RESULTADOS,AHDLH=1
+*************
+08/05/2020 12:10:21,ross,GUARDA RESULTADOS,COLH=1
+*************
+08/05/2020 12:10:21,ross,GUARDA RESULTADOS,TGLH=1
+*************
+08/05/2020 12:10:23,ross,VALIDACION RESULTADO,PEDIDO=29/400149
+*************
+08/05/2020 12:10:24,ross,VALIDACION RESULTADO,PEDIDO=29/400150
+*************
+08/05/2020 12:10:24,ross,VALIDACION RESULTADO,PEDIDO=29/400151
+*************
+08/05/2020 12:10:24,ross,VALIDACION RESULTADO,PEDIDO=29/400476
+*************
+08/05/2020 12:10:28,ross,GUARDA RESULTADOS,LDLH=2
+*************
+08/05/2020 12:10:28,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+08/05/2020 12:10:28,ross,GUARDA RESULTADOS,COLH=2
+*************
+08/05/2020 12:10:28,ross,GUARDA RESULTADOS,TGLH=2
+*************
+08/05/2020 12:10:30,ross,VALIDACION RESULTADO,PEDIDO=30/400149
+*************
+08/05/2020 12:10:30,ross,VALIDACION RESULTADO,PEDIDO=30/400150
+*************
+08/05/2020 12:10:30,ross,VALIDACION RESULTADO,PEDIDO=30/400151
+*************
+08/05/2020 12:10:30,ross,VALIDACION RESULTADO,PEDIDO=30/400476
+*************
+08/05/2020 12:10:34,ross,GUARDA RESULTADOS,LDLH=3
+*************
+08/05/2020 12:10:34,ross,GUARDA RESULTADOS,AHDLH=3
+*************
+08/05/2020 12:10:34,ross,GUARDA RESULTADOS,COLH=3
+*************
+08/05/2020 12:10:34,ross,GUARDA RESULTADOS,TGLH=3
+*************
+08/05/2020 12:10:35,ross,VALIDACION RESULTADO,PEDIDO=31/400149
+*************
+08/05/2020 12:10:35,ross,VALIDACION RESULTADO,PEDIDO=31/400150
+*************
+08/05/2020 12:10:35,ross,VALIDACION RESULTADO,PEDIDO=31/400151
+*************
+08/05/2020 12:10:35,ross,VALIDACION RESULTADO,PEDIDO=31/400476
+*************
+08/05/2020 12:10:40,ross,GUARDA RESULTADOS,LDLH=4
+*************
+08/05/2020 12:10:40,ross,GUARDA RESULTADOS,AHDLH=4
+*************
+08/05/2020 12:10:40,ross,GUARDA RESULTADOS,COLH=4
+*************
+08/05/2020 12:10:40,ross,GUARDA RESULTADOS,TGLH=4
+*************
+08/05/2020 12:10:42,ross,VALIDACION RESULTADO,PEDIDO=32/400149
+*************
+08/05/2020 12:10:42,ross,VALIDACION RESULTADO,PEDIDO=32/400150
+*************
+08/05/2020 12:10:42,ross,VALIDACION RESULTADO,PEDIDO=32/400151
+*************
+08/05/2020 12:10:42,ross,VALIDACION RESULTADO,PEDIDO=32/400476
+*************
+08/05/2020 12:10:47,ross,GUARDA RESULTADOS,LDLH=5
+*************
+08/05/2020 12:10:47,ross,GUARDA RESULTADOS,AHDLH=5
+*************
+08/05/2020 12:10:47,ross,GUARDA RESULTADOS,COLH=5
+*************
+08/05/2020 12:10:47,ross,GUARDA RESULTADOS,TGLH=5
+*************
+08/05/2020 12:10:48,ross,VALIDACION RESULTADO,PEDIDO=33/400149
+*************
+08/05/2020 12:10:48,ross,VALIDACION RESULTADO,PEDIDO=33/400150
+*************
+08/05/2020 12:10:48,ross,VALIDACION RESULTADO,PEDIDO=33/400151
+*************
+08/05/2020 12:10:48,ross,VALIDACION RESULTADO,PEDIDO=33/400476
+*************
+08/05/2020 17:19:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2020 17:19:11,,Ingreso CONTRASE�A FALLIDO,
+*************
+08/05/2020 17:19:11,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 17:19:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 18:33:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2020 18:33:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 18:40:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2020 18:40:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+08/05/2020 19:06:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/05/2020 19:06:06,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 11:47:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 11:47:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 11:48:35,ross,Nuevo Pedido PRE CARGA,NORMAL/34
+*************
+11/05/2020 11:48:35,ross,Nuevo Pedido PRE CARGA,NORMAL/35
+*************
+11/05/2020 11:48:35,ross,Nuevo Pedido PRE CARGA,NORMAL/36
+*************
+11/05/2020 11:48:35,ross,Nuevo Pedido PRE CARGA,NORMAL/37
+*************
+11/05/2020 11:48:35,ross,Nuevo Pedido PRE CARGA,NORMAL/38
+*************
+11/05/2020 11:49:03,ross,01 GENERAR ORDEN,PEDIDO=39
+*************
+11/05/2020 11:49:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=39
+*************
+11/05/2020 11:49:05,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+11/05/2020 11:49:30,ross,GUARDA RESULTADOS,LDLH=1
+*************
+11/05/2020 11:49:30,ross,GUARDA RESULTADOS,AHDLH=1
+*************
+11/05/2020 11:49:31,ross,GUARDA RESULTADOS,COLH=1
+*************
+11/05/2020 11:49:31,ross,GUARDA RESULTADOS,TGLH=1
+*************
+11/05/2020 11:49:32,ross,VALIDACION RESULTADO,PEDIDO=34/400149
+*************
+11/05/2020 11:49:32,ross,VALIDACION RESULTADO,PEDIDO=34/400150
+*************
+11/05/2020 11:49:32,ross,VALIDACION RESULTADO,PEDIDO=34/400151
+*************
+11/05/2020 11:49:32,ross,VALIDACION RESULTADO,PEDIDO=34/400476
+*************
+11/05/2020 11:49:37,ross,GUARDA RESULTADOS,LDLH=2
+*************
+11/05/2020 11:49:37,ross,GUARDA RESULTADOS,AHDLH=2
+*************
+11/05/2020 11:49:37,ross,GUARDA RESULTADOS,COLH=2
+*************
+11/05/2020 11:49:38,ross,GUARDA RESULTADOS,TGLH=2
+*************
+11/05/2020 11:49:38,ross,VALIDACION RESULTADO,PEDIDO=35/400149
+*************
+11/05/2020 11:49:38,ross,VALIDACION RESULTADO,PEDIDO=35/400150
+*************
+11/05/2020 11:49:39,ross,VALIDACION RESULTADO,PEDIDO=35/400151
+*************
+11/05/2020 11:49:39,ross,VALIDACION RESULTADO,PEDIDO=35/400476
+*************
+11/05/2020 11:49:43,ross,GUARDA RESULTADOS,LDLH=3
+*************
+11/05/2020 11:49:43,ross,GUARDA RESULTADOS,AHDLH=3
+*************
+11/05/2020 11:49:43,ross,GUARDA RESULTADOS,COLH=3
+*************
+11/05/2020 11:49:43,ross,GUARDA RESULTADOS,TGLH=3
+*************
+11/05/2020 11:49:44,ross,VALIDACION RESULTADO,PEDIDO=36/400149
+*************
+11/05/2020 11:49:44,ross,VALIDACION RESULTADO,PEDIDO=36/400150
+*************
+11/05/2020 11:49:44,ross,VALIDACION RESULTADO,PEDIDO=36/400151
+*************
+11/05/2020 11:49:44,ross,VALIDACION RESULTADO,PEDIDO=36/400476
+*************
+11/05/2020 11:49:49,ross,GUARDA RESULTADOS,LDLH=4
+*************
+11/05/2020 11:49:49,ross,GUARDA RESULTADOS,AHDLH=4
+*************
+11/05/2020 11:49:49,ross,GUARDA RESULTADOS,COLH=4
+*************
+11/05/2020 11:49:49,ross,GUARDA RESULTADOS,TGLH=4
+*************
+11/05/2020 11:49:50,ross,VALIDACION RESULTADO,PEDIDO=37/400149
+*************
+11/05/2020 11:49:50,ross,VALIDACION RESULTADO,PEDIDO=37/400150
+*************
+11/05/2020 11:49:50,ross,VALIDACION RESULTADO,PEDIDO=37/400151
+*************
+11/05/2020 11:49:50,ross,VALIDACION RESULTADO,PEDIDO=37/400476
+*************
+11/05/2020 11:49:55,ross,GUARDA RESULTADOS,LDLH=5
+*************
+11/05/2020 11:49:55,ross,GUARDA RESULTADOS,AHDLH=5
+*************
+11/05/2020 11:49:55,ross,GUARDA RESULTADOS,COLH=5
+*************
+11/05/2020 11:49:55,ross,GUARDA RESULTADOS,TGLH=5
+*************
+11/05/2020 11:49:56,ross,VALIDACION RESULTADO,PEDIDO=38/400149
+*************
+11/05/2020 11:49:56,ross,VALIDACION RESULTADO,PEDIDO=38/400150
+*************
+11/05/2020 11:49:56,ross,VALIDACION RESULTADO,PEDIDO=38/400151
+*************
+11/05/2020 11:49:56,ross,VALIDACION RESULTADO,PEDIDO=38/400476
+*************
+11/05/2020 11:50:10,ross,GUARDA RESULTADOS,TGLH=140
+*************
+11/05/2020 11:50:10,ross,GUARDA RESULTADOS,fPSA=12
+*************
+11/05/2020 11:50:10,ross,GUARDA RESULTADOS,PSA=12
+*************
+11/05/2020 11:50:11,ross,VALIDACION RESULTADO,PEDIDO=39/400151
+*************
+11/05/2020 11:50:11,ross,VALIDACION RESULTADO,PEDIDO=39/400783
+*************
+11/05/2020 11:50:11,ross,VALIDACION RESULTADO,PEDIDO=39/400784
+*************
+11/05/2020 12:12:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 12:12:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 12:19:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 12:19:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 12:25:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 12:25:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 12:30:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 12:30:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 12:45:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 12:45:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 12:50:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 12:50:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 13:02:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 13:03:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:07:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 16:07:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:13:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 16:13:57,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:15:36,ross,01 GENERAR ORDEN,PEDIDO=40
+*************
+11/05/2020 16:15:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=40
+*************
+11/05/2020 16:15:37,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+11/05/2020 16:15:50,ross,GUARDA RESULTADOS,LDLH=7
+*************
+11/05/2020 16:15:50,ross,GUARDA RESULTADOS,AHDLH=7
+*************
+11/05/2020 16:15:50,ross,GUARDA RESULTADOS,COLH=7
+*************
+11/05/2020 16:15:50,ross,GUARDA RESULTADOS,TGLH=7
+*************
+11/05/2020 16:15:50,ross,VALIDACION RESULTADO,PEDIDO=40/400149
+*************
+11/05/2020 16:15:51,ross,VALIDACION RESULTADO,PEDIDO=40/400150
+*************
+11/05/2020 16:15:51,ross,VALIDACION RESULTADO,PEDIDO=40/400151
+*************
+11/05/2020 16:15:51,ross,VALIDACION RESULTADO,PEDIDO=40/400476
+*************
+11/05/2020 16:20:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 16:20:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:27:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 16:27:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:34:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 16:34:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:40:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 16:40:11,,Ingreso CONTRASE�A FALLIDO,
+*************
+11/05/2020 16:40:11,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 16:40:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 17:05:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 17:05:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 17:09:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 17:09:45,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 17:17:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 17:17:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 17:24:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 17:24:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 17:30:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 17:30:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+11/05/2020 17:51:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2020 17:51:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/05/2020 14:57:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/05/2020 14:57:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/05/2020 15:02:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/05/2020 15:02:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/05/2020 15:47:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/05/2020 15:47:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+12/05/2020 16:11:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/05/2020 16:11:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 20:20:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 20:20:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 20:56:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 20:56:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 20:59:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 20:59:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 21:07:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 21:07:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 21:10:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 21:10:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 21:33:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 21:33:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 22:02:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 22:02:53,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 22:09:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 22:09:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 22:10:30,ross,Nuevo Pedido PRE CARGA,NORMAL/41
+*************
+13/05/2020 22:10:30,ross,Nuevo Pedido PRE CARGA,NORMAL/42
+*************
+13/05/2020 22:10:30,ross,Nuevo Pedido PRE CARGA,NORMAL/43
+*************
+13/05/2020 22:10:30,ross,Nuevo Pedido PRE CARGA,NORMAL/44
+*************
+13/05/2020 22:10:30,ross,Nuevo Pedido PRE CARGA,NORMAL/45
+*************
+13/05/2020 22:20:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 22:21:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 22:33:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 22:33:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 22:38:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 22:38:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+13/05/2020 22:43:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2020 22:43:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+14/05/2020 12:21:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2020 12:21:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/05/2020 12:28:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2020 18:22:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2020 18:22:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+15/05/2020 18:23:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/05/2020 18:23:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+17/05/2020 09:58:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/05/2020 09:58:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/05/2020 17:06:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/05/2020 17:06:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/05/2020 17:07:07,ross,IMPRIME POR AREA,PEDIDO=30
+*************
+18/05/2020 17:12:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/05/2020 17:12:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/05/2020 17:18:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/05/2020 17:18:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+18/05/2020 17:22:41,ross,Generar Paciente,Paciente=VALLADOLID ESCOBAR EFREN WILSON
+*************
+18/05/2020 17:24:10,ross,01 GENERAR ORDEN,PEDIDO=46
+*************
+18/05/2020 17:24:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=46
+*************
+18/05/2020 17:24:13,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+18/05/2020 17:26:49,ross,Actualiza FACTURA,FACTURA=1
+*************
+18/05/2020 17:26:49,ross,Ingresa FACTURA,FACTURA=1
+*************
+18/05/2020 17:26:49,ross,Insertar abono,Factura=1 Abono= 30
+*************
+18/05/2020 17:26:49,ross,Actualiza FACTURA,FACTURA=1/30
+*************
+18/05/2020 17:26:56,ross,Registra Tx Factura,Factura=1
+*************
+18/05/2020 17:27:12,ross,Registra Tx Factura,Factura=1
+*************
+18/05/2020 17:28:43,ross,Insertar abono,Factura=1 Abono= 33.6
+*************
+18/05/2020 17:28:43,ross,Cancela FACTURA,FACTURA=1
+*************
+18/05/2020 17:28:47,ross,Registra Tx Factura,Factura=1
+*************
+18/05/2020 17:31:44,ross,Nuevo Pedido PRE CARGA,NORMAL/47
+*************
+18/05/2020 17:31:44,ross,Nuevo Pedido PRE CARGA,NORMAL/48
+*************
+18/05/2020 17:31:44,ross,Nuevo Pedido PRE CARGA,NORMAL/49
+*************
+18/05/2020 17:31:45,ross,Nuevo Pedido PRE CARGA,NORMAL/50
+*************
+18/05/2020 17:31:45,ross,Nuevo Pedido PRE CARGA,NORMAL/51
+*************
+18/05/2020 17:32:59,ross,IMPRIMIR LISTA TRABAJO,
+*************
+18/05/2020 17:33:02,ross,IMPRIMIR CONTRAORDEN,
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,WBCH=1
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,LYMH=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,NEUH=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,MONOH=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,EOSH=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,BASOH=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,MONO%25H=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,HGBH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,RBCH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,HCTH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,MCVH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,MCH H=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,PLTH=4
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,PDWH=4
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,MPVH=4
+*************
+18/05/2020 17:34:25,ross,GUARDA RESULTADOS,PCTH=4
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,COLO=ROJO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,PHO=6.0
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,UROOH=0.2
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,HGBOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CELEPH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,HEMOH=4-6
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,BACOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CILCE=2-5
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,ASCOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CELPOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CIGO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CILO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,OXAO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CRIO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,URO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,CCETO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,ESP=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,FOO=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,MOCOH=
+*************
+18/05/2020 17:36:31,ross,GUARDA RESULTADOS,OTROSO=
+*************
+18/05/2020 17:37:23,ross,GUARDA NOTA AREA,EXAMEN PADRE=400149/VALORES COFIRMADOS
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,COLH=190
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,TGLH=145
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,CFOSF=230
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/05/2020 17:37:29,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400101
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400149
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400151
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400191
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400197
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400230
+*************
+18/05/2020 17:38:29,ross,VALIDACION RESULTADO,PEDIDO=46/400524
+*************
+18/05/2020 17:39:17,ross,IMPRIME POR AREA,PEDIDO=46
+*************
+18/05/2020 17:44:13,ross,1 MODIFICA ORDEN,PEDIDO=46
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,CKMB=NEGATIVO
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,COLH=190
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,TGLH=145
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,CFOSF=230
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,TIPIF=O POSITIVO
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,TPI=NEGATIVO
+*************
+18/05/2020 17:44:33,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+18/05/2020 17:44:34,ross,VALIDACION RESULTADO,PEDIDO=46/400114
+*************
+18/05/2020 17:44:45,ross,IMPRIME POR EMAMEN,PEDIDO=46
+*************
+18/05/2020 17:45:18,ross,IMPRIME SOBRE,PEDIDO=46
+*************
+18/05/2020 17:51:13,ross,ENVIO CORREO PACIENTE,PEDIDO=46
+*************
+18/05/2020 17:57:58,ross,Nuevo Test en Lista de Precios,Test=401082 60  NORMAL
+*************
+18/05/2020 17:57:58,ross,Nuevo Test en Lista de Precios,Test=401082 60  URGENCIA
+*************
+18/05/2020 17:57:58,ross,Nuevo Test en Lista de Precios,Test=401082 60  NEFROMEDIC
+*************
+18/05/2020 17:57:58,ross,Nuevo Test en Lista de Precios,Test=401082 60  CHEVROLET
+*************
+18/05/2020 17:57:58,ross,Nuevo Test en Lista de Precios,Test=401082 60  IESS
+*************
+18/05/2020 17:57:58,ross,INGRESA TEST,TEST=COVID IGG
+*************
+18/05/2020 17:57:58,ross,Actualiza Test,Test=COVID IGG
+*************
+18/05/2020 17:58:47,ross,01 GENERAR ORDEN,PEDIDO=52
+*************
+18/05/2020 17:58:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=52
+*************
+18/05/2020 17:58:48,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+18/05/2020 17:59:04,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+18/05/2020 17:59:05,ross,VALIDACION RESULTADO,PEDIDO=52/401082
+*************
+18/05/2020 17:59:12,ross,IMPRIME POR AREA,PEDIDO=52
+*************
+18/05/2020 18:01:07,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+18/05/2020 18:01:14,ross,IMPRIME POR AREA,PEDIDO=52
+*************
+19/05/2020 21:55:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/05/2020 21:55:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 10:10:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 10:10:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 10:22:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 10:22:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 10:26:01,ross,Generar Paciente,Paciente=CHUQUISAN UMATAMBO DIEGO MAURICIO
+*************
+20/05/2020 10:27:43,ross,01 GENERAR ORDEN,PEDIDO=53
+*************
+20/05/2020 10:27:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=53
+*************
+20/05/2020 10:27:46,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+20/05/2020 10:31:31,ross,Nuevo Pedido PRE CARGA,CHEVROLET/54
+*************
+20/05/2020 10:31:31,ross,Nuevo Pedido PRE CARGA,CHEVROLET/55
+*************
+20/05/2020 10:31:31,ross,Nuevo Pedido PRE CARGA,CHEVROLET/56
+*************
+20/05/2020 10:31:31,ross,Nuevo Pedido PRE CARGA,CHEVROLET/57
+*************
+20/05/2020 10:31:31,ross,Nuevo Pedido PRE CARGA,CHEVROLET/58
+*************
+20/05/2020 10:33:04,ross,IMPRIMIR LISTA TRABAJO,
+*************
+20/05/2020 10:33:06,ross,IMPRIMIR CONTRAORDEN,
+*************
+20/05/2020 10:38:32,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+20/05/2020 10:38:32,ross,GUARDA RESULTADOS,WBCH=2
+*************
+20/05/2020 10:38:32,ross,GUARDA RESULTADOS,LYMH=3
+*************
+20/05/2020 10:38:32,ross,GUARDA RESULTADOS,NEUH=3
+*************
+20/05/2020 10:38:32,ross,GUARDA RESULTADOS,MONOH=4
+*************
+20/05/2020 10:38:32,ross,GUARDA RESULTADOS,EOSH=4
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,BASOH=4
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,MONO%25H=5
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,BASO%25H=6
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,HGBH=7
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,RBCH=7
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,HCTH=7
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,MCVH=7
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,MCH H=8
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,RDW_SDH=8
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,RDW_CVH=8
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,PLTH=8
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,PDWH=9
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,MPVH=9
+*************
+20/05/2020 10:38:33,ross,GUARDA RESULTADOS,PCTH=9
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,WBCH=0
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,LYMH=3
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,NEUH=3
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,MONOH=4
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,EOSH=4
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,BASOH=4
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,NEU%25H=5
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,MONO%25H=5
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,BASO%25H=6
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,HGBH=7
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,RBCH=7
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,HCTH=7
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,MCVH=7
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,MCH H=8
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,RDW_SDH=8
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,RDW_CVH=8
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,PLTH=8
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,PDWH=9
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,MPVH=9
+*************
+20/05/2020 10:39:12,ross,GUARDA RESULTADOS,PCTH=9
+*************
+20/05/2020 10:40:14,ross,GUARDA NOTA AREA,EXAMEN PADRE=400151/SUERUO LIPEMICO
+*************
+20/05/2020 10:42:27,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+20/05/2020 10:42:27,ross,GUARDA RESULTADOS,AHDLH=55
+*************
+20/05/2020 10:42:27,ross,GUARDA RESULTADOS,LDLH=145
+*************
+20/05/2020 10:42:27,ross,GUARDA RESULTADOS,COLH=189
+*************
+20/05/2020 10:42:27,ross,GUARDA RESULTADOS,TGLH=139
+*************
+20/05/2020 10:42:27,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+20/05/2020 10:43:00,ross,VALIDACION RESULTADO,PEDIDO=53/400101
+*************
+20/05/2020 10:43:00,ross,VALIDACION RESULTADO,PEDIDO=53/400149
+*************
+20/05/2020 10:43:00,ross,VALIDACION RESULTADO,PEDIDO=53/400150
+*************
+20/05/2020 10:43:00,ross,VALIDACION RESULTADO,PEDIDO=53/400151
+*************
+20/05/2020 10:43:00,ross,VALIDACION RESULTADO,PEDIDO=53/400476
+*************
+20/05/2020 10:43:00,ross,VALIDACION RESULTADO,PEDIDO=53/401082
+*************
+20/05/2020 10:44:00,ross,IMPRIME POR AREA,PEDIDO=53
+*************
+20/05/2020 10:47:28,ross,IMPRIME POR AREA,PEDIDO=53
+*************
+20/05/2020 10:47:57,ross,IMPRIME TODO,PEDIDO=53
+*************
+20/05/2020 10:48:49,ross,1 MODIFICA ORDEN,PEDIDO=53
+*************
+20/05/2020 10:48:52,ross,02 IMPRIMIR COD BARRAS,PEDIDO=53
+*************
+20/05/2020 10:48:53,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,AHDLH=55
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,COLH=189
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,TGLH=139
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,LDLH=145
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,TIPIF=O POSITIVO
+*************
+20/05/2020 10:49:10,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+20/05/2020 10:49:11,ross,VALIDACION RESULTADO,PEDIDO=53/400114
+*************
+20/05/2020 10:49:19,ross,IMPRIME POR EMAMEN,PEDIDO=53
+*************
+20/05/2020 10:49:46,ross,IMPRIME SOBRE,PEDIDO=53
+*************
+20/05/2020 10:54:06,ross,ENVIO CORREO PACIENTE,PEDIDO=46
+*************
+20/05/2020 10:54:16,ross,ENVIO CORREO PACIENTE,PEDIDO=52
+*************
+20/05/2020 10:54:27,ross,ENVIO CORREO PACIENTE,PEDIDO=53
+*************
+20/05/2020 10:55:55,ross,Actualizar Rango Unico,Test=400149 Rango=10-200
+*************
+20/05/2020 16:21:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 16:21:55,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 16:22:17,ross,1 MODIFICA ORDEN,PEDIDO=53
+*************
+20/05/2020 17:03:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 17:03:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 17:19:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 17:19:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 17:21:05,ross,01 GENERAR ORDEN,PEDIDO=59
+*************
+20/05/2020 17:21:07,ross,02 IMPRIMIR COD BARRAS,PEDIDO=59
+*************
+20/05/2020 17:21:07,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+20/05/2020 17:21:58,ross,GUARDA RESULTADOS,COLH=12
+*************
+20/05/2020 17:21:59,ross,VALIDACION RESULTADO,PEDIDO=59/400149
+*************
+20/05/2020 17:39:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 17:39:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 17:58:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/05/2020 17:58:38,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+20/05/2020 17:59:20,ross,01 GENERAR ORDEN,PEDIDO=60
+*************
+20/05/2020 17:59:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=60
+*************
+20/05/2020 17:59:22,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+20/05/2020 17:59:31,ross,GUARDA RESULTADOS,GLUH=12
+*************
+21/05/2020 16:22:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 16:22:16,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 16:22:59,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+21/05/2020 16:23:12,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+21/05/2020 16:23:54,ross,01 GENERAR ORDEN,PEDIDO=1
+*************
+21/05/2020 16:23:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+21/05/2020 16:23:56,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+21/05/2020 16:24:49,ross,Generar Paciente,Paciente=ARTEAGA MOLINEROS CARLOS ANTONIO
+*************
+21/05/2020 16:24:50,ross,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+21/05/2020 16:24:50,ross,Generar Paciente,Paciente=ARTINIEGA MONTERO JULIO SEGUNDO
+*************
+21/05/2020 16:24:50,ross,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+21/05/2020 16:24:50,ross,Generar Paciente,Paciente=AYORA PORTERO IRINA ISABEL
+*************
+21/05/2020 16:24:50,ross,Nuevo Pedido PRE CARGA,NORMAL/4
+*************
+21/05/2020 16:24:50,ross,Generar Paciente,Paciente=CONDOR MOLINA ELIANA SOFIA
+*************
+21/05/2020 16:24:50,ross,Nuevo Pedido PRE CARGA,NORMAL/5
+*************
+21/05/2020 16:24:50,ross,Generar Paciente,Paciente=CHILUIZA SIRIZACA KLEBER JOSE
+*************
+21/05/2020 16:24:50,ross,Nuevo Pedido PRE CARGA,NORMAL/6
+*************
+21/05/2020 16:32:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 16:32:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 16:36:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 16:36:07,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 16:36:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 16:36:29,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 16:36:44,ross,GUARDA RESULTADOS,GLUH=110
+*************
+21/05/2020 16:55:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 16:55:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 16:56:33,ross,GUARDA RESULTADOS,GLUH=110
+*************
+21/05/2020 16:56:35,ross,VALIDACION RESULTADO,PEDIDO=1/400142
+*************
+21/05/2020 17:02:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 17:02:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 17:03:01,ross,GUARDA RESULTADOS,GLUH=110
+*************
+21/05/2020 17:03:01,ross,GUARDA RESULTADOS,TGLH=140
+*************
+21/05/2020 17:04:35,ross,GUARDA RESULTADOS,GLUH=110
+*************
+21/05/2020 17:04:35,ross,GUARDA RESULTADOS,TGLH=140
+*************
+21/05/2020 17:04:37,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+21/05/2020 17:06:11,ross,1 MODIFICA ORDEN,PEDIDO=1
+*************
+21/05/2020 17:17:47,ross,Nuevo Test en Lista de Precios,Test=401083 60  NORMAL
+*************
+21/05/2020 17:17:47,ross,Nuevo Test en Lista de Precios,Test=401083 60  URGENCIA
+*************
+21/05/2020 17:17:47,ross,INGRESA TEST,TEST=COVID IGM
+*************
+21/05/2020 17:17:48,ross,Actualiza Test,Test=COVID IGM
+*************
+21/05/2020 17:57:29,ross,Actualiza Test,Test=COVID IGG
+*************
+21/05/2020 17:57:48,ross,Actualiza Test,Test=COVID IGM
+*************
+21/05/2020 17:58:06,ross,01 GENERAR ORDEN,PEDIDO=7
+*************
+21/05/2020 17:58:08,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+21/05/2020 17:58:08,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+21/05/2020 17:58:14,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+21/05/2020 17:58:14,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+21/05/2020 17:58:15,ross,VALIDACION RESULTADO,PEDIDO=7/401082
+*************
+21/05/2020 17:58:15,ross,VALIDACION RESULTADO,PEDIDO=7/401083
+*************
+21/05/2020 17:58:26,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+21/05/2020 17:59:24,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+21/05/2020 19:01:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 19:01:52,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 19:18:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/05/2020 19:18:59,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+21/05/2020 19:19:26,ross,IMPRIME POR AREA,PEDIDO=6305
+*************
+21/05/2020 19:29:39,ross,IMPRIME POR AREA,PEDIDO=6305
+*************
+22/05/2020 17:02:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2020 17:02:13,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/05/2020 17:21:17,ross,01 GENERAR ORDEN,PEDIDO=6306
+*************
+22/05/2020 17:21:21,ross,02 IMPRIMIR COD BARRAS,PEDIDO=6306
+*************
+22/05/2020 17:21:23,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+22/05/2020 21:19:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/05/2020 21:19:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+22/05/2020 21:19:35,ross,IMPRIME POR AREA,PEDIDO=6229
+*************
+23/05/2020 21:34:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2020 21:34:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/05/2020 21:35:32,ross,IMPRIME POR AREA,PEDIDO=4923
+*************
+23/05/2020 21:37:01,ross,IMPRIME POR AREA,PEDIDO=4930
+*************
+23/05/2020 21:37:37,ross,IMPRIME POR AREA,PEDIDO=4930
+*************
+23/05/2020 21:38:53,ross,GUARDA NOTA AREA,EXAMEN PADRE=400148/OBSERVACION: VALORES CONFIRMADOS
+*************
+23/05/2020 21:38:53,ross,GUARDA NOTA AREA,EXAMEN PADRE=400148/OBSERVACION: VALORES CONFIRMADOS
+*************
+23/05/2020 21:39:14,ross,IMPRIME POR AREA,PEDIDO=4930
+*************
+23/05/2020 21:39:27,ross,IMPRIME TODO,PEDIDO=4930
+*************
+23/05/2020 21:39:35,ross,IMPRIME POR AREA,PEDIDO=4930
+*************
+23/05/2020 21:45:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2020 21:45:20,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/05/2020 21:45:43,ross,IMPRIME POR AREA,PEDIDO=4930
+*************
+23/05/2020 21:46:33,ross,GUARDA NOTA AREA,EXAMEN PADRE=400292/observaciones: valores confirmados
+*************
+23/05/2020 22:06:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2020 22:06:39,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/05/2020 22:06:59,ross,01 GENERAR ORDEN,PEDIDO=8
+*************
+23/05/2020 22:07:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+23/05/2020 22:07:03,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+23/05/2020 22:07:24,ross,GUARDA NOTA AREA,EXAMEN PADRE=400476/VALORES CONFIRMADOS
+*************
+23/05/2020 22:07:26,ross,GUARDA RESULTADOS,LDLH=-0.2
+*************
+23/05/2020 22:07:26,ross,GUARDA RESULTADOS,AHDLH=1
+*************
+23/05/2020 22:07:26,ross,GUARDA RESULTADOS,COLH=1
+*************
+23/05/2020 22:07:27,ross,GUARDA RESULTADOS,TGLH=1
+*************
+23/05/2020 22:07:27,ross,GUARDA RESULTADOS,fPSA=22
+*************
+23/05/2020 22:07:29,ross,VALIDACION RESULTADO,PEDIDO=8/400149
+*************
+23/05/2020 22:07:29,ross,VALIDACION RESULTADO,PEDIDO=8/400150
+*************
+23/05/2020 22:07:29,ross,VALIDACION RESULTADO,PEDIDO=8/400151
+*************
+23/05/2020 22:07:29,ross,VALIDACION RESULTADO,PEDIDO=8/400476
+*************
+23/05/2020 22:07:29,ross,VALIDACION RESULTADO,PEDIDO=8/400783
+*************
+23/05/2020 22:07:45,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+23/05/2020 22:08:01,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+23/05/2020 22:09:57,ross,01 GENERAR ORDEN,PEDIDO=4950
+*************
+23/05/2020 22:09:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=4950
+*************
+23/05/2020 22:09:59,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+23/05/2020 22:10:30,ross,GUARDA NOTA AREA,EXAMEN PADRE=400149/VALORES CONFIRMADOS
+*************
+23/05/2020 22:10:32,ross,GUARDA RESULTADOS,TC=2
+*************
+23/05/2020 22:10:32,ross,GUARDA RESULTADOS,AHDL=2
+*************
+23/05/2020 22:10:32,ross,GUARDA RESULTADOS,LDL=2
+*************
+23/05/2020 22:10:32,ross,GUARDA RESULTADOS,TG=2
+*************
+23/05/2020 22:10:32,ross,GUARDA RESULTADOS,PSA=33
+*************
+23/05/2020 22:10:32,ross,GUARDA RESULTADOS,fPSA=44
+*************
+23/05/2020 22:10:33,ross,VALIDACION RESULTADO,PEDIDO=4950/400149
+*************
+23/05/2020 22:10:34,ross,VALIDACION RESULTADO,PEDIDO=4950/400150
+*************
+23/05/2020 22:10:34,ross,VALIDACION RESULTADO,PEDIDO=4950/400151
+*************
+23/05/2020 22:10:34,ross,VALIDACION RESULTADO,PEDIDO=4950/400476
+*************
+23/05/2020 22:10:34,ross,VALIDACION RESULTADO,PEDIDO=4950/400783
+*************
+23/05/2020 22:10:34,ross,VALIDACION RESULTADO,PEDIDO=4950/400784
+*************
+23/05/2020 22:31:07,ross,IMPRIME POR AREA,PEDIDO=4950
+*************
+23/05/2020 22:38:56,ross,GUARDA NOTA AREA,EXAMEN PADRE=400149/VALORES CONFIRMADOS
+*************
+23/05/2020 22:51:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2020 22:51:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/05/2020 22:52:23,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALORES CONFIRMADOS
+*************
+23/05/2020 22:53:03,ross,GUARDA NOTA AREA,EXAMEN PADRE=18/INSUFICIENTE
+*************
+23/05/2020 22:53:24,ross,GUARDA RESULTADOS,TC=2
+*************
+23/05/2020 22:53:24,ross,GUARDA RESULTADOS,AHDL=2
+*************
+23/05/2020 22:53:24,ross,GUARDA RESULTADOS,LDL=2
+*************
+23/05/2020 22:53:24,ross,GUARDA RESULTADOS,TG=2
+*************
+23/05/2020 22:53:24,ross,GUARDA RESULTADOS,PSA=33
+*************
+23/05/2020 22:53:24,ross,GUARDA RESULTADOS,fPSA=44
+*************
+23/05/2020 22:53:55,ross,IMPRIME POR AREA,PEDIDO=4950
+*************
+23/05/2020 22:55:08,ross,IMPRIME POR AREA,PEDIDO=4950
+*************
+23/05/2020 23:03:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/05/2020 23:03:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+23/05/2020 23:03:57,ross,IMPRIME POR AREA,PEDIDO=4950
+*************
+24/05/2020 11:01:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2020 11:01:12,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/05/2020 14:13:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2020 14:13:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+24/05/2020 14:13:51,ross,IMPRIME POR AREA,PEDIDO=6
+*************
+24/05/2020 14:19:44,ross,Generar Paciente,Paciente=VERA MOREIRA FRANKLIN ABEL
+*************
+24/05/2020 14:20:22,ross,01 GENERAR ORDEN,PEDIDO=9
+*************
+24/05/2020 14:20:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=09
+*************
+24/05/2020 14:20:29,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+24/05/2020 14:21:14,ross,Actualiza FACTURA,FACTURA=1
+*************
+24/05/2020 14:21:14,ross,Ingresa FACTURA,FACTURA=1
+*************
+24/05/2020 14:21:16,ross,Insertar abono,Factura=1 Abono= 17.8
+*************
+24/05/2020 14:21:16,ross,Cancela FACTURA,FACTURA=1
+*************
+24/05/2020 14:21:18,ross,Registra Tx Factura,Factura=1
+*************
+24/05/2020 14:21:27,ross,Registra Tx Factura,Factura=1
+*************
+24/05/2020 14:21:35,ross,Registra Tx Factura,Factura=1
+*************
+24/05/2020 14:22:20,ross,IMPRIMIR LISTA TRABAJO,
+*************
+24/05/2020 14:22:22,ross,IMPRIMIR CONTRAORDEN,
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,WBCH=2
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,LYMH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,NEUH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,MONOH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,EOSH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,BASOH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,MONO%25H=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,HGBH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,RBCH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,HCTH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,MCVH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,MCH H=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+24/05/2020 14:24:05,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+24/05/2020 14:24:06,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+24/05/2020 14:24:06,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+24/05/2020 14:24:06,ross,GUARDA RESULTADOS,PLTH=4
+*************
+24/05/2020 14:24:06,ross,GUARDA RESULTADOS,PDWH=4
+*************
+24/05/2020 14:24:06,ross,GUARDA RESULTADOS,MPVH=4
+*************
+24/05/2020 14:24:06,ross,GUARDA RESULTADOS,PCTH=4
+*************
+24/05/2020 14:25:49,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALOR CONFIRMADO
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,LDLH=130
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,AHDLH=54
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,COLH=200
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,TGLH=23
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+24/05/2020 14:25:56,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+24/05/2020 14:26:18,ross,VALIDACION RESULTADO,PEDIDO=9/400101
+*************
+24/05/2020 14:26:18,ross,VALIDACION RESULTADO,PEDIDO=9/400149
+*************
+24/05/2020 14:26:18,ross,VALIDACION RESULTADO,PEDIDO=9/400150
+*************
+24/05/2020 14:26:18,ross,VALIDACION RESULTADO,PEDIDO=9/400151
+*************
+24/05/2020 14:26:19,ross,VALIDACION RESULTADO,PEDIDO=9/400476
+*************
+24/05/2020 14:26:19,ross,VALIDACION RESULTADO,PEDIDO=9/401082
+*************
+24/05/2020 14:26:19,ross,VALIDACION RESULTADO,PEDIDO=9/401083
+*************
+24/05/2020 14:26:38,ross,IMPRIME POR AREA,PEDIDO=9
+*************
+24/05/2020 14:28:29,ross,IMPRIME TODO,PEDIDO=9
+*************
+24/05/2020 14:29:03,ross,IMPRIME SOBRE,PEDIDO=9
+*************
+24/05/2020 14:33:01,ross,ENVIO CORREO PACIENTE,PEDIDO=9
+*************
+24/05/2020 14:35:13,ross,Nuevo Pedido PRE CARGA,NORMAL/10
+*************
+24/05/2020 14:35:13,ross,Nuevo Pedido PRE CARGA,NORMAL/11
+*************
+24/05/2020 14:35:14,ross,Nuevo Pedido PRE CARGA,NORMAL/12
+*************
+24/05/2020 14:35:14,ross,Nuevo Pedido PRE CARGA,NORMAL/13
+*************
+24/05/2020 14:35:14,ross,Nuevo Pedido PRE CARGA,NORMAL/14
+*************
+24/05/2020 17:31:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2020 17:31:43,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 07:52:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 07:52:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 09:57:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 09:57:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 09:57:48,ross,IMPRIME POR AREA,PEDIDO=9
+*************
+25/05/2020 10:05:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 10:06:24,,Ingreso CONTRASE�A FALLIDO,
+*************
+25/05/2020 10:06:24,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 10:06:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 10:14:44,ross,Generar Paciente,Paciente=CHAUCA TORRES JESSICA LORENA
+*************
+25/05/2020 10:16:31,ross,01 GENERAR ORDEN,PEDIDO=15
+*************
+25/05/2020 10:16:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+25/05/2020 10:16:33,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+25/05/2020 10:18:59,ross,Actualiza FACTURA,FACTURA=2
+*************
+25/05/2020 10:18:59,ross,Ingresa FACTURA,FACTURA=2
+*************
+25/05/2020 10:19:01,ross,Insertar abono,Factura=2 Abono= 22.8
+*************
+25/05/2020 10:19:01,ross,Cancela FACTURA,FACTURA=2
+*************
+25/05/2020 10:19:06,ross,Registra Tx Factura,Factura=2
+*************
+25/05/2020 10:19:21,ross,Registra Tx Factura,Factura=2
+*************
+25/05/2020 10:19:38,ross,Registra Tx Factura,Factura=2
+*************
+25/05/2020 10:23:08,ross,Nuevo Pedido PRE CARGA,NORMAL/16
+*************
+25/05/2020 10:23:08,ross,Nuevo Pedido PRE CARGA,NORMAL/17
+*************
+25/05/2020 10:23:09,ross,Nuevo Pedido PRE CARGA,NORMAL/18
+*************
+25/05/2020 10:23:09,ross,Nuevo Pedido PRE CARGA,NORMAL/19
+*************
+25/05/2020 10:23:09,ross,Nuevo Pedido PRE CARGA,NORMAL/20
+*************
+25/05/2020 10:25:02,ross,IMPRIMIR LISTA TRABAJO,
+*************
+25/05/2020 10:25:04,ross,IMPRIMIR CONTRAORDEN,
+*************
+25/05/2020 10:30:45,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+25/05/2020 10:30:45,ross,GUARDA RESULTADOS,WBC=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,LYM=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,NEU=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,MONO=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,EOS=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,BASO=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,LYM%25=22
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,NEU%25=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,MONO%25=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,EOS%25=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,BASO%25=2
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,HGB=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,RBC=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,HCT=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,MCV=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,MCH =3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,MCHC=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,RDW_SD=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,RDW_CV=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,PLT=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,PDW=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,MPV=3
+*************
+25/05/2020 10:30:46,ross,GUARDA RESULTADOS,PCT=3
+*************
+25/05/2020 10:33:33,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/SUERO LIPEMICO
+*************
+25/05/2020 10:33:40,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALORES CONFIRMADOS
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,LDLH=-48.8
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,AHDLH=45
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,COLH=23
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,TGLH=134
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,TIPIF=O POSITIVO
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+25/05/2020 10:33:50,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/400101
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/400114
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/400149
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/400150
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/400151
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/400476
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/401082
+*************
+25/05/2020 10:34:16,ross,VALIDACION RESULTADO,PEDIDO=15/401083
+*************
+25/05/2020 10:35:00,ross,IMPRIME POR AREA,PEDIDO=15
+*************
+25/05/2020 10:35:54,ross,IMPRIME TODO,PEDIDO=15
+*************
+25/05/2020 10:37:35,ross,IMPRIME POR EMAMEN,PEDIDO=15
+*************
+25/05/2020 10:38:44,ross,IMPRIME SOBRE,PEDIDO=15
+*************
+25/05/2020 10:43:01,ross,ENVIO CORREO PACIENTE,PEDIDO=15
+*************
+25/05/2020 10:57:02,ross,Nuevo Convenio,Convenio=CLINICA
+*************
+25/05/2020 10:57:02,ross,Guardar secuencia,SECUENCIA=CLINICA/1001/1200
+*************
+25/05/2020 11:00:29,ross,GUARDA RESULTADOS,LDLH=1
+*************
+25/05/2020 11:00:29,ross,GUARDA RESULTADOS,AHDLH=1
+*************
+25/05/2020 11:00:29,ross,GUARDA RESULTADOS,COLH=1
+*************
+25/05/2020 11:00:29,ross,GUARDA RESULTADOS,TGLH=1
+*************
+25/05/2020 17:17:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 17:17:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 17:21:42,ross,Generar Paciente,Paciente=RUBILAR CABEZAS PAMELA BEATRIZ
+*************
+25/05/2020 17:23:24,ross,01 GENERAR ORDEN,PEDIDO=21
+*************
+25/05/2020 17:23:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=21
+*************
+25/05/2020 17:23:27,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+25/05/2020 17:25:00,ross,Actualiza FACTURA,FACTURA=3
+*************
+25/05/2020 17:25:00,ross,Ingresa FACTURA,FACTURA=3
+*************
+25/05/2020 17:25:01,ross,Insertar abono,Factura=3 Abono= 33
+*************
+25/05/2020 17:25:01,ross,Cancela FACTURA,FACTURA=3
+*************
+25/05/2020 17:25:06,ross,Registra Tx Factura,Factura=3
+*************
+25/05/2020 17:28:55,ross,Nuevo Pedido PRE CARGA,CLINICA/22
+*************
+25/05/2020 17:28:55,ross,Nuevo Pedido PRE CARGA,CLINICA/23
+*************
+25/05/2020 17:28:55,ross,Nuevo Pedido PRE CARGA,CLINICA/24
+*************
+25/05/2020 17:28:55,ross,Nuevo Pedido PRE CARGA,CLINICA/25
+*************
+25/05/2020 17:28:55,ross,Nuevo Pedido PRE CARGA,CLINICA/26
+*************
+25/05/2020 17:33:41,ross,GUARDA RESULTADOS,COLH=134.2
+*************
+25/05/2020 17:33:41,ross,GUARDA RESULTADOS,TGLH=180
+*************
+25/05/2020 17:33:41,ross,GUARDA RESULTADOS,VDRL=NO REACTIVO
+*************
+25/05/2020 17:33:41,ross,GUARDA RESULTADOS,TXP=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,Sep03H=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,WBC=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,LYM=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,NEU=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,MONO=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,EOS=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,BASO=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,LYM%25=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,NEU%25=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,MONO%25=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,EOS%25=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,BASO%25=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,HGB=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,RBC=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,HCT=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,MCV=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,MCH =1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,MCHC=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,RDW_SD=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,RDW_CV=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,PLT=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,PDW=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,MPV=1
+*************
+25/05/2020 17:34:32,ross,GUARDA RESULTADOS,PCT=1
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,COLO=AMBAR
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,DENO=1.010
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,PHO=5
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,LEUOH=75
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,NITO=POSITIVO
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,UROOH=0.2
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+25/05/2020 17:36:06,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,HGBOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CELEPH=0-2
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,PIOO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,HEMOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,BACOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CILCE=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,ASCOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CELPOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CIGO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CILO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,OXAO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CRIO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,URO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,CCETO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,ESP=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,FOO=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,MOCOH=
+*************
+25/05/2020 17:36:07,ross,GUARDA RESULTADOS,OTROSO=
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,macros_copro=- DESCRIPCION MACROSCOPICA -
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,COLCH=CAFÉ
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,ASPECTO=HETEROGENEO
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,CONSCH=PASTOSA
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,Ph=
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,SANC2=
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,MICROS_COPRO=- DESCRIPCION MICROSCOPICA -
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,VMICC2=
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,RAC2=++
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,RVCH=
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,ALMIDONES=
+*************
+25/05/2020 17:36:13,ross,GUARDA RESULTADOS,LEVC2H=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,HONCOPRO1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,MOCCopro=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,PIOCH=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,PMNCOP1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,HMCRPH=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,FBACC2H=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,INVPAC2=-INV. DE PARASITOS-
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,AMBHC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,ACOLI=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,CHILOMASTIX=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,TENCP1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,LANDC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,SANOCCOP1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,GLGRC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,YODAMEBA=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,EMBADOMONA=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,STRONGILOIDES=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,TRIHOMC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,BACOLIC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,LUMBC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,UNCINARIAS=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,NANAC1=
+*************
+25/05/2020 17:36:14,ross,GUARDA RESULTADOS,OTRCCH=
+*************
+25/05/2020 17:38:00,ross,GUARDA NOTA AREA,EXAMEN PADRE=4/SE SUGIERE REALIZAR UROCULTIVO
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,COLH=134.2
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,TGLH=180
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,VDRL=NO REACTIVO
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,TXP=1
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+25/05/2020 17:38:28,ross,GUARDA RESULTADOS,COPRO1=MEMO
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400101
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400149
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400151
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400230
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400244
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400258
+*************
+25/05/2020 17:39:00,ross,VALIDACION RESULTADO,PEDIDO=21/400781
+*************
+25/05/2020 17:39:55,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+25/05/2020 17:41:29,ross,IMPRIME TODO,PEDIDO=21
+*************
+25/05/2020 17:42:17,ross,IMPRIME POR EMAMEN,PEDIDO=21
+*************
+25/05/2020 17:43:02,ross,IMPRIME SOBRE,PEDIDO=21
+*************
+25/05/2020 17:51:08,ross,ENVIO CORREO PACIENTE,PEDIDO=21
+*************
+25/05/2020 17:56:02,ross,Guardar Bonificacion,Bonificacion=BONO 30 30
+*************
+25/05/2020 17:56:09,ross,Eliminar Bonificacion,Bonificacion=BONO 5
+*************
+25/05/2020 17:58:26,ross,Nuevo Convenio,Convenio=FYBECA
+*************
+25/05/2020 17:58:26,ross,Guardar secuencia,SECUENCIA=FYBECA/1001/3000
+*************
+25/05/2020 18:00:21,ross,Guardar palabra,PALABRA=ROJIZA
+*************
+25/05/2020 18:00:34,ross,Eliminar Palabra,PALABRA=ROJIZA
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:03:41,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+25/05/2020 18:04:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 18:04:17,PRUBILAR,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 18:06:30,PRUBILAR,Nuevo Perfil,PERFIL=PERFIL LAB
+*************
+25/05/2020 18:07:20,PRUBILAR,Nuevo Test en Lista de Precios,Test=401084 36  NORMAL
+*************
+25/05/2020 18:07:20,PRUBILAR,Nuevo Test en Lista de Precios,Test=401084 36  URGENCIA
+*************
+25/05/2020 18:07:20,PRUBILAR,Nuevo Test en Lista de Precios,Test=401084 36  CLINICA
+*************
+25/05/2020 18:07:20,PRUBILAR,Nuevo Test en Lista de Precios,Test=401084 36  FYBECA
+*************
+25/05/2020 18:07:20,PRUBILAR,INGRESA TEST,TEST=ANTIMULERIANA
+*************
+25/05/2020 18:07:20,PRUBILAR,Actualiza Test,Test=ANTIMULERIANA
+*************
+25/05/2020 18:10:10,PRUBILAR,Actualizar Rango Unico,Test=400148 Rango=3.5-5
+*************
+25/05/2020 20:42:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 20:42:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 20:45:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 20:45:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 21:17:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2020 21:17:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+25/05/2020 21:17:20,ross,IMPRIME POR AREA,PEDIDO=4983
+*************
+25/05/2020 21:17:29,ross,IMPRIME POR AREA,PEDIDO=4982
+*************
+25/05/2020 21:21:32,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+25/05/2020 21:21:41,ross,01 GENERAR ORDEN,PEDIDO=4984
+*************
+25/05/2020 21:21:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=4984
+*************
+25/05/2020 21:21:43,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+25/05/2020 21:22:09,ross,GUARDA RESULTADOS,WBCH=1
+*************
+25/05/2020 21:22:09,ross,GUARDA RESULTADOS,NEUH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,LYMH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,MONOH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,EOSH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,BASOH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,RBCH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,HCTH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,HGBH=1
+*************
+25/05/2020 21:22:10,ross,GUARDA RESULTADOS,MCVH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,MCHH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,MCHCH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,PLTH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,PDWH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,MPVH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,PCTH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,RDW_SDH=1
+*************
+25/05/2020 21:22:11,ross,GUARDA RESULTADOS,RDW_CVH=1
+*************
+26/05/2020 13:45:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 13:45:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 13:52:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 13:52:39,,Ingreso CONTRASE�A FALLIDO,
+*************
+26/05/2020 13:52:39,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 13:52:42,,Ingreso CONTRASE�A FALLIDO,
+*************
+26/05/2020 13:52:42,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 13:52:44,,Ingreso CONTRASE�A FALLIDO,
+*************
+26/05/2020 13:52:44,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 13:52:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 15:59:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 15:59:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 16:00:23,ross,GUARDA RESULTADOS,TIPIF=O POSITIVO
+*************
+26/05/2020 16:00:23,ross,GUARDA RESULTADOS,TC=198.4
+*************
+26/05/2020 16:00:23,ross,GUARDA RESULTADOS,GLU=189.5
+*************
+26/05/2020 16:09:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 16:09:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 16:09:59,ross,IMPRIME POR AREA,PEDIDO=21
+*************
+26/05/2020 16:13:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 16:13:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 16:13:19,ross,ENVIO CORREO PACIENTE,PEDIDO=21
+*************
+26/05/2020 16:31:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 16:31:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 16:34:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 16:34:41,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 16:41:14,ross,Generar Paciente,Paciente=MOYA BLONDET JORGE DAVID
+*************
+26/05/2020 16:43:37,ross,01 GENERAR ORDEN,PEDIDO=27
+*************
+26/05/2020 16:43:40,ross,02 IMPRIMIR COD BARRAS,PEDIDO=27
+*************
+26/05/2020 16:43:40,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+26/05/2020 16:45:12,ross,Actualiza FACTURA,FACTURA=4
+*************
+26/05/2020 16:45:12,ross,Ingresa FACTURA,FACTURA=4
+*************
+26/05/2020 16:45:12,ross,Insertar abono,Factura=4 Abono= 10
+*************
+26/05/2020 16:45:12,ross,Actualiza FACTURA,FACTURA=4/10
+*************
+26/05/2020 16:45:17,ross,Registra Tx Factura,Factura=4
+*************
+26/05/2020 16:46:11,ross,Insertar abono,Factura=4 Abono= 14.8
+*************
+26/05/2020 16:46:11,ross,Cancela FACTURA,FACTURA=4
+*************
+26/05/2020 16:46:16,ross,Registra Tx Factura,Factura=4
+*************
+26/05/2020 16:46:21,ross,Registra Tx Factura,Factura=4
+*************
+26/05/2020 16:47:59,ross,03 IMPRIMIR PEDIDO,PEDIDO=27
+*************
+26/05/2020 16:49:54,ross,Nuevo Pedido PRE CARGA,FYBECA/28
+*************
+26/05/2020 16:49:55,ross,Nuevo Pedido PRE CARGA,FYBECA/29
+*************
+26/05/2020 16:49:55,ross,Nuevo Pedido PRE CARGA,FYBECA/30
+*************
+26/05/2020 16:49:55,ross,Nuevo Pedido PRE CARGA,FYBECA/31
+*************
+26/05/2020 16:49:55,ross,Nuevo Pedido PRE CARGA,FYBECA/32
+*************
+26/05/2020 16:51:15,ross,IMPRIMIR LISTA TRABAJO,
+*************
+26/05/2020 16:51:16,ross,IMPRIMIR CONTRAORDEN,
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,WBCH=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,LYMH=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,NEUH=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,MONOH=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,EOSH=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,BASOH=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,MONO%25H=2
+*************
+26/05/2020 16:53:43,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,HGBH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,RBCH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,HCTH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,MCVH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,MCH H=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,PLTH=4
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,PDWH=4
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,MPVH=4
+*************
+26/05/2020 16:53:44,ross,GUARDA RESULTADOS,PCTH=4555
+*************
+26/05/2020 16:55:19,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/SUERO LIPEMICO
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,LDLH=129
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,AHDLH=44
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,COLH=200
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,TGLH=135
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,TIPIF=O POSITIVO
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+26/05/2020 16:55:25,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/400101
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/400114
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/400149
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/400150
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/400151
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/400476
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/401082
+*************
+26/05/2020 16:55:49,ross,VALIDACION RESULTADO,PEDIDO=27/401083
+*************
+26/05/2020 16:56:42,ross,IMPRIME POR AREA,PEDIDO=27
+*************
+26/05/2020 16:58:06,ross,IMPRIME TODO,PEDIDO=27
+*************
+26/05/2020 16:58:27,ross,IMPRIME POR EMAMEN,PEDIDO=27
+*************
+26/05/2020 16:58:52,ross,IMPRIME SOBRE,PEDIDO=27
+*************
+26/05/2020 17:08:05,ross,ENVIO CORREO PACIENTE,PEDIDO=27
+*************
+26/05/2020 17:09:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 17:09:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:17:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:17:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:20:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:20:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:23:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:23:27,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:25:16,ross,ENVIO CORREO PACIENTE,PEDIDO=21
+*************
+26/05/2020 18:28:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:28:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:32:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:32:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:33:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:33:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+26/05/2020 18:46:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/05/2020 18:46:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/05/2020 10:59:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2020 10:59:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/05/2020 20:46:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2020 20:46:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/05/2020 21:18:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2020 21:18:05,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/05/2020 21:21:47,ross,Generar Paciente,Paciente=ROSALES SOTO EDGAR FABRICIO
+*************
+27/05/2020 21:26:14,ross,01 GENERAR ORDEN,PEDIDO=1
+*************
+27/05/2020 21:26:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/05/2020 21:26:20,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+27/05/2020 21:26:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/05/2020 21:26:34,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+27/05/2020 21:26:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+27/05/2020 21:26:36,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+27/05/2020 21:29:55,ross,Generar Paciente,Paciente=ARTEAGA MOLINEROS CARLOS ANTONIO
+*************
+27/05/2020 21:29:55,ross,Nuevo Pedido PRE CARGA,NORMAL/2
+*************
+27/05/2020 21:29:56,ross,Generar Paciente,Paciente=ARTINIEGA MONTERO JULIO SEGUNDO
+*************
+27/05/2020 21:29:56,ross,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+27/05/2020 21:29:56,ross,Generar Paciente,Paciente=AYORA PORTERO IRINA ISABEL
+*************
+27/05/2020 21:29:56,ross,Nuevo Pedido PRE CARGA,NORMAL/4
+*************
+27/05/2020 21:29:56,ross,Generar Paciente,Paciente=CONDOR MOLINA ELIANA SOFIA
+*************
+27/05/2020 21:29:56,ross,Nuevo Pedido PRE CARGA,NORMAL/5
+*************
+27/05/2020 21:29:56,ross,Generar Paciente,Paciente=CHILUIZA SIRIZACA KLEBER JOSE
+*************
+27/05/2020 21:29:56,ross,Nuevo Pedido PRE CARGA,NORMAL/6
+*************
+27/05/2020 21:31:52,ross,IMPRIMIR LISTA TRABAJO,
+*************
+27/05/2020 21:31:54,ross,IMPRIMIR CONTRAORDEN,
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,WBCH=1
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,LYMH=1
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,NEUH=1
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,MONOH=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,EOSH=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,BASOH=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,MONO%25H=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,HGBH=3
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,RBCH=3
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,HCTH=3
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,MCVH=3
+*************
+27/05/2020 21:35:24,ross,GUARDA RESULTADOS,MCH H=3
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,PLTH=4
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,PDWH=4
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,MPVH=4
+*************
+27/05/2020 21:35:25,ross,GUARDA RESULTADOS,PCTH=4
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,PHO=5
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,UROOH=0.2
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,HGBOH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CELEPH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,HEMOH=8-10
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,BACOH=++
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CILCE=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,ASCOH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CELPOH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CIGO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CILO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,OXAO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CRIO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,URO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,CCETO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,ESP=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,FOO=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,MOCOH=
+*************
+27/05/2020 21:37:05,ross,GUARDA RESULTADOS,OTROSO=
+*************
+27/05/2020 21:39:04,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALORES CONFIRMADOS
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,AHDLH=65
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,COLH=190
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,TGLH=145
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,LDLH=96
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,TIPIF=O POSITIVO
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+27/05/2020 21:39:12,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400101
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400114
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400230
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/401082
+*************
+27/05/2020 21:39:40,ross,VALIDACION RESULTADO,PEDIDO=1/401083
+*************
+27/05/2020 21:40:57,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+27/05/2020 21:41:50,ross,IMPRIME TODO,PEDIDO=1
+*************
+27/05/2020 21:42:17,ross,IMPRIME POR EMAMEN,PEDIDO=1
+*************
+27/05/2020 21:42:32,ross,IMPRIME SOBRE,PEDIDO=1
+*************
+27/05/2020 21:46:15,ross,ENVIO CORREO PACIENTE,PEDIDO=1
+*************
+27/05/2020 21:48:49,ross,Actualizar Rango Unico,Test=400149 Rango=10-190
+*************
+27/05/2020 21:49:59,ross,Nuevo Convenio,Convenio=CHEVROLET
+*************
+27/05/2020 21:49:59,ross,Guardar secuencia,SECUENCIA=CHEVROLET/1001/1200
+*************
+27/05/2020 22:45:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2020 22:45:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/05/2020 22:46:58,ross,Eliminar Test,TEST=38
+*************
+27/05/2020 22:48:06,ross,Actualiza Test,Test=HEMOGLOBINA
+*************
+27/05/2020 23:01:48,ross,Actualiza Test,Test=PANEL DE 5 DROGAS
+*************
+27/05/2020 23:28:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2020 23:28:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+27/05/2020 23:46:20,ross,Actualiza Test,Test=DENGUE IGM 
+*************
+27/05/2020 23:46:31,ross,Actualiza Test,Test=DENGUE IGM 
+*************
+27/05/2020 23:46:43,ross,Actualiza Test,Test=DENGUE IGG
+*************
+27/05/2020 23:48:18,ross,Actualiza Test,Test=ANTI HAV IGG+IGM
+*************
+27/05/2020 23:49:33,ross,Actualiza Test,Test=ANTI CORE HEPATITIS B  IgM
+*************
+27/05/2020 23:49:44,ross,Actualiza Test,Test=ANTI CORE HEPATITIS B IgG
+*************
+27/05/2020 23:51:26,ross,Actualiza Test,Test=PSA LIBRE
+*************
+27/05/2020 23:51:35,ross,Actualiza Test,Test=PSA TOTAL
+*************
+27/05/2020 23:58:34,ross,Actualiza Test,Test=CULTIVO DE ORINA
+*************
+27/05/2020 23:58:56,ross,Actualiza Test,Test=CULTIVO DE HECES
+*************
+28/05/2020 11:26:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 11:26:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 11:46:02,ross,Nuevo Test en Lista de Precios,Test=401085 50  NORMAL
+*************
+28/05/2020 11:46:32,ross,Nuevo Test en Lista de Precios,Test=401085 50  URGENCIA
+*************
+28/05/2020 11:46:43,ross,Nuevo Test en Lista de Precios,Test=401085 50  CHEVROLET
+*************
+28/05/2020 11:46:43,ross,INGRESA TEST,TEST=COVID-19 CUANTITATIVO
+*************
+28/05/2020 11:46:43,ross,Actualiza Test,Test=COVID-19 CUANTITATIVO
+*************
+28/05/2020 11:49:27,ross,Nuevo Test en Lista de Precios,Test=401086 40  NORMAL
+*************
+28/05/2020 11:49:28,ross,Nuevo Test en Lista de Precios,Test=401086 40  URGENCIA
+*************
+28/05/2020 11:49:28,ross,Nuevo Test en Lista de Precios,Test=401086 40  CHEVROLET
+*************
+28/05/2020 11:49:28,ross,INGRESA TEST,TEST=COVID-19 CUALITATIVO
+*************
+28/05/2020 11:49:28,ross,Actualiza Test,Test=COVID-19 CUALITATIVO
+*************
+28/05/2020 11:56:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 11:56:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 12:07:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 12:07:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 12:39:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 12:39:04,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 15:21:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 15:21:23,,Ingreso CONTRASE�A FALLIDO,
+*************
+28/05/2020 15:21:23,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 15:21:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 16:36:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 16:36:30,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 16:38:16,ross,Actualizar Rango Multiple,Test= 400149 Rango=Deseable	        200 (5,2 mmol/L)
+Límite de alto riesgo	200 – 240 (5,2 – 6,2 mmol/L)
+Alto riesgo	>       240 (6,2 mmol/L)
+*************
+28/05/2020 16:38:55,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+28/05/2020 16:39:00,ross,01 GENERAR ORDEN,PEDIDO=7
+*************
+28/05/2020 16:39:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+28/05/2020 16:39:03,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+28/05/2020 16:39:12,ross,GUARDA RESULTADOS,COLH=123
+*************
+28/05/2020 16:39:13,ross,VALIDACION RESULTADO,PEDIDO=7/400149
+*************
+28/05/2020 16:39:22,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 16:48:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 16:49:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 16:49:39,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 16:50:30,ross,Actualizar Rango Multiple,Test= 400149 Rango=Deseable	                         200 (5,2 mmol/L)
+Límite de alto riesgo 200 – 240 (5,2 – 6,2 mmol/L)
+Alto riesgo                   >  240 (6,2 mmol/L)
+*************
+28/05/2020 16:50:46,ross,1 MODIFICA ORDEN,PEDIDO=7
+*************
+28/05/2020 16:51:03,ross,GUARDA RESULTADOS,COLH=123
+*************
+28/05/2020 16:51:04,ross,VALIDACION RESULTADO,PEDIDO=7/400149
+*************
+28/05/2020 16:51:09,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 17:00:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 17:00:50,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 17:01:04,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 17:09:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 17:09:08,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 17:10:42,ross,Actualizar Rango Multiple,Test= 400149 Rango=Deseable 200 (5,2 mmol/L)
+Límite de alto riesgo 200 –240 (5,2 – 6,2 mmol/L)
+Alto riesgo > 240 (6,2 mmol/L)
+*************
+28/05/2020 17:12:10,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 17:16:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 17:16:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 17:17:09,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 17:17:40,ross,1 MODIFICA ORDEN,PEDIDO=7
+*************
+28/05/2020 17:17:50,ross,GUARDA RESULTADOS,COLH=121
+*************
+28/05/2020 17:17:51,ross,VALIDACION RESULTADO,PEDIDO=7/400149
+*************
+28/05/2020 17:17:56,ross,IMPRIME POR AREA,PEDIDO=7
+*************
+28/05/2020 18:16:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2020 18:16:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+28/05/2020 18:17:44,ross,01 GENERAR ORDEN,PEDIDO=8
+*************
+28/05/2020 18:17:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+28/05/2020 18:17:46,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+29/05/2020 10:16:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/05/2020 10:16:33,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/05/2020 10:21:40,ross,Generar Paciente,Paciente=YANEZ CORNEJO JOSUE ARIEL
+*************
+29/05/2020 10:24:56,ross,01 GENERAR ORDEN,PEDIDO=9
+*************
+29/05/2020 10:24:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=09
+*************
+29/05/2020 10:24:59,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=AMORES MONTENEGRO CARLOS IVAN
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/10
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=ARGUELLO HERRERA CESAR ANDRES
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/11
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=AYOVI PALMA IVONNE DEL ROCIO
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/12
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=CHAVEZ BEDON TATIANA KARINA
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/13
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=CHICAIZA SANTOS MARCO ANTONIO
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/14
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=ESCANDON PATIÑO ADRIANA PAOLA
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/15
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=GRANDA PALADINES RONAL PAVEL
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/16
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=QUIÑONEZ ORTIZ FELIX MEDARDO
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/17
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=SANTANDER VASQUEZ PAMELA EVELIN
+*************
+29/05/2020 10:28:52,ross,Nuevo Pedido PRE CARGA,CHEVROLET/18
+*************
+29/05/2020 10:28:52,ross,Generar Paciente,Paciente=SANTIN AGUIRRE ANDREA MABEL
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/19
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=SILVA CAMPOVERDE GISSELA MARELY
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/20
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=SHUALO MAYRA
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/21
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=VALLE ROSERO JORGE ENRIQUE
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/22
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=VALVERDE CHAVEZ JOSE LUIS
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/23
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=RODRIGUEZ PARRA CARLOS JAVIER
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/24
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=ALVAREZ JACOME GENNY DEL ROCIO
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/25
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=BRIONES ALCIVAR JAVIER ANTONIO
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/26
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=RODRIGUEZ BAQUE LEONEL RICARDO
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/27
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=MONTENRGRO JEREZ MAX VLADIMIR
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/28
+*************
+29/05/2020 10:28:53,ross,Generar Paciente,Paciente=FLORES DELGADO ROSSANA MARIA
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/29
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/30
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/31
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/32
+*************
+29/05/2020 10:28:53,ross,Nuevo Pedido PRE CARGA,CHEVROLET/33
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/34
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/35
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/36
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/37
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/38
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/39
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/40
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/41
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/42
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/43
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/44
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/45
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/46
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/47
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/48
+*************
+29/05/2020 10:28:54,ross,Nuevo Pedido PRE CARGA,CHEVROLET/49
+*************
+29/05/2020 10:31:14,ross,IMPRIMIR LISTA TRABAJO,
+*************
+29/05/2020 10:31:16,ross,IMPRIMIR CONTRAORDEN,
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,WBCH=1
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,LYMH=1
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,NEUH=1
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,MONOH=3
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,EOSH=3
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,BASOH=3
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,HGBH=5
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,RBCH=5
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,HCTH=5
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,MCVH=10000000
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,MCH H=10000000
+*************
+29/05/2020 10:34:56,ross,GUARDA RESULTADOS,MCHCH=0
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,RDW_SDH=5
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,RDW_CVH=5
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,PLTH=5
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,PDWH=5
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,MPVH=5
+*************
+29/05/2020 10:34:57,ross,GUARDA RESULTADOS,PCTH=5
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,WBCH=1
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,LYMH=1
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,NEUH=1
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,MONOH=3
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,EOSH=3
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,BASOH=3
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,MONO%25H=4
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,HGBH=1000
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,RBCH=5
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,HCTH=5
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,MCVH=10000000
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,MCH H=10000000
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,MCHCH=0
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,RDW_SDH=5
+*************
+29/05/2020 10:36:27,ross,GUARDA RESULTADOS,RDW_CVH=5
+*************
+29/05/2020 10:36:28,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+29/05/2020 10:36:28,ross,GUARDA RESULTADOS,PLTH=5
+*************
+29/05/2020 10:36:28,ross,GUARDA RESULTADOS,PDWH=5
+*************
+29/05/2020 10:36:28,ross,GUARDA RESULTADOS,MPVH=5
+*************
+29/05/2020 10:36:28,ross,GUARDA RESULTADOS,PCTH=5
+*************
+29/05/2020 10:38:27,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/SUERO LIPEMICO
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,LDLH=134
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,AHDLH=34
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,COLH=200
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,TGLH=45
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+29/05/2020 10:38:42,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/400101
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/400149
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/400150
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/400151
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/400476
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/401082
+*************
+29/05/2020 10:39:01,ross,VALIDACION RESULTADO,PEDIDO=9/401083
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,LDLH=134
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,AHDLH=3.4
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,COLH=200
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,TGLH=45
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,SARIGGH=NEGATIVO
+*************
+29/05/2020 10:39:51,ross,GUARDA RESULTADOS,SARSIGMH=NEGATIVO
+*************
+29/05/2020 10:40:43,ross,IMPRIME POR AREA,PEDIDO=9
+*************
+29/05/2020 10:41:39,ross,IMPRIME TODO,PEDIDO=9
+*************
+29/05/2020 10:42:16,ross,IMPRIME SOBRE,PEDIDO=9
+*************
+29/05/2020 10:45:58,ross,ENVIO CORREO PACIENTE,PEDIDO=9
+*************
+29/05/2020 10:51:23,ross,Nuevo Convenio,Convenio=DR. CASTILLO
+*************
+29/05/2020 10:51:23,ross,Guardar secuencia,SECUENCIA=DR. CASTILLO/1201/1300
+*************
+29/05/2020 19:10:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/05/2020 19:10:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:28,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:29,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:29,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:29,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:29,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:29,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:11:29,ross,Ingreso o Actualizacion Permisos de Usuario,
+*************
+29/05/2020 19:16:20,ross,AGENDAMIENTO,PEDIDO=1
+*************
+29/05/2020 19:17:01,ross,GUARDA RESULTADOS,COLH=12
+*************
+29/05/2020 19:17:01,ross,GUARDA RESULTADOS,AHDLH=13
+*************
+29/05/2020 19:17:01,ross,GUARDA RESULTADOS,LDLH=14
+*************
+29/05/2020 19:17:01,ross,GUARDA RESULTADOS,TGLH=15
+*************
+29/05/2020 19:17:02,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+29/05/2020 19:17:02,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+29/05/2020 19:17:02,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+29/05/2020 19:17:03,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+29/05/2020 19:17:18,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+29/05/2020 19:26:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/05/2020 19:26:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+29/05/2020 19:26:15,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+30/05/2020 11:43:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 11:43:31,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 11:43:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 11:43:48,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 11:48:44,ross,01 GENERAR ORDEN,PEDIDO=2
+*************
+30/05/2020 11:48:53,ross,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+30/05/2020 11:48:53,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+30/05/2020 11:52:53,ross,01 GENERAR ORDEN,PEDIDO=3
+*************
+30/05/2020 11:52:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+30/05/2020 11:52:54,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+30/05/2020 13:38:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 13:38:10,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,Sep03H=- SERIE BLANCA -
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,WBCH=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,LYMH=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,NEUH=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,MONOH=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,EOSH=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,BASOH=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,SEP01H=- SERIE ROJA -
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,HGBH=2
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,RBCH=2
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,HCTH=2
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,MCVH=2
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,MCH H=2
+*************
+30/05/2020 13:38:44,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,SEP02H=- PLAQUETAS -
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,PLTH=3
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,PDWH=3
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,MPVH=3
+*************
+30/05/2020 13:38:45,ross,GUARDA RESULTADOS,PCTH=3
+*************
+30/05/2020 13:38:49,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/05/2020 13:38:51,ross,VALIDACION RESULTADO,PEDIDO=2/400101
+*************
+30/05/2020 13:39:06,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 13:41:00,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+30/05/2020 13:47:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 13:47:58,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 14:00:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 14:00:02,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 14:05:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 14:05:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 14:49:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 14:49:19,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 14:50:24,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 15:02:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 15:02:28,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 15:09:49,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 15:52:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 15:52:35,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 15:52:57,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 16:55:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 16:55:37,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 16:56:08,ross,01 GENERAR ORDEN,PEDIDO=4
+*************
+30/05/2020 16:56:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+30/05/2020 16:56:13,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+30/05/2020 16:57:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 16:57:01,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 16:58:18,ross,Nuevo Test en Lista de Precios,Test=401019 30  NORMAL
+*************
+30/05/2020 16:58:18,ross,Nuevo Test en Lista de Precios,Test=401019 30  DR. OLALLES
+*************
+30/05/2020 16:58:18,ross,Nuevo Test en Lista de Precios,Test=401019 30  DRA. SALGADO
+*************
+30/05/2020 16:58:18,ross,Nuevo Test en Lista de Precios,Test=401019 30  HUELLAS/MENA
+*************
+30/05/2020 16:58:18,ross,INGRESA TEST,TEST=COVID 19 IgG
+*************
+30/05/2020 16:58:18,ross,Actualiza Test,Test=COVID 19 IgG
+*************
+30/05/2020 16:58:41,ross,Nuevo Test en Lista de Precios,Test=401020 30  NORMAL
+*************
+30/05/2020 16:58:41,ross,Nuevo Test en Lista de Precios,Test=401020 30  DR. OLALLES
+*************
+30/05/2020 16:58:41,ross,Nuevo Test en Lista de Precios,Test=401020 30  DRA. SALGADO
+*************
+30/05/2020 16:58:41,ross,Nuevo Test en Lista de Precios,Test=401020 30  HUELLAS/MENA
+*************
+30/05/2020 16:58:41,ross,INGRESA TEST,TEST=COVID 19 IgM
+*************
+30/05/2020 16:58:41,ross,Actualiza Test,Test=COVID 19 IgM
+*************
+30/05/2020 16:59:28,ross,01 GENERAR ORDEN,PEDIDO=10375
+*************
+30/05/2020 16:59:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10375
+*************
+30/05/2020 16:59:30,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+30/05/2020 17:14:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 17:14:40,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 17:18:53,ross,Generar Paciente,Paciente=CHANDI PULLES MANUEL ANTONIO
+*************
+30/05/2020 17:21:29,ross,01 GENERAR ORDEN,PEDIDO=10376
+*************
+30/05/2020 17:21:32,ross,02 IMPRIMIR COD BARRAS,PEDIDO=10376
+*************
+30/05/2020 17:21:32,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+30/05/2020 17:23:57,ross,Actualiza FACTURA,FACTURA=24
+*************
+30/05/2020 17:23:57,ross,Ingresa FACTURA,FACTURA=24
+*************
+30/05/2020 17:24:00,ross,Insertar abono,Factura=24 Abono= 81.72
+*************
+30/05/2020 17:24:00,ross,Cancela FACTURA,FACTURA=24
+*************
+30/05/2020 17:24:03,ross,Registra Tx Factura,Factura=24
+*************
+30/05/2020 17:24:21,ross,Registra Tx Factura,Factura=24
+*************
+30/05/2020 17:24:29,ross,Registra Tx Factura,Factura=24
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10377
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10378
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10379
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10380
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10381
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10382
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10383
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10384
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10385
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10386
+*************
+30/05/2020 17:27:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10387
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10388
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10389
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10390
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10391
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10392
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10393
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10394
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10395
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10396
+*************
+30/05/2020 17:27:34,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /0   /999/10397
+*************
+30/05/2020 17:28:51,ross,IMPRIMIR LISTA TRABAJO,
+*************
+30/05/2020 17:28:53,ross,IMPRIMIR CONTRAORDEN,
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,WBCH=1
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,NEUH=2
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,LYMH=2
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,MONOH=2
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,EOSH=2
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,BASOH=2
+*************
+30/05/2020 17:30:59,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+30/05/2020 17:31:00,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+30/05/2020 17:31:00,ross,GUARDA RESULTADOS,MONO%25H=2
+*************
+30/05/2020 17:31:00,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+30/05/2020 17:31:00,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+30/05/2020 17:31:00,ross,GUARDA RESULTADOS,RBCH=2
+*************
+30/05/2020 17:31:01,ross,GUARDA RESULTADOS,HCTH=2
+*************
+30/05/2020 17:31:01,ross,GUARDA RESULTADOS,HGBH=2
+*************
+30/05/2020 17:31:01,ross,GUARDA RESULTADOS,MCVH=2
+*************
+30/05/2020 17:31:01,ross,GUARDA RESULTADOS,MCHH=3
+*************
+30/05/2020 17:31:01,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+30/05/2020 17:31:01,ross,GUARDA RESULTADOS,PLTH=3
+*************
+30/05/2020 17:31:02,ross,GUARDA RESULTADOS,PDWH=3
+*************
+30/05/2020 17:31:02,ross,GUARDA RESULTADOS,MPVH=3
+*************
+30/05/2020 17:31:02,ross,GUARDA RESULTADOS,PCTH=3
+*************
+30/05/2020 17:31:02,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+30/05/2020 17:31:02,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+30/05/2020 17:32:21,ross,GUARDA NOTA AREA,EXAMEN PADRE=2/VALORES COFIRMADOS
+*************
+30/05/2020 17:32:41,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+30/05/2020 17:32:41,ross,GUARDA RESULTADOS,TIPIFH=O POSITIVO
+*************
+30/05/2020 17:32:41,ross,GUARDA RESULTADOS,TRIG=150
+*************
+30/05/2020 17:32:42,ross,GUARDA RESULTADOS,LDL=130
+*************
+30/05/2020 17:32:42,ross,GUARDA RESULTADOS,AHDL=44
+*************
+30/05/2020 17:32:42,ross,GUARDA RESULTADOS,COL=180
+*************
+30/05/2020 17:32:42,ross,GUARDA RESULTADOS,NCOVIGGH=NEGATIVO
+*************
+30/05/2020 17:32:42,ross,GUARDA RESULTADOS,NCOVIGMH=NEGATIVO
+*************
+30/05/2020 17:33:09,ross,VALIDACION RESULTADO,PEDIDO=10376/400101
+*************
+30/05/2020 17:33:09,ross,VALIDACION RESULTADO,PEDIDO=10376/400114
+*************
+30/05/2020 17:33:09,ross,VALIDACION RESULTADO,PEDIDO=10376/400149
+*************
+30/05/2020 17:33:10,ross,VALIDACION RESULTADO,PEDIDO=10376/400150
+*************
+30/05/2020 17:33:10,ross,VALIDACION RESULTADO,PEDIDO=10376/400151
+*************
+30/05/2020 17:33:10,ross,VALIDACION RESULTADO,PEDIDO=10376/400476
+*************
+30/05/2020 17:33:10,ross,VALIDACION RESULTADO,PEDIDO=10376/401019
+*************
+30/05/2020 17:33:10,ross,VALIDACION RESULTADO,PEDIDO=10376/401020
+*************
+30/05/2020 17:33:46,ross,IMPRIME POR AREA,PEDIDO=10376
+*************
+30/05/2020 17:34:32,ross,IMPRIME TODO,PEDIDO=10376
+*************
+30/05/2020 17:34:55,ross,IMPRIME POR EMAMEN,PEDIDO=10376
+*************
+30/05/2020 17:35:20,ross,IMPRIME SOBRE,PEDIDO=10376
+*************
+30/05/2020 17:42:12,ross,AGENDAMIENTO,PEDIDO=10398
+*************
+30/05/2020 18:25:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 18:25:46,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 18:49:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 18:49:09,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:00:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:00:18,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:00:51,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 19:07:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:07:44,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:17:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:17:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:29:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:29:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:35:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:35:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:41:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:41:42,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:42:50,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 19:54:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:54:47,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:56:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 19:56:54,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 19:57:03,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 20:08:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 20:08:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 20:08:20,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 20:13:09,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 20:24:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 20:24:02,,Ingreso CONTRASE�A FALLIDO,
+*************
+30/05/2020 20:24:02,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 20:24:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 20:24:13,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 20:41:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 20:41:51,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 20:42:58,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 20:58:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 20:58:56,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 21:24:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 21:24:32,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 21:24:47,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 21:25:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 21:25:49,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 21:25:58,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 21:31:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 21:31:36,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 21:31:42,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+30/05/2020 21:36:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2020 21:36:25,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+30/05/2020 21:36:31,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+31/05/2020 11:26:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 11:26:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 11:29:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 11:30:00,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 11:30:18,ross,01 GENERAR ORDEN,PEDIDO=5
+*************
+31/05/2020 11:30:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=05
+*************
+31/05/2020 11:30:19,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+31/05/2020 13:47:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 13:47:02,,Ingreso CONTRASE�A FALLIDO,
+*************
+31/05/2020 13:47:02,,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 13:47:03,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 13:52:57,ross,01 GENERAR ORDEN,PEDIDO=6608
+*************
+31/05/2020 13:53:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=6608
+*************
+31/05/2020 13:53:01,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+31/05/2020 13:53:38,ross,GUARDA RESULTADOS,WBCH=1
+*************
+31/05/2020 13:53:38,ross,GUARDA RESULTADOS,NEUH=1
+*************
+31/05/2020 13:53:38,ross,GUARDA RESULTADOS,LYMH=1
+*************
+31/05/2020 13:53:39,ross,GUARDA RESULTADOS,MONOH=1
+*************
+31/05/2020 13:53:39,ross,GUARDA RESULTADOS,EOSH=1
+*************
+31/05/2020 13:53:39,ross,GUARDA RESULTADOS,BASOH=1
+*************
+31/05/2020 13:53:39,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+31/05/2020 13:53:40,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+31/05/2020 13:53:40,ross,GUARDA RESULTADOS,MONO%25H=1
+*************
+31/05/2020 13:53:40,ross,GUARDA RESULTADOS,EOS%25H=1
+*************
+31/05/2020 13:53:41,ross,GUARDA RESULTADOS,BASO%25H=1
+*************
+31/05/2020 13:53:41,ross,GUARDA RESULTADOS,sep01=-----------------------------
+*************
+31/05/2020 13:53:41,ross,GUARDA RESULTADOS,RBCH=2
+*************
+31/05/2020 13:53:42,ross,GUARDA RESULTADOS,HGBH=2
+*************
+31/05/2020 13:53:42,ross,GUARDA RESULTADOS,HCTH=2
+*************
+31/05/2020 13:53:42,ross,GUARDA RESULTADOS,MCVH=2
+*************
+31/05/2020 13:53:43,ross,GUARDA RESULTADOS,MCHH=2
+*************
+31/05/2020 13:53:43,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+31/05/2020 13:53:43,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+31/05/2020 13:53:44,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+31/05/2020 13:53:44,ross,GUARDA RESULTADOS,sep02=-----------------------------
+*************
+31/05/2020 13:53:44,ross,GUARDA RESULTADOS,PLTH=3
+*************
+31/05/2020 13:53:45,ross,GUARDA RESULTADOS,PCTH=3
+*************
+31/05/2020 13:53:45,ross,GUARDA RESULTADOS,MPVH=3
+*************
+31/05/2020 13:53:45,ross,GUARDA RESULTADOS,PDWSH=3
+*************
+31/05/2020 13:53:46,ross,GUARDA RESULTADOS,PDWCH=3
+*************
+31/05/2020 13:53:46,ross,GUARDA RESULTADOS,P_LCRH=3
+*************
+31/05/2020 13:53:46,ross,GUARDA RESULTADOS,P_LCCH=3
+*************
+31/05/2020 13:54:06,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+31/05/2020 13:54:07,ross,GUARDA RESULTADOS,DIMDH=4
+*************
+31/05/2020 13:54:07,ross,GUARDA RESULTADOS,GLB=5
+*************
+31/05/2020 13:54:07,ross,GUARDA RESULTADOS,TP=5
+*************
+31/05/2020 13:54:07,ross,GUARDA RESULTADOS,ALB=5
+*************
+31/05/2020 13:54:07,ross,GUARDA RESULTADOS,UREA=5
+*************
+31/05/2020 13:54:08,ross,GUARDA RESULTADOS,TCH=5
+*************
+31/05/2020 13:54:08,ross,GUARDA RESULTADOS,UA=5
+*************
+31/05/2020 13:54:08,ross,GUARDA RESULTADOS,TGH=5
+*************
+31/05/2020 13:54:08,ross,GUARDA RESULTADOS,GLU=5
+*************
+31/05/2020 13:54:08,ross,GUARDA RESULTADOS,CRE=5
+*************
+31/05/2020 13:54:08,ross,GUARDA RESULTADOS,FALKH=5
+*************
+31/05/2020 13:54:09,ross,GUARDA RESULTADOS,FERRH=5
+*************
+31/05/2020 13:54:09,ross,GUARDA RESULTADOS,ALTH=6
+*************
+31/05/2020 13:54:09,ross,GUARDA RESULTADOS,LDH=6
+*************
+31/05/2020 13:54:09,ross,GUARDA RESULTADOS,ASTH=6
+*************
+31/05/2020 13:54:23,ross,VALIDACION RESULTADO,PEDIDO=6608/400101
+*************
+31/05/2020 13:54:23,ross,VALIDACION RESULTADO,PEDIDO=6608/400123
+*************
+31/05/2020 13:54:23,ross,VALIDACION RESULTADO,PEDIDO=6608/400140
+*************
+31/05/2020 13:54:24,ross,VALIDACION RESULTADO,PEDIDO=6608/400141
+*************
+31/05/2020 13:54:24,ross,VALIDACION RESULTADO,PEDIDO=6608/400142
+*************
+31/05/2020 13:54:24,ross,VALIDACION RESULTADO,PEDIDO=6608/400148
+*************
+31/05/2020 13:54:24,ross,VALIDACION RESULTADO,PEDIDO=6608/400149
+*************
+31/05/2020 13:54:24,ross,VALIDACION RESULTADO,PEDIDO=6608/400151
+*************
+31/05/2020 13:54:24,ross,VALIDACION RESULTADO,PEDIDO=6608/400154
+*************
+31/05/2020 13:54:25,ross,VALIDACION RESULTADO,PEDIDO=6608/400155
+*************
+31/05/2020 13:54:25,ross,VALIDACION RESULTADO,PEDIDO=6608/400185
+*************
+31/05/2020 13:54:25,ross,VALIDACION RESULTADO,PEDIDO=6608/400186
+*************
+31/05/2020 13:54:25,ross,VALIDACION RESULTADO,PEDIDO=6608/400294
+*************
+31/05/2020 13:54:25,ross,VALIDACION RESULTADO,PEDIDO=6608/400576
+*************
+31/05/2020 13:54:26,ross,VALIDACION RESULTADO,PEDIDO=6608/400667
+*************
+31/05/2020 13:54:26,ross,VALIDACION RESULTADO,PEDIDO=6608/400794
+*************
+31/05/2020 13:54:42,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+31/05/2020 13:54:42,ross,GUARDA RESULTADOS,DIMDH=4
+*************
+31/05/2020 13:54:43,ross,GUARDA RESULTADOS,GLB=5
+*************
+31/05/2020 13:54:43,ross,GUARDA RESULTADOS,TP=5
+*************
+31/05/2020 13:54:43,ross,GUARDA RESULTADOS,ALB=5
+*************
+31/05/2020 13:54:43,ross,GUARDA RESULTADOS,UREA=5
+*************
+31/05/2020 13:54:43,ross,GUARDA RESULTADOS,TCH=5
+*************
+31/05/2020 13:54:44,ross,GUARDA RESULTADOS,UA=5
+*************
+31/05/2020 13:54:44,ross,GUARDA RESULTADOS,TGH=5
+*************
+31/05/2020 13:54:44,ross,GUARDA RESULTADOS,GLU=5
+*************
+31/05/2020 13:54:44,ross,GUARDA RESULTADOS,CRE=5
+*************
+31/05/2020 13:54:44,ross,GUARDA RESULTADOS,FALKH=5
+*************
+31/05/2020 13:54:44,ross,GUARDA RESULTADOS,FERRH=5
+*************
+31/05/2020 13:54:45,ross,GUARDA RESULTADOS,ALTH=6
+*************
+31/05/2020 13:54:45,ross,GUARDA RESULTADOS,LDH=6
+*************
+31/05/2020 13:54:45,ross,GUARDA RESULTADOS,ASTH=6
+*************
+31/05/2020 13:54:45,ross,GUARDA RESULTADOS,PCRH=7
+*************
+31/05/2020 13:54:45,ross,GUARDA RESULTADOS,COVIDIGGH=NEG
+*************
+31/05/2020 13:54:46,ross,GUARDA RESULTADOS,COVIDIGMH=NEG
+*************
+31/05/2020 13:54:48,ross,VALIDACION RESULTADO,PEDIDO=6608/400484
+*************
+31/05/2020 13:54:49,ross,VALIDACION RESULTADO,PEDIDO=6608/400964
+*************
+31/05/2020 13:54:49,ross,VALIDACION RESULTADO,PEDIDO=6608/400965
+*************
+31/05/2020 14:04:12,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+31/05/2020 14:04:12,ross,GUARDA RESULTADOS,DIMDH=4
+*************
+31/05/2020 14:04:12,ross,GUARDA RESULTADOS,GLB=5
+*************
+31/05/2020 14:04:12,ross,GUARDA RESULTADOS,TP=5
+*************
+31/05/2020 14:04:13,ross,GUARDA RESULTADOS,ALB=5
+*************
+31/05/2020 14:04:13,ross,GUARDA RESULTADOS,UREA=5
+*************
+31/05/2020 14:04:13,ross,GUARDA RESULTADOS,TCH=5
+*************
+31/05/2020 14:04:13,ross,GUARDA RESULTADOS,UA=5
+*************
+31/05/2020 14:04:13,ross,GUARDA RESULTADOS,TGH=5
+*************
+31/05/2020 14:04:14,ross,GUARDA RESULTADOS,GLU=5
+*************
+31/05/2020 14:04:14,ross,GUARDA RESULTADOS,CRE=5
+*************
+31/05/2020 14:04:14,ross,GUARDA RESULTADOS,FALKH=5
+*************
+31/05/2020 14:04:14,ross,GUARDA RESULTADOS,FERRH=5
+*************
+31/05/2020 14:04:14,ross,GUARDA RESULTADOS,ALTH=6
+*************
+31/05/2020 14:04:14,ross,GUARDA RESULTADOS,LDH=6
+*************
+31/05/2020 14:04:15,ross,GUARDA RESULTADOS,ASTH=6
+*************
+31/05/2020 14:04:15,ross,GUARDA RESULTADOS,PCRH=7
+*************
+31/05/2020 14:04:15,ross,GUARDA RESULTADOS,COVIDIGGH=NEG
+*************
+31/05/2020 14:04:15,ross,GUARDA RESULTADOS,COVIDIGMH=NEG
+*************
+31/05/2020 14:14:19,ross,1 MODIFICA ORDEN,PEDIDO=6608
+*************
+31/05/2020 14:19:22,ross,GUARDA RESULTADOS,BH=MEMO
+*************
+31/05/2020 14:19:22,ross,GUARDA RESULTADOS,INR=11
+*************
+31/05/2020 14:19:22,ross,GUARDA RESULTADOS,ACPTH=11
+*************
+31/05/2020 14:19:22,ross,GUARDA RESULTADOS,DIMDH=4
+*************
+31/05/2020 14:19:22,ross,GUARDA RESULTADOS,TTP=11
+*************
+31/05/2020 14:19:23,ross,GUARDA RESULTADOS,TP=11
+*************
+31/05/2020 14:19:23,ross,GUARDA RESULTADOS,GLB=5
+*************
+31/05/2020 14:19:23,ross,GUARDA RESULTADOS,TP=5
+*************
+31/05/2020 14:19:23,ross,GUARDA RESULTADOS,ALB=5
+*************
+31/05/2020 14:19:23,ross,GUARDA RESULTADOS,UREA=5
+*************
+31/05/2020 14:19:23,ross,GUARDA RESULTADOS,TCH=5
+*************
+31/05/2020 14:19:24,ross,GUARDA RESULTADOS,UA=5
+*************
+31/05/2020 14:19:24,ross,GUARDA RESULTADOS,TGH=5
+*************
+31/05/2020 14:19:24,ross,GUARDA RESULTADOS,GLU=5
+*************
+31/05/2020 14:19:24,ross,GUARDA RESULTADOS,CRE=5
+*************
+31/05/2020 14:19:24,ross,GUARDA RESULTADOS,FALKH=5
+*************
+31/05/2020 14:19:24,ross,GUARDA RESULTADOS,FERRH=5
+*************
+31/05/2020 14:19:25,ross,GUARDA RESULTADOS,ALTH=6
+*************
+31/05/2020 14:19:25,ross,GUARDA RESULTADOS,LDH=6
+*************
+31/05/2020 14:19:25,ross,GUARDA RESULTADOS,ASTH=6
+*************
+31/05/2020 14:19:25,ross,GUARDA RESULTADOS,PCRH=7
+*************
+31/05/2020 14:19:25,ross,GUARDA RESULTADOS,COVIDIGGH=NEG
+*************
+31/05/2020 14:19:26,ross,GUARDA RESULTADOS,COVIDIGMH=NEG
+*************
+31/05/2020 14:19:43,ross,VALIDACION RESULTADO,PEDIDO=6608/400115
+*************
+31/05/2020 14:19:43,ross,VALIDACION RESULTADO,PEDIDO=6608/400368
+*************
+31/05/2020 14:19:43,ross,VALIDACION RESULTADO,PEDIDO=6608/400787
+*************
+31/05/2020 14:19:44,ross,VALIDACION RESULTADO,PEDIDO=6608/400943
+*************
+31/05/2020 14:20:12,ross,IMPRIME TODO,PEDIDO=6608
+*************
+31/05/2020 14:22:12,ross,1 MODIFICA ORDEN,PEDIDO=6608
+*************
+31/05/2020 19:57:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 19:57:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 19:57:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 19:57:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 19:57:11,ross,Ingreso CONTRASE�A FALLIDO,
+*************
+31/05/2020 19:57:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 19:57:14,ross,Ingreso CONTRASE�A FALLIDO,
+*************
+31/05/2020 19:57:14,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 19:57:26,fvera,Ingreso CONTRASE�A FALLIDO,
+*************
+31/05/2020 19:57:26,fvera,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 20:02:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:02:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:02:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:02:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:02:15,ross,Ingreso CONTRASE�A FALLIDO,
+*************
+31/05/2020 20:02:15,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 20:04:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:04:34,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 20:04:51,ross,01 GENERAR ORDEN,PEDIDO=6
+*************
+31/05/2020 20:04:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=06
+*************
+31/05/2020 20:04:58,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+31/05/2020 20:18:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:18:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 20:18:45,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+31/05/2020 20:47:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:47:22,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 20:48:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:48:26,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 20:48:44,ross,01 GENERAR ORDEN,PEDIDO=7
+*************
+31/05/2020 20:48:48,ross,02 IMPRIMIR COD BARRAS,PEDIDO=07
+*************
+31/05/2020 20:48:48,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+31/05/2020 20:56:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 20:56:23,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 21:21:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 21:21:17,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 21:21:40,ross,01 GENERAR ORDEN,PEDIDO=8
+*************
+31/05/2020 21:21:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=08
+*************
+31/05/2020 21:21:42,ross,03 HORA TOMA DE MUESTRA,Inicio de toma de muestras
+*************
+31/05/2020 21:36:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 21:36:24,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************
+31/05/2020 22:20:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+31/05/2020 22:20:11,ross,Ingreso CONTRASE�A,Busca tabla invitado
+*************

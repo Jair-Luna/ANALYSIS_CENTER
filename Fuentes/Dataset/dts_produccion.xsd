@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_produccion" targetNamespace="http://tempuri.org/dts_produccion.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_produccion.xsd" xmlns:mstns="http://tempuri.org/dts_produccion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_produccion" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="PRODUCCION">
+					<xs:complexType>
+						<xs:sequence></xs:sequence>
+						<xs:attribute name="FECHAI" type="xs:date" />
+						<xs:attribute name="FECHAF" type="xs:date" />
+						<xs:attribute name="tes_id" type="xs:integer" />
+						<xs:attribute name="ped_id" type="xs:integer" />
+						<xs:attribute name="test" type="xs:string" />
+						<xs:attribute name="servicio" type="xs:string" />
+						<xs:attribute name="area" type="xs:string" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

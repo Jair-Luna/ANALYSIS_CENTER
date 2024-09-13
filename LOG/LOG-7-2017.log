@@ -1,0 +1,578 @@
+06/07/2017 15:14:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2017 15:14:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2017 15:15:40,ross,1 GENERAR ORDEN,PEDIDO=539
+*************
+06/07/2017 15:16:29,ross,3 IMPRIMIR PEDIDO,PEDIDO=0
+*************
+06/07/2017 15:16:54,ross,3 IMPRIMIR PEDIDO,PEDIDO=539
+*************
+06/07/2017 15:16:59,ross,3 IMPRIMIR PEDIDO,PEDIDO=539
+*************
+06/07/2017 15:17:06,ross,2 IMPRIMIR COD BARRAS,PEDIDO=539
+*************
+06/07/2017 15:17:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2017 15:17:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2017 15:22:10,ross,Generar Paciente,Paciente=PACIENTE INMOFER SA
+*************
+06/07/2017 15:22:37,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/540
+*************
+06/07/2017 15:22:40,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/541
+*************
+06/07/2017 15:22:43,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/542
+*************
+06/07/2017 15:22:46,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/543
+*************
+06/07/2017 15:22:49,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/544
+*************
+06/07/2017 15:22:52,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/545
+*************
+06/07/2017 15:22:55,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/546
+*************
+06/07/2017 15:22:58,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/547
+*************
+06/07/2017 15:23:01,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/548
+*************
+06/07/2017 15:23:04,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/549
+*************
+06/07/2017 15:23:06,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/550
+*************
+06/07/2017 15:23:09,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/551
+*************
+06/07/2017 15:23:11,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/552
+*************
+06/07/2017 15:23:14,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/553
+*************
+06/07/2017 15:23:17,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/554
+*************
+06/07/2017 15:23:19,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/555
+*************
+06/07/2017 15:23:22,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/556
+*************
+06/07/2017 15:23:25,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/557
+*************
+06/07/2017 15:23:27,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/558
+*************
+06/07/2017 15:23:30,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/559
+*************
+06/07/2017 15:23:33,ross,Nuevo Pedido PRE CARGA,HOSP. GONZALEZ/560
+*************
+09/07/2017 16:21:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2017 16:21:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2017 16:55:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2017 16:55:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2017 16:56:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2017 16:56:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2017 17:02:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2017 17:02:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2017 17:02:23,ross,IMPRIME TODO,PEDIDO=524
+*************
+13/07/2017 7:37:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 7:37:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 7:38:28,ross,Nuevo Convenio,Convenio=URGENCIA
+*************
+13/07/2017 7:54:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 7:54:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 16:14:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 16:14:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 16:16:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 16:16:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 16:32:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 16:32:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 16:35:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 16:35:06,,Ingreso CONTRASEÑA FALLIDO,
+*************
+13/07/2017 16:35:06,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 16:35:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2017 16:39:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2017 16:39:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2017 15:09:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2017 15:09:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2017 15:22:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2017 15:22:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2017 15:25:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2017 15:25:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2017 15:30:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2017 15:30:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2017 15:06:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/07/2017 15:07:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 9:42:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 9:42:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 9:50:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 9:50:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 9:57:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 9:57:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 10:00:09,ross,1 GENERAR ORDEN,PEDIDO=561
+*************
+18/07/2017 10:00:59,ross,PROFORMAR,PEDIDO=562
+*************
+18/07/2017 10:01:16,ross,IMPRIMIR PROFORMA,Proforma=562
+*************
+18/07/2017 10:03:36,ross,AGENDAMIENTO,PEDIDO=563
+*************
+18/07/2017 10:45:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 10:45:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:01:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:02:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:08:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:09:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:09:22,ross,IMPRIMIR HOJA TRABAJO,
+*************
+18/07/2017 11:09:34,ross,IMPRIMIR LISTA TRABAJO,
+*************
+18/07/2017 11:09:36,ross,IMPRIMIR CONTRAORDEN,
+*************
+18/07/2017 11:09:42,ross,IMPRIMIR LISTA TRABAJO,
+*************
+18/07/2017 11:14:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:14:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:14:29,ross,IMPRIMIR LISTA TRABAJO,
+*************
+18/07/2017 11:14:37,ross,IMPRIMIR HOJA TRABAJO,
+*************
+18/07/2017 11:17:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:17:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:17:22,ross,IMPRIMIR HOJA TRABAJO,
+*************
+18/07/2017 11:17:32,ross,IMPRIMIR CONTRAORDEN,
+*************
+18/07/2017 11:17:46,ross,IMPRIMIR HOJA TRABAJO,
+*************
+18/07/2017 11:17:56,ross,IMPRIMIR LISTA TRABAJO,
+*************
+18/07/2017 11:17:57,ross,IMPRIMIR CONTRAORDEN,
+*************
+18/07/2017 11:18:13,ross,1 MODIFICA ORDEN,PEDIDO=562
+*************
+18/07/2017 11:18:16,ross,CONVIERTE PROFORMA,PEDIDO=562
+*************
+18/07/2017 11:18:34,ross,IMPRIMIR LISTA TRABAJO,
+*************
+18/07/2017 11:18:42,ross,IMPRIMIR HOJA TRABAJO,
+*************
+18/07/2017 11:18:46,ross,IMPRIMIR CONTRAORDEN,
+*************
+18/07/2017 11:19:35,ross,Actualiza FACTURA,FACTURA=362
+*************
+18/07/2017 11:19:36,ross,Ingresa FACTURA,FACTURA=362
+*************
+18/07/2017 11:19:36,ross,Insertar abono,Factura=362 Abono= 10
+*************
+18/07/2017 11:19:36,ross,Actualiza FACTURA,FACTURA=362/10
+*************
+18/07/2017 11:29:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:29:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:36:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:37:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:47:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:47:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 11:58:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 11:58:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/07/2017 12:00:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/07/2017 12:01:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 8:56:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 8:56:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:04:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 9:04:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:05:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 9:05:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:11:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 9:11:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:17:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 9:17:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:18:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 9:18:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:30:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 9:30:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 9:34:26,ross,IMPRIMIR LISTA TRABAJO,
+*************
+19/07/2017 10:22:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 10:22:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/07/2017 10:37:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/07/2017 10:37:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/07/2017 16:20:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/07/2017 16:20:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/07/2017 16:23:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/07/2017 16:23:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/07/2017 9:24:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/07/2017 9:24:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2017 10:30:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2017 10:30:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2017 10:31:15,ross,1 GENERAR ORDEN,PEDIDO=564
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,WBCH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,NEUH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,LYMH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,MONOH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,EOSH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,BASOH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,MONO%25H=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,RBCH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,HCTH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,HGBH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,MCVH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,MCHH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+26/07/2017 10:31:36,ross,GUARDA RESULTADOS,PLTH=3
+*************
+26/07/2017 10:31:37,ross,GUARDA RESULTADOS,PDWH=3
+*************
+26/07/2017 10:31:37,ross,GUARDA RESULTADOS,MPVH=3
+*************
+26/07/2017 10:31:37,ross,GUARDA RESULTADOS,PCTH=3
+*************
+26/07/2017 10:31:37,ross,GUARDA RESULTADOS,RDW_SDH=3
+*************
+26/07/2017 10:31:37,ross,GUARDA RESULTADOS,RDW_CVH=3
+*************
+26/07/2017 10:31:49,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+26/07/2017 10:31:49,ross,GUARDA RESULTADOS,CHOL=202
+*************
+26/07/2017 10:31:49,ross,GUARDA RESULTADOS,TGL=130
+*************
+26/07/2017 10:31:50,ross,VALIDACION RESULTADO,PEDIDO=564/400101
+*************
+26/07/2017 10:31:50,ross,VALIDACION RESULTADO,PEDIDO=564/400149
+*************
+26/07/2017 10:31:50,ross,VALIDACION RESULTADO,PEDIDO=564/400151
+*************
+26/07/2017 10:59:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2017 10:59:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2017 10:59:26,ross,IMPRIME TODO,PEDIDO=564
+*************
+26/07/2017 11:32:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2017 11:32:26,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26/07/2017 11:32:26,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2017 11:43:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/07/2017 11:43:27,,Ingreso CONTRASEÑA FALLIDO,
+*************
+26/07/2017 11:43:27,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/07/2017 11:43:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2017 15:06:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2017 15:06:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2017 15:07:24,ross,1 GENERAR ORDEN,PEDIDO=565
+*************
+27/07/2017 15:07:46,ross,Actualiza FACTURA,FACTURA=363
+*************
+27/07/2017 15:07:46,ross,Ingresa FACTURA,FACTURA=363
+*************
+27/07/2017 15:07:46,ross,Insertar abono,Factura=363 Abono= 20
+*************
+27/07/2017 15:07:46,ross,Actualiza FACTURA,FACTURA=363/20
+*************
+27/07/2017 15:08:35,ross,1 GENERAR ORDEN,PEDIDO=566
+*************
+27/07/2017 15:09:02,ross,Actualiza FACTURA,FACTURA=364
+*************
+27/07/2017 15:09:02,ross,Ingresa FACTURA,FACTURA=364
+*************
+27/07/2017 15:09:04,ross,Insertar abono,Factura=364 Abono= 13
+*************
+27/07/2017 15:09:04,ross,Cancela FACTURA,FACTURA=364
+*************
+27/07/2017 15:09:49,ross,1 GENERAR ORDEN,PEDIDO=567
+*************
+27/07/2017 15:10:19,ross,PROFORMAR,PEDIDO=568
+*************
+27/07/2017 15:10:37,ross,IMPRIMIR PROFORMA,Proforma=568
+*************
+27/07/2017 15:13:55,ross,1 MODIFICA ORDEN,PEDIDO=565
+*************
+27/07/2017 15:14:16,ross,1 MODIFICA ORDEN,PEDIDO=566
+*************
+27/07/2017 15:15:15,ross,Actualizacón Médico,Medico=DR. FIGUEROA
+*************
+27/07/2017 15:20:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2017 15:20:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2017 15:21:24,ross,GUARDA NOTA AREA,AREA=4/MUESTRA INSUFICIENTE                                                                                                                                                                                                        
+*************
+27/07/2017 15:21:41,ross,GUARDA NOTA AREA,AREA=9/MUESTRA CONTAMINADA                                                                                                                                                                                                        
+*************
+27/07/2017 15:21:50,ross,GUARDA RESULTADOS,CHOL=4
+*************
+27/07/2017 15:21:51,ross,GUARDA RESULTADOS,AHDL=5
+*************
+27/07/2017 15:21:51,ross,GUARDA RESULTADOS,LDL=6
+*************
+27/07/2017 15:21:51,ross,GUARDA RESULTADOS,TGL=7
+*************
+27/07/2017 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=565/400149
+*************
+27/07/2017 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=565/400150
+*************
+27/07/2017 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=565/400151
+*************
+27/07/2017 15:21:54,ross,VALIDACION RESULTADO,PEDIDO=565/400476
+*************
+27/07/2017 15:22:23,ross,IMPRIME TODO,PEDIDO=565
+*************
+27/07/2017 15:24:25,ross,Guardar palabra,PALABRA=AMARILLO
+*************
+27/07/2017 15:24:40,ross,Guardar palabra,PALABRA=CAFE
+*************
+27/07/2017 15:24:51,ross,Guardar palabra,PALABRA=PAJIZO
+*************
+27/07/2017 15:24:57,ross,Guardar palabra,PALABRA=ROJIZO
+*************
+27/07/2017 15:25:13,ross,Guardar palabra,PALABRA=TRANSPARENTE
+*************
+27/07/2017 15:25:26,ross,Guardar palabra,PALABRA=LIG. TURBIO
+*************
+27/07/2017 15:25:33,ross,Guardar palabra,PALABRA=TURBIO
+*************
+27/07/2017 15:27:29,ross,Guardar palabra,PALABRA=5.0
+*************
+27/07/2017 15:27:38,ross,Guardar palabra,PALABRA=5.5
+*************
+27/07/2017 15:27:43,ross,Guardar palabra,PALABRA=6.0
+*************
+27/07/2017 15:27:48,ross,Guardar palabra,PALABRA=6.5
+*************
+27/07/2017 15:27:54,ross,Guardar palabra,PALABRA=6.5
+*************
+27/07/2017 15:28:01,ross,Guardar palabra,PALABRA=7.0
+*************
+27/07/2017 15:28:19,ross,Guardar palabra,PALABRA=7.5
+*************
+27/07/2017 15:28:31,ross,Guardar palabra,PALABRA=8.0
+*************
+27/07/2017 15:28:46,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:28:50,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:28:55,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:29:13,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:29:21,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:29:26,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:29:50,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:29:55,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:29:59,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:30:19,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:30:24,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:30:29,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:30:53,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:30:58,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:31:02,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:31:16,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:31:22,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:31:37,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:31:57,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:32:01,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:32:05,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:32:19,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:32:25,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:32:32,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:33:32,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+27/07/2017 15:33:38,ross,Guardar palabra,PALABRA=POSITIVO
+*************
+27/07/2017 15:34:14,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+27/07/2017 15:34:25,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+27/07/2017 15:35:06,ross,Guardar palabra,PALABRA=NEGATIVO
+*************
+27/07/2017 15:35:18,ross,Guardar palabra,PALABRA=+
+*************
+27/07/2017 15:35:26,ross,Guardar palabra,PALABRA=++
+*************
+27/07/2017 15:35:35,ross,Guardar palabra,PALABRA=+++
+*************
+27/07/2017 15:37:04,ross,Guardar palabra,PALABRA=CAFE
+*************
+27/07/2017 15:37:27,ross,Guardar palabra,PALABRA=VERODSA
+*************
+27/07/2017 15:37:42,ross,Eliminar Palabra,PALABRA=CAFE
+*************
+27/07/2017 15:37:48,ross,Eliminar Palabra,PALABRA=VERODSA
+*************
+27/07/2017 15:38:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2017 15:38:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,COLO=CAFE
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,ASPO=TRANSPARENTE
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,DENO=++
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,PH=6.5
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,ESO=+
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,GLUO=++
+*************
+27/07/2017 15:44:22,ross,GUARDA RESULTADOS,BILO=+
+*************
+27/07/2017 15:44:48,ross,GUARDA RESULTADOS,COLOR=NEGRUZCA
+*************
+27/07/2017 15:44:48,ross,GUARDA RESULTADOS,ASPECTO=MUCOIDE
+*************
+27/07/2017 15:44:48,ross,GUARDA RESULTADOS,CONSISTENCIA=LIQUIDA
+*************
+27/07/2017 15:44:53,ross,GUARDA RESULTADOS,EMO=MEMO
+*************
+27/07/2017 15:44:53,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+27/07/2017 15:44:53,ross,GUARDA RESULTADOS,CHOL=4
+*************
+27/07/2017 15:44:53,ross,GUARDA RESULTADOS,AHDL=5
+*************
+27/07/2017 15:44:53,ross,GUARDA RESULTADOS,LDL=6
+*************
+27/07/2017 15:44:53,ross,GUARDA RESULTADOS,TGL=7
+*************
+27/07/2017 15:44:55,ross,VALIDACION RESULTADO,PEDIDO=565/400230
+*************
+27/07/2017 15:44:55,ross,VALIDACION RESULTADO,PEDIDO=565/400244
+*************
+27/07/2017 15:45:05,ross,IMPRIME TODO,PEDIDO=565
+*************
+27/07/2017 16:17:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/07/2017 16:17:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

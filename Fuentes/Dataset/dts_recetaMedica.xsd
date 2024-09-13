@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_recetaMedica" targetNamespace="http://tempuri.org/dts_recetaMedica.xsd" xmlns:mstns="http://tempuri.org/dts_recetaMedica.xsd" xmlns="http://tempuri.org/dts_recetaMedica.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_recetaMedica" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_recetaMedica" msprop:Generator_DataSetName="dts_recetaMedica" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Receta" msprop:Generator_UserTableName="Receta" msprop:Generator_RowDeletedName="RecetaRowDeleted" msprop:Generator_RowChangedName="RecetaRowChanged" msprop:Generator_RowClassName="RecetaRow" msprop:Generator_RowChangingName="RecetaRowChanging" msprop:Generator_RowEvArgName="RecetaRowChangeEvent" msprop:Generator_RowEvHandlerName="RecetaRowChangeEventHandler" msprop:Generator_TableClassName="RecetaDataTable" msprop:Generator_TableVarName="tableReceta" msprop:Generator_RowDeletingName="RecetaRowDeleting" msprop:Generator_TablePropName="Receta">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="REC_ID" msprop:Generator_UserColumnName="REC_ID" msprop:Generator_ColumnPropNameInRow="REC_ID" msprop:Generator_ColumnVarNameInTable="columnREC_ID" msprop:Generator_ColumnPropNameInTable="REC_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REC_FECHA" msprop:Generator_UserColumnName="REC_FECHA" msprop:Generator_ColumnPropNameInRow="REC_FECHA" msprop:Generator_ColumnVarNameInTable="columnREC_FECHA" msprop:Generator_ColumnPropNameInTable="REC_FECHAColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="MED_NOMBRE" msprop:Generator_UserColumnName="MED_NOMBRE" msprop:Generator_ColumnPropNameInRow="MED_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnMED_NOMBRE" msprop:Generator_ColumnPropNameInTable="MED_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REC_MEDICACION" msprop:Generator_UserColumnName="REC_MEDICACION" msprop:Generator_ColumnPropNameInRow="REC_MEDICACION" msprop:Generator_ColumnVarNameInTable="columnREC_MEDICACION" msprop:Generator_ColumnPropNameInTable="REC_MEDICACIONColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REC_INDICACIONES" msprop:Generator_UserColumnName="REC_INDICACIONES" msprop:Generator_ColumnPropNameInRow="REC_INDICACIONES" msprop:Generator_ColumnVarNameInTable="columnREC_INDICACIONES" msprop:Generator_ColumnPropNameInTable="REC_INDICACIONESColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REC_MENU" msprop:Generator_UserColumnName="REC_MENU" msprop:Generator_ColumnVarNameInTable="columnREC_MENU" msprop:Generator_ColumnPropNameInRow="REC_MENU" msprop:Generator_ColumnPropNameInTable="REC_MENUColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="cie_cod4" msprop:Generator_UserColumnName="cie_cod4" msprop:Generator_ColumnPropNameInRow="cie_cod4" msprop:Generator_ColumnVarNameInTable="columncie_cod4" msprop:Generator_ColumnPropNameInTable="cie_cod4Column" type="xs:string" minOccurs="0" />
+              <xs:element name="cie_desc4" msprop:Generator_UserColumnName="cie_desc4" msprop:Generator_ColumnPropNameInRow="cie_desc4" msprop:Generator_ColumnVarNameInTable="columncie_desc4" msprop:Generator_ColumnPropNameInTable="cie_desc4Column" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_NOMBRE" msprop:Generator_UserColumnName="PAC_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnPAC_NOMBRE" msprop:Generator_ColumnPropNameInRow="PAC_NOMBRE" msprop:Generator_ColumnPropNameInTable="PAC_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REC_DIETA" msprop:Generator_UserColumnName="REC_DIETA" msprop:Generator_ColumnPropNameInRow="REC_DIETA" msprop:Generator_ColumnVarNameInTable="columnREC_DIETA" msprop:Generator_ColumnPropNameInTable="REC_DIETAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PAC_DOC" msprop:Generator_UserColumnName="PAC_DOC" msprop:Generator_ColumnPropNameInRow="PAC_DOC" msprop:Generator_ColumnVarNameInTable="columnPAC_DOC" msprop:Generator_ColumnPropNameInTable="PAC_DOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REC_FECVENC" msprop:Generator_UserColumnName="REC_FECVENC" msprop:Generator_ColumnVarNameInTable="columnREC_FECVENC" msprop:Generator_ColumnPropNameInRow="REC_FECVENC" msprop:Generator_ColumnPropNameInTable="REC_FECVENCColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

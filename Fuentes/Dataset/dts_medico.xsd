@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_medico" targetNamespace="http://tempuri.org/dts_medico.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_medico.xsd" xmlns:mstns="http://tempuri.org/dts_medico.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_medico" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="MEDICO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MED_ID" type="xs:long" minOccurs="0" />
+							<xs:element name="MED_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="MED_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="MED_FONO" type="xs:string" minOccurs="0" />
+							<xs:element name="MED_OBS" type="xs:string" minOccurs="0" />
+							<xs:element name="MED_MAIL" type="xs:string" minOccurs="0" />
+							<xs:element name="MED_DOC" type="xs:string" minOccurs="0" />
+							<xs:element name="DOCUMENTO" type="xs:string" minOccurs="0" />
+							<xs:element name="BON_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="CIU_NOMBRE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

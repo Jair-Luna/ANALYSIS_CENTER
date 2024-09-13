@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_recibo" targetNamespace="http://tempuri.org/dts_recibo.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_recibo.xsd" xmlns:mstns="http://tempuri.org/dts_recibo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_recibo" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="recibo">
+					<xs:complexType>
+						<xs:sequence></xs:sequence>
+						<xs:attribute name="ped_turno" type="xs:integer" />
+						<xs:attribute name="ped_fecing" type="xs:date" />
+						<xs:attribute name="ped_antecedente" type="xs:string" />
+						<xs:attribute name="paciente" type="xs:string" />
+						<xs:attribute name="pac_doc" type="xs:string" />
+						<xs:attribute name="pac_hist_clinica" type="xs:string" />
+						<xs:attribute name="ped_servicio" type="xs:string" />
+						<xs:attribute name="con_nombre" type="xs:string" />
+						<xs:attribute name="pac_grado" type="xs:string" />
+						<xs:attribute name="pac_parentesco" type="xs:string" />
+						<xs:attribute name="tes_id" type="xs:integer" />
+						<xs:attribute name="tes_nombre" type="xs:string" />
+						<xs:attribute name="lip_precio" type="xs:double" />
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

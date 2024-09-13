@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Dataset1" targetNamespace="http://tempuri.org/Dataset1.xsd" xmlns:mstns="http://tempuri.org/Dataset1.xsd" xmlns="http://tempuri.org/Dataset1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Dataset1" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_UserDSName="Dataset1" msprop:Generator_DataSetName="Dataset1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ORIGEN" msprop:Generator_UserTableName="ORIGEN" msprop:Generator_RowDeletedName="ORIGENRowDeleted" msprop:Generator_TableClassName="ORIGENDataTable" msprop:Generator_RowChangedName="ORIGENRowChanged" msprop:Generator_RowClassName="ORIGENRow" msprop:Generator_RowChangingName="ORIGENRowChanging" msprop:Generator_RowEvArgName="ORIGENRowChangeEvent" msprop:Generator_RowEvHandlerName="ORIGENRowChangeEventHandler" msprop:Generator_TablePropName="ORIGEN" msprop:Generator_TableVarName="tableORIGEN" msprop:Generator_RowDeletingName="ORIGENRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FECHAI" msprop:Generator_UserColumnName="FECHAI" msprop:Generator_ColumnPropNameInRow="FECHAI" msprop:Generator_ColumnVarNameInTable="columnFECHAI" msprop:Generator_ColumnPropNameInTable="FECHAIColumn" type="xs:date" minOccurs="0" />
+              <xs:element name="FECHAF" msprop:Generator_UserColumnName="FECHAF" msprop:Generator_ColumnPropNameInRow="FECHAF" msprop:Generator_ColumnVarNameInTable="columnFECHAF" msprop:Generator_ColumnPropNameInTable="FECHAFColumn" type="xs:date" minOccurs="0" />
+              <xs:element name="are_nombre" msprop:Generator_UserColumnName="are_nombre" msprop:Generator_ColumnPropNameInRow="are_nombre" msprop:Generator_ColumnVarNameInTable="columnare_nombre" msprop:Generator_ColumnPropNameInTable="are_nombreColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="tes_nombre" msprop:Generator_UserColumnName="tes_nombre" msprop:Generator_ColumnPropNameInRow="tes_nombre" msprop:Generator_ColumnVarNameInTable="columntes_nombre" msprop:Generator_ColumnPropNameInTable="tes_nombreColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="items" msprop:Generator_UserColumnName="items" msprop:Generator_ColumnPropNameInRow="items" msprop:Generator_ColumnVarNameInTable="columnitems" msprop:Generator_ColumnPropNameInTable="itemsColumn" type="xs:integer" minOccurs="0" />
+              <xs:element name="ped_tipo" msprop:Generator_UserColumnName="ped_tipo" msprop:Generator_ColumnPropNameInRow="ped_tipo" msprop:Generator_ColumnVarNameInTable="columnped_tipo" msprop:Generator_ColumnPropNameInTable="ped_tipoColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

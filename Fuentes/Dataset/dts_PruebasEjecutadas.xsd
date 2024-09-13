@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_PruebasEjecutadas" targetNamespace="http://tempuri.org/dts_PruebasEjecutadas.xsd" xmlns:mstns="http://tempuri.org/dts_PruebasEjecutadas.xsd" xmlns="http://tempuri.org/dts_PruebasEjecutadas.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_PruebasEjecutadas" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_UserDSName="dts_PruebasEjecutadas" msprop:Generator_DataSetName="dts_PruebasEjecutadas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PRUEBAS_EJECUTADAS" msprop:Generator_UserTableName="PRUEBAS_EJECUTADAS" msprop:Generator_RowDeletedName="PRUEBAS_EJECUTADASRowDeleted" msprop:Generator_RowChangedName="PRUEBAS_EJECUTADASRowChanged" msprop:Generator_RowClassName="PRUEBAS_EJECUTADASRow" msprop:Generator_RowChangingName="PRUEBAS_EJECUTADASRowChanging" msprop:Generator_RowEvArgName="PRUEBAS_EJECUTADASRowChangeEvent" msprop:Generator_RowEvHandlerName="PRUEBAS_EJECUTADASRowChangeEventHandler" msprop:Generator_TableClassName="PRUEBAS_EJECUTADASDataTable" msprop:Generator_TableVarName="tablePRUEBAS_EJECUTADAS" msprop:Generator_RowDeletingName="PRUEBAS_EJECUTADASRowDeleting" msprop:Generator_TablePropName="PRUEBAS_EJECUTADAS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FECHAI" msprop:Generator_UserColumnName="FECHAI" msprop:Generator_ColumnVarNameInTable="columnFECHAI" msprop:Generator_ColumnPropNameInRow="FECHAI" msprop:Generator_ColumnPropNameInTable="FECHAIColumn" type="xs:date" minOccurs="0" />
+              <xs:element name="FECHAF" msprop:Generator_UserColumnName="FECHAF" msprop:Generator_ColumnVarNameInTable="columnFECHAF" msprop:Generator_ColumnPropNameInRow="FECHAF" msprop:Generator_ColumnPropNameInTable="FECHAFColumn" type="xs:date" minOccurs="0" />
+              <xs:element name="PED_ID" msprop:Generator_UserColumnName="PED_ID" msprop:Generator_ColumnVarNameInTable="columnPED_ID" msprop:Generator_ColumnPropNameInRow="PED_ID" msprop:Generator_ColumnPropNameInTable="PED_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PED_FECING" msprop:Generator_UserColumnName="PED_FECING" msprop:Generator_ColumnVarNameInTable="columnPED_FECING" msprop:Generator_ColumnPropNameInRow="PED_FECING" msprop:Generator_ColumnPropNameInTable="PED_FECINGColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PACIENTE" msprop:Generator_UserColumnName="PACIENTE" msprop:Generator_ColumnVarNameInTable="columnPACIENTE" msprop:Generator_ColumnPropNameInRow="PACIENTE" msprop:Generator_ColumnPropNameInTable="PACIENTEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_TURNO" msprop:Generator_UserColumnName="PED_TURNO" msprop:Generator_ColumnVarNameInTable="columnPED_TURNO" msprop:Generator_ColumnPropNameInRow="PED_TURNO" msprop:Generator_ColumnPropNameInTable="PED_TURNOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CON_NOMBRE" msprop:Generator_UserColumnName="CON_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnCON_NOMBRE" msprop:Generator_ColumnPropNameInRow="CON_NOMBRE" msprop:Generator_ColumnPropNameInTable="CON_NOMBREColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PED_NOTA" msprop:Generator_UserColumnName="PED_NOTA" msprop:Generator_ColumnVarNameInTable="columnPED_NOTA" msprop:Generator_ColumnPropNameInRow="PED_NOTA" msprop:Generator_ColumnPropNameInTable="PED_NOTAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRC_RESFINAL" msprop:Generator_UserColumnName="PRC_RESFINAL" msprop:Generator_ColumnVarNameInTable="columnPRC_RESFINAL" msprop:Generator_ColumnPropNameInRow="PRC_RESFINAL" msprop:Generator_ColumnPropNameInTable="PRC_RESFINALColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TES_NOMBRE" msprop:Generator_UserColumnName="TES_NOMBRE" msprop:Generator_ColumnPropNameInRow="TES_NOMBRE" msprop:Generator_ColumnVarNameInTable="columnTES_NOMBRE" msprop:Generator_ColumnPropNameInTable="TES_NOMBREColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

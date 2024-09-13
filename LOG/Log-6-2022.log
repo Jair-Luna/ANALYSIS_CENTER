@@ -1,0 +1,652 @@
+06/06/2022 18:09:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2022 18:09:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2022 20:42:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2022 20:42:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2022 21:15:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/06/2022 21:15:11,,Ingreso CONTRASEÑA FALLIDO,
+*************
+06/06/2022 21:15:12,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/06/2022 21:15:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/06/2022 8:50:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/06/2022 8:50:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/06/2022 7:58:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/06/2022 7:58:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/06/2022 8:10:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/06/2022 8:10:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/06/2022 8:16:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/06/2022 8:16:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/06/2022 11:29:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/06/2022 11:29:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/06/2022 11:30:10,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=20
+*************
+10/06/2022 11:30:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=20
+*************
+10/06/2022 11:30:42,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: VAlores confirmados
+*************
+10/06/2022 11:30:47,ross,VALIDACION RESULTADO,PEDIDO=20/400149
+*************
+10/06/2022 11:30:47,ross,VALIDACION RESULTADO,PEDIDO=20/400150
+*************
+10/06/2022 11:30:47,ross,VALIDACION RESULTADO,PEDIDO=20/400151
+*************
+10/06/2022 11:30:47,ross,VALIDACION RESULTADO,PEDIDO=20/400476
+*************
+10/06/2022 11:31:42,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+10/06/2022 12:10:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/06/2022 12:10:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 15:53:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/06/2022 15:53:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 15:55:05,ross,Nuevo Test en Lista de Precios,Test=401175 15  NORMAL
+*************
+15/06/2022 15:55:05,ross,Nuevo Test en Lista de Precios,Test=401175 15  URGENCIA
+*************
+15/06/2022 15:55:05,ross,Nuevo Test en Lista de Precios,Test=401175 15  OCUPACIONAL
+*************
+15/06/2022 15:55:05,ross,Nuevo Test en Lista de Precios,Test=401175 15  DRA. DIANA PORCENTAJE 25
+*************
+15/06/2022 15:55:05,ross,Nuevo Test en Lista de Precios,Test=401175 15  SEGUROS
+*************
+15/06/2022 15:55:05,ross,Nuevo Test en Lista de Precios,Test=401175 15  ZIRUX
+*************
+15/06/2022 15:55:05,ross,INGRESA TEST,TEST=TRATAMIENTO FISIOTERAPIA PELVICA
+*************
+15/06/2022 15:55:05,ross,Actualiza Test,Test=TRATAMIENTO FISIOTERAPIA PELVICA
+*************
+15/06/2022 15:57:08,ross,Generar Paciente,Paciente=VALLEJO ROJAS JESSICA NATALI
+*************
+15/06/2022 15:58:32,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401175,,PEDIDO=21
+*************
+15/06/2022 15:58:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=21
+*************
+15/06/2022 16:01:07,ross,Actualiza FACTURA,FACTURA=10
+*************
+15/06/2022 16:01:07,ross,Ingresa FACTURA,FACTURA=10
+*************
+15/06/2022 16:01:07,ross,Insertar abono,Factura=10 Abono= 7
+*************
+15/06/2022 16:01:07,ross,Actualiza FACTURA,FACTURA=10/7
+*************
+15/06/2022 16:01:10,ross,Registra Tx Factura,Factura=10
+*************
+15/06/2022 16:02:50,ross,Insertar abono,Factura=10 Abono= 8
+*************
+15/06/2022 16:02:50,ross,Cancela FACTURA,FACTURA=10
+*************
+15/06/2022 16:02:53,ross,Registra Tx Factura,Factura=10
+*************
+15/06/2022 16:16:22,ross,AGENDAMIENTO,PEDIDO=22
+*************
+15/06/2022 17:02:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/06/2022 17:02:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 17:03:19,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=23
+*************
+15/06/2022 17:03:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=23
+*************
+15/06/2022 17:32:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/06/2022 17:32:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 17:53:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/06/2022 17:53:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 18:10:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/06/2022 18:10:49,,Ingreso CONTRASEÑA FALLIDO,
+*************
+15/06/2022 18:10:49,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 18:10:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/06/2022 18:12:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/06/2022 18:12:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 11:48:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 11:48:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 14:42:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 14:42:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 14:46:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 14:46:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 14:50:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 14:50:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 15:31:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 15:31:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 15:42:18,ross,03 IMPRIMIR PEDIDO,PEDIDO=23
+*************
+16/06/2022 15:45:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 15:45:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 15:46:02,ross,Actualiza FACTURA,FACTURA=11
+*************
+16/06/2022 15:46:02,ross,Ingresa FACTURA,FACTURA=11
+*************
+16/06/2022 15:46:04,ross,Insertar abono,Factura=11 Abono= 12.65
+*************
+16/06/2022 15:46:04,ross,Cancela FACTURA,FACTURA=11
+*************
+16/06/2022 16:03:30,ross,Registra Tx Factura,Factura=11
+*************
+16/06/2022 16:18:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 16:18:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 16:27:09,ross,Registra Tx Factura,Factura=11
+*************
+16/06/2022 17:44:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 17:44:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/06/2022 18:01:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/06/2022 18:01:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/06/2022 15:02:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/06/2022 15:02:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/06/2022 7:56:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/06/2022 7:56:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/06/2022 8:00:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/06/2022 8:00:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/06/2022 10:52:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/06/2022 10:52:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/06/2022 8:20:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/06/2022 8:20:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/06/2022 8:20:56,ross,Generar Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+28/06/2022 8:21:22,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,400230,,PEDIDO=1
+*************
+28/06/2022 8:21:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+28/06/2022 8:21:36,ross,Actualiza FACTURA,FACTURA=1
+*************
+28/06/2022 8:21:36,ross,Ingresa FACTURA,FACTURA=1
+*************
+28/06/2022 8:21:38,ross,Insertar abono,Factura=1 Abono= 23.65
+*************
+28/06/2022 8:21:38,ross,Cancela FACTURA,FACTURA=1
+*************
+28/06/2022 8:21:40,ross,Registra Tx Factura,Factura=1
+*************
+28/06/2022 8:22:02,ross,Registra Tx Factura,Factura=1
+*************
+28/06/2022 8:22:23,ross,Registra Tx Factura,Factura=1
+*************
+28/06/2022 8:22:29,ross,Registra Tx Factura,Factura=1
+*************
+28/06/2022 8:22:54,ross,Registra Tx Factura,Factura=1
+*************
+28/06/2022 8:23:17,ross,03 IMPRIMIR PEDIDO,PEDIDO=1
+*************
+28/06/2022 8:23:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+28/06/2022 8:24:21,ross,IMPRIMIR CONTRAORDEN,
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,WBCH=3
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,NEUH=3
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,LYMH=3
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,MONH=3
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,EOSH=3
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,BASOH=4
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,MON%25H=4
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,EOS%25H=5
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,BASO%25H=5
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,RBCH=5
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,HCTH=5
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,HGBH=56
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,MCVH=6
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,MCHH=3
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,RDW-CVH=6
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,RDW-SDH=6
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,PLTH=77
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,MPVH=7
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,PDWH=7
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,PCTH=7
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,P-LCRH=8
+*************
+28/06/2022 8:24:52,ross,GUARDA RESULTADOS,P-LCCH=8
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,COLOH=AMARILLO
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,PHO=5
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,ASCOH=
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+28/06/2022 8:25:08,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,HGBOH=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,CELEPH=++
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,PIOO=4-6
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,HEMOH=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,BACOH=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,MOCOH=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,URO=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,FOO=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,OXAO=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,CRIO=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,CILO=
+*************
+28/06/2022 8:25:09,ross,GUARDA RESULTADOS,CIGO=
+*************
+28/06/2022 8:25:10,ross,GUARDA RESULTADOS,CILCE=
+*************
+28/06/2022 8:25:10,ross,GUARDA RESULTADOS,ESP=
+*************
+28/06/2022 8:25:10,ross,GUARDA RESULTADOS,OTROSO=
+*************
+28/06/2022 8:25:30,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Valores confirmados
+*************
+28/06/2022 8:25:33,ross,VALIDACION RESULTADO,PEDIDO=1/400101
+*************
+28/06/2022 8:25:33,ross,VALIDACION RESULTADO,PEDIDO=1/400149
+*************
+28/06/2022 8:25:33,ross,VALIDACION RESULTADO,PEDIDO=1/400150
+*************
+28/06/2022 8:25:33,ross,VALIDACION RESULTADO,PEDIDO=1/400151
+*************
+28/06/2022 8:25:33,ross,VALIDACION RESULTADO,PEDIDO=1/400230
+*************
+28/06/2022 8:25:33,ross,VALIDACION RESULTADO,PEDIDO=1/400476
+*************
+28/06/2022 8:25:51,ross,IMPRIME POR AREA,PEDIDO=1
+*************
+28/06/2022 8:26:22,ross,Elimina USR,USR=4
+*************
+28/06/2022 8:26:27,ross,Elimina USR,USR=3
+*************
+28/06/2022 8:29:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/06/2022 8:29:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/06/2022 8:29:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/06/2022 8:29:21,12345,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/06/2022 8:30:06,12345,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+28/06/2022 8:30:32,12345,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400185,400186,400141,400140,400148,400101,400230,,PEDIDO=2
+*************
+28/06/2022 8:30:33,12345,02 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,WBC=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,NEU=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,LYM=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,MON=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,EOS=44
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,BASO=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,NEU%25=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,LYM%25=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,MON%25=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,EOS%25=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,BASO%25=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,RBC=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,HCT=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,HGB=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,MCV=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,MCH=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,MCHC=4
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,RDW-CV=5
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,RDW-SD=5
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,PLT=5
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,MPV=5
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,PDW=5
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,PCT=7
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,P-LCR=6
+*************
+28/06/2022 8:31:07,12345,GUARDA RESULTADOS,P-LCC=6
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,COLOH=AMARILLO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,DENO=1.015
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,PHO=5
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,ELEUCOH=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,ASCOH=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,HGBOH=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,CELPOH=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,CELEPH=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,CELCAOH=++
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,LEUC_EMO1H=+
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,PIOO=2-3
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,HEMOH=4-6
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,MOCOH=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,URO=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,FOO=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,OXAO=
+*************
+28/06/2022 8:31:39,12345,GUARDA RESULTADOS,CRIO=
+*************
+28/06/2022 8:31:40,12345,GUARDA RESULTADOS,CILO=
+*************
+28/06/2022 8:31:40,12345,GUARDA RESULTADOS,CIGO=
+*************
+28/06/2022 8:31:40,12345,GUARDA RESULTADOS,CILCE=
+*************
+28/06/2022 8:31:40,12345,GUARDA RESULTADOS,ESP=
+*************
+28/06/2022 8:31:40,12345,GUARDA RESULTADOS,OTROSO=
+*************
+28/06/2022 8:32:19,12345,GUARDA NOTA AREA,AREA EXAMEN =10/OBSERVACIONES: Valores confirmados
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400101
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400140
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400141
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400148
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400149
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400150
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400151
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400185
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400186
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400230
+*************
+28/06/2022 8:32:22,12345,VALIDACION RESULTADO,PEDIDO=2/400476
+*************
+28/06/2022 8:32:45,12345,IMPRIME POR AREA,PEDIDO=2
+*************
+28/06/2022 8:33:11,12345,IMPRIME TODO,PEDIDO=2
+*************
+28/06/2022 9:40:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/06/2022 9:40:39,12345,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/06/2022 9:52:33,12345,Generar Paciente,Paciente=MACIAS MENENDEZ DANIEL ALEJANDRO
+*************
+28/06/2022 10:03:34,12345,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401104,400149,400150,400476,400151,400230,400186,400185,,PEDIDO=3
+*************
+28/06/2022 10:03:34,12345,02 IMPRIMIR COD BARRAS,PEDIDO=03
+*************
+28/06/2022 10:08:59,12345,1 MODIFICA ORDEN NORMAL EXAMENES: 401104,,PEDIDO=3
+*************
+28/06/2022 13:30:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/06/2022 13:30:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/06/2022 13:32:03,ross,IMPRIME POR AREA,PEDIDO=2
+*************
+29/06/2022 11:39:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 11:39:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 11:49:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=4
+*************
+29/06/2022 11:49:48,ross,02 IMPRIMIR COD BARRAS,PEDIDO=04
+*************
+29/06/2022 11:54:00,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Valores confirmados
+*************
+29/06/2022 11:54:03,ross,VALIDACION RESULTADO,PEDIDO=4/400149
+*************
+29/06/2022 11:54:03,ross,VALIDACION RESULTADO,PEDIDO=4/400150
+*************
+29/06/2022 11:54:03,ross,VALIDACION RESULTADO,PEDIDO=4/400151
+*************
+29/06/2022 11:54:03,ross,VALIDACION RESULTADO,PEDIDO=4/400476
+*************
+29/06/2022 11:56:05,ross,IMPRIME POR AREA,PEDIDO=4
+*************
+29/06/2022 13:29:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 13:29:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 13:32:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 13:32:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 13:33:47,ross,ENVIO CORREO PACIENTE,PEDIDO=4
+*************
+29/06/2022 15:44:21,ross,ENVIO CORREO PACIENTE,PEDIDO=4
+*************
+29/06/2022 15:50:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 15:50:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 16:22:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 16:22:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 16:25:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 16:25:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 16:50:20,ross,ENVIO CORREO PACIENTE,PEDIDO=4
+*************
+29/06/2022 16:57:08,ross,ENVIO CORREO PACIENTE,PEDIDO=4
+*************
+29/06/2022 18:33:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 18:33:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 18:43:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/06/2022 18:43:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/06/2022 18:46:05,ross,ENVIO CORREO PACIENTE,PEDIDO=4
+*************
+29/06/2022 18:47:29,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+30/06/2022 8:11:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/06/2022 8:11:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/06/2022 8:17:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/06/2022 8:17:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/06/2022 8:19:03,ross,Actualiza Test,Test=P_LCC
+*************
+30/06/2022 8:20:27,ross,Actualizar Rango Unico,Test=36 Rango=0-1
+*************
+30/06/2022 8:20:56,ross,Actualizar Rango Unico,Test=36 Rango=0-1
+*************
+30/06/2022 8:21:18,ross,Actualizar Rango Unico,Test=36 Rango=0-1
+*************
+30/06/2022 8:21:35,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=36
+*************
+30/06/2022 8:21:35,ross,02 IMPRIMIR COD BARRAS,PEDIDO=36
+*************
+30/06/2022 8:21:44,ross,Actualiza FACTURA,FACTURA=4
+*************
+30/06/2022 8:21:44,ross,Ingresa FACTURA,FACTURA=4
+*************
+30/06/2022 8:21:45,ross,Insertar abono,Factura=4 Abono= 15
+*************
+30/06/2022 8:21:45,ross,Cancela FACTURA,FACTURA=4
+*************
+30/06/2022 8:21:47,ross,Registra Tx Factura,Factura=4
+*************
+30/06/2022 8:22:02,ross,Registra Tx Factura,Factura=4
+*************
+30/06/2022 8:23:17,ross,Actualiza Test,Test=BIOMETRIA HEMATICA 
+*************
+30/06/2022 8:27:35,ross,Generar Paciente,Paciente=MORALES FREIRE MARIA DEL CARMEN
+*************
+30/06/2022 8:27:42,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=37
+*************
+30/06/2022 8:27:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=37
+*************

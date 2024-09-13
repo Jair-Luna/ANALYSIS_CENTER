@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_PlanTTo" targetNamespace="http://tempuri.org/dts_PlanTTo.xsd" xmlns:mstns="http://tempuri.org/dts_PlanTTo.xsd" xmlns="http://tempuri.org/dts_PlanTTo.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_PlanTTo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_PlanTTo" msprop:Generator_DataSetName="dts_PlanTTo" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PLAN_TTO" msprop:Generator_UserTableName="PLAN_TTO" msprop:Generator_RowDeletedName="PLAN_TTORowDeleted" msprop:Generator_RowChangedName="PLAN_TTORowChanged" msprop:Generator_RowClassName="PLAN_TTORow" msprop:Generator_RowChangingName="PLAN_TTORowChanging" msprop:Generator_RowEvArgName="PLAN_TTORowChangeEvent" msprop:Generator_RowEvHandlerName="PLAN_TTORowChangeEventHandler" msprop:Generator_TableClassName="PLAN_TTODataTable" msprop:Generator_TableVarName="tablePLAN_TTO" msprop:Generator_RowDeletingName="PLAN_TTORowDeleting" msprop:Generator_TablePropName="PLAN_TTO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PLAN_ID" msprop:Generator_UserColumnName="PLAN_ID" msprop:Generator_ColumnPropNameInRow="Plan_ID" msprop:Generator_ColumnVarNameInTable="columnPlan_ID" msprop:Generator_ColumnPropNameInTable="Plan_IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PLAN_DESC" msprop:Generator_UserColumnName="PLAN_DESC" msprop:Generator_ColumnVarNameInTable="columnPLAN_DESC" msprop:Generator_ColumnPropNameInRow="PLAN_DESC" msprop:Generator_ColumnPropNameInTable="PLAN_DESCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PLAN_FRASCOS" msprop:Generator_UserColumnName="PLAN_FRASCOS" msprop:Generator_ColumnVarNameInTable="columnPLAN_FRASCOS" msprop:Generator_ColumnPropNameInRow="PLAN_FRASCOS" msprop:Generator_ColumnPropNameInTable="PLAN_FRASCOSColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

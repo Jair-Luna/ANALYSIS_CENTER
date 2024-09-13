@@ -1,0 +1,1750 @@
+10/04/2017 11:33:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 11:33:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:37:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 11:37:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:41:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 11:41:44,,Ingreso CONTRASEÑA FALLIDO,Busca tabla invitado
+*************
+10/04/2017 11:41:44,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:42:01,,Ingreso CONTRASEÑA FALLIDO,Busca tabla invitado
+*************
+10/04/2017 11:42:01,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:42:16,,Ingreso CONTRASEÑA FALLIDO,Busca tabla invitado
+*************
+10/04/2017 11:42:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:42:28,,Ingreso CONTRASEÑA FALLIDO,Busca tabla invitado
+*************
+10/04/2017 11:42:29,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:42:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:42:34,ross,SUPERADO INTENTOS FALLIDO,
+*************
+10/04/2017 11:44:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 11:44:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 11:53:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 11:53:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 12:21:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 12:21:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 12:27:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 12:27:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 12:35:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 12:35:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 12:35:46,ross,Generar Pedido/Proforma,INSERTAR PEDIDO
+*************
+10/04/2017 12:37:26,ross,Generar Pedido/Proforma,INSERTAR PEDIDO
+*************
+10/04/2017 12:37:43,ross,Imprime/Proforma,
+*************
+10/04/2017 13:31:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 13:31:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 13:32:04,ross,Generar Pedido/Proforma,INSERTAR PEDIDO
+*************
+10/04/2017 13:32:09,ross,IMPRIMIR,codigo de barras
+*************
+10/04/2017 13:38:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 13:38:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 13:38:38,ross,Actualizar Pedido,CONVIERTE PROFORMA
+*************
+10/04/2017 13:50:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 13:50:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/WBC/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/NEU/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/LYM/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MONO/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/EOS/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/BASO/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/NEU%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/LYM%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MONO%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/EOS%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/BASO%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/RBC/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/HCT/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/HGB/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MCV/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MCH/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MCHC/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/RDW_/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/PLT/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/PDW/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MPV/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/PCT/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/RDW_SD/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/RDW_CV/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/MID%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/P_LCR/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/GRAN%25/6
+*************
+10/04/2017 13:51:44,ross,GUARDA RESULTADOS,7/P_LCC/6
+*************
+10/04/2017 13:52:06,ross,GUARDA RESULTADOS,7/COLOR/AMARILLO
+*************
+10/04/2017 13:52:06,ross,GUARDA RESULTADOS,7/ASPECTO/LIQUIDA
+*************
+10/04/2017 13:52:06,ross,GUARDA RESULTADOS,7/CONSISTENCIA/BLANDA
+*************
+10/04/2017 13:54:02,ross,GUARDA RESULTADO,7/GLUC/120
+*************
+10/04/2017 13:57:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 13:57:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 13:58:37,ross,GUARDA RESULTADO,120=70 - 110
+*************
+10/04/2017 14:01:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 14:01:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 14:01:31,ross,GUARDA RESULTADO,MEMO=
+*************
+10/04/2017 14:01:32,ross,GUARDA RESULTADO,MEMO=
+*************
+10/04/2017 14:01:32,ross,GUARDA RESULTADOS,HIV=NO REACTIVO
+*************
+10/04/2017 14:01:33,ross,GUARDA RESULTADOS,VDRL=NO REACTIVO
+*************
+10/04/2017 14:01:33,ross,GUARDA RESULTADOS,GLUC=120
+*************
+10/04/2017 14:01:33,ross,GUARDA RESULTADO,120=70 - 110
+*************
+10/04/2017 14:01:33,ross,GUARDA RESULTADOS,HBS=NEGATIVO
+*************
+10/04/2017 14:01:33,ross,GUARDA RESULTADO,NEGATIVO=
+*************
+10/04/2017 14:02:56,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADO,MEMO=
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADO,MEMO=
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADOS,HIV=NO REACTIVO
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADO,NO REACTIVO=
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADOS,VDRL=NO REACTIVO
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADO,NO REACTIVO=
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADOS,GLUC=120
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADO,120=70 - 110
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADOS,HBS=NEGATIVO
+*************
+10/04/2017 14:02:57,ross,GUARDA RESULTADO,NEGATIVO=
+*************
+10/04/2017 14:03:01,ross,VALIDACION RESULTADO,Validación 
+*************
+10/04/2017 14:03:01,ross,VALIDACION RESULTADO,Validación 
+*************
+10/04/2017 14:03:01,ross,VALIDACION RESULTADO,Validación 
+*************
+10/04/2017 14:03:01,ross,VALIDACION RESULTADO,Validación 
+*************
+10/04/2017 14:03:02,ross,VALIDACION RESULTADO,Validación 
+*************
+10/04/2017 14:03:02,ross,VALIDACION RESULTADO,Validación 
+*************
+10/04/2017 14:03:25,ross,IMPRIME POR AREA,
+*************
+10/04/2017 14:04:17,ross,IMPRIME TODO,
+*************
+10/04/2017 14:05:00,ross,IMPRIME SOBRE,
+*************
+10/04/2017 14:09:43,ross,IMPRIME SOBRE,
+*************
+10/04/2017 14:15:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2017 14:15:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2017 14:16:05,ross,IMPRIME TODO,
+*************
+10/04/2017 14:16:43,ross,IMPRIME SOBRE,
+*************
+10/04/2017 14:17:07,ross,IMPRIME POR AREA,
+*************
+10/04/2017 14:17:13,ross,IMPRIME POR AREA,
+*************
+10/04/2017 14:17:39,ross,IMPRIME TODO,
+*************
+10/04/2017 14:17:46,ross,IMPRIME SOBRE,
+*************
+11/04/2017 14:36:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2017 14:36:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2017 14:39:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2017 14:39:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:11,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:12,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:12,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:12,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:12,ross,Ingerso o Actualización Permisos de Usuario,
+*************
+11/04/2017 14:39:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/04/2017 14:39:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 10:05:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 10:05:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 10:36:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 10:36:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 15:01:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 15:01:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 15:18:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 15:18:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 15:21:10,ross,Generar Pedido/Proforma,INSERTAR PEDIDO=8
+*************
+13/04/2017 15:21:20,ross,IMPRIMIR,codigo de barras
+*************
+13/04/2017 15:22:14,ross,Insertar abono,Factura=356 Abono= 23.7
+*************
+13/04/2017 15:22:14,ross,Cancelación FACTURA,FACTURA=356
+*************
+13/04/2017 15:28:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 15:28:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 15:28:53,ross,Generar Pedido/Proforma,INSERTAR PEDIDO=9
+*************
+13/04/2017 15:29:01,ross,IMPRIMIR,codigo de barras
+*************
+13/04/2017 15:29:44,ross,Insertar abono,Factura=357 Abono= 25
+*************
+13/04/2017 15:29:44,ross,Actualiza FACTURA,FACTURA=357/25
+*************
+13/04/2017 15:31:50,ross,Insertar abono,Factura=357 Abono= 25
+*************
+13/04/2017 15:31:50,ross,Actualiza FACTURA,FACTURA=357/25
+*************
+13/04/2017 15:34:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 15:34:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 15:34:52,ross,Generar Pedido/Proforma,INSERTAR PEDIDO=1
+*************
+13/04/2017 15:36:55,ross,IMPRIMIR,codigo de barras
+*************
+13/04/2017 15:40:14,ross,Insertar abono,Factura=359 Abono= 42
+*************
+13/04/2017 15:40:14,ross,Cancelación FACTURA,FACTURA=359
+*************
+13/04/2017 15:40:53,ross,IMPRIMIR,codigo de barras
+*************
+13/04/2017 16:14:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:14:55,,Ingreso CONTRASEÑA FALLIDO,
+*************
+13/04/2017 16:14:55,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:14:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:15:09,ross,GENERAR ORDEN,PEDIDO=1
+*************
+13/04/2017 16:15:14,ross,IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+13/04/2017 16:15:26,ross,IMPRIMIR PEDIDO,PEDIDO=1
+*************
+13/04/2017 16:15:44,ross,Actualiza FACTURA,FACTURA=360
+*************
+13/04/2017 16:15:44,ross,Ingresa FACTURA,FACTURA=360
+*************
+13/04/2017 16:15:47,ross,Insertar abono,Factura=360 Abono= 13
+*************
+13/04/2017 16:15:47,ross,Cancela FACTURA,FACTURA=360
+*************
+13/04/2017 16:17:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:17:03,mcm,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:17:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:17:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:17:57,ross,Ingreso o Actualización Permisos de Usuario,
+*************
+13/04/2017 16:18:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:18:27,mcm,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:25:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:25:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:30:35,ross,MODIFICA ORDEN,PEDIDO=1
+*************
+13/04/2017 16:40:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:40:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:45:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:45:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:45:59,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+13/04/2017 16:46:04,ross,2 IMPRIMIR COD BARRAS,PEDIDO=01
+*************
+13/04/2017 16:46:13,ross,3 IMPRIMIR PEDIDO,PEDIDO=1
+*************
+13/04/2017 16:50:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:50:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:52:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:52:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:54:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:54:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/04/2017 16:58:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/04/2017 16:58:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2017 10:17:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2017 10:17:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2017 10:18:33,ross,1 MODIFICA ORDEN,PEDIDO=1
+*************
+14/04/2017 11:01:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2017 11:01:14,mcm,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2017 11:01:44,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:05,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:06,mcm,GUARDA RESULTADOS,PEDIDO=1
+*************
+14/04/2017 11:02:20,mcm,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+14/04/2017 11:02:20,mcm,GUARDA RESULTADO,MEMO=
+*************
+14/04/2017 11:02:24,mcm,VALIDACION RESULTADO,PEDIDO=1/400101
+*************
+14/04/2017 11:02:24,mcm,VALIDACION RESULTADO,PEDIDO=1/400904
+*************
+15/04/2017 10:49:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 10:49:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 10:52:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:04:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:04:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:07:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:07:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:14:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:14:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:26:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:26:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:27:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:27:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:31:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:31:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:32:13,ross,Generar Paciente,Paciente=FLORES MATA JOSE
+*************
+15/04/2017 11:32:23,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+15/04/2017 11:39:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:39:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:41:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 11:41:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 11:42:14,ross,2 IMPRIMIR COD BARRAS,PEDIDO=02
+*************
+15/04/2017 11:42:21,ross,3 IMPRIMIR PEDIDO,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:50,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:51,ross,GUARDA RESULTADOS,PEDIDO=2
+*************
+15/04/2017 11:42:59,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+15/04/2017 11:42:59,ross,GUARDA RESULTADO,MEMO=
+*************
+15/04/2017 11:43:02,ross,VALIDACION RESULTADO,PEDIDO=2/400101
+*************
+15/04/2017 11:43:14,ross,IMPRIME TODO,PEDIDO=2
+*************
+15/04/2017 12:51:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 12:51:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 12:52:02,ross,Actualizacón Médico,Medico=GOMEZ PEPITO
+*************
+15/04/2017 12:54:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 12:54:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 12:55:11,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+15/04/2017 13:27:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 13:27:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 13:27:43,ross,IMPRIME TODO,PEDIDO=2
+*************
+15/04/2017 13:44:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 13:44:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 13:45:01,ross,Actualizacón Médico,Medico=PEPITO
+*************
+15/04/2017 13:51:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/04/2017 13:51:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/04/2017 13:51:27,ross,Actualizacón Médico,Medico=LOPEZX
+*************
+17/04/2017 19:02:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/04/2017 19:02:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 8:44:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 8:44:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 8:46:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 8:46:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 8:47:14,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+18/04/2017 8:47:49,ross,Generar Paciente,Paciente=MORALES FREIRE MARI ADEL CARMEN
+*************
+18/04/2017 8:48:02,ross,1 GENERAR ORDEN,PEDIDO=2
+*************
+18/04/2017 8:54:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 9:04:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:07:11,ross,GUARDA RESULTADOS,PEDIDO=1
+*************
+18/04/2017 9:14:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 9:14:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 9:19:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 9:20:01,sgualpa,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 9:22:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 9:22:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 9:23:03,ross,Nuevo Convenio,Convenio=HOSP. GONZALEZ
+*************
+18/04/2017 9:30:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 9:30:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 9:31:15,ross,Nuevo Convenio,Convenio=HOSP. GONZALEZ
+*************
+18/04/2017 9:35:55,ross,1 GENERAR ORDEN,PEDIDO=1
+*************
+18/04/2017 11:53:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 11:53:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 12:07:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 12:07:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 12:19:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 12:19:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 12:39:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 12:39:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 12:47:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 12:47:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 12:59:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 12:59:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 15:22:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 15:22:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 15:22:37,ross,IMPRIME TODO,PEDIDO=5
+*************
+18/04/2017 16:01:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 16:01:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 20:00:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2017 20:00:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2017 20:03:19,ross,Nuevo Servicio,SERVICIO=EJEMPLO
+*************
+18/04/2017 20:03:42,ross,Actualizar Servicio,SERVICIO=CONSULTA EXTERNA
+*************
+18/04/2017 20:04:08,ross,Actualizar Servicio,SERVICIO=HOSPITALIZACION
+*************
+18/04/2017 20:04:21,ross,Actualizar Servicio,SERVICIO=CHEQUEO MEDICO
+*************
+18/04/2017 20:04:26,ross,Actualizar Servicio,SERVICIO=OTRO
+*************
+18/04/2017 20:04:58,ross,Actualizar Servicio,SERVICIO=URGENCIA
+*************
+20/04/2017 11:59:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 11:59:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 12:05:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 12:05:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 12:07:26,ross,INGERSA TEST,TEST=HEMOGLOBINA HGB
+*************
+20/04/2017 12:07:26,ross,Actualiza Test,Test=HEMOGLOBINA HGB
+*************
+20/04/2017 13:22:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 13:22:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 13:23:50,ross,INGERSA TEST,TEST=CULTIVO DE GERMENES COMUNES
+*************
+20/04/2017 13:23:50,ross,Actualiza Test,Test=CULTIVO DE GERMENES COMUNES
+*************
+20/04/2017 13:25:31,ross,Nuevo Convenio,Convenio=MEDISUR
+*************
+20/04/2017 13:25:59,ross,1 GENERAR ORDEN,PEDIDO=3
+*************
+20/04/2017 13:26:37,ross,Actualiza Test,Test=CULTIVO DE GERMENES COMUNES
+*************
+20/04/2017 13:33:09,ross,Nuevo Test en Lista de Precios,Test=400909 15  MEDISUR
+*************
+20/04/2017 13:33:10,ross,INGERSA TEST,TEST=CULTIVO MIO
+*************
+20/04/2017 13:33:38,ross,Actualiza Test,Test=CULTIVO MIO
+*************
+20/04/2017 13:37:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 13:37:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 13:40:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 13:40:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 13:41:03,ross,Nuevo Test en Lista de Precios,Test=400910 20  MEDISUR
+*************
+20/04/2017 13:41:03,ross,INGERSA TEST,TEST=CULTIVO PEPA
+*************
+20/04/2017 13:41:03,ross,Actualiza Test,Test=CULTIVO PEPA
+*************
+20/04/2017 13:41:53,ross,Actualiza Test,Test=CULTIVO PEPA
+*************
+20/04/2017 13:42:28,ross,1 GENERAR ORDEN,PEDIDO=4
+*************
+20/04/2017 13:51:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 13:51:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 13:56:24,ross,1 GENERAR ORDEN,PEDIDO=5
+*************
+20/04/2017 15:08:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 15:08:25,0114,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 15:23:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 15:23:51,0114,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 15:24:43,0114,1 GENERAR ORDEN,PEDIDO=374
+*************
+20/04/2017 15:24:59,0114,1 ANULA ORDEN,PEDIDO=374
+*************
+20/04/2017 15:28:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/04/2017 15:28:40,,Ingreso CONTRASEÑA FALLIDO,
+*************
+20/04/2017 15:28:40,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 15:28:41,0114,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/04/2017 15:28:57,0114,1 GENERAR ORDEN,PEDIDO=375
+*************
+20/04/2017 15:30:11,0114,1 ANULA ORDEN,PEDIDO=375
+*************
+20/04/2017 15:30:31,0114,1 GENERAR ORDEN,PEDIDO=376
+*************
+20/04/2017 15:31:13,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:13,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:13,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:13,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:13,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:14,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:15,0114,GUARDA RESULTADOS,PEDIDO=376
+*************
+20/04/2017 15:31:41,0114,1 MODIFICA ORDEN,PEDIDO=376
+*************
+20/04/2017 15:31:57,0114,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+20/04/2017 15:31:57,0114,GUARDA RESULTADO,MEMO=
+*************
+20/04/2017 15:31:57,0114,GUARDA RESULTADOS,fPSA=23
+*************
+20/04/2017 15:31:57,0114,GUARDA RESULTADO,23=0 - 0.5
+*************
+20/04/2017 15:31:57,0114,GUARDA RESULTADOS,PSA=4
+*************
+20/04/2017 15:31:57,0114,GUARDA RESULTADO,4=0 - 4
+*************
+20/04/2017 15:31:58,0114,VALIDACION RESULTADO,PEDIDO=376/400101
+*************
+20/04/2017 15:31:58,0114,VALIDACION RESULTADO,PEDIDO=376/400783
+*************
+20/04/2017 15:31:58,0114,VALIDACION RESULTADO,PEDIDO=376/400784
+*************
+20/04/2017 15:32:14,0114,1 ANULA ORDEN,PEDIDO=376
+*************
+20/04/2017 15:40:13,0114,Nuevo Test en Lista de Precios,Test=549 0  SAN MARTIN
+*************
+20/04/2017 15:40:13,0114,INGERSA TEST,TEST=GRUPO
+*************
+20/04/2017 15:40:13,0114,Actualiza Test,Test=GRUPO
+*************
+20/04/2017 15:41:15,0114,Nuevo Test en Lista de Precios,Test=550 0  SAN MARTIN
+*************
+20/04/2017 15:41:15,0114,INGERSA TEST,TEST=FACTOR
+*************
+20/04/2017 15:41:15,0114,Actualiza Test,Test=FACTOR
+*************
+20/04/2017 15:41:32,0114,1 GENERAR ORDEN,PEDIDO=377
+*************
+20/04/2017 15:42:41,0114,1 ANULA ORDEN,PEDIDO=377
+*************
+21/04/2017 11:57:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/04/2017 11:57:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/04/2017 11:57:42,ross,1 GENERAR ORDEN,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:15,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:16,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:42,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:42,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:58:42,ross,GUARDA RESULTADOS,PEDIDO=6
+*************
+21/04/2017 11:59:05,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+21/04/2017 11:59:06,ross,GUARDA RESULTADO,MEMO=
+*************
+21/04/2017 11:59:09,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+21/04/2017 11:59:09,ross,GUARDA RESULTADO,MEMO=
+*************
+21/04/2017 11:59:28,ross,VALIDACION RESULTADO,PEDIDO=6/400101
+*************
+21/04/2017 11:59:28,ross,VALIDACION RESULTADO,PEDIDO=6/400244
+*************
+21/04/2017 11:59:41,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+21/04/2017 11:59:41,ross,GUARDA RESULTADO,MEMO=
+*************
+21/04/2017 11:59:41,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+21/04/2017 11:59:41,ross,GUARDA RESULTADO,MEMO=
+*************
+21/04/2017 11:59:42,ross,GUARDA RESULTADOS,CHOL=180
+*************
+21/04/2017 11:59:42,ross,GUARDA RESULTADO,180=0 - 200
+*************
+21/04/2017 11:59:42,ross,GUARDA RESULTADOS,AHDL=44
+*************
+21/04/2017 11:59:42,ross,GUARDA RESULTADO,44=35 - 60
+*************
+21/04/2017 11:59:48,ross,VALIDACION RESULTADO,PEDIDO=6/400149
+*************
+21/04/2017 11:59:48,ross,VALIDACION RESULTADO,PEDIDO=6/400150
+*************
+21/04/2017 12:08:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/04/2017 12:08:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADO,MEMO=
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADO,MEMO=
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADOS,CHOL=180
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADO,180=0 - 200
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADOS,AHDL=44
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADO,44=35 - 60
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADOS,TGL=33
+*************
+21/04/2017 12:08:33,ross,GUARDA RESULTADO,33=0 - 150
+*************
+21/04/2017 12:08:37,ross,VALIDACION RESULTADO,PEDIDO=6/400151
+*************
+25/04/2017 8:33:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 10:00:38,,Ingreso CONTRASEÑA FALLIDO,
+*************
+25/04/2017 10:00:38,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 10:00:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 10:12:07,ross,1 GENERAR ORDEN,PEDIDO=7
+*************
+25/04/2017 10:41:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 10:41:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 10:56:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 10:56:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 11:03:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 11:03:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 11:05:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 11:05:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 11:12:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 11:12:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 11:40:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 11:40:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 12:07:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 12:07:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 12:42:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 12:42:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 12:45:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 12:45:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 14:26:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 14:26:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 14:28:19,ross,GUARDA RESULTADOS,PEDIDO=7
+*************
+25/04/2017 14:28:19,ross,GUARDA RESULTADOS,PEDIDO=7
+*************
+25/04/2017 14:28:19,ross,GUARDA RESULTADOS,PEDIDO=7
+*************
+25/04/2017 14:32:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 14:32:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 14:33:32,ross,GUARDA RESULTADOS,COPROPARASITARIO=MEMO
+*************
+25/04/2017 14:33:32,ross,GUARDA RESULTADO,MEMO=
+*************
+25/04/2017 14:33:35,ross,VALIDACION RESULTADO,PEDIDO=7/400244
+*************
+25/04/2017 14:33:50,ross,IMPRIME TODO,PEDIDO=7
+*************
+25/04/2017 14:38:17,ross,1 GENERAR ORDEN,PEDIDO=8
+*************
+25/04/2017 14:41:26,ross,1 ANULA ORDEN,PEDIDO=8
+*************
+25/04/2017 14:41:44,ross,1 GENERAR ORDEN,PEDIDO=9
+*************
+25/04/2017 14:45:54,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 14:46:21,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 14:54:58,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 14:55:04,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 14:55:10,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 14:55:19,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 14:55:28,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:15:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:15:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:20:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:20:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:32:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:32:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:36:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:36:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:43:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:43:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:51:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:51:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:54:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 15:54:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 15:55:08,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:10:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 16:10:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 16:18:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 16:18:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 16:23:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 16:23:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 16:27:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 16:27:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:28:26,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:29:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 16:29:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:30:50,ross,GUARDA RESULTADOS,PEDIDO=9
+*************
+25/04/2017 16:57:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/04/2017 16:57:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2017 18:29:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/04/2017 18:29:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/04/2017 19:36:57,ross,Nuevo Test en Lista de Precios,Test=400911 0  MEDISUR
+*************
+14/04/2017 19:37:23,ross,INGERSA TEST,TEST=HE4
+*************
+14/04/2017 19:38:01,ross,Actualiza Test,Test=HE4
+*************
+27/04/2017 10:54:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 10:54:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 10:55:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 10:55:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 10:56:28,ross,1 GENERAR ORDEN,PEDIDO=10
+*************
+27/04/2017 10:57:38,ross,GUARDA RESULTADOS,PEDIDO=10
+*************
+27/04/2017 10:57:38,ross,GUARDA RESULTADOS,PEDIDO=10
+*************
+27/04/2017 10:57:38,ross,GUARDA RESULTADOS,PEDIDO=10
+*************
+27/04/2017 10:57:38,ross,GUARDA ANTIBIOGRANA,1=SENSIBLE
+*************
+27/04/2017 10:57:38,ross,GUARDA ANTIBIOGRANA,2=SE
+*************
+27/04/2017 10:57:45,ross,GUARDA RESULTADOS,C_ORINA=MEMO
+*************
+27/04/2017 10:57:45,ross,GUARDA RESULTADO,MEMO=
+*************
+27/04/2017 10:57:48,ross,VALIDACION RESULTADO,PEDIDO=10/400819
+*************
+27/04/2017 10:58:31,ross,IMPRIME TODO,PEDIDO=10
+*************
+27/04/2017 11:11:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:11:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 11:11:34,ross,IMPRIME TODO,PEDIDO=10
+*************
+27/04/2017 11:14:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:14:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 11:14:50,ross,IMPRIME TODO,PEDIDO=10
+*************
+27/04/2017 11:25:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:25:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 11:25:34,ross,1 GENERAR ORDEN,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:26:03,ross,GUARDA RESULTADOS,PEDIDO=11
+*************
+27/04/2017 11:28:54,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+27/04/2017 11:28:54,ross,GUARDA RESULTADO,MEMO=
+*************
+27/04/2017 11:28:54,ross,GUARDA RESULTADOS,CHOL=300
+*************
+27/04/2017 11:28:54,ross,GUARDA RESULTADO,300=0 - 200
+*************
+27/04/2017 11:28:54,ross,GUARDA RESULTADOS,TGL=235
+*************
+27/04/2017 11:28:54,ross,GUARDA RESULTADO,235=0 - 150
+*************
+27/04/2017 11:28:57,ross,VALIDACION RESULTADO,PEDIDO=11/400101
+*************
+27/04/2017 11:28:57,ross,VALIDACION RESULTADO,PEDIDO=11/400149
+*************
+27/04/2017 11:28:57,ross,VALIDACION RESULTADO,PEDIDO=11/400151
+*************
+27/04/2017 11:29:21,ross,1 GENERAR ORDEN,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:00,ross,GUARDA RESULTADOS,PEDIDO=12
+*************
+27/04/2017 11:30:14,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+27/04/2017 11:30:14,ross,GUARDA RESULTADO,MEMO=
+*************
+27/04/2017 11:30:14,ross,GUARDA RESULTADOS,CHOL=222
+*************
+27/04/2017 11:30:14,ross,GUARDA RESULTADO,222=0 - 200
+*************
+27/04/2017 11:30:14,ross,GUARDA RESULTADOS,TGL=111
+*************
+27/04/2017 11:30:14,ross,GUARDA RESULTADO,111=0 - 150
+*************
+27/04/2017 11:38:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:38:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 11:42:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:42:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 11:47:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:47:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 11:49:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 11:49:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:15:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:15:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:18:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:18:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:20:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:20:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:23:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:23:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:30:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:30:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:34:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:34:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:39:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:39:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 12:42:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 12:42:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 14:44:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 14:44:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 16:12:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 16:12:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 16:12:45,ross,Guardar antibiotico,ANTIBIOTICO=AB_AB
+*************
+27/04/2017 16:13:06,ross,1 GENERAR ORDEN,PEDIDO=13
+*************
+27/04/2017 16:53:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/04/2017 16:53:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/04/2017 16:54:44,ross,AGENDAMIENTO,PEDIDO=14
+*************
+27/04/2017 16:55:17,ross,AGENDAMIENTO,PEDIDO=15
+*************
+27/04/2017 16:56:40,ross,AGENDAMIENTO,PEDIDO=16
+*************
+28/04/2017 9:08:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2017 9:08:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2017 9:15:42,ross,1 GENERAR ORDEN,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:27:45,ross,GUARDA RESULTADOS,PEDIDO=17
+*************
+28/04/2017 9:28:19,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+28/04/2017 9:28:19,ross,GUARDA RESULTADO,MEMO=
+*************
+28/04/2017 9:28:48,ross,GUARDA RESULTADOS,BIOMETRIA HEMATICA=MEMO
+*************
+28/04/2017 9:28:48,ross,GUARDA RESULTADO,MEMO=
+*************
+28/04/2017 9:28:51,ross,VALIDACION RESULTADO,PEDIDO=17/400101
+*************
+28/04/2017 9:29:08,ross,IMPRIME TODO,PEDIDO=17
+*************
+28/04/2017 9:33:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2017 9:33:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2017 9:33:58,ross,1 GENERAR ORDEN,PEDIDO=18
+*************
+28/04/2017 10:15:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2017 10:15:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2017 11:50:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2017 11:50:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2017 11:56:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2017 11:56:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2017 15:24:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/04/2017 15:24:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/04/2017 15:24:58,ross,1 GENERAR ORDEN,PEDIDO=19
+*************
+28/04/2017 15:25:40,ross,Actualiza Test,Test=CULTIVO DE SEMEN
+*************
+28/04/2017 15:34:32,ross,GUARDA RESULTADOS,PEDIDO=19
+*************
+28/04/2017 15:34:45,ross,GUARDA RESULTADOS,PEDIDO=19
+*************
+28/04/2017 15:34:50,ross,GUARDA RESULTADOS,PEDIDO=19
+*************
+28/04/2017 15:34:50,ross,GUARDA RESULTADOS,PEDIDO=19
+*************
+28/04/2017 15:34:50,ross,GUARDA ANTIBIOGRANA,2=SENSIBÑE
+*************
+28/04/2017 15:34:50,ross,GUARDA ANTIBIOGRANA,3=RESISTENTE
+*************
+28/04/2017 15:45:14,ross,1 GENERAR ORDEN,PEDIDO=20
+*************
+28/04/2017 15:55:17,ross,1 GENERAR ORDEN,PEDIDO=21
+*************

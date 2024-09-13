@@ -1,0 +1,1263 @@
+03/05/2022 8:18:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/05/2022 8:18:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/05/2022 7:31:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2022 7:31:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/05/2022 17:55:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2022 17:55:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/05/2022 18:00:36,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401115,401119,,PEDIDO=12
+*************
+04/05/2022 18:00:37,ross,02 IMPRIMIR COD BARRAS,PEDIDO=12
+*************
+04/05/2022 18:22:56,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+04/05/2022 18:23:25,ross,Actualiza Test,Test=ESPIROMETRIA
+*************
+04/05/2022 18:24:05,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+04/05/2022 18:25:38,ross,VALIDACION RESULTADO,PEDIDO=12/401115
+*************
+04/05/2022 18:25:43,ross,VALIDACION RESULTADO,PEDIDO=12/401119
+*************
+04/05/2022 18:26:48,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+04/05/2022 18:31:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2022 18:31:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/05/2022 19:05:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2022 19:05:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/05/2022 20:31:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/05/2022 20:31:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2022 15:22:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2022 15:22:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2022 15:27:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2022 15:27:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2022 15:28:44,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+05/05/2022 15:28:54,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+05/05/2022 15:29:44,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+05/05/2022 16:58:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2022 16:58:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2022 16:59:23,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+05/05/2022 17:06:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/05/2022 17:06:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/05/2022 17:17:18,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401115,400101,401119,,PEDIDO=13
+*************
+05/05/2022 17:17:19,ross,02 IMPRIMIR COD BARRAS,PEDIDO=13
+*************
+05/05/2022 17:17:36,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401115,,PEDIDO=14
+*************
+05/05/2022 17:17:36,ross,02 IMPRIMIR COD BARRAS,PEDIDO=14
+*************
+05/05/2022 18:42:21,ross,1 MODIFICA ORDENNORMAL,PEDIDO=14
+*************
+06/05/2022 7:51:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2022 7:51:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/05/2022 7:52:02,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=15
+*************
+06/05/2022 7:52:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+06/05/2022 7:52:58,ross,1 MODIFICA ORDENNORMAL,PEDIDO=15
+*************
+06/05/2022 7:53:37,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400101,400149,400150,400151,,PEDIDO=15
+*************
+06/05/2022 7:54:00,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+06/05/2022 7:57:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2022 7:57:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/05/2022 7:57:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15
+*************
+06/05/2022 10:38:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2022 10:38:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/05/2022 10:39:38,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+06/05/2022 10:39:53,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+06/05/2022 10:40:34,ross,VALIDACION RESULTADO,PEDIDO=14/401115
+*************
+06/05/2022 10:40:34,ross,VALIDACION RESULTADO,PEDIDO=14/401119
+*************
+06/05/2022 10:41:09,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+06/05/2022 10:41:21,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+06/05/2022 10:41:35,ross,VALIDACION RESULTADO,PEDIDO=13/401115
+*************
+06/05/2022 10:41:35,ross,VALIDACION RESULTADO,PEDIDO=13/401119
+*************
+06/05/2022 10:45:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2022 10:45:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/05/2022 10:47:00,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+06/05/2022 10:49:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2022 10:49:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/05/2022 11:11:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/05/2022 11:11:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2022 17:49:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/05/2022 17:49:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2022 17:50:05,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401115,401119,400149,400150,400476,400151,400295,,PEDIDO=15727
+*************
+09/05/2022 17:50:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=15727
+*************
+09/05/2022 17:53:40,ross,VALIDACION RESULTADO,PEDIDO=15727/400149
+*************
+09/05/2022 17:53:40,ross,VALIDACION RESULTADO,PEDIDO=15727/400150
+*************
+09/05/2022 17:53:41,ross,VALIDACION RESULTADO,PEDIDO=15727/400151
+*************
+09/05/2022 17:53:41,ross,VALIDACION RESULTADO,PEDIDO=15727/400295
+*************
+09/05/2022 17:53:42,ross,VALIDACION RESULTADO,PEDIDO=15727/400476
+*************
+09/05/2022 17:58:34,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+09/05/2022 17:58:58,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+09/05/2022 18:00:10,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+09/05/2022 18:00:27,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+09/05/2022 19:33:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/05/2022 19:33:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/05/2022 19:44:09,ross,GUARDA RESULTADOS,AUDIOMETRIAH=
+*************
+09/05/2022 19:44:17,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+09/05/2022 19:44:33,ross,GUARDA RESULTADOS,ESPIROMETRIAH=
+*************
+09/05/2022 19:44:43,ross,VALIDACION RESULTADO,PEDIDO=15727/401115
+*************
+09/05/2022 19:44:44,ross,VALIDACION RESULTADO,PEDIDO=15727/401119
+*************
+11/05/2022 17:00:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2022 17:00:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/05/2022 17:01:16,ross,IMPRIME POR AREA,PEDIDO=15860
+*************
+11/05/2022 17:56:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/05/2022 17:56:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/05/2022 17:57:46,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400230,400101,400149,400150,400476,400151,401104,400140,400141,400148,,PEDIDO=16
+*************
+11/05/2022 17:57:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=16
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,WBCH=3
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,NEUH=4
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,LYMH=5
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,MONH=6
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,EOSH=7
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,BASOH=8
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,LYM%25H=1
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,RBCH=5
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,HCTH=6
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,HGBH=7
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,MCVH=8
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,MCHH=9
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,MCHCH=8
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,RDW-CVH=7
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,RDW-SDH=6
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,PLTH=5
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,MPVH=4
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,PDWH=3
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,PCTH=1
+*************
+11/05/2022 17:58:35,ross,GUARDA RESULTADOS,P-LCRH=12
+*************
+11/05/2022 17:58:36,ross,GUARDA RESULTADOS,P-LCCH=1
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,COLOH=AMARILLO
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,PHO=5
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,ELEUCOH=ESCASA
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,ASCOH=
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+11/05/2022 17:59:10,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CCETOH=NEGATIVO
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,UROOH=NEGATIVO
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,HGBOH=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CELPOH=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CELEPH=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,LEUC_EMO1H=++
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,PIOO=2-3
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,HEMOH=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,BACOH=+++
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,MOCOH=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,URO=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,FOO=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,OXAO=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CRIO=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CILO=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CIGO=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,CILCE=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,ESP=
+*************
+11/05/2022 17:59:11,ross,GUARDA RESULTADOS,OTROSO=
+*************
+11/05/2022 17:59:53,ross,GUARDA NOTA AREA,AREA EXAMEN =11/OBSERVACIONES: Valores confirmados
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400101
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400140
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400141
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400148
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400149
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400150
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400151
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400230
+*************
+11/05/2022 17:59:56,ross,VALIDACION RESULTADO,PEDIDO=16/400476
+*************
+11/05/2022 17:59:57,ross,VALIDACION RESULTADO,PEDIDO=16/401104
+*************
+11/05/2022 18:00:49,ross,Modifica USR,USR=1
+*************
+12/05/2022 11:18:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/05/2022 11:18:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/05/2022 11:19:05,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400892,,PEDIDO=17
+*************
+12/05/2022 11:19:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=17
+*************
+12/05/2022 11:19:58,ross,Actualizar Rango Unico,Test=400892 Rango=100-180
+*************
+12/05/2022 11:20:49,ross,VALIDACION RESULTADO,PEDIDO=17/400892
+*************
+12/05/2022 11:21:34,ross,IMPRIME POR AREA,PEDIDO=17
+*************
+13/05/2022 15:30:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2022 15:30:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2022 15:31:01,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+13/05/2022 15:33:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/05/2022 15:33:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/05/2022 15:33:24,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 12:38:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 12:38:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 12:39:04,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 12:41:19,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 12:48:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 12:48:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 12:48:59,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 13:33:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 13:33:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 13:34:01,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 13:39:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 13:39:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 13:40:20,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 15:57:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 15:57:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 15:57:36,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 16:09:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 16:09:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 16:10:11,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 16:12:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 16:12:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 16:12:22,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 16:15:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 16:15:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 16:16:24,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+14/05/2022 16:16:36,ross,IMPRIME TODO,PEDIDO=16
+*************
+14/05/2022 16:16:54,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 16:17:06,ross,IMPRIME TODO,PEDIDO=16
+*************
+14/05/2022 16:18:57,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+14/05/2022 16:44:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 16:44:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 16:45:14,ross,IMPRIME POR EMAMEN,PEDIDO=16
+*************
+14/05/2022 16:45:25,ross,IMPRIME TODO,PEDIDO=16
+*************
+14/05/2022 16:45:48,ross,IMPRIME TODO,PEDIDO=16
+*************
+14/05/2022 17:05:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 17:05:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 17:05:44,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+14/05/2022 17:11:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 17:11:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 17:11:55,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+14/05/2022 17:17:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 17:17:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 17:17:58,ross,IMPRIME POR AREA,PEDIDO=16
+*************
+14/05/2022 18:09:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/05/2022 18:09:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/05/2022 18:11:33,ross,Actualizar Rango Unico,Test=11 Rango=4.32-10
+*************
+14/05/2022 18:11:58,ross,Actualizar Rango Unico,Test=11 Rango=6-13
+*************
+14/05/2022 18:12:18,ross,Actualizar Rango Unico,Test=11 Rango=10-20
+*************
+14/05/2022 18:15:17,ross,Actualizar Rango Unico,Test=22 Rango=2-8
+*************
+14/05/2022 18:16:44,ross,Actualizar Rango Unico,Test=23 Rango=0.8-7
+*************
+14/05/2022 18:17:56,ross,Actualizar Rango Unico,Test=24 Rango=0.12-1.2
+*************
+14/05/2022 18:18:29,ross,Actualizar Rango Unico,Test=24 Rango=0.086-0.83
+*************
+14/05/2022 18:18:48,ross,Actualizar Rango Unico,Test=24 Rango=0.045-0.78
+*************
+14/05/2022 18:19:15,ross,Actualizar Rango Unico,Test=24 Rango=0.085-0.79
+*************
+14/05/2022 18:19:50,ross,Actualizar Rango Unico,Test=25 Rango=0.086-0.41
+*************
+14/05/2022 18:20:05,ross,Actualizar Rango Unico,Test=25 Rango=0.02-0.8
+*************
+14/05/2022 18:20:20,ross,Actualizar Rango Unico,Test=25 Rango=0.045-0.65
+*************
+14/05/2022 18:20:54,ross,Actualizar Rango Unico,Test=25 Rango=0.085-0.39
+*************
+14/05/2022 18:21:31,ross,Actualizar Rango Unico,Test=26 Rango=0-0.1
+*************
+14/05/2022 18:21:48,ross,Actualizar Rango Unico,Test=26 Rango=0-0.99
+*************
+14/05/2022 18:22:03,ross,Actualizar Rango Unico,Test=26 Rango=0-0.13
+*************
+14/05/2022 18:22:17,ross,Actualizar Rango Unico,Test=26 Rango=0-0.1
+*************
+14/05/2022 18:22:43,ross,Actualizar Rango Unico,Test=17 Rango=50-70
+*************
+14/05/2022 18:22:56,ross,Actualizar Rango Unico,Test=17 Rango=50-70
+*************
+14/05/2022 18:23:13,ross,Actualizar Rango Unico,Test=17 Rango=25-60
+*************
+14/05/2022 18:23:25,ross,Actualizar Rango Unico,Test=17 Rango=55-65
+*************
+14/05/2022 18:23:48,ross,Actualizar Rango Unico,Test=18 Rango=25-40
+*************
+14/05/2022 18:23:56,ross,Actualizar Rango Unico,Test=18 Rango=25-40
+*************
+14/05/2022 18:24:53,ross,Actualizar Rango Unico,Test=18 Rango=25-50
+*************
+14/05/2022 18:25:03,ross,Actualizar Rango Unico,Test=18 Rango=20-60
+*************
+14/05/2022 18:27:51,ross,Actualizar Rango Unico,Test=19 Rango=1-6
+*************
+14/05/2022 18:28:03,ross,Actualizar Rango Unico,Test=19 Rango=3-10
+*************
+14/05/2022 18:28:45,ross,Actualizar Rango Unico,Test=20 Rango=2-4
+*************
+14/05/2022 18:28:54,ross,Actualizar Rango Unico,Test=20 Rango=2-4
+*************
+14/05/2022 18:29:11,ross,Actualizar Rango Unico,Test=20 Rango=0.5-5
+*************
+14/05/2022 18:29:43,ross,Actualizar Rango Unico,Test=10 Rango=4.3-5.5
+*************
+14/05/2022 18:30:00,ross,Actualizar Rango Unico,Test=10 Rango=4.3-5.5
+*************
+14/05/2022 18:30:12,ross,Actualizar Rango Unico,Test=10 Rango=4.3-5.8
+*************
+14/05/2022 18:30:26,ross,Actualizar Rango Unico,Test=10 Rango=4.2-5.2
+*************
+14/05/2022 18:30:40,ross,Actualizar Rango Unico,Test=10 Rango=5-6
+*************
+14/05/2022 18:31:09,ross,Actualizar Rango Unico,Test=13 Rango=38-47
+*************
+14/05/2022 18:31:22,ross,Actualizar Rango Unico,Test=13 Rango=43-53
+*************
+14/05/2022 18:31:38,ross,Actualizar Rango Unico,Test=13 Rango=37-47
+*************
+14/05/2022 18:31:53,ross,Actualizar Rango Unico,Test=13 Rango=44-58
+*************
+14/05/2022 18:32:21,ross,Actualizar Rango Unico,Test=12 Rango=12.7-16.2
+*************
+14/05/2022 18:32:41,ross,Actualizar Rango Unico,Test=12 Rango=14.9-18.3
+*************
+14/05/2022 18:32:55,ross,Actualizar Rango Unico,Test=12 Rango=11.5-16.2
+*************
+14/05/2022 18:33:13,ross,Actualizar Rango Unico,Test=12 Rango=13.7-18.2
+*************
+14/05/2022 18:33:56,ross,Actualizar Rango Unico,Test=28 Rango=76-96
+*************
+14/05/2022 18:34:09,ross,Actualizar Rango Unico,Test=28 Rango=76-96
+*************
+14/05/2022 18:34:43,ross,Actualizar Rango Unico,Test=28 Rango=73-101
+*************
+14/05/2022 18:34:56,ross,Actualizar Rango Unico,Test=28 Rango=80-99
+*************
+14/05/2022 18:35:29,ross,Actualizar Rango Unico,Test=14 Rango=27-33
+*************
+14/05/2022 18:35:39,ross,Actualizar Rango Unico,Test=14 Rango=27-33
+*************
+14/05/2022 18:35:52,ross,Actualizar Rango Unico,Test=14 Rango=23-31
+*************
+14/05/2022 18:36:03,ross,Actualizar Rango Unico,Test=14 Rango=23-31
+*************
+14/05/2022 18:36:41,ross,Actualizar Rango Unico,Test=15 Rango=26-34
+*************
+14/05/2022 18:36:51,ross,Actualizar Rango Unico,Test=15 Rango=26-34
+*************
+14/05/2022 18:37:40,ross,Actualizar Rango Unico,Test=16 Rango=140-336
+*************
+14/05/2022 18:38:01,ross,Actualizar Rango Unico,Test=16 Rango=154-386
+*************
+14/05/2022 18:38:19,ross,Actualizar Rango Unico,Test=16 Rango=140-336
+*************
+14/05/2022 18:38:38,ross,Actualizar Rango Unico,Test=16 Rango=229-553
+*************
+14/05/2022 18:39:36,ross,Actualizar Rango Multiple,Test= 400408 Rango=HOMBRES: 1 --10
+MUJERES: 3 -- 14
+*************
+14/05/2022 18:39:58,ross,Actualizar Rango Unico,Test=400666 Rango=0.2-2
+*************
+14/05/2022 18:40:28,ross,Actualizar Rango Unico,Test=400115 Rango=10-14
+*************
+14/05/2022 18:40:48,ross,Actualizar Rango Unico,Test=400787 Rango=20-40
+*************
+14/05/2022 18:41:20,ross,Actualizar Rango Unico,Test=400118 Rango=5-12
+*************
+14/05/2022 18:41:38,ross,Actualizar Rango Unico,Test=400756 Rango=1-5
+*************
+14/05/2022 18:42:03,ross,Actualizar Rango Unico,Test=400120 Rango=180-350
+*************
+14/05/2022 18:43:27,ross,Actualizar Rango Unico,Test=401151 Rango=70-140
+*************
+14/05/2022 18:43:55,ross,Actualizar Rango Unico,Test=401150 Rango=75-130
+*************
+14/05/2022 18:44:17,ross,Actualizar Rango Unico,Test=401150 Rango=59-118
+*************
+14/05/2022 18:44:47,ross,Eliina Rango Multiple,Teq_id=1966
+*************
+14/05/2022 18:44:51,ross,Eliina Rango Multiple,Teq_id=1967
+*************
+14/05/2022 18:45:01,ross,Actualizar Rango Unico,Test=401104 Rango=70-110
+*************
+14/05/2022 18:45:26,ross,Actualizar Rango Unico,Test=400568 Rango=70-140
+*************
+14/05/2022 18:46:11,ross,Actualizar Rango Unico,Test=400370 Rango=0-180
+*************
+14/05/2022 18:46:31,ross,Actualizar Rango Unico,Test=400371 Rango=0-140
+*************
+14/05/2022 18:46:59,ross,Actualizar Rango Unico,Test=400574 Rango=5-20
+*************
+14/05/2022 18:47:25,ross,Actualizar Rango Unico,Test=400141 Rango=0.55-1.2
+*************
+14/05/2022 18:47:57,ross,Actualizar Rango Unico,Test=400141 Rango=0.2-0.43
+*************
+14/05/2022 18:48:23,ross,Actualizar Rango Unico,Test=400141 Rango=0.33-0.93
+*************
+14/05/2022 18:48:35,ross,Eliina Rango Multiple,Teq_id=1909
+*************
+14/05/2022 18:48:50,ross,Actualizar Rango Unico,Test=400141 Rango=0.73-1.18
+*************
+14/05/2022 18:49:03,ross,Eliina Rango Multiple,Teq_id=1910
+*************
+14/05/2022 18:49:33,ross,Eliina Rango Multiple,Teq_id=1911
+*************
+14/05/2022 18:50:00,ross,Actualizar Rango Unico,Test=400148 Rango=2.5-6.8
+*************
+14/05/2022 18:50:22,ross,Actualizar Rango Unico,Test=400148 Rango=3.6-7.7
+*************
+14/05/2022 18:50:36,ross,Eliina Rango Multiple,Teq_id=1912
+*************
+14/05/2022 18:50:48,ross,Actualizar Rango Unico,Test=400148 Rango=2.5-6.8
+*************
+14/05/2022 18:51:07,ross,Eliina Rango Multiple,Teq_id=2029
+*************
+14/05/2022 18:51:17,ross,Eliina Rango Multiple,Teq_id=1913
+*************
+14/05/2022 18:51:52,ross,Actualizar Rango Unico,Test=400149 Rango=0-170
+*************
+14/05/2022 18:52:37,ross,Actualizar Rango Unico,Test=400150 Rango=35-55
+*************
+14/05/2022 18:53:08,ross,Actualizar Rango Unico,Test=400150 Rango=45-65
+*************
+14/05/2022 18:53:20,ross,Eliina Rango Multiple,Teq_id=1905
+*************
+14/05/2022 18:54:20,ross,Actualizar Rango Multiple,Test=400476 Rango=ADULTOS: MENOR A 170
+NIÑOS: MENOR A 110
+*************
+14/05/2022 18:54:39,ross,Actualizar Rango Multiple,Test=400151 Rango=HASTA 150
+*************
+14/05/2022 18:55:23,ross,Actualizar Rango Unico,Test=400155 Rango=3.81-4.65
+*************
+14/05/2022 18:55:46,ross,Eliina Rango Multiple,Teq_id=1932
+*************
+14/05/2022 18:56:11,ross,Actualizar Rango Unico,Test=400154 Rango=6.6-8.7
+*************
+14/05/2022 18:56:29,ross,Eliina Rango Multiple,Teq_id=1717
+*************
+14/05/2022 18:56:44,ross,Actualizar Rango Unico,Test=400154 Rango=5.3-8.9
+*************
+14/05/2022 18:57:01,ross,Eliina Rango Multiple,Teq_id=1930
+*************
+14/05/2022 18:57:06,ross,Eliina Rango Multiple,Teq_id=1931
+*************
+14/05/2022 18:59:28,ross,Actualizar Rango Multiple,Test=400145 Rango=PRE DIABETICO:    5.7-6.4
+POSIBLE DIABETICO: IGUAL O MAYOR 6.5
+CONTROLADO: HASTA 7.0
+NO CONTROLADO:  HASTA 7.5
+*************
+14/05/2022 18:59:44,ross,Eliina Rango Multiple,Teq_id=1938
+*************
+14/05/2022 19:00:12,ross,Actualizar Rango Unico,Test=400153 Rango=0-1
+*************
+14/05/2022 19:00:26,ross,Eliina Rango Multiple,Teq_id=1922
+*************
+14/05/2022 19:03:13,ross,Actualizar Rango Multiple,Test=400153 Rango=PREMATUROS:
+<1 DIA:  1.0- 6.0
+<2 DÍAS: 6.0-8.0
+3-5 DIAS: 10-15
+> 1 MES: 0.2-1.O
+
+A TERMINOS:
+<1 DIA: 2.0- 6.0
+<2 DIAS:6.0-7.0
+3-5DIAS: 4.0-12.0
+>1 MES: 0.2-1.O
+*************
+14/05/2022 19:03:28,ross,Eliina Rango Multiple,Teq_id=1923
+*************
+14/05/2022 19:03:56,ross,Actualizar Rango Multiple,Test=400296 Rango=Hasta: 0.75
+*************
+14/05/2022 19:04:09,ross,Eliina Rango Multiple,Teq_id=1924
+*************
+14/05/2022 19:04:39,ross,Actualizar Rango Unico,Test=400122 Rango=200-360
+*************
+14/05/2022 19:05:25,ross,Actualizar Rango Unico,Test=982 Rango=4.6-13.5
+*************
+14/05/2022 19:06:04,ross,Actualizar Rango Unico,Test=400892 Rango=205-285
+*************
+14/05/2022 19:07:04,ross,Actualizar Rango Multiple,Test= 400223 Rango=MUJERES: 108-225
+HOMBRES: 104-202
+
+*************
+14/05/2022 19:07:42,ross,Actualizar Rango Unico,Test=400298 Rango=50-150
+*************
+14/05/2022 19:08:01,ross,Actualizar Rango Unico,Test=400298 Rango=35-145
+*************
+14/05/2022 19:08:31,ross,Actualizar Rango Unico,Test=400298 Rango=29-127
+*************
+14/05/2022 19:09:09,ross,Actualizar Rango Unico,Test=400123 Rango=20-250
+*************
+14/05/2022 19:09:43,ross,Actualizar Rango Unico,Test=400607 Rango=274-497
+*************
+14/05/2022 19:09:59,ross,Eliina Rango Multiple,Teq_id=327
+*************
+14/05/2022 19:10:34,ross,Actualizar Rango Unico,Test=400195 Rango=0-90
+*************
+14/05/2022 19:11:40,ross,Actualizar Rango Unico,Test=400811 Rango=39-308
+*************
+14/05/2022 19:12:14,ross,Actualizar Rango Unico,Test=400393 Rango=0-1.7
+*************
+14/05/2022 19:13:02,ross,Actualizar Rango Multiple,Test= 400392 Rango=HOMBRE:  0-5.4
+MUJER: 0 - 4.2
+*************
+14/05/2022 19:13:38,ross,Actualizar Rango Unico,Test=400667 Rango=0-180
+*************
+14/05/2022 19:13:53,ross,Actualizar Rango Unico,Test=400667 Rango=0-279
+*************
+14/05/2022 19:14:33,ross,Actualizar Rango Unico,Test=400667 Rango=0-800
+*************
+14/05/2022 19:14:48,ross,Eliina Rango Multiple,Teq_id=1915
+*************
+14/05/2022 19:15:01,ross,Actualizar Rango Unico,Test=400667 Rango=0-800
+*************
+14/05/2022 19:15:55,ross,Actualizar Rango Multiple,Test=400793 Rango=HOMBRE: 10-50
+MUJER: 8-35
+*************
+14/05/2022 19:16:10,ross,Eliina Rango Multiple,Teq_id=1921
+*************
+14/05/2022 19:16:33,ross,Actualizar Rango Unico,Test=400794 Rango=225-450
+*************
+14/05/2022 19:16:49,ross,Eliina Rango Multiple,Teq_id=1936
+*************
+14/05/2022 19:17:18,ross,Actualizar Rango Unico,Test=400194 Rango=0-38
+*************
+14/05/2022 19:17:52,ross,Actualizar Rango Unico,Test=400185 Rango=0-38
+*************
+14/05/2022 19:18:01,ross,Actualizar Rango Unico,Test=400185 Rango=0-31
+*************
+14/05/2022 19:18:17,ross,Actualizar Rango Unico,Test=400186 Rango=0-32
+*************
+14/05/2022 19:18:53,ross,Actualizar Rango Unico,Test=400612 Rango=4.4-8.2
+*************
+14/05/2022 19:19:24,ross,Actualizar Rango Multiple,Test= 400389 Rango=1.2-8.8 
+
+*************
+14/05/2022 19:20:10,ross,Actualizar Rango Multiple,Test= 401154 Rango=HOMBRE: 28-12
+MUJER:  25-58
+*************
+14/05/2022 19:20:40,ross,Actualizar Rango Unico,Test=400199 Rango=8.4-10.2
+*************
+14/05/2022 19:21:02,ross,Actualizar Rango Unico,Test=400199 Rango=8.8-10.4
+*************
+14/05/2022 19:21:34,ross,Actualizar Rango Unico,Test=400199 Rango=7.6-10.4
+*************
+14/05/2022 19:22:02,ross,Actualizar Rango Multiple,Test=400606 Rango=1.10-1.35
+*************
+14/05/2022 19:22:15,ross,Eliina Rango Multiple,Teq_id=325
+*************
+14/05/2022 20:22:58,ross,Actualizar Rango Unico,Test=400200 Rango=2.5-4.5
+*************
+18/05/2022 8:56:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/05/2022 8:56:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/05/2022 17:44:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2022 17:44:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/05/2022 17:44:54,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,,PEDIDO=18
+*************
+24/05/2022 17:44:54,ross,02 IMPRIMIR COD BARRAS,PEDIDO=18
+*************
+24/05/2022 18:21:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2022 18:21:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/05/2022 18:24:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2022 18:24:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/05/2022 20:28:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2022 20:28:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,WBCH=7
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,NEUH=3
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,LYMH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,MONH=1
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,EOSH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,BASOH=3
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,NEU%25H=65
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,LYM%25H=5
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,EOS%25H=7
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,BASO%25H=8
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,RBCH=9
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,HCTH=8
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,HGBH=7
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,MCVH=6
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,MCHH=5
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,RDW-CVH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,RDW-SDH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,PLTH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,MPVH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,PDWH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,PCTH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,P-LCRH=2
+*************
+24/05/2022 20:32:48,ross,GUARDA RESULTADOS,P-LCCH=2
+*************
+24/05/2022 20:33:04,ross,VALIDACION RESULTADO,PEDIDO=18/400101
+*************
+24/05/2022 20:43:50,ross,IMPRIME POR AREA,PEDIDO=18
+*************
+24/05/2022 20:47:37,ross,IMPRIME POR AREA,PEDIDO=18
+*************
+24/05/2022 20:55:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/05/2022 20:55:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/05/2022 20:55:49,ross,IMPRIME POR AREA,PEDIDO=18
+*************
+25/05/2022 7:38:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2022 7:38:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+25/05/2022 7:43:24,ross,IMPRIME POR AREA,PEDIDO=18
+*************
+25/05/2022 8:12:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+25/05/2022 8:12:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/05/2022 8:02:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2022 8:02:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/05/2022 8:03:11,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,,PEDIDO=19
+*************
+27/05/2022 8:03:12,ross,02 IMPRIMIR COD BARRAS,PEDIDO=19
+*************
+27/05/2022 8:03:43,ross,03 IMPRIMIR PEDIDO,PEDIDO=19
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,WBCH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,NEUH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,LYMH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,MONH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,EOSH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,BASOH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,NEU%25H=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,LYM%25H=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,BASO%25H=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,RBCH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,HCTH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,HGBH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,MCVH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,MCHH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,RDW-CVH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,RDW-SDH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,PLTH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,MPVH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,PDWH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,PCTH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+27/05/2022 9:03:03,ross,GUARDA RESULTADOS,P-LCCH=6
+*************
+27/05/2022 9:07:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+27/05/2022 9:07:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,WBCH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,NEUH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,LYMH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,MONH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,EOSH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,BASOH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,NEU%25H=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,LYM%25H=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,MON%25H=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,EOS%25H=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,BASO%25H=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,RBCH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,HCTH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,HGBH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,MCVH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,MCHH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,MCHCH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,RDW-CVH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,RDW-SDH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,PLTH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,MPVH=6
+*************
+27/05/2022 9:09:34,ross,GUARDA RESULTADOS,PDWH=6
+*************
+27/05/2022 9:09:35,ross,GUARDA RESULTADOS,PCTH=6
+*************
+27/05/2022 9:09:35,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+27/05/2022 9:09:35,ross,GUARDA RESULTADOS,P-LCCH=6
+*************
+27/05/2022 9:09:54,ross,VALIDACION RESULTADO,PEDIDO=19/400101
+*************
+27/05/2022 9:09:54,ross,VALIDACION RESULTADO,PEDIDO=19/400149
+*************
+27/05/2022 9:09:54,ross,VALIDACION RESULTADO,PEDIDO=19/400150
+*************
+27/05/2022 9:09:54,ross,VALIDACION RESULTADO,PEDIDO=19/400151
+*************
+27/05/2022 9:09:54,ross,VALIDACION RESULTADO,PEDIDO=19/400476
+*************
+28/05/2022 8:41:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 8:41:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 8:41:40,ross,03 IMPRIMIR PEDIDO,PEDIDO=19
+*************
+28/05/2022 8:42:00,ross,IMPRIMIR CONTRAORDEN,
+*************
+28/05/2022 8:42:08,ross,IMPRIMIR LISTA TRABAJO,
+*************
+28/05/2022 8:42:20,ross,IMPRIMIR HOJA TRABAJO,
+*************
+28/05/2022 9:41:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 9:41:47,,Ingreso CONTRASEÑA FALLIDO,
+*************
+28/05/2022 9:41:47,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 9:41:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 9:48:47,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 9:51:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 9:51:05,,Ingreso CONTRASEÑA FALLIDO,
+*************
+28/05/2022 9:51:05,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 9:51:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 9:51:36,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 10:55:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 10:55:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 10:55:13,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 14:35:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 14:35:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 14:37:12,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 14:45:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 14:45:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 14:56:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 14:56:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:03:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 15:03:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:08:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 15:08:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:24:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 15:24:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:24:35,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 15:29:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 15:29:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:30:12,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 15:55:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 15:55:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:55:25,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 15:57:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 15:57:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 15:57:55,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 16:01:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 16:01:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 16:01:21,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 16:10:14,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 16:16:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 16:16:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 16:42:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 16:42:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 16:44:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 16:44:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 16:50:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 16:50:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 16:52:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 16:52:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 16:53:05,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 16:54:15,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:10:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:10:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 17:10:58,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:17:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:17:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 17:19:11,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:22:52,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:25:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:25:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 17:26:09,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:30:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:34:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:34:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 17:35:04,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:48:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:48:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 17:48:12,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 17:56:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 17:56:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 17:56:22,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 18:10:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:10:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:13:48,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 18:15:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:15:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:26:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:26:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:27:01,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 18:27:11,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:27:33,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:27:46,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 18:30:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:30:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:31:04,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 18:31:19,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:32:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:32:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:32:59,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:35:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:35:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:36:00,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:36:10,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+28/05/2022 18:36:19,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:44:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+28/05/2022 18:44:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+28/05/2022 18:44:37,ross,IMPRIME TODO,PEDIDO=19
+*************
+28/05/2022 18:44:51,ross,IMPRIME POR EMAMEN,PEDIDO=19
+*************
+28/05/2022 18:45:01,ross,IMPRIME POR AREA,PEDIDO=19
+*************
+29/05/2022 18:31:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/05/2022 18:31:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/05/2022 18:31:50,ross,Actualiza FACTURA,FACTURA=9
+*************
+29/05/2022 18:31:51,ross,Ingresa FACTURA,FACTURA=9
+*************
+29/05/2022 18:31:52,ross,Insertar abono,Factura=9 Abono= 20.65
+*************
+29/05/2022 18:31:52,ross,Cancela FACTURA,FACTURA=9
+*************
+29/05/2022 18:31:56,ross,Registra Tx Factura,Factura=9
+*************
+29/05/2022 18:31:59,ross,Registra Tx Factura,Factura=9
+*************
+29/05/2022 18:32:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/05/2022 18:32:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/05/2022 18:34:19,ross,Registra Tx Factura,Factura=9
+*************
+30/05/2022 10:04:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 10:04:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 11:48:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 11:48:05,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 11:59:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 11:59:11,,Ingreso CONTRASEÑA FALLIDO,
+*************
+30/05/2022 11:59:12,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 11:59:16,,Ingreso CONTRASEÑA FALLIDO,
+*************
+30/05/2022 11:59:16,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 11:59:19,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 12:15:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 12:15:52,,Ingreso CONTRASEÑA FALLIDO,
+*************
+30/05/2022 12:15:52,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 12:15:55,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 12:16:42,admin,IMPRIME POR AREA,PEDIDO=20
+*************
+30/05/2022 19:19:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 19:19:58,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 19:20:17,admin,IMPRIME POR AREA,PEDIDO=31
+*************
+30/05/2022 19:32:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 19:32:14,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 19:32:29,admin,IMPRIME POR AREA,PEDIDO=31
+*************
+30/05/2022 19:38:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 19:38:47,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 19:43:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/05/2022 19:43:34,,Ingreso CONTRASEÑA FALLIDO,
+*************
+30/05/2022 19:43:34,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 19:43:35,admin,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/05/2022 19:43:48,admin,IMPRIME POR AREA,PEDIDO=31
+*************

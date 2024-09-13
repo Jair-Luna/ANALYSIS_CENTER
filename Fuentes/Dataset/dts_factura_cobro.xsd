@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="dts_factura_cobro" targetNamespace="http://tempuri.org/dts_factura_cobro.xsd" elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/dts_factura_cobro.xsd" xmlns:mstns="http://tempuri.org/dts_factura_cobro.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="dts_factura_cobro" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Factura">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_ID" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECING" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:double" minOccurs="0" />
+							<xs:element name="FAC_IVA" type="xs:double" minOccurs="0" />
+							<xs:element name="FAC_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="FAC_RECARGO" type="xs:double" minOccurs="0" />
+							<xs:element name="FAC_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_APELLIDO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FONO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ESTATUS" type="xs:integer" minOccurs="0" />
+							<xs:element name="FAC_REFERENCIA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FORMAPAGO" type="xs:integer" minOccurs="0" />
+							<xs:element name="SUM_ABO" type="xs:double" minOccurs="0" />
+							<xs:element name="FEC1" type="xs:date" minOccurs="0" />
+							<xs:element name="FEC2" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

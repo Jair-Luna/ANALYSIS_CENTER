@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dts_SignosVitales" targetNamespace="http://tempuri.org/dts_SignosVitales.xsd" xmlns:mstns="http://tempuri.org/dts_SignosVitales.xsd" xmlns="http://tempuri.org/dts_SignosVitales.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dts_SignosVitales" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dts_SignosVitales" msprop:Generator_DataSetName="dts_SignosVitales" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SignosVitales" msprop:Generator_UserTableName="SignosVitales" msprop:Generator_RowDeletedName="SignosVitalesRowDeleted" msprop:Generator_RowChangedName="SignosVitalesRowChanged" msprop:Generator_RowClassName="SignosVitalesRow" msprop:Generator_RowChangingName="SignosVitalesRowChanging" msprop:Generator_RowEvArgName="SignosVitalesRowChangeEvent" msprop:Generator_RowEvHandlerName="SignosVitalesRowChangeEventHandler" msprop:Generator_TableClassName="SignosVitalesDataTable" msprop:Generator_TableVarName="tableSignosVitales" msprop:Generator_RowDeletingName="SignosVitalesRowDeleting" msprop:Generator_TablePropName="SignosVitales">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="paciente" msprop:Generator_UserColumnName="paciente" msprop:Generator_ColumnVarNameInTable="columnpaciente" msprop:Generator_ColumnPropNameInRow="paciente" msprop:Generator_ColumnPropNameInTable="pacienteColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="sig_fecha" msprop:Generator_UserColumnName="sig_fecha" msprop:Generator_ColumnVarNameInTable="columnsig_fecha" msprop:Generator_ColumnPropNameInRow="sig_fecha" msprop:Generator_ColumnPropNameInTable="sig_fechaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sig_FrecCard" msprop:Generator_UserColumnName="sig_FrecCard" msprop:Generator_ColumnVarNameInTable="columnsig_FrecCard" msprop:Generator_ColumnPropNameInRow="sig_FrecCard" msprop:Generator_ColumnPropNameInTable="sig_FrecCardColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sig_FrecResp" msprop:Generator_UserColumnName="sig_FrecResp" msprop:Generator_ColumnVarNameInTable="columnsig_FrecResp" msprop:Generator_ColumnPropNameInRow="sig_FrecResp" msprop:Generator_ColumnPropNameInTable="sig_FrecRespColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sig_Peso" msprop:Generator_UserColumnName="sig_Peso" msprop:Generator_ColumnVarNameInTable="columnsig_Peso" msprop:Generator_ColumnPropNameInRow="sig_Peso" msprop:Generator_ColumnPropNameInTable="sig_PesoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sig_Satur" msprop:Generator_UserColumnName="sig_Satur" msprop:Generator_ColumnVarNameInTable="columnsig_Satur" msprop:Generator_ColumnPropNameInRow="sig_Satur" msprop:Generator_ColumnPropNameInTable="sig_SaturColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sig_Temp" msprop:Generator_UserColumnName="sig_Temp" msprop:Generator_ColumnVarNameInTable="columnSig_Temp" msprop:Generator_ColumnPropNameInRow="Sig_Temp" msprop:Generator_ColumnPropNameInTable="Sig_TempColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="edad" msprop:Generator_UserColumnName="edad" msprop:Generator_ColumnVarNameInTable="columnedad" msprop:Generator_ColumnPropNameInRow="edad" msprop:Generator_ColumnPropNameInTable="edadColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="sig_TensArt" msprop:Generator_UserColumnName="sig_TensArt" msprop:Generator_ColumnPropNameInRow="sig_TensArt" msprop:Generator_ColumnVarNameInTable="columnsig_TensArt" msprop:Generator_ColumnPropNameInTable="sig_TensArtColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,16 @@
+DECLARE @spid INT
+DECLARE @SQLString NVARCHAR(50)
+
+USE CENTER
+WHILE EXISTS(SELECT spid
+FROM master..sysprocesses
+WHERE status = 'sleeping' AND
+last_batch <= DATEADD(DD, -1, GETDATE()))
+BEGIN
+SELECT TOP 1 @spid = spid FROM master..sysprocesses
+WHERE status = 'sleeping' AND
+last_batch <= DATEADD(DD, -1, GETDATE())
+SET @SQLString = N'KILL ' + CONVERT(VARCHAR(10), @spid)
+EXECUTE SP_EXECUTESQL @SQLString
+CONTINUE
+END

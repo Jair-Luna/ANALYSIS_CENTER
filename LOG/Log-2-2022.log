@@ -1,0 +1,360 @@
+02/02/2022 9:06:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:06:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:06:27,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:10:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:10:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:16:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:16:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:17:01,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:23:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:23:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:23:25,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:30:12,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:30:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:30:24,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:33:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:33:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:34:37,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:36:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:36:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:41:43,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:48:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:48:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:48:49,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+02/02/2022 9:53:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/02/2022 9:53:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/02/2022 9:53:11,ross,IMPRIME POR AREA,PEDIDO=244
+*************
+04/02/2022 9:31:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/02/2022 9:31:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/02/2022 13:01:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/02/2022 13:01:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2022 11:42:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2022 11:42:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2022 17:29:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/02/2022 17:29:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/02/2022 17:32:30,ross,Generar Paciente,Paciente=GUTIERREZ FRANCO DENISSE ARIANA
+*************
+12/02/2022 17:34:09,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,401104,,PEDIDO=355
+*************
+12/02/2022 17:34:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=355
+*************
+12/02/2022 17:34:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=355
+*************
+12/02/2022 17:37:58,ross,Actualiza FACTURA,FACTURA=2
+*************
+12/02/2022 17:37:58,ross,Ingresa FACTURA,FACTURA=2
+*************
+12/02/2022 17:37:58,ross,Insertar abono,Factura=2 Abono= 10
+*************
+12/02/2022 17:37:58,ross,Actualiza FACTURA,FACTURA=2/10
+*************
+12/02/2022 17:38:02,ross,Registra Tx Factura,Factura=2
+*************
+12/02/2022 17:38:28,ross,Registra Tx Factura,Factura=2
+*************
+12/02/2022 17:39:11,ross,Insertar abono,Factura=2 Abono= 14.5
+*************
+12/02/2022 17:39:11,ross,Cancela FACTURA,FACTURA=2
+*************
+12/02/2022 17:39:13,ross,Registra Tx Factura,Factura=2
+*************
+12/02/2022 17:39:34,ross,03 IMPRIMIR PEDIDO,PEDIDO=355
+*************
+13/02/2022 11:44:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/02/2022 11:44:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/02/2022 11:45:30,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,,PEDIDO=356
+*************
+13/02/2022 11:45:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=356
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,WBCH=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,NEUH=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,LYMH=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,MONH=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,EOSH=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,BASOH=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,RBCH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,HCTH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,HGBH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,MCVH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,MCHH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,PLTH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,MPVH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,PDWH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,PCTH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+13/02/2022 11:45:54,ross,GUARDA RESULTADOS,P-LCCH=3
+*************
+13/02/2022 11:46:10,ross,VALIDACION RESULTADO,PEDIDO=356/400101
+*************
+13/02/2022 11:46:10,ross,VALIDACION RESULTADO,PEDIDO=356/400149
+*************
+13/02/2022 11:46:10,ross,VALIDACION RESULTADO,PEDIDO=356/400150
+*************
+13/02/2022 11:46:10,ross,VALIDACION RESULTADO,PEDIDO=356/400151
+*************
+13/02/2022 11:46:10,ross,VALIDACION RESULTADO,PEDIDO=356/400476
+*************
+13/02/2022 11:47:01,ross,IMPRIME POR AREA,PEDIDO=356
+*************
+13/02/2022 12:28:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/02/2022 12:28:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/02/2022 12:28:31,ross,IMPRIME POR AREA,PEDIDO=356
+*************
+14/02/2022 15:18:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2022 15:18:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2022 15:18:29,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,400524,400191,400836,400197,,PEDIDO=357
+*************
+14/02/2022 15:18:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=357
+*************
+14/02/2022 15:18:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400772,400601,400781,400244,400230,,PEDIDO=358
+*************
+14/02/2022 15:18:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=358
+*************
+14/02/2022 15:19:15,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400772,400601,400781,400244,400230,401144,,PEDIDO=359
+*************
+14/02/2022 15:19:15,ross,02 IMPRIMIR COD BARRAS,PEDIDO=359
+*************
+14/02/2022 15:19:22,ross,Actualiza FACTURA,FACTURA=3
+*************
+14/02/2022 15:19:22,ross,Ingresa FACTURA,FACTURA=3
+*************
+14/02/2022 15:19:23,ross,Insertar abono,Factura=3 Abono= 0
+*************
+14/02/2022 15:19:23,ross,Pendiente FACTURA,FACTURA=3
+*************
+14/02/2022 15:19:37,ross,Actualiza FACTURA,FACTURA=4
+*************
+14/02/2022 15:19:37,ross,Ingresa FACTURA,FACTURA=4
+*************
+14/02/2022 15:19:37,ross,Insertar abono,Factura=4 Abono= 20
+*************
+14/02/2022 15:19:37,ross,Actualiza FACTURA,FACTURA=4/20
+*************
+14/02/2022 15:19:43,ross,Actualiza FACTURA,FACTURA=5
+*************
+14/02/2022 15:19:43,ross,Ingresa FACTURA,FACTURA=5
+*************
+14/02/2022 15:19:44,ross,Insertar abono,Factura=5 Abono= 84
+*************
+14/02/2022 15:19:44,ross,Cancela FACTURA,FACTURA=5
+*************
+14/02/2022 17:05:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/02/2022 17:05:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/02/2022 17:06:01,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=360
+*************
+14/02/2022 17:06:01,ross,02 IMPRIMIR COD BARRAS,PEDIDO=360
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,SINTCH=
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,LUGARDH=
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,FECHACOVH=
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,PRUEBH=
+*************
+14/02/2022 17:06:18,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+14/02/2022 17:06:19,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+14/02/2022 17:06:19,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+14/02/2022 17:06:19,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+14/02/2022 17:06:19,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+14/02/2022 17:06:19,ross,GUARDA RESULTADOS,INTERVA REFEH=INTER
+*************
+14/02/2022 17:06:19,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+14/02/2022 17:06:23,ross,VALIDACION RESULTADO,PEDIDO=360/401144
+*************
+21/02/2022 18:26:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 18:26:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 18:26:48,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=361
+*************
+21/02/2022 18:26:49,ross,02 IMPRIMIR COD BARRAS,PEDIDO=361
+*************
+21/02/2022 18:27:49,ross,Actualiza FACTURA,FACTURA=6
+*************
+21/02/2022 18:27:49,ross,Ingresa FACTURA,FACTURA=6
+*************
+21/02/2022 18:27:50,ross,Insertar abono,Factura=6 Abono= 40
+*************
+21/02/2022 18:27:50,ross,Cancela FACTURA,FACTURA=6
+*************
+21/02/2022 18:27:52,ross,Registra Tx Factura,Factura=6
+*************
+21/02/2022 18:42:34,ross,Inserta usuario web,Paciente=5 PPACIENTE
+*************
+21/02/2022 18:43:17,ross,02 IMPRIMIR ACC WEB,PEDIDO=
+*************
+21/02/2022 19:15:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 19:15:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 19:16:56,ross,Inserta usuario web,Paciente=0 PPACIENTE
+*************
+21/02/2022 19:16:56,ross,Registra Tx Factura,Factura=6
+*************
+21/02/2022 19:21:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 19:21:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 19:36:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 19:36:13,,Ingreso CONTRASEÑA FALLIDO,
+*************
+21/02/2022 19:36:13,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 19:36:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 19:48:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 19:48:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 19:52:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 19:52:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 19:56:06,ross,Inserta usuario web,Paciente=5 PPACIENTE
+*************
+21/02/2022 19:56:10,ross,Registra Tx Factura,Factura=6
+*************
+21/02/2022 20:01:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 20:02:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 20:03:00,ross,Inserta usuario web,Paciente=5 PPACIENTE
+*************
+21/02/2022 20:03:03,ross,Registra Tx Factura,Factura=6
+*************
+21/02/2022 20:07:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 20:07:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 20:15:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 20:15:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 20:22:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/02/2022 20:23:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/02/2022 20:24:32,ross,Registra Tx Factura,Factura=6
+*************
+24/02/2022 10:22:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2022 10:22:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2022 10:23:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400368,400115,400787,,PEDIDO=362
+*************
+24/02/2022 10:23:05,ross,02 IMPRIMIR COD BARRAS,PEDIDO=362
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400115
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400149
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400150
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400151
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400368
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400476
+*************
+24/02/2022 10:23:28,ross,VALIDACION RESULTADO,PEDIDO=362/400787
+*************
+24/02/2022 10:25:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2022 10:25:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2022 10:25:49,ross,IMPRIME POR AREA,PEDIDO=362
+*************
+24/02/2022 10:39:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/02/2022 10:39:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/02/2022 10:39:19,ross,IMPRIME POR AREA,PEDIDO=362
+*************
+24/02/2022 10:39:47,ross,IMPRIME POR AREA,PEDIDO=245
+*************

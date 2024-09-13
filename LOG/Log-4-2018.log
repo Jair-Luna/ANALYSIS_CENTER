@@ -1,0 +1,282 @@
+04/04/2018 16:14:44,,CARGA SEDES,Busca tabla laboratorio
+*************
+04/04/2018 16:14:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/04/2018 16:14:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/04/2018 17:02:51,ross,Nuevo Convenio,Convenio=PVP
+*************
+10/04/2018 20:19:10,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 20:19:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 20:19:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 20:34:30,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 20:34:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 20:34:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 20:57:48,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 20:57:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 20:57:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 20:58:30,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 20:58:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 20:58:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 20:58:52,ross,1 GENERAR ORDEN,PEDIDO=8
+*************
+10/04/2018 20:59:07,ross,GUARDA RESULTADOS,TGL=3
+*************
+10/04/2018 20:59:09,ross,VALIDACION RESULTADO,PEDIDO=8/400151
+*************
+10/04/2018 21:01:57,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 21:02:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 21:02:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 21:02:11,ross,IMPRIME TODO,PEDIDO=8
+*************
+10/04/2018 21:02:30,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 21:02:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 21:02:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 21:02:44,ross,IMPRIME TODO,PEDIDO=8
+*************
+10/04/2018 21:09:45,,CARGA SEDES,Busca tabla laboratorio
+*************
+10/04/2018 21:09:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/04/2018 21:09:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/04/2018 21:10:19,ross,IMPRIME TODO,PEDIDO=8
+*************
+10/04/2018 21:10:31,ross,IMPRIME POR AREA,PEDIDO=8
+*************
+10/04/2018 21:10:36,ross,IMPRIME SOBRE,PEDIDO=8
+*************
+18/04/2018 9:59:19,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/04/2018 9:59:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2018 9:59:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2018 9:59:49,ross,1 GENERAR ORDEN,PEDIDO=9
+*************
+18/04/2018 10:00:11,ross,GUARDA RESULTADOS,fPSA=23
+*************
+18/04/2018 10:00:11,ross,GUARDA RESULTADOS,PSA=32
+*************
+18/04/2018 10:00:33,ross,Actualiza Test,Test=RELACION PSA L / PSA T 
+*************
+18/04/2018 10:00:53,ross,GUARDA RESULTADOS,RELPSA_PSAT=55
+*************
+18/04/2018 10:00:53,ross,GUARDA RESULTADOS,fPSA=23
+*************
+18/04/2018 10:00:53,ross,GUARDA RESULTADOS,PSA=32
+*************
+18/04/2018 10:00:54,ross,VALIDACION RESULTADO,PEDIDO=9/400426
+*************
+18/04/2018 10:00:54,ross,VALIDACION RESULTADO,PEDIDO=9/400783
+*************
+18/04/2018 10:00:54,ross,VALIDACION RESULTADO,PEDIDO=9/400784
+*************
+18/04/2018 10:07:21,,CARGA SEDES,Busca tabla laboratorio
+*************
+18/04/2018 10:52:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/04/2018 10:52:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/04/2018 10:53:31,ross,1 GENERAR ORDEN,PEDIDO=10
+*************
+18/04/2018 10:53:55,ross,GUARDA RESULTADOS,TGL=23
+*************
+18/04/2018 10:53:57,ross,VALIDACION RESULTADO,PEDIDO=10/400151
+*************
+19/04/2018 12:19:02,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/04/2018 12:19:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/04/2018 12:19:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/04/2018 12:20:50,ross,Actualiza FACTURA,FACTURA=1901
+*************
+19/04/2018 12:20:50,ross,Ingresa FACTURA,FACTURA=1901
+*************
+19/04/2018 12:20:55,ross,Insertar abono,Factura=1901 Abono= 6
+*************
+19/04/2018 12:20:55,ross,Cancela FACTURA,FACTURA=1901
+*************
+19/04/2018 12:25:20,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/04/2018 12:25:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/04/2018 12:25:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/04/2018 12:27:10,ross,Actualiza FACTURA,FACTURA=1902
+*************
+19/04/2018 12:27:10,ross,Ingresa FACTURA,FACTURA=1902
+*************
+19/04/2018 12:27:11,ross,Insertar abono,Factura=1902 Abono= 4
+*************
+19/04/2018 12:27:11,ross,Cancela FACTURA,FACTURA=1902
+*************
+19/04/2018 12:32:19,,CARGA SEDES,Busca tabla laboratorio
+*************
+19/04/2018 12:32:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/04/2018 12:32:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 10:22:30,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 10:23:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 10:23:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 10:35:24,ross,Nuevo Convenio,Convenio=LAB
+*************
+23/04/2018 11:51:41,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 11:51:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 11:51:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 11:53:12,ross,Nuevo Convenio,Convenio=LAB1
+*************
+23/04/2018 11:57:13,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 11:57:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 11:57:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 11:58:51,ross,Nuevo Convenio,Convenio=LAB 1
+*************
+23/04/2018 12:03:26,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 12:03:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 12:03:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 12:07:29,ross,Nuevo Convenio,Convenio=LAB2
+*************
+23/04/2018 12:09:49,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 12:09:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 12:09:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 12:10:10,ross,Nuevo Convenio,Convenio=LAB 3
+*************
+23/04/2018 12:22:35,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 12:47:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 12:47:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 12:47:26,ross,Nuevo Convenio,Convenio=LAB 4
+*************
+23/04/2018 18:56:59,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 18:57:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 18:57:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 19:48:16,ross,Nuevo Convenio,Convenio=LAB 5
+*************
+23/04/2018 19:51:10,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 19:51:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 19:51:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 19:52:08,ross,Nuevo Convenio,Convenio=LAB 1
+*************
+23/04/2018 19:54:47,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 20:05:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 20:05:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:05:29,ross,Nuevo Convenio,Convenio=LAB 2
+*************
+23/04/2018 20:12:53,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 20:12:59,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 20:26:10,,Ingreso CONTRASEÑA FALLIDO,
+*************
+23/04/2018 20:26:10,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:26:14,,Ingreso CONTRASEÑA FALLIDO,
+*************
+23/04/2018 20:26:14,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:26:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:31:53,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 20:31:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 20:31:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:34:00,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 20:34:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 20:34:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:37:44,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 20:37:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 20:37:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:40:39,,CARGA SEDES,Busca tabla laboratorio
+*************
+23/04/2018 20:48:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/04/2018 20:48:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/04/2018 20:49:08,ross,Nuevo Convenio,Convenio=URGENCIAS
+*************
+24/04/2018 15:18:33,,CARGA SEDES,Busca tabla laboratorio
+*************
+24/04/2018 15:19:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2018 15:19:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2018 15:22:11,,CARGA SEDES,Busca tabla laboratorio
+*************
+24/04/2018 15:22:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2018 15:22:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2018 15:23:40,,CARGA SEDES,Busca tabla laboratorio
+*************
+24/04/2018 15:23:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2018 15:23:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2018 15:23:52,ross,Nuevo Convenio,Convenio=LAB 4
+*************
+24/04/2018 15:24:20,,CARGA SEDES,Busca tabla laboratorio
+*************
+24/04/2018 15:24:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2018 15:24:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/04/2018 15:25:13,,CARGA SEDES,Busca tabla laboratorio
+*************
+24/04/2018 15:25:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/04/2018 15:25:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************

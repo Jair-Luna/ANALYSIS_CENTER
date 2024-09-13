@@ -1,0 +1,1468 @@
+01/07/2024 21:17:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/07/2024 21:17:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/07/2024 06:28:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/07/2024 06:28:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/07/2024 06:38:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/07/2024 06:38:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/07/2024 06:43:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/07/2024 06:43:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/07/2024 22:11:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/07/2024 22:11:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/07/2024 22:12:04,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400295,401104,400141,400140,400101,,PEDIDO=34
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,WBCH=1
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,NEUH=2
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,LYMH=3
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,MONH=4
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,EOSH=5
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,BASOH=6
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,NEU%25H=7
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,LYM%25H=8
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,EOS%25H=0
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,BASO%25H=9
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,RBCH=8
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,HCTH=7
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,HGBH=6
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,MCVH=5
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,MCHH=4
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,RDW-CVH=2
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,RDW-SDH=1
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,PLTH=2
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,MPVH=3
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,PDWH=4
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,PCTH=5
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+04/07/2024 22:12:51,ross,GUARDA RESULTADOS,P-LCCH=7
+*************
+04/07/2024 22:13:33,ross,GUARDA NOTA AREA,AREA EXAMEN =11/Observaciones: Suero lipemico
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,GLUCH=114
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,UREH=45.2
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,CREH=1.1
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,COLH=178.3
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,AHDLH=46.7
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,LDLH=104.62
+*************
+04/07/2024 22:13:35,ross,GUARDA RESULTADOS,TGLH=134.9
+*************
+04/07/2024 22:13:36,ross,VALIDACION RESULTADO,PEDIDO=34/400101
+*************
+04/07/2024 22:13:36,ross,VALIDACION RESULTADO,PEDIDO=34/400140
+*************
+04/07/2024 22:13:36,ross,VALIDACION RESULTADO,PEDIDO=34/400141
+*************
+04/07/2024 22:13:36,ross,VALIDACION RESULTADO,PEDIDO=34/400149
+*************
+04/07/2024 22:13:36,ross,VALIDACION RESULTADO,PEDIDO=34/400150
+*************
+04/07/2024 22:13:36,ross,VALIDACION RESULTADO,PEDIDO=34/400151
+*************
+04/07/2024 22:13:37,ross,VALIDACION RESULTADO,PEDIDO=34/400476
+*************
+04/07/2024 22:13:37,ross,VALIDACION RESULTADO,PEDIDO=34/401104
+*************
+04/07/2024 22:13:37,ross,Eliminar resultado AUX_HIS,
+*************
+04/07/2024 22:15:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/07/2024 22:15:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,GLUCH=114
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,UREH=45.2
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,CREH=1.1
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,COLH=178.3
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,AHDLH=46.7
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,LDLH=104.62
+*************
+04/07/2024 22:15:56,ross,GUARDA RESULTADOS,TGLH=134.9
+*************
+04/07/2024 22:15:58,ross,Eliminar resultado AUX_HIS,
+*************
+04/07/2024 22:33:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/07/2024 22:33:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2024 08:27:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+06/07/2024 08:27:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,BHH=MEMO
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,GLUCH=114
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,UREH=45.2
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,CREH=1.1
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,COLH=178.3
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,AHDLH=46.7
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,LDLH=104.62
+*************
+06/07/2024 08:27:46,ross,GUARDA RESULTADOS,TGLH=134.9
+*************
+06/07/2024 08:27:50,ross,Eliminar resultado AUX_HIS,
+*************
+07/07/2024 15:20:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:20:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 15:52:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:52:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 15:52:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:52:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 15:54:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:54:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 15:55:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:55:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 15:57:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:57:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 15:58:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 15:58:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 16:02:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 16:02:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 16:26:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 16:26:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 18:26:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 18:26:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:01:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 19:01:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:13:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 19:13:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:16:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 19:16:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:19:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 19:19:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:41:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 19:41:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:44:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 19:44:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 19:44:59,ross,Actualizar Producto,
+*************
+07/07/2024 19:45:13,ross,Actualizar Producto,
+*************
+07/07/2024 20:00:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:00:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:05:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:05:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:08:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:08:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:13:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:13:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:15:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:15:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:20:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:20:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:23:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:23:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:26:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:26:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:29:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:29:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:34:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:34:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:41:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:41:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:54:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 20:54:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 20:55:22,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 20:59:12,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:03:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:03:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:06:15,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:06:44,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:08:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:08:58,,Ingreso CONTRASEÑA FALLIDO,
+*************
+07/07/2024 21:08:58,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:09:01,,Ingreso CONTRASEÑA FALLIDO,
+*************
+07/07/2024 21:09:01,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:09:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:09:52,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:10:08,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:12:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:12:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:14:06,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:15:03,ross,Inserción de detalle movimiento inventario,
+*************
+07/07/2024 21:16:26,ross,Nuevo Pedido PRE CARGA,NORMAL/35
+*************
+07/07/2024 21:16:26,ross,GUARDA ENCUESTA,7987
+*************
+07/07/2024 21:17:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:17:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:19:42,ross,Nuevo Pedido PRE CARGA,NORMAL/36
+*************
+07/07/2024 21:19:42,ross,GUARDA ENCUESTA,7992
+*************
+07/07/2024 21:28:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:28:03,,Ingreso CONTRASEÑA FALLIDO,
+*************
+07/07/2024 21:28:03,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:28:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:29:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:29:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:35:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:35:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:38:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:38:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:39:38,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:39:38,ross,Inserción de detalle movimiento inventario,
+*************
+07/07/2024 21:42:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/07/2024 21:42:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/07/2024 21:43:23,ross,Operación de Movimiento Inventario,
+*************
+07/07/2024 21:43:23,ross,Inserción de detalle movimiento inventario,
+*************
+08/07/2024 06:29:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/07/2024 06:29:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/07/2024 06:39:24,ross,Operación de Movimiento Inventario,
+*************
+08/07/2024 06:39:25,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 20:46:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 20:46:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 20:47:42,ross,Nuevo Producto,
+*************
+09/07/2024 20:47:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 20:47:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 20:48:30,ross,Actualizar Producto,
+*************
+09/07/2024 20:49:18,ross,Nuevo Producto,
+*************
+09/07/2024 20:49:41,ross,Nuevo Producto,
+*************
+09/07/2024 20:50:37,ross,Nuevo Producto,
+*************
+09/07/2024 20:51:03,ross,Nuevo Producto,
+*************
+09/07/2024 20:55:33,ross,Nuevo Producto,
+*************
+09/07/2024 21:15:15,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:15:16,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:17:12,ross,Operación de Movimiento Inventario,
+*************
+09/07/2024 21:17:12,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 21:17:12,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 21:17:12,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 21:17:12,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 21:17:12,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 21:17:12,ross,Inserción de detalle movimiento inventario,
+*************
+09/07/2024 21:21:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:21:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:22:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:22:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:23:26,ross,Actualizar Producto,
+*************
+09/07/2024 21:27:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:27:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:27:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:27:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:29:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:29:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:35:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:35:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:39:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:39:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/07/2024 21:47:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/07/2024 21:47:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 20:54:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 20:54:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 20:56:19,ross,Nuevo Pedido PRE CARGA,NORMAL/39
+*************
+10/07/2024 20:56:20,ross,GUARDA ENCUESTA,8136
+*************
+10/07/2024 20:58:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 20:58:37,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/07/2024 20:58:37,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 20:58:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 21:15:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 21:15:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 21:30:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 21:30:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 21:32:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 21:32:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 21:43:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 21:43:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 22:05:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 22:05:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/07/2024 22:10:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/07/2024 22:10:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/07/2024 14:41:50,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/07/2024 14:41:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2024 10:28:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2024 10:28:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2024 10:29:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/07/2024 10:29:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/07/2024 10:39:32,ross,1 MODIFICA ORDENNORMAL,PEDIDO=57
+*************
+13/07/2024 10:45:36,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400367,400368,,PEDIDO=57
+*************
+14/07/2024 10:02:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 10:02:32,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:04:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 10:04:48,,Ingreso CONTRASEÑA FALLIDO,
+*************
+14/07/2024 10:04:48,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:04:50,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:05:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 10:05:41,,Ingreso CONTRASEÑA FALLIDO,
+*************
+14/07/2024 10:05:41,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:05:43,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:08:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 10:08:41,,Ingreso CONTRASEÑA FALLIDO,
+*************
+14/07/2024 10:08:41,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:08:42,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:12:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 10:12:59,,Ingreso CONTRASEÑA FALLIDO,
+*************
+14/07/2024 10:12:59,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:13:02,ross123,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 10:13:25,ross123,1 MODIFICA ORDEN MEDICGO EXAMENES: 400244,,PEDIDO=6700
+*************
+14/07/2024 12:11:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 12:11:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 12:12:37,ross,Nuevo Pedido PRE CARGA,NORMAL/40
+*************
+14/07/2024 12:12:38,ross,GUARDA ENCUESTA,8214
+*************
+14/07/2024 12:24:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 12:24:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 12:37:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 12:37:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 12:42:13,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 12:43:27,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:50:08,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 12:50:08,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:50:08,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:50:08,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:50:08,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:51:54,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 12:51:54,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:51:55,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:53:04,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 12:53:04,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:53:05,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:54:34,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 12:54:34,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 12:54:34,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 13:04:05,ross,Nuevo Pedido PRE CARGA,NORMAL/1
+*************
+14/07/2024 13:04:05,ross,GUARDA ENCUESTA,13
+*************
+14/07/2024 13:08:28,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 13:08:28,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 13:09:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 13:09:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 13:13:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 13:13:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 13:15:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 13:15:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 13:17:06,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 13:17:06,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 15:18:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 15:18:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 15:27:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 15:27:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 15:28:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 15:28:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 15:33:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 15:33:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 15:38:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 15:38:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 15:40:34,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 15:40:34,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 15:40:34,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 15:43:18,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 15:43:18,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 15:43:18,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 15:48:44,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 15:49:47,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:04:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:04:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:05:15,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 16:05:15,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:11:04,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 16:11:04,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:12:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:12:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:13:20,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 16:13:20,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:17:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:17:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:18:40,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 16:18:40,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:21:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:21:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:31:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:31:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:34:53,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 16:35:51,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:40:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:40:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:41:31,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 16:41:31,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 16:44:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:44:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 16:49:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 16:49:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 17:03:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 17:03:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 17:12:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 17:12:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 17:13:20,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:13:20,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:13:52,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:13:52,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:15:45,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:25:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 17:25:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 17:26:17,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:26:17,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:31:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 17:31:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 17:34:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 17:34:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 17:37:28,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:37:28,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:37:28,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:38:55,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:38:55,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:38:55,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:44:38,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 17:44:38,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 17:44:38,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 18:24:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 18:24:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 18:25:33,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 18:25:33,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 18:25:59,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 18:25:59,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 18:30:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 18:30:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 18:32:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 18:32:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 18:44:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 18:44:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 19:07:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 19:07:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 19:08:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 19:08:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 19:09:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 19:09:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 19:11:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 19:11:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 19:14:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 19:14:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 19:14:45,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 19:58:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 19:58:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:01:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:01:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:03:31,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:05:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:05:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:06:17,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:10:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:10:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:10:39,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:12:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:12:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:13:17,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:13:46,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 20:17:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:17:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:23:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:23:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:24:52,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:24:53,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 20:26:21,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:26:22,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 20:29:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:29:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:32:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:32:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:39:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:39:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:41:51,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:41:53,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 20:46:25,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:50:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:50:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:52:45,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 20:52:46,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 20:54:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 20:54:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 20:56:47,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:00:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:00:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:01:35,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:04:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:04:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:07:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:07:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:07:43,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:07:57,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 21:08:15,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:08:16,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 21:08:36,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:08:38,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 21:12:53,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:12:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:23:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:23:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:23:54,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:23:55,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 21:27:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:27:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:28:58,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:29:03,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 21:30:20,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:30:22,ross,Inserción de detalle movimiento inventario,
+*************
+14/07/2024 21:36:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/07/2024 21:36:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/07/2024 21:38:21,ross,Operación de Movimiento Inventario,
+*************
+14/07/2024 21:38:23,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:22:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:22:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:28:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:28:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:29:09,ross,Nuevo Pedido PRE CARGA,NORMAL/3
+*************
+15/07/2024 06:29:09,ross,GUARDA ENCUESTA,85
+*************
+15/07/2024 06:34:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:34:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:36:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:36:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:37:08,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:37:08,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:37:28,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:37:28,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:37:56,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:37:56,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:38:21,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:38:21,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:41:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:41:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:42:19,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:42:19,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:43:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:43:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:44:06,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:44:06,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:45:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:45:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:46:37,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:46:37,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:46:55,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:46:55,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:49:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/07/2024 06:49:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/07/2024 06:49:44,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:49:44,ross,Inserción de detalle movimiento inventario,
+*************
+15/07/2024 06:53:50,ross,Operación de Movimiento Inventario,
+*************
+15/07/2024 06:53:50,ross,Inserción de detalle movimiento inventario,
+*************
+16/07/2024 06:29:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2024 06:29:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2024 06:29:46,ross,Nuevo Pedido PRE CARGA,NORMAL/5
+*************
+16/07/2024 06:29:46,ross,GUARDA ENCUESTA,173
+*************
+16/07/2024 06:30:05,ross,Operación de Movimiento Inventario,
+*************
+16/07/2024 06:30:05,ross,Inserción de detalle movimiento inventario,
+*************
+16/07/2024 06:30:15,ross,Operación de Movimiento Inventario,
+*************
+16/07/2024 06:30:15,ross,Inserción de detalle movimiento inventario,
+*************
+16/07/2024 06:44:53,ross,Operación de Movimiento Inventario,
+*************
+16/07/2024 06:44:53,ross,Inserción de detalle movimiento inventario,
+*************
+16/07/2024 06:45:15,ross,Operación de Movimiento Inventario,
+*************
+16/07/2024 06:45:15,ross,Inserción de detalle movimiento inventario,
+*************
+16/07/2024 06:49:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2024 06:49:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2024 06:50:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2024 06:50:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2024 06:53:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2024 06:53:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/07/2024 06:54:58,ross,Operación de Movimiento Inventario,
+*************
+16/07/2024 06:55:30,ross,Inserción de detalle movimiento inventario,
+*************
+16/07/2024 07:01:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/07/2024 07:01:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2024 20:28:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/07/2024 20:28:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2024 20:46:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/07/2024 20:46:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2024 20:48:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/07/2024 20:48:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2024 20:51:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/07/2024 20:51:59,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2024 21:14:58,ross,Actualizacon Medico,Medico=FLORES ANDRES
+*************
+17/07/2024 21:17:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/07/2024 21:17:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/07/2024 21:18:09,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400151,,PEDIDO=7
+*************
+17/07/2024 21:18:21,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401104,,PEDIDO=8
+*************
+17/07/2024 21:18:35,ross,GUARDA RESULTADOS,TGLH=120
+*************
+17/07/2024 21:18:37,ross,VALIDACION RESULTADO,PEDIDO=7/400151
+*************
+17/07/2024 21:18:37,ross,Eliminar resultado AUX_HIS,
+*************
+20/07/2024 17:20:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 17:20:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 17:21:33,ross,Nuevo Pedido PRE CARGA,NORMAL/9
+*************
+20/07/2024 17:21:33,ross,GUARDA ENCUESTA,249
+*************
+20/07/2024 17:46:42,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 17:46:42,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 17:48:14,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 17:48:14,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:03:36,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:03:36,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:12:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:12:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:13:02,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:13:02,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:14:12,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:14:12,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:18:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:18:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:19:52,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:19:52,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:22:20,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:22:20,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:28:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:28:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:28:47,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:28:47,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:29:12,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:29:12,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:31:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:31:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:33:31,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:33:31,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:35:11,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:35:11,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:39:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:39:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:40:11,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:40:11,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:40:51,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 18:40:51,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 18:50:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:50:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:57:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:57:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 18:58:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 18:58:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:13:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:13:35,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:14:12,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:14:12,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:14:23,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:14:23,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:16:38,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:16:38,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:17:08,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:17:08,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:30:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:30:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:32:34,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:32:34,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:37:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:37:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:39:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:39:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:41:11,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:41:11,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:46:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:46:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:47:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:47:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:47:57,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:47:57,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 19:57:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 19:57:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 19:58:08,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 19:58:08,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 20:04:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 20:04:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 20:04:40,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 20:04:40,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 20:05:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 20:05:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 20:06:24,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 20:06:24,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 20:06:47,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 20:06:47,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 20:07:15,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 20:07:15,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 20:07:39,ross,Operación de Movimiento Inventario,
+*************
+20/07/2024 20:07:39,ross,Inserción de detalle movimiento inventario,
+*************
+20/07/2024 20:14:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 20:14:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 20:25:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 20:25:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/07/2024 20:28:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/07/2024 20:28:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:09:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:09:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:21:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:21:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:23:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:23:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:25:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:25:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:29:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:29:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:33:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:33:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:34:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:34:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:41:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 20:41:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/07/2024 20:41:48,ross,Operación de Movimiento Inventario,
+*************
+21/07/2024 20:41:48,ross,Inserción de detalle movimiento inventario,
+*************
+21/07/2024 21:17:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/07/2024 21:17:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 20:35:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 20:35:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 20:43:17,ross,Actualizar Producto,
+*************
+22/07/2024 20:59:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 20:59:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 21:28:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 21:28:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 21:31:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 21:31:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 21:32:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 21:32:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 21:46:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 21:46:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/07/2024 21:51:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/07/2024 21:51:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 15:58:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 15:58:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 20:20:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 20:20:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 20:21:01,ross,Actualizacon Medico,Medico=PREPARACION
+*************
+29/07/2024 20:37:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 20:37:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 20:38:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 20:38:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 20:39:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 20:39:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:40:55,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:41:25,ross,Guardar Bodega,
+*************
+29/07/2024 20:45:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 20:45:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:05:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:05:15,,Ingreso CONTRASEÑA FALLIDO,
+*************
+29/07/2024 21:05:15,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:05:18,,Ingreso CONTRASEÑA FALLIDO,
+*************
+29/07/2024 21:05:18,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:05:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:07:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:07:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:10:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:10:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:12:10,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:12:11,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:18:21,ross,Operación de Movimiento Inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:18:21,ross,Inserción de detalle movimiento inventario,
+*************
+29/07/2024 21:32:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:32:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:34:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:34:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:36:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:36:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:43:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:43:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 21:45:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 21:45:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 22:07:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/07/2024 22:07:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/07/2024 22:07:32,ross,Operación de Movimiento Inventario,
+*************
+29/07/2024 22:07:32,ross,Inserción de detalle movimiento inventario,
+*************

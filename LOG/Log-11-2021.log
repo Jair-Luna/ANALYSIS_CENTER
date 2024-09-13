@@ -1,0 +1,4010 @@
+01/11/2021 10:11:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2021 10:11:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2021 10:11:56,ross,IMPRIME POR AREA,PEDIDO=31
+*************
+01/11/2021 10:12:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+01/11/2021 10:12:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+01/11/2021 10:12:35,ross,IMPRIME POR AREA,PEDIDO=29
+*************
+02/11/2021 10:32:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 10:32:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 10:33:07,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+02/11/2021 10:36:42,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401104,401200,400230,,PEDIDO=32
+*************
+02/11/2021 10:36:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=32
+*************
+02/11/2021 10:36:51,ross,1 ANULA ORDEN,PEDIDO=32INMUNOFENOTIPOºBIOMETRIA HEMATICA ºEMOºGLUCOSA BASALº MOTIVO: pdf error
+*************
+02/11/2021 10:37:17,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401104,400230,401200,,PEDIDO=33
+*************
+02/11/2021 10:37:17,ross,02 IMPRIMIR COD BARRAS,PEDIDO=33
+*************
+02/11/2021 10:38:30,ross,IMPRIMIR CONTRAORDEN,
+*************
+02/11/2021 10:58:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 10:58:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 10:58:40,ross,IMPRIMIR CONTRAORDEN,
+*************
+02/11/2021 10:58:55,ross,IMPRIMIR LISTA TRABAJO,
+*************
+02/11/2021 10:59:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 10:59:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 11:06:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 11:06:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 11:14:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 11:14:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 11:22:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 11:22:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 12:00:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 12:00:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 12:02:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 12:02:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 12:16:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 12:16:07,,Ingreso CONTRASEÑA FALLIDO,
+*************
+02/11/2021 12:16:07,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 12:16:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 12:16:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400197,401200,,PEDIDO=34
+*************
+02/11/2021 12:16:44,ross,02 IMPRIMIR COD BARRAS,PEDIDO=34
+*************
+02/11/2021 12:18:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 12:18:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 12:21:47,ross,Actualiza FACTURA,FACTURA=4
+*************
+02/11/2021 12:23:19,ross,Ingresa FACTURA,FACTURA=4
+*************
+02/11/2021 12:23:35,ross,Insertar abono,Factura=4 Abono= 200
+*************
+02/11/2021 12:23:35,ross,Actualiza FACTURA,FACTURA=4/200
+*************
+02/11/2021 12:24:57,ross,Registra Tx Factura,Factura=4
+*************
+02/11/2021 12:25:31,ross,Registra Tx Factura,Factura=4
+*************
+02/11/2021 14:53:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 14:53:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 14:54:10,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 15:21:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 15:21:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 15:21:15,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 15:52:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 15:52:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 15:52:42,ross,Actualiza FACTURA,FACTURA=6
+*************
+02/11/2021 15:52:42,ross,Ingresa FACTURA,FACTURA=6
+*************
+02/11/2021 15:52:42,ross,Insertar abono,Factura=6 Abono= 100
+*************
+02/11/2021 15:52:42,ross,Actualiza FACTURA,FACTURA=6/100
+*************
+02/11/2021 15:52:47,ross,Registra Tx Factura,Factura=6
+*************
+02/11/2021 15:52:57,ross,Registra Tx Factura,Factura=6
+*************
+02/11/2021 15:55:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 15:55:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 15:55:27,ross,Registra Tx Factura,Factura=6
+*************
+02/11/2021 15:56:07,ross,Insertar abono,Factura=5 Abono= 1.5
+*************
+02/11/2021 15:56:07,ross,Cancela FACTURA,FACTURA=5
+*************
+02/11/2021 15:56:18,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 15:56:29,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 15:56:33,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 15:57:02,ross,Insertar abono,Factura=4 Abono= 100
+*************
+02/11/2021 15:57:02,ross,Actualiza FACTURA,FACTURA=4/100
+*************
+02/11/2021 15:57:10,ross,Registra Tx Factura,Factura=4
+*************
+02/11/2021 16:03:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 16:03:40,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 16:22:06,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 16:22:13,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 16:22:19,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 16:22:32,ross,Registra Tx Factura,Factura=5
+*************
+02/11/2021 16:22:39,ross,Registra Tx Factura,Factura=6
+*************
+02/11/2021 16:23:04,ross,Insertar abono,Factura=6 Abono= 195
+*************
+02/11/2021 16:23:04,ross,Cancela FACTURA,FACTURA=6
+*************
+02/11/2021 16:23:08,ross,Registra Tx Factura,Factura=6
+*************
+02/11/2021 16:24:18,ross,Actualiza Test,Test=INMUNOFENOTIPO
+*************
+02/11/2021 16:25:02,ross,Eliminar Test,TEST=1759
+*************
+02/11/2021 16:25:08,ross,Eliminar Test,TEST=1760
+*************
+02/11/2021 16:25:15,ross,Eliminar Test,TEST=1761
+*************
+02/11/2021 16:25:19,ross,Eliminar Test,TEST=1762
+*************
+02/11/2021 16:25:46,ross,Actualiza Test,Test=INMUNOFENOTIPO
+*************
+02/11/2021 16:28:12,ross,Actualiza Test,Test=INMUNOFENOTIPO
+*************
+02/11/2021 16:28:29,ross,Actualiza Test,Test=INMUNOFENOTIPO
+*************
+02/11/2021 16:30:43,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401200,,PEDIDO=36
+*************
+02/11/2021 16:30:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=36
+*************
+02/11/2021 18:18:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 18:18:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 18:23:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 18:23:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+02/11/2021 18:36:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 18:36:14,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2021 9:12:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2021 9:12:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2021 9:13:27,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401141,400101,401104,,PEDIDO=57
+*************
+03/11/2021 9:13:27,ross,02 IMPRIMIR COD BARRAS,PEDIDO=57
+*************
+03/11/2021 9:13:33,ross,1 ANULA ORDEN,PEDIDO=57BIOMETRIA HEMATICA ºDETECCIÓN DE ARN PARA COVID-19 POR PCR-RTºGLUCOSA BASALº MOTIVO: tes
+*************
+03/11/2021 9:13:46,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401141,,PEDIDO=58
+*************
+03/11/2021 9:13:46,ross,02 IMPRIMIR COD BARRAS,PEDIDO=58
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,WBCH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,NEUH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,LYMH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,MONH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,EOSH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,BASOH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,RBCH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,HCTH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,HGBH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,MCVH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,MCHH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+03/11/2021 9:14:06,ross,GUARDA RESULTADOS,PLTH=2
+*************
+03/11/2021 9:14:07,ross,GUARDA RESULTADOS,MPVH=
+*************
+03/11/2021 9:14:07,ross,GUARDA RESULTADOS,PDWH=2
+*************
+03/11/2021 9:14:07,ross,GUARDA RESULTADOS,PCTH=2
+*************
+03/11/2021 9:14:07,ross,GUARDA RESULTADOS,P_LCRH=2
+*************
+03/11/2021 9:14:07,ross,GUARDA RESULTADOS,P_LCCH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,WBCH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,NEUH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,LYMH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,MONH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,EOSH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,BASOH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,LYM%25H=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,RBCH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,HCTH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,HGBH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,MCVH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,MCHH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,RDW_CVH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,RDW_SDH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,PLTH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,MPVH=
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,PDWH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,PCTH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,P_LCRH=2
+*************
+03/11/2021 9:15:21,ross,GUARDA RESULTADOS,P_LCCH=2
+*************
+03/11/2021 9:16:34,ross,VALIDACION RESULTADO,PEDIDO=58/400101
+*************
+03/11/2021 9:16:34,ross,VALIDACION RESULTADO,PEDIDO=58/400149
+*************
+03/11/2021 9:16:34,ross,VALIDACION RESULTADO,PEDIDO=58/400150
+*************
+03/11/2021 9:16:34,ross,VALIDACION RESULTADO,PEDIDO=58/400151
+*************
+03/11/2021 9:16:34,ross,VALIDACION RESULTADO,PEDIDO=58/400476
+*************
+03/11/2021 9:16:41,ross,IMPRIME POR AREA,PEDIDO=58
+*************
+03/11/2021 9:22:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2021 9:22:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2021 9:22:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2021 9:22:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2021 9:30:28,ross,Generar Paciente,Paciente=WILCHES ALVEAR MONICA ALEXANDRA
+*************
+03/11/2021 9:40:03,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,400114,,PEDIDO=59
+*************
+03/11/2021 9:40:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=59
+*************
+03/11/2021 9:48:09,ross,Actualiza FACTURA,FACTURA=5
+*************
+03/11/2021 9:48:09,ross,Ingresa FACTURA,FACTURA=5
+*************
+03/11/2021 9:48:09,ross,Insertar abono,Factura=5 Abono= 10
+*************
+03/11/2021 9:48:09,ross,Actualiza FACTURA,FACTURA=5/10
+*************
+03/11/2021 9:48:16,ross,Registra Tx Factura,Factura=5
+*************
+03/11/2021 9:48:55,ross,Registra Tx Factura,Factura=5
+*************
+03/11/2021 9:50:11,ross,Insertar abono,Factura=5 Abono= 10
+*************
+03/11/2021 9:50:11,ross,Cancela FACTURA,FACTURA=5
+*************
+03/11/2021 9:50:15,ross,Registra Tx Factura,Factura=5
+*************
+03/11/2021 9:50:26,ross,Registra Tx Factura,Factura=5
+*************
+03/11/2021 9:52:40,ross,03 IMPRIMIR PEDIDO,PEDIDO=59
+*************
+03/11/2021 9:54:44,ross,Nuevo Pedido IMPORTACION,SOLCA/60
+*************
+03/11/2021 9:54:45,ross,Nuevo Pedido IMPORTACION,SOLCA/61
+*************
+03/11/2021 9:54:45,ross,Nuevo Pedido IMPORTACION,SOLCA/62
+*************
+03/11/2021 9:54:45,ross,Nuevo Pedido IMPORTACION,SOLCA/63
+*************
+03/11/2021 9:54:46,ross,Nuevo Pedido IMPORTACION,SOLCA/64
+*************
+03/11/2021 9:54:46,ross,Nuevo Pedido IMPORTACION,SOLCA/65
+*************
+03/11/2021 9:54:46,ross,Nuevo Pedido IMPORTACION,SOLCA/66
+*************
+03/11/2021 9:54:46,ross,Nuevo Pedido IMPORTACION,SOLCA/67
+*************
+03/11/2021 9:54:46,ross,Nuevo Pedido IMPORTACION,SOLCA/68
+*************
+03/11/2021 9:54:47,ross,Nuevo Pedido IMPORTACION,SOLCA/69
+*************
+03/11/2021 9:54:47,ross,Nuevo Pedido IMPORTACION,SOLCA/70
+*************
+03/11/2021 9:54:47,ross,Nuevo Pedido IMPORTACION,SOLCA/71
+*************
+03/11/2021 9:54:47,ross,Nuevo Pedido IMPORTACION,SOLCA/72
+*************
+03/11/2021 9:54:48,ross,Nuevo Pedido IMPORTACION,SOLCA/73
+*************
+03/11/2021 9:54:48,ross,Nuevo Pedido IMPORTACION,SOLCA/74
+*************
+03/11/2021 9:54:48,ross,Nuevo Pedido IMPORTACION,SOLCA/75
+*************
+03/11/2021 9:54:48,ross,Nuevo Pedido IMPORTACION,SOLCA/76
+*************
+03/11/2021 9:54:49,ross,Nuevo Pedido IMPORTACION,SOLCA/77
+*************
+03/11/2021 9:54:49,ross,Nuevo Pedido IMPORTACION,SOLCA/78
+*************
+03/11/2021 9:54:49,ross,Nuevo Pedido IMPORTACION,SOLCA/79
+*************
+03/11/2021 9:54:49,ross,Nuevo Pedido IMPORTACION,SOLCA/80
+*************
+03/11/2021 9:54:50,ross,Nuevo Pedido IMPORTACION,SOLCA/81
+*************
+03/11/2021 9:54:50,ross,Nuevo Pedido IMPORTACION,SOLCA/82
+*************
+03/11/2021 9:54:50,ross,Nuevo Pedido IMPORTACION,SOLCA/83
+*************
+03/11/2021 9:58:14,ross,IMPRIMIR CONTRAORDEN,
+*************
+03/11/2021 9:58:47,ross,IMPRIMIR LISTA TRABAJO,
+*************
+03/11/2021 9:59:43,ross,IMPRIMIR HOJA TRABAJO,
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,WBC=2
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,NEU=2
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,LYM=2
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,MON=2
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,EOS=2
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,BASO=2
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,NEU%25=
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,LYM%25=
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,MON%25=
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,EOS%25=
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,RBC=4
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,HCT=4
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,HGB=4
+*************
+03/11/2021 10:03:42,ross,GUARDA RESULTADOS,MCV=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,MCH=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,MCHC=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,RDW_CV=
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,RDW_SD=
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,PLT=
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,MPV=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,PDW=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,PCT=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,P_LCR=4
+*************
+03/11/2021 10:03:43,ross,GUARDA RESULTADOS,P_LCC=
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,COLO=ROJO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,ASPOH=TURBIO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,DENO=1.025
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,PHO=5
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,UROOH=
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+03/11/2021 10:05:34,ross,GUARDA RESULTADOS,HGBOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CELEPH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,PIOO=8-10
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,HEMOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,BACOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,MOCOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,URO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,FOO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,OXAO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CRIO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CILO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CIGO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CILCE=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,ESP=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,ASCOH=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,OTROSO=
+*************
+03/11/2021 10:05:35,ross,GUARDA RESULTADOS,CCETO=
+*************
+03/11/2021 10:06:58,ross,GUARDA NOTA AREA,AREA EXAMEN =42/COMENTARAIO:SUERO LIPEMICO
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400101
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400114
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400149
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400150
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400151
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400230
+*************
+03/11/2021 10:10:11,ross,VALIDACION RESULTADO,PEDIDO=59/400476
+*************
+03/11/2021 10:11:34,ross,IMPRIME POR AREA,PEDIDO=59
+*************
+03/11/2021 10:13:21,ross,IMPRIME TODO,PEDIDO=59
+*************
+03/11/2021 10:14:18,ross,IMPRIME POR EMAMEN,PEDIDO=59
+*************
+03/11/2021 10:14:36,ross,IMPRIME POR EMAMEN,PEDIDO=59
+*************
+03/11/2021 10:15:05,ross,IMPRIME EMCABEZADO HOJA,PEDIDO=59
+*************
+03/11/2021 10:15:29,ross,IMPRIME SOBRE,PEDIDO=59
+*************
+03/11/2021 10:18:09,ross,ENVIO CORREO PACIENTE,PEDIDO=59
+*************
+03/11/2021 10:21:21,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+03/11/2021 10:21:41,ross,Actualizar Rango Unico,Test=400149 Rango=10-200
+*************
+03/11/2021 10:34:20,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400819,,PEDIDO=84
+*************
+03/11/2021 10:34:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=84
+*************
+03/11/2021 10:35:28,ross,GUARDA RESULTADOS,MUECULORI=ORINA
+*************
+03/11/2021 10:35:28,ross,GUARDA RESULTADOS,GERAISORI=schericha coli
+*************
+03/11/2021 10:35:28,ross,GUARDA RESULTADOS,CONCOLORI=10000
+*************
+03/11/2021 10:35:28,ross,GUARDA RESULTADOS,OBSCULORI=
+*************
+03/11/2021 10:35:28,ross,GUARDA RESULTADOS,ANTI=-ANTIBIOGRAMA-
+*************
+03/11/2021 10:35:28,ross,GUARDA RESULTADOS,TINGRAMH=
+*************
+03/11/2021 10:35:28,ross,GUARDA ANTIBIOGRANA,AMIKACINA=SESNSIBLE
+*************
+03/11/2021 10:35:28,ross,GUARDA ANTIBIOGRANA,AMOX. + AC. CLAVULONICO=SESNSIBLE
+*************
+03/11/2021 10:35:28,ross,GUARDA ANTIBIOGRANA,AMPI + SULBACTAM=SESNSIBLE
+*************
+03/11/2021 10:35:28,ross,GUARDA ANTIBIOGRANA,PENICILINA=SESNSIBLE
+*************
+03/11/2021 10:35:28,ross,GUARDA ANTIBIOGRANA,CEFTAZIDIMA=INTEEMEDIO
+*************
+03/11/2021 10:35:35,ross,VALIDACION RESULTADO,PEDIDO=84/400819
+*************
+03/11/2021 10:35:42,ross,IMPRIME POR AREA,PEDIDO=84
+*************
+03/11/2021 10:36:00,ross,Actualiza Test,Test=CULTIVO DE ORINA
+*************
+03/11/2021 10:36:07,ross,IMPRIME POR AREA,PEDIDO=84
+*************
+03/11/2021 15:31:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+03/11/2021 15:31:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+03/11/2021 15:32:00,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401105,,PEDIDO=227
+*************
+03/11/2021 15:32:00,ross,02 IMPRIMIR COD BARRAS,PEDIDO=227
+*************
+02/11/2021 17:32:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+02/11/2021 17:32:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 8:15:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 8:15:01,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 8:19:26,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 8:19:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 9:09:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 9:09:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 9:16:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 9:16:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 9:39:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 9:39:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 9:40:44,ross,Actualiza Test,Test=INMUNOFENOTIPO
+*************
+04/11/2021 12:21:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 12:21:39,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 16:59:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+04/11/2021 16:59:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+04/11/2021 16:59:46,ross,IMPRIME TODO,PEDIDO=148
+*************
+04/11/2021 17:00:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=228
+*************
+04/11/2021 17:00:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=228
+*************
+04/11/2021 17:01:19,ross,GUARDA NOTA AREA,AREA EXAMEN =11/COMENTARIO: Valores confirmados
+*************
+04/11/2021 17:01:22,ross,VALIDACION RESULTADO,PEDIDO=228/400149
+*************
+04/11/2021 17:01:22,ross,VALIDACION RESULTADO,PEDIDO=228/400150
+*************
+04/11/2021 17:01:22,ross,VALIDACION RESULTADO,PEDIDO=228/400151
+*************
+04/11/2021 17:01:23,ross,VALIDACION RESULTADO,PEDIDO=228/400476
+*************
+04/11/2021 17:01:29,ross,IMPRIME TODO,PEDIDO=228
+*************
+04/11/2021 17:01:51,ross,IMPRIME TODO,PEDIDO=228
+*************
+05/11/2021 11:43:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2021 11:43:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/11/2021 11:48:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2021 11:48:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/11/2021 11:53:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2021 11:53:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/11/2021 12:06:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2021 12:06:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+05/11/2021 12:15:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+05/11/2021 12:15:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/11/2021 11:14:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2021 11:14:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/11/2021 11:15:39,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401200,400149,400150,400476,400151,400101,,PEDIDO=37
+*************
+07/11/2021 11:15:39,ross,02 IMPRIMIR COD BARRAS,PEDIDO=37
+*************
+07/11/2021 11:18:31,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+07/11/2021 11:19:00,ross,Eliminar Test,TEST=1648
+*************
+07/11/2021 11:19:05,ross,Eliminar Test,TEST=1649
+*************
+07/11/2021 11:19:08,ross,Eliminar Test,TEST=1650
+*************
+07/11/2021 11:19:11,ross,Eliminar Test,TEST=1651
+*************
+07/11/2021 11:19:36,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+07/11/2021 11:19:45,ross,Eliminar Test,TEST=1636
+*************
+07/11/2021 11:19:49,ross,Eliminar Test,TEST=1637
+*************
+07/11/2021 11:19:53,ross,Eliminar Test,TEST=1638
+*************
+07/11/2021 11:19:56,ross,Eliminar Test,TEST=1639
+*************
+07/11/2021 11:20:26,ross,Actualiza Test,Test=GLUCOSA BASAL
+*************
+07/11/2021 11:20:35,ross,Eliminar Test,TEST=1620
+*************
+07/11/2021 11:20:38,ross,Eliminar Test,TEST=1621
+*************
+07/11/2021 11:20:42,ross,Eliminar Test,TEST=1622
+*************
+07/11/2021 11:20:45,ross,Eliminar Test,TEST=1623
+*************
+07/11/2021 11:21:30,ross,Actualiza Test,Test=HDL COLESTEROL
+*************
+07/11/2021 11:21:42,ross,Actualiza Test,Test=LDL COLESTEROL
+*************
+07/11/2021 11:22:01,ross,Actualiza Test,Test=HDL COLESTEROL
+*************
+07/11/2021 11:22:11,ross,Eliminar Test,TEST=1640
+*************
+07/11/2021 11:22:13,ross,Eliminar Test,TEST=1641
+*************
+07/11/2021 11:22:16,ross,Eliminar Test,TEST=1642
+*************
+07/11/2021 11:22:19,ross,Eliminar Test,TEST=1643
+*************
+07/11/2021 11:22:39,ross,Actualiza Test,Test=LDL COLESTEROL
+*************
+07/11/2021 11:22:49,ross,Eliminar Test,TEST=1644
+*************
+07/11/2021 11:22:53,ross,Eliminar Test,TEST=1645
+*************
+07/11/2021 11:22:57,ross,Eliminar Test,TEST=1646
+*************
+07/11/2021 11:23:01,ross,Eliminar Test,TEST=1647
+*************
+07/11/2021 11:23:25,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+07/11/2021 11:23:35,ross,Actualiza Test,Test=COLESTEROL TOTAL 
+*************
+07/11/2021 11:24:01,ross,Actualiza Test,Test=UREA
+*************
+07/11/2021 11:24:09,ross,Eliminar Test,TEST=1624
+*************
+07/11/2021 11:24:12,ross,Actualiza Test,Test=TECNICA
+*************
+07/11/2021 11:24:21,ross,Eliminar Test,TEST=1625
+*************
+07/11/2021 11:24:25,ross,Eliminar Test,TEST=1626
+*************
+07/11/2021 11:24:29,ross,Eliminar Test,TEST=1627
+*************
+07/11/2021 11:25:00,ross,Actualiza Test,Test=ACIDO URICO
+*************
+07/11/2021 11:25:12,ross,Eliminar Test,TEST=1632
+*************
+07/11/2021 11:25:20,ross,Eliminar Test,TEST=1633
+*************
+07/11/2021 11:25:23,ross,Eliminar Test,TEST=1634
+*************
+07/11/2021 11:25:27,ross,Eliminar Test,TEST=1635
+*************
+07/11/2021 11:25:46,ross,Actualiza Test,Test=TRIGLICERIDOS 
+*************
+07/11/2021 11:25:55,ross,Actualiza Test,Test=UREA
+*************
+07/11/2021 11:26:12,ross,Actualiza Test,Test=CREATININA
+*************
+07/11/2021 11:26:30,ross,Eliminar Test,TEST=1628
+*************
+07/11/2021 11:26:33,ross,Eliminar Test,TEST=1629
+*************
+07/11/2021 11:26:36,ross,Eliminar Test,TEST=1630
+*************
+07/11/2021 11:26:39,ross,Eliminar Test,TEST=1631
+*************
+07/11/2021 11:28:47,ross,Actualiza Test,Test=INMUNOFENOTIPO
+*************
+07/11/2021 11:30:21,ross,Nuevo Test en Lista de Precios,Test=1767 0  NORMAL
+*************
+07/11/2021 11:30:21,ross,Nuevo Test en Lista de Precios,Test=1767 0  URGENCIA
+*************
+07/11/2021 11:30:21,ross,Nuevo Test en Lista de Precios,Test=1767 0  MSP IESS ISSPOL
+*************
+07/11/2021 11:30:21,ross,Nuevo Test en Lista de Precios,Test=1767 0  SOLCA
+*************
+07/11/2021 11:30:21,ross,INGRESA TEST,TEST=MUESTRA
+*************
+07/11/2021 11:30:21,ross,Actualiza Test,Test=MUESTRA
+*************
+07/11/2021 11:30:47,ross,Nuevo Test en Lista de Precios,Test=1768 0  NORMAL
+*************
+07/11/2021 11:30:47,ross,Nuevo Test en Lista de Precios,Test=1768 0  URGENCIA
+*************
+07/11/2021 11:30:47,ross,Nuevo Test en Lista de Precios,Test=1768 0  MSP IESS ISSPOL
+*************
+07/11/2021 11:30:47,ross,Nuevo Test en Lista de Precios,Test=1768 0  SOLCA
+*************
+07/11/2021 11:30:47,ross,INGRESA TEST,TEST=TECNICA
+*************
+07/11/2021 11:30:47,ross,Actualiza Test,Test=TECNICA
+*************
+07/11/2021 11:31:55,ross,Nuevo Test en Lista de Precios,Test=1769 0  NORMAL
+*************
+07/11/2021 11:31:55,ross,Nuevo Test en Lista de Precios,Test=1769 0  URGENCIA
+*************
+07/11/2021 11:31:55,ross,Nuevo Test en Lista de Precios,Test=1769 0  MSP IESS ISSPOL
+*************
+07/11/2021 11:31:55,ross,Nuevo Test en Lista de Precios,Test=1769 0  SOLCA
+*************
+07/11/2021 11:31:55,ross,INGRESA TEST,TEST=VALOR DE REFERENCIA
+*************
+07/11/2021 11:31:55,ross,Actualiza Test,Test=VALOR DE REFERENCIA
+*************
+07/11/2021 11:32:32,ross,Nuevo Test en Lista de Precios,Test=1770 0  NORMAL
+*************
+07/11/2021 11:32:32,ross,Nuevo Test en Lista de Precios,Test=1770 0  URGENCIA
+*************
+07/11/2021 11:32:32,ross,Nuevo Test en Lista de Precios,Test=1770 0  MSP IESS ISSPOL
+*************
+07/11/2021 11:32:32,ross,Nuevo Test en Lista de Precios,Test=1770 0  SOLCA
+*************
+07/11/2021 11:32:32,ross,INGRESA TEST,TEST=MUESTRA ANALIZADA
+*************
+07/11/2021 11:32:32,ross,Actualiza Test,Test=MUESTRA ANALIZADA
+*************
+07/11/2021 11:33:01,ross,Nuevo Test en Lista de Precios,Test=1771 0  NORMAL
+*************
+07/11/2021 11:33:01,ross,Nuevo Test en Lista de Precios,Test=1771 0  URGENCIA
+*************
+07/11/2021 11:33:01,ross,Nuevo Test en Lista de Precios,Test=1771 0  MSP IESS ISSPOL
+*************
+07/11/2021 11:33:01,ross,Nuevo Test en Lista de Precios,Test=1771 0  SOLCA
+*************
+07/11/2021 11:33:01,ross,INGRESA TEST,TEST=OBSERVACIONES
+*************
+07/11/2021 11:33:01,ross,Actualiza Test,Test=OBSERVACIONES
+*************
+07/11/2021 11:35:15,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 401200,,PEDIDO=37
+*************
+07/11/2021 12:01:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2021 12:01:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/11/2021 12:07:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2021 12:07:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+07/11/2021 12:50:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+07/11/2021 12:50:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 8:31:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 8:31:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,WBCH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,NEUH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,LYMH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,MONH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,EOSH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,BASOH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,LYM%25H=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,MON%25H=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,EOS%25H=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,BASO%25H=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,RBCH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,HCTH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,HGBH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,MCVH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,MCHH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,MCHCH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,RDW_CVH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,RDW_SDH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,PLTH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,MPVH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,PDWH=4
+*************
+08/11/2021 8:47:17,ross,GUARDA RESULTADOS,PCTH=4
+*************
+08/11/2021 8:47:18,ross,GUARDA RESULTADOS,P_LCRH=4
+*************
+08/11/2021 8:47:18,ross,GUARDA RESULTADOS,P_LCCH=4
+*************
+08/11/2021 8:47:48,ross,VALIDACION RESULTADO,PEDIDO=37/400101
+*************
+08/11/2021 8:47:49,ross,VALIDACION RESULTADO,PEDIDO=37/400149
+*************
+08/11/2021 8:47:49,ross,VALIDACION RESULTADO,PEDIDO=37/400150
+*************
+08/11/2021 8:47:49,ross,VALIDACION RESULTADO,PEDIDO=37/400151
+*************
+08/11/2021 8:47:49,ross,VALIDACION RESULTADO,PEDIDO=37/400476
+*************
+08/11/2021 8:56:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 8:56:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:25:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 9:25:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:43:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 9:43:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:46:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 9:46:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:54:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 9:54:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:54:40,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400101,401105,400230,400114,,PEDIDO=229
+*************
+08/11/2021 9:54:41,ross,02 IMPRIMIR COD BARRAS,PEDIDO=229
+*************
+08/11/2021 9:55:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 9:55:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:55:33,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400524,400191,400836,400197,401104,400141,400140,,PEDIDO=230
+*************
+08/11/2021 9:55:33,ross,02 IMPRIMIR COD BARRAS,PEDIDO=230
+*************
+08/11/2021 9:56:03,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 9:56:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 9:56:34,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=231
+*************
+08/11/2021 9:56:34,ross,02 IMPRIMIR COD BARRAS,PEDIDO=231
+*************
+08/11/2021 9:56:43,ross,Actualiza FACTURA,FACTURA=19
+*************
+08/11/2021 9:56:43,ross,Ingresa FACTURA,FACTURA=19
+*************
+08/11/2021 9:56:44,ross,Insertar abono,Factura=19 Abono= 10.5
+*************
+08/11/2021 9:56:44,ross,Cancela FACTURA,FACTURA=19
+*************
+08/11/2021 9:56:45,ross,Registra Tx Factura,Factura=19
+*************
+08/11/2021 10:06:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 10:07:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 10:12:18,ross,Generar Paciente,Paciente=CHOUCIÑO RODRIGUEZ LUIS ADRIAN
+*************
+08/11/2021 10:17:30,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,400230,400114,401105,,PEDIDO=232
+*************
+08/11/2021 10:17:31,ross,02 IMPRIMIR COD BARRAS,PEDIDO=232
+*************
+08/11/2021 10:18:44,ross,Actualiza FACTURA,FACTURA=20
+*************
+08/11/2021 10:18:44,ross,Ingresa FACTURA,FACTURA=20
+*************
+08/11/2021 10:18:45,ross,Insertar abono,Factura=20 Abono= 30
+*************
+08/11/2021 10:18:45,ross,Actualiza FACTURA,FACTURA=20/30
+*************
+08/11/2021 10:18:48,ross,Registra Tx Factura,Factura=20
+*************
+08/11/2021 10:19:25,ross,Registra Tx Factura,Factura=20
+*************
+08/11/2021 10:20:58,ross,Insertar abono,Factura=20 Abono= 32.5
+*************
+08/11/2021 10:20:58,ross,Cancela FACTURA,FACTURA=20
+*************
+08/11/2021 10:21:02,ross,Registra Tx Factura,Factura=20
+*************
+08/11/2021 10:21:08,ross,Registra Tx Factura,Factura=20
+*************
+08/11/2021 10:21:20,ross,Registra Tx Factura,Factura=20
+*************
+08/11/2021 10:24:29,ross,Registra Tx Factura,Factura=20
+*************
+08/11/2021 10:25:04,ross,03 IMPRIMIR PEDIDO,PEDIDO=232
+*************
+08/11/2021 10:25:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=232
+*************
+08/11/2021 10:37:30,ross,03 IMPRIMIR PEDIDO,PEDIDO=232
+*************
+08/11/2021 10:38:00,ross,02 IMPRIMIR COD BARRAS,PEDIDO=232
+*************
+08/11/2021 10:41:47,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/233
+*************
+08/11/2021 10:41:47,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/234
+*************
+08/11/2021 10:41:47,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/235
+*************
+08/11/2021 10:41:47,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/236
+*************
+08/11/2021 10:41:48,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/237
+*************
+08/11/2021 10:41:48,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/238
+*************
+08/11/2021 10:41:48,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/239
+*************
+08/11/2021 10:41:49,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/240
+*************
+08/11/2021 10:41:49,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/241
+*************
+08/11/2021 10:41:49,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/242
+*************
+08/11/2021 10:41:49,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/243
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/244
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/245
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/246
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/247
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/248
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/249
+*************
+08/11/2021 10:41:50,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/250
+*************
+08/11/2021 10:41:51,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/251
+*************
+08/11/2021 10:41:51,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/252
+*************
+08/11/2021 10:41:51,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/253
+*************
+08/11/2021 10:41:51,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/254
+*************
+08/11/2021 10:41:51,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/255
+*************
+08/11/2021 10:41:51,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/256
+*************
+08/11/2021 10:50:54,ross,Nuevo Pedido IMPORTACION,KIA/257
+*************
+08/11/2021 10:50:54,ross,Nuevo Pedido IMPORTACION,KIA/258
+*************
+08/11/2021 10:50:54,ross,Nuevo Pedido IMPORTACION,KIA/259
+*************
+08/11/2021 10:50:54,ross,Nuevo Pedido IMPORTACION,KIA/260
+*************
+08/11/2021 10:50:54,ross,Nuevo Pedido IMPORTACION,KIA/261
+*************
+08/11/2021 10:50:54,ross,Nuevo Pedido IMPORTACION,KIA/262
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/263
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/264
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/265
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/266
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/267
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/268
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/269
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/270
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/271
+*************
+08/11/2021 10:50:55,ross,Nuevo Pedido IMPORTACION,KIA/272
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/273
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/274
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/275
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/276
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/277
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/278
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/279
+*************
+08/11/2021 10:50:56,ross,Nuevo Pedido IMPORTACION,KIA/280
+*************
+08/11/2021 10:52:56,ross,IMPRIMIR CONTRAORDEN,
+*************
+08/11/2021 10:53:37,ross,IMPRIMIR LISTA TRABAJO,
+*************
+08/11/2021 10:54:10,ross,IMPRIMIR CONTRAORDEN,
+*************
+08/11/2021 10:54:51,ross,IMPRIMIR HOJA TRABAJO,
+*************
+08/11/2021 10:57:53,ross,IMPRIMIR CONTRAORDEN,
+*************
+08/11/2021 10:58:04,ross,IMPRIMIR LISTA TRABAJO,
+*************
+08/11/2021 10:58:22,ross,IMPRIMIR HOJA TRABAJO,
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,WBCH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,NEUH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,LYMH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,MONH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,EOSH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,BASOH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,RBCH=33
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,HCTH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,HGBH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,MCVH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,MCHH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+08/11/2021 11:01:59,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,PLTH=
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,MPVH=
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,PDWH=
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,PCTH=6
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,P-LCRH=6
+*************
+08/11/2021 11:02:00,ross,GUARDA RESULTADOS,P-LCCH=6
+*************
+08/11/2021 11:02:53,ross,GUARDA RESULTADOS,IGG_CUANH=2.5
+*************
+08/11/2021 11:02:53,ross,GUARDA RESULTADOS,IGM_CUANH=5.6
+*************
+08/11/2021 11:02:53,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,COLO=PAJIZO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,PHO=5
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,UROOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,HGBOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CELPOH=1-2
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CELEPH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,LEUC_EMO1H=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,PIOO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,HEMOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,BACOH=ESCASAS
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,MOCOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,LEVA_ORINA=++
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,URO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,FOO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,OXAO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CRIO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CILO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CIGO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CILCE=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,ESP=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,ASCOH=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,OTROSO=
+*************
+08/11/2021 11:03:55,ross,GUARDA RESULTADOS,CCETO=
+*************
+08/11/2021 11:05:15,ross,GUARDA NOTA AREA,AREA EXAMEN =11/SUERO LIPEMICO
+*************
+08/11/2021 11:06:32,ross,VALIDACION RESULTADO,PEDIDO=232/400101
+*************
+08/11/2021 11:06:32,ross,VALIDACION RESULTADO,PEDIDO=232/400114
+*************
+08/11/2021 11:06:32,ross,VALIDACION RESULTADO,PEDIDO=232/400149
+*************
+08/11/2021 11:06:32,ross,VALIDACION RESULTADO,PEDIDO=232/400150
+*************
+08/11/2021 11:06:33,ross,VALIDACION RESULTADO,PEDIDO=232/400151
+*************
+08/11/2021 11:06:33,ross,VALIDACION RESULTADO,PEDIDO=232/400230
+*************
+08/11/2021 11:06:33,ross,VALIDACION RESULTADO,PEDIDO=232/400476
+*************
+08/11/2021 11:06:33,ross,VALIDACION RESULTADO,PEDIDO=232/401105
+*************
+08/11/2021 11:07:38,ross,IMPRIME POR AREA,PEDIDO=232
+*************
+08/11/2021 11:08:50,ross,IMPRIME TODO,PEDIDO=232
+*************
+08/11/2021 11:09:35,ross,IMPRIME POR EMAMEN,PEDIDO=232
+*************
+08/11/2021 11:09:49,ross,IMPRIME POR EMAMEN,PEDIDO=232
+*************
+08/11/2021 11:09:59,ross,IMPRIME SOBRE,PEDIDO=232
+*************
+08/11/2021 11:12:06,ross,ENVIO CORREO PACIENTE,PEDIDO=232
+*************
+08/11/2021 18:53:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 18:53:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 19:35:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 19:35:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 19:59:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 19:59:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 20:05:24,ross,IMPRIME POR AREA,PEDIDO=232
+*************
+08/11/2021 20:48:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+08/11/2021 20:48:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+08/11/2021 20:48:55,ross,IMPRIME POR AREA,PEDIDO=232
+*************
+09/11/2021 9:08:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 9:08:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 10:06:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 10:06:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 11:44:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 11:44:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 11:45:12,ross,IMPRIME POR AREA,PEDIDO=37
+*************
+09/11/2021 11:45:21,ross,IMPRIME TODO,PEDIDO=37
+*************
+09/11/2021 17:24:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 17:24:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 17:29:38,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 17:29:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 17:31:46,ross,IMPRIME POR AREA,PEDIDO=232
+*************
+09/11/2021 17:38:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 17:38:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 17:39:03,ross,IMPRIME POR AREA,PEDIDO=232
+*************
+09/11/2021 17:39:30,ross,01 GENERAR ORDEN  IESS EXAMENES: 400149,400150,400476,400151,,PEDIDO=281
+*************
+09/11/2021 17:39:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=281
+*************
+09/11/2021 17:40:08,ross,VALIDACION RESULTADO,PEDIDO=281/400149
+*************
+09/11/2021 17:40:08,ross,VALIDACION RESULTADO,PEDIDO=281/400150
+*************
+09/11/2021 17:40:09,ross,VALIDACION RESULTADO,PEDIDO=281/400151
+*************
+09/11/2021 17:40:09,ross,VALIDACION RESULTADO,PEDIDO=281/400476
+*************
+09/11/2021 17:40:30,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+09/11/2021 17:53:11,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 17:53:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 17:53:25,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+09/11/2021 17:55:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 17:55:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 17:55:34,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+09/11/2021 17:58:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 17:58:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 17:58:16,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+09/11/2021 18:01:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 18:01:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 18:01:44,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+09/11/2021 18:09:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 18:09:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 18:09:34,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+09/11/2021 19:02:36,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 19:02:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 19:05:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 19:05:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+09/11/2021 19:25:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+09/11/2021 19:25:38,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 10:01:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 10:01:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 10:54:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 10:54:05,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 10:54:29,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400151,400149,,PEDIDO=282
+*************
+10/11/2021 10:54:29,ross,02 IMPRIMIR COD BARRAS,PEDIDO=282
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,WBCH=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,NEUH=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,LYMH=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,MONH=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,EOSH=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,BASOH=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+10/11/2021 10:55:07,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,RBCH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,HCTH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,HGBH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,MCVH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,MCHH=
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,PLTH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,MPVH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,PDWH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,PCTH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+10/11/2021 10:55:08,ross,GUARDA RESULTADOS,P-LCCH=3
+*************
+10/11/2021 10:56:29,ross,VALIDACION RESULTADO,PEDIDO=282/400101
+*************
+10/11/2021 10:56:29,ross,VALIDACION RESULTADO,PEDIDO=282/400149
+*************
+10/11/2021 10:56:29,ross,VALIDACION RESULTADO,PEDIDO=282/400151
+*************
+10/11/2021 12:17:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 12:17:11,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/11/2021 12:17:11,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 12:17:12,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 12:17:21,ross,IMPRIME POR AREA,PEDIDO=282
+*************
+10/11/2021 12:26:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 12:26:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 12:27:06,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=283
+*************
+10/11/2021 12:27:06,ross,02 IMPRIMIR COD BARRAS,PEDIDO=283
+*************
+10/11/2021 12:27:20,ross,VALIDACION RESULTADO,PEDIDO=283/400149
+*************
+10/11/2021 12:27:20,ross,VALIDACION RESULTADO,PEDIDO=283/400150
+*************
+10/11/2021 12:27:20,ross,VALIDACION RESULTADO,PEDIDO=283/400151
+*************
+10/11/2021 12:27:20,ross,VALIDACION RESULTADO,PEDIDO=283/400476
+*************
+10/11/2021 12:27:33,ross,IMPRIME POR AREA,PEDIDO=283
+*************
+10/11/2021 14:42:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 14:42:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 14:44:59,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400154,401104,400101,400891,400141,400148,400140,400230,,PEDIDO=284
+*************
+10/11/2021 14:44:59,ross,02 IMPRIMIR COD BARRAS,PEDIDO=284
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,WBCH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,NEUH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,LYMH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,MONH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,EOSH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,BASOH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,RBCH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,HCTH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,HGBH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,MCVH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,MCHH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,PLTH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,MPVH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,PDWH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,PCTH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+10/11/2021 14:46:40,ross,GUARDA RESULTADOS,P-LCCH=3
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,ANAQUI1=- EXAMEN FÍSICO -
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,COLO=AMARILLO
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,ASPOH=TRANSPARENTE
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,EMOQUI=-EXAMEN QUIMICO-
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,DENO=1.015
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,PHO=5
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,LEUOH=NEGATIVO
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,NITO=NEGATIVO
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,PROTOH=NEGATIVO
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,GLUO=NEGATIVO
+*************
+10/11/2021 14:46:58,ross,GUARDA RESULTADOS,CETOR=NEGATIVO
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,UROOH=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,BILO=NEGATIVO
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,SANOH=NEGATIVO
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,HGBOH=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,ANAMIC1=- EXAMEN MICROSCÓPICO -
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,CELPOH=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,CELEPH=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,LEUC_EMO1H=++
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,CELCAOH=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,PIOO=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,HEMOH=1-2
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,BACOH=
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,MOCOH=+
+*************
+10/11/2021 14:46:59,ross,GUARDA RESULTADOS,LEVA_ORINA=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,URO=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,FOO=+++
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,OXAO=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,CRIO=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,CILO=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,CIGO=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,CILCE=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,ESP=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,ELEUCOH=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,ASCOH=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,OTROSO=
+*************
+10/11/2021 14:47:00,ross,GUARDA RESULTADOS,CCETO=
+*************
+10/11/2021 14:47:19,ross,VALIDACION RESULTADO,PEDIDO=284/400101
+*************
+10/11/2021 14:47:19,ross,VALIDACION RESULTADO,PEDIDO=284/400140
+*************
+10/11/2021 14:47:19,ross,VALIDACION RESULTADO,PEDIDO=284/400141
+*************
+10/11/2021 14:47:19,ross,VALIDACION RESULTADO,PEDIDO=284/400148
+*************
+10/11/2021 14:47:19,ross,VALIDACION RESULTADO,PEDIDO=284/400149
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/400150
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/400151
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/400154
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/400230
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/400476
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/400891
+*************
+10/11/2021 14:47:20,ross,VALIDACION RESULTADO,PEDIDO=284/401104
+*************
+10/11/2021 14:47:33,ross,IMPRIME POR AREA,PEDIDO=284
+*************
+10/11/2021 14:53:29,ross,IMPRIME POR AREA,PEDIDO=284
+*************
+10/11/2021 15:00:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 15:00:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 15:01:10,ross,IMPRIME POR AREA,PEDIDO=284
+*************
+10/11/2021 15:01:21,ross,IMPRIME TODO,PEDIDO=284
+*************
+10/11/2021 15:01:31,ross,IMPRIME POR AREA,PEDIDO=284
+*************
+10/11/2021 15:02:23,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401104,400154,400891,400141,400148,400101,400140,,PEDIDO=285
+*************
+10/11/2021 15:02:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=285
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,WBCH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,NEUH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,LYMH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,MONH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,EOSH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,BASOH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,NEU%25H=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,LYM%25H=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,MON%25H=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,EOS%25H=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,BASO%25H=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,RBCH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,HCTH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,HGBH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,MCVH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,MCHH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,MCHCH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,RDW-CVH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,RDW-SDH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,PLTH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,MPVH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,PDWH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,PCTH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,P-LCRH=9
+*************
+10/11/2021 15:02:46,ross,GUARDA RESULTADOS,P-LCCH=9
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400101
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400140
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400141
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400148
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400149
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400150
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400151
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400154
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400476
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/400891
+*************
+10/11/2021 15:02:57,ross,VALIDACION RESULTADO,PEDIDO=285/401104
+*************
+10/11/2021 15:03:13,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 15:08:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 15:08:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 15:08:36,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 15:09:22,ross,IMPRIME POR AREA,PEDIDO=282
+*************
+10/11/2021 15:20:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 15:20:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 15:20:15,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 16:12:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 16:12:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:13:11,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 16:15:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 16:15:06,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:15:15,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 16:15:29,ross,IMPRIME TODO,PEDIDO=285
+*************
+10/11/2021 16:15:38,ross,IMPRIME TODO,PEDIDO=285
+*************
+10/11/2021 16:18:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 16:18:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:18:47,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 16:33:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 16:33:50,,Ingreso CONTRASEÑA FALLIDO,
+*************
+10/11/2021 16:33:50,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:33:50,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:33:59,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 16:37:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 16:37:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:37:32,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 16:43:58,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 16:43:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 16:44:21,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 17:08:01,,Ingreso USUARIO,Busca tabla invitado
+*************
+10/11/2021 17:08:02,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+10/11/2021 17:08:10,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 17:08:19,ross,IMPRIME POR AREA,PEDIDO=285
+*************
+10/11/2021 17:08:26,ross,IMPRIME TODO,PEDIDO=285
+*************
+10/11/2021 17:08:39,ross,IMPRIME POR EMAMEN,PEDIDO=285
+*************
+10/11/2021 17:08:48,ross,IMPRIME POR EMAMEN,PEDIDO=285
+*************
+11/11/2021 15:59:00,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 15:59:00,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 15:59:55,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=286
+*************
+11/11/2021 15:59:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=286
+*************
+11/11/2021 16:00:17,ross,VALIDACION RESULTADO,PEDIDO=286/400149
+*************
+11/11/2021 16:00:17,ross,VALIDACION RESULTADO,PEDIDO=286/400150
+*************
+11/11/2021 16:00:17,ross,VALIDACION RESULTADO,PEDIDO=286/400151
+*************
+11/11/2021 16:00:17,ross,VALIDACION RESULTADO,PEDIDO=286/400476
+*************
+11/11/2021 16:01:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 16:01:58,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 17:41:49,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 17:41:49,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 17:43:02,ross,ENVIO CORREO PACIENTE,PEDIDO=286
+*************
+11/11/2021 20:29:30,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 20:29:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 20:30:27,ross,IMPRIME POR AREA,PEDIDO=286
+*************
+11/11/2021 20:33:59,ross,Actualizar Area,Area=COVID
+*************
+11/11/2021 20:34:12,ross,Eliminar Test,TEST=401082
+*************
+11/11/2021 20:34:18,ross,Eliminar Test,TEST=401083
+*************
+11/11/2021 20:35:36,ross,Actualiza Test,Test=COVID IgG - IgM RAPIDA
+*************
+11/11/2021 20:35:47,ross,Actualiza Test,Test=COVID Deteccion por PCR-RT
+*************
+11/11/2021 20:35:55,ross,Actualiza Test,Test=COVID IgG - IgM (ACESS)
+*************
+11/11/2021 20:36:42,ross,Actualiza Test,Test=COVID IGG - IGM CUANTITATIVA
+*************
+11/11/2021 21:10:23,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400151,400149,,PEDIDO=287
+*************
+11/11/2021 21:10:23,ross,02 IMPRIMIR COD BARRAS,PEDIDO=287
+*************
+11/11/2021 21:39:23,ross,GUARDA RESULTADOS,WBCH=3
+*************
+11/11/2021 21:40:31,ross,GUARDA RESULTADOS,NEUH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,LYMH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,MONH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,EOSH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,BASOH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,EOS%25H=33
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,RBCH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,HCTH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,HGBH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,MCVH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,MCHH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,PLTH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,MPVH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,PDWH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,PCTH=3
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/11/2021 21:41:23,ross,GUARDA RESULTADOS,P-LCCH=33
+*************
+11/11/2021 21:43:36,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,WBCH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,NEUH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,LYMH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,MONH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,EOSH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,BASOH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,EOS%25H=33
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,RBCH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,HCTH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,HGBH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,MCVH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,MCHH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,PLTH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,MPVH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,PDWH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,PCTH=3
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/11/2021 21:55:39,ross,GUARDA RESULTADOS,P-LCCH=33
+*************
+11/11/2021 21:55:41,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:01:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:01:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:03:54,ross,GUARDA RESULTADOS,WBCH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,NEUH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,LYMH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,MONH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,EOSH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,BASOH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,EOS%25H=33
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,RBCH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,HCTH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,HGBH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,MCVH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,MCHH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,PLTH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,MPVH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,PDWH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,PCTH=3
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/11/2021 22:03:55,ross,GUARDA RESULTADOS,P-LCCH=33
+*************
+11/11/2021 22:03:56,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:11:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:11:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:15:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:15:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:16:26,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,,PEDIDO=288
+*************
+11/11/2021 22:16:26,ross,02 IMPRIMIR COD BARRAS,PEDIDO=288
+*************
+11/11/2021 22:16:41,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401104,400141,,PEDIDO=289
+*************
+11/11/2021 22:16:42,ross,02 IMPRIMIR COD BARRAS,PEDIDO=289
+*************
+11/11/2021 22:17:25,ross,GUARDA RESULTADOS,WBC=5
+*************
+11/11/2021 22:17:26,ross,GUARDA RESULTADOS,NEU=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,LYM=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,MON=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,EOS=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,BASO=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,NEU%25=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,LYM%25=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,MON%25=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,EOS%25=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,BASO%25=
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,RBC=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,HCT=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,HGB=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,MCV=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,MCH=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,MCHC=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,RDW-CV=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,RDW-SD=
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,PLT=55
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,MPV=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,PDW=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,PCT=5
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,P-LCR=
+*************
+11/11/2021 22:17:27,ross,GUARDA RESULTADOS,P-LCC=55
+*************
+11/11/2021 22:17:29,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:23:13,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:23:13,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,WBCH=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,NEUH=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,LYMH=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,MONH=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,EOSH=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,BASOH=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,NEU%25H=4
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,MON%25H=
+*************
+11/11/2021 22:25:04,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,RBCH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,HCTH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,HGBH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,MCVH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,MCHH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,MCHCH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,RDW-CVH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,RDW-SDH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,PLTH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,MPVH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,PDWH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,PCTH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/11/2021 22:25:05,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+11/11/2021 22:25:06,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:25:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400151,,PEDIDO=290
+*************
+11/11/2021 22:25:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=290
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,WBC=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,NEU=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,LYM=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,MON=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,EOS=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,BASO=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,NEU%25=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,LYM%25=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,MON%25=5
+*************
+11/11/2021 22:26:18,ross,GUARDA RESULTADOS,EOS%25=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,BASO%25=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,RBC=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,HCT=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,HGB=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,MCV=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,MCH=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,MCHC=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,RDW-CV=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,RDW-SD=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,PLT=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,MPV=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,PDW=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,PCT=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,P-LCR=
+*************
+11/11/2021 22:26:19,ross,GUARDA RESULTADOS,P-LCC=
+*************
+11/11/2021 22:26:20,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:33:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:33:33,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:34:09,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,,PEDIDO=291
+*************
+11/11/2021 22:34:09,ross,02 IMPRIMIR COD BARRAS,PEDIDO=291
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,WBCH=6
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,NEUH=6
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,LYMH=6
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,MONH=6
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,EOSH=6
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,BASOH=6
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,NEU%25H=66
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,MON%25H=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,RBCH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,HCTH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,HGBH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,MCVH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,MCHH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,MCHCH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,RDW-CVH=
+*************
+11/11/2021 22:36:05,ross,GUARDA RESULTADOS,RDW-SDH=
+*************
+11/11/2021 22:36:06,ross,GUARDA RESULTADOS,PLTH=
+*************
+11/11/2021 22:36:06,ross,GUARDA RESULTADOS,MPVH=
+*************
+11/11/2021 22:36:06,ross,GUARDA RESULTADOS,PDWH=
+*************
+11/11/2021 22:36:06,ross,GUARDA RESULTADOS,PCTH=
+*************
+11/11/2021 22:36:06,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/11/2021 22:36:06,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+11/11/2021 22:36:07,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:37:30,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400101,,PEDIDO=292
+*************
+11/11/2021 22:37:30,ross,02 IMPRIMIR COD BARRAS,PEDIDO=292
+*************
+11/11/2021 22:37:59,ross,GUARDA RESULTADOS,WBC=9
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,NEU=9
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,LYM=9
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,MON=9
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,EOS=99
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,BASO=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,NEU%25=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,LYM%25=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,MON%25=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,EOS%25=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,BASO%25=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,RBC=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,HCT=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,HGB=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,MCV=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,MCH=
+*************
+11/11/2021 22:38:00,ross,GUARDA RESULTADOS,MCHC=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,RDW-CV=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,RDW-SD=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,PLT=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,MPV=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,PDW=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,PCT=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,P-LCR=
+*************
+11/11/2021 22:38:01,ross,GUARDA RESULTADOS,P-LCC=
+*************
+11/11/2021 22:38:02,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:41:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:41:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:41:50,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400151,,PEDIDO=293
+*************
+11/11/2021 22:41:50,ross,02 IMPRIMIR COD BARRAS,PEDIDO=293
+*************
+11/11/2021 22:42:29,ross,GUARDA RESULTADOS,WBCH=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,NEUH=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,LYMH=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,MONH=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,EOSH=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,BASOH=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,NEU%25H=1
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,LYM%25H=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,MON%25H=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,EOS%25H=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,BASO%25H=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,RBCH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,HCTH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,HGBH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,MCVH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,MCHH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,MCHCH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,RDW-CVH=
+*************
+11/11/2021 22:42:30,ross,GUARDA RESULTADOS,RDW-SDH=
+*************
+11/11/2021 22:42:31,ross,GUARDA RESULTADOS,PLTH=
+*************
+11/11/2021 22:42:31,ross,GUARDA RESULTADOS,MPVH=
+*************
+11/11/2021 22:42:31,ross,GUARDA RESULTADOS,PDWH=
+*************
+11/11/2021 22:42:31,ross,GUARDA RESULTADOS,PCTH=
+*************
+11/11/2021 22:42:31,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+11/11/2021 22:42:31,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+11/11/2021 22:42:32,ross,GUARDA RESULTADOS,BHH=
+*************
+11/11/2021 22:43:24,ross,VALIDACION RESULTADO,PEDIDO=287/400149
+*************
+11/11/2021 22:43:24,ross,VALIDACION RESULTADO,PEDIDO=287/400151
+*************
+11/11/2021 22:43:39,ross,VALIDACION RESULTADO,PEDIDO=288/400149
+*************
+11/11/2021 22:43:39,ross,VALIDACION RESULTADO,PEDIDO=288/400150
+*************
+11/11/2021 22:43:40,ross,VALIDACION RESULTADO,PEDIDO=288/400151
+*************
+11/11/2021 22:43:40,ross,VALIDACION RESULTADO,PEDIDO=288/400476
+*************
+11/11/2021 22:43:58,ross,VALIDACION RESULTADO,PEDIDO=290/400151
+*************
+11/11/2021 22:48:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+11/11/2021 22:48:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+11/11/2021 22:48:41,ross,IMPRIME POR AREA,PEDIDO=12752
+*************
+11/11/2021 22:49:32,ross,ENVIO CORREO PACIENTE,PEDIDO=12813
+*************
+12/11/2021 9:49:28,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 9:49:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 9:49:57,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401105,,PEDIDO=294
+*************
+12/11/2021 9:49:57,ross,02 IMPRIMIR COD BARRAS,PEDIDO=294
+*************
+12/11/2021 9:50:40,ross,Modifica USR,USR=1
+*************
+12/11/2021 9:50:59,ross,GUARDA RESULTADOS,IGG_CUANH=3
+*************
+12/11/2021 9:50:59,ross,GUARDA RESULTADOS,IGM_CUANH=5
+*************
+12/11/2021 9:50:59,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+12/11/2021 9:51:08,ross,VALIDACION RESULTADO,PEDIDO=294/401105
+*************
+12/11/2021 9:51:25,ross,IMPRIME POR AREA,PEDIDO=294
+*************
+12/11/2021 9:51:50,ross,Actualiza Test,Test=IGG ANTICUERPO
+*************
+12/11/2021 9:52:02,ross,Actualiza Test,Test=IGM ANTICUERPO
+*************
+12/11/2021 9:52:11,ross,Actualiza Test,Test=INTERPRETACION
+*************
+12/11/2021 9:52:17,ross,IMPRIME POR AREA,PEDIDO=294
+*************
+12/11/2021 10:32:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 10:32:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 10:32:52,ross,IMPRIME POR AREA,PEDIDO=294
+*************
+12/11/2021 10:33:28,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,,PEDIDO=295
+*************
+12/11/2021 10:33:28,ross,02 IMPRIMIR COD BARRAS,PEDIDO=295
+*************
+12/11/2021 10:33:39,ross,VALIDACION RESULTADO,PEDIDO=295/400149
+*************
+12/11/2021 10:33:39,ross,VALIDACION RESULTADO,PEDIDO=295/400150
+*************
+12/11/2021 10:33:39,ross,VALIDACION RESULTADO,PEDIDO=295/400151
+*************
+12/11/2021 10:33:39,ross,VALIDACION RESULTADO,PEDIDO=295/400476
+*************
+12/11/2021 10:33:58,ross,IMPRIME POR AREA,PEDIDO=295
+*************
+12/11/2021 10:34:09,ross,IMPRIME POR AREA,PEDIDO=294
+*************
+12/11/2021 12:29:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 12:29:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 12:29:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401105,400149,400150,400476,400151,,PEDIDO=296
+*************
+12/11/2021 12:29:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=296
+*************
+12/11/2021 12:30:06,ross,GUARDA RESULTADOS,IGG_CUANH=66
+*************
+12/11/2021 12:30:06,ross,GUARDA RESULTADOS,IGM_CUANH=77
+*************
+12/11/2021 12:30:06,ross,GUARDA RESULTADOS,INTER_CUANH=- Interpretacion -
+*************
+12/11/2021 12:30:18,ross,VALIDACION RESULTADO,PEDIDO=296/400149
+*************
+12/11/2021 12:30:18,ross,VALIDACION RESULTADO,PEDIDO=296/400150
+*************
+12/11/2021 12:30:18,ross,VALIDACION RESULTADO,PEDIDO=296/400151
+*************
+12/11/2021 12:30:18,ross,VALIDACION RESULTADO,PEDIDO=296/400476
+*************
+12/11/2021 12:30:18,ross,VALIDACION RESULTADO,PEDIDO=296/401105
+*************
+12/11/2021 14:16:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 14:16:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 14:17:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401141,,PEDIDO=297
+*************
+12/11/2021 14:17:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=297
+*************
+12/11/2021 14:18:02,ross,VALIDACION RESULTADO,PEDIDO=297/401141
+*************
+12/11/2021 14:26:29,ross,IMPRIME POR AREA,PEDIDO=297
+*************
+12/11/2021 14:26:55,ross,IMPRIME POR AREA,PEDIDO=297
+*************
+12/11/2021 14:27:04,ross,IMPRIME TODO,PEDIDO=297
+*************
+12/11/2021 14:32:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 14:32:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 14:32:14,ross,IMPRIME POR AREA,PEDIDO=297
+*************
+12/11/2021 14:35:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 14:35:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 14:35:35,ross,IMPRIME POR AREA,PEDIDO=297
+*************
+12/11/2021 14:39:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 14:39:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 14:39:34,ross,IMPRIME POR AREA,PEDIDO=297
+*************
+12/11/2021 14:40:56,ross,IMPRIME POR AREA,PEDIDO=295
+*************
+12/11/2021 15:58:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 15:58:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 16:01:31,ross,1 MODIFICA ORDENNORMAL,PEDIDO=297
+*************
+12/11/2021 16:11:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 16:11:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 16:16:39,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 16:16:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 18:22:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 18:22:08,,Ingreso CONTRASEÑA FALLIDO,
+*************
+12/11/2021 18:22:08,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 18:22:13,marissa,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 18:22:59,marissa,1 MODIFICA ORDENNORMAL,PEDIDO=20284
+*************
+12/11/2021 18:24:23,marissa,Actualiza Paciente,Paciente=MORALES FREIRE MARAIA DEL CARMEN
+*************
+12/11/2021 18:41:37,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 18:41:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 18:41:55,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+12/11/2021 18:42:42,ross,IMPRIME TODO,PEDIDO=20272
+*************
+12/11/2021 18:42:48,ross,IMPRIME TODO,PEDIDO=20272
+*************
+12/11/2021 19:17:23,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 19:17:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 19:17:59,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+12/11/2021 19:18:43,ross,IMPRIME TODO,PEDIDO=20272
+*************
+12/11/2021 19:18:55,ross,IMPRIME TODO,PEDIDO=20272
+*************
+12/11/2021 19:19:10,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+12/11/2021 19:24:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 19:24:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 19:25:05,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+12/11/2021 20:40:41,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 20:40:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 20:40:59,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+12/11/2021 20:41:37,ross,IMPRIME POR AREA,PEDIDO=20290
+*************
+12/11/2021 20:42:25,ross,Actualiza Test,Test=ANTIGENO COVID 19
+*************
+12/11/2021 20:42:41,ross,Actualiza Test,Test=MUESTRA: 
+*************
+12/11/2021 20:42:54,ross,IMPRIME POR AREA,PEDIDO=20290
+*************
+12/11/2021 20:59:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 20:59:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 20:59:16,ross,IMPRIME POR AREA,PEDIDO=20290
+*************
+12/11/2021 21:00:20,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+12/11/2021 21:02:25,ross,1 MODIFICA ORDENNORMAL,PEDIDO=20290
+*************
+12/11/2021 21:03:01,ross,VALIDACION RESULTADO,PEDIDO=20290/400149
+*************
+12/11/2021 21:03:01,ross,VALIDACION RESULTADO,PEDIDO=20290/400150
+*************
+12/11/2021 21:03:02,ross,VALIDACION RESULTADO,PEDIDO=20290/400151
+*************
+12/11/2021 21:03:02,ross,VALIDACION RESULTADO,PEDIDO=20290/400476
+*************
+12/11/2021 21:03:21,ross,IMPRIME POR AREA,PEDIDO=20290
+*************
+12/11/2021 21:41:02,,Ingreso USUARIO,Busca tabla invitado
+*************
+12/11/2021 21:41:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+12/11/2021 21:41:25,ross,IMPRIME POR AREA,PEDIDO=20272
+*************
+13/11/2021 8:14:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 8:14:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 8:45:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 8:45:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 8:45:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401144,,PEDIDO=298
+*************
+13/11/2021 8:45:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=298
+*************
+13/11/2021 8:46:02,ross,Actualiza Test,Test=ANTIGENO SARS
+*************
+13/11/2021 8:48:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 8:48:45,,Ingreso CONTRASEÑA FALLIDO,
+*************
+13/11/2021 8:48:45,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 8:48:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 8:49:19,ross,VALIDACION RESULTADO,PEDIDO=298/400149
+*************
+13/11/2021 8:49:19,ross,VALIDACION RESULTADO,PEDIDO=298/400150
+*************
+13/11/2021 8:49:19,ross,VALIDACION RESULTADO,PEDIDO=298/400151
+*************
+13/11/2021 8:49:19,ross,VALIDACION RESULTADO,PEDIDO=298/400476
+*************
+13/11/2021 8:49:19,ross,VALIDACION RESULTADO,PEDIDO=298/401144
+*************
+13/11/2021 8:49:54,ross,IMPRIME POR AREA,PEDIDO=298
+*************
+13/11/2021 8:54:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 8:54:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 8:55:13,ross,IMPRIME POR AREA,PEDIDO=298
+*************
+13/11/2021 8:55:29,ross,IMPRIME TODO,PEDIDO=298
+*************
+13/11/2021 9:08:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:08:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:09:05,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/299
+*************
+13/11/2021 9:09:05,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/300
+*************
+13/11/2021 9:09:06,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/301
+*************
+13/11/2021 9:09:06,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/302
+*************
+13/11/2021 9:09:06,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/303
+*************
+13/11/2021 9:09:07,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/304
+*************
+13/11/2021 9:09:07,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/305
+*************
+13/11/2021 9:09:07,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/306
+*************
+13/11/2021 9:10:19,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=299
+*************
+13/11/2021 9:22:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:22:18,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:31:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:31:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:33:22,ross,1 MODIFICA ORDENNORMAL,PEDIDO=299
+*************
+13/11/2021 9:34:03,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=300
+*************
+13/11/2021 9:37:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:37:36,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:38:02,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=302
+*************
+13/11/2021 9:45:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:45:52,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:51:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:51:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:52:24,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=301
+*************
+13/11/2021 9:52:58,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=306
+*************
+13/11/2021 9:55:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 9:55:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 9:57:52,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=303
+*************
+13/11/2021 10:06:34,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 10:06:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 10:07:09,ross,1 MODIFICA ORDEN NORMAL EXAMENES: 400149,400149,400149,400149,400149,400149,400149,400149,400150,400150,400150,400150,400476,400476,400476,400476,400476,400476,400476,400476,400150,400150,400150,400150,400151,400151,400151,400151,400151,400151,400151,400151,400750,400244,400245,400247,400248,,PEDIDO=305
+*************
+13/11/2021 10:11:33,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/307
+*************
+13/11/2021 10:11:53,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/308
+*************
+13/11/2021 10:11:58,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/309
+*************
+13/11/2021 10:12:03,ross,Nuevo Pedido PRE CARGA,NORMAL                                            /1   /1000/310
+*************
+13/11/2021 10:12:29,ross,1 MODIFICA ORDENNORMAL,PEDIDO=307
+*************
+13/11/2021 11:11:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 11:11:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 11:11:42,ross,IMPRIME POR AREA,PEDIDO=28071
+*************
+13/11/2021 11:12:03,ross,IMPRIME POR AREA,PEDIDO=28070
+*************
+13/11/2021 11:12:20,ross,IMPRIME TODO,PEDIDO=28064
+*************
+13/11/2021 11:12:34,ross,IMPRIME POR AREA,PEDIDO=28063
+*************
+13/11/2021 11:12:57,ross,IMPRIME TODO,PEDIDO=28072
+*************
+13/11/2021 11:13:07,ross,IMPRIME TODO,PEDIDO=28071
+*************
+13/11/2021 15:06:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 15:06:42,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 15:24:18,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 15:24:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 15:24:27,ross,IMPRIME POR AREA,PEDIDO=298
+*************
+13/11/2021 19:03:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 19:03:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 19:04:02,ross,IMPRIME POR AREA,PEDIDO=298
+*************
+13/11/2021 19:11:47,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=311
+*************
+13/11/2021 19:11:47,ross,02 IMPRIMIR COD BARRAS,PEDIDO=311
+*************
+13/11/2021 19:13:17,ross,IMPRIME POR AREA,PEDIDO=311
+*************
+13/11/2021 19:15:15,ross,VALIDACION RESULTADO,PEDIDO=311/401144
+*************
+13/11/2021 19:15:25,ross,IMPRIME POR AREA,PEDIDO=311
+*************
+13/11/2021 19:16:35,ross,IMPRIME POR AREA,PEDIDO=311
+*************
+13/11/2021 19:19:04,ross,IMPRIME POR AREA,PEDIDO=311
+*************
+13/11/2021 19:23:27,ross,IMPRIME POR AREA,PEDIDO=311
+*************
+13/11/2021 19:44:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+13/11/2021 19:44:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+13/11/2021 19:44:43,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=312
+*************
+13/11/2021 19:44:43,ross,02 IMPRIMIR COD BARRAS,PEDIDO=312
+*************
+13/11/2021 19:45:01,ross,VALIDACION RESULTADO,PEDIDO=312/401144
+*************
+13/11/2021 19:45:35,ross,IMPRIME POR AREA,PEDIDO=312
+*************
+14/11/2021 12:25:17,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/11/2021 12:25:19,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/11/2021 12:25:57,ross,Actualiza Test,Test=COVID Deteccion por PCR-RT
+*************
+14/11/2021 12:27:25,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401141,401144,,PEDIDO=313
+*************
+14/11/2021 12:27:25,ross,02 IMPRIMIR COD BARRAS,PEDIDO=313
+*************
+14/11/2021 12:28:39,ross,GUARDA RESULTADOS,pcrtrbmH=
+*************
+14/11/2021 12:31:25,ross,VALIDACION RESULTADO,PEDIDO=313/401141
+*************
+14/11/2021 12:31:25,ross,VALIDACION RESULTADO,PEDIDO=313/401144
+*************
+14/11/2021 12:37:10,ross,IMPRIME POR AREA,PEDIDO=313
+*************
+14/11/2021 12:42:53,ross,IMPRIME POR AREA,PEDIDO=313
+*************
+14/11/2021 12:43:01,ross,IMPRIME POR AREA,PEDIDO=313
+*************
+14/11/2021 12:56:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/11/2021 12:56:22,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/11/2021 12:56:39,ross,IMPRIME POR AREA,PEDIDO=313
+*************
+14/11/2021 13:45:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+14/11/2021 13:45:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+14/11/2021 13:45:54,ross,IMPRIME POR AREA,PEDIDO=313
+*************
+15/11/2021 18:39:52,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 18:40:03,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 18:44:51,ross,Generar Paciente,Paciente=PEREZ CUEVA GABRIELA ALEXANDRA
+*************
+15/11/2021 18:50:19,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,400149,400150,400476,400151,401144,,PEDIDO=314
+*************
+15/11/2021 18:50:20,ross,02 IMPRIMIR COD BARRAS,PEDIDO=314
+*************
+15/11/2021 18:51:59,ross,Actualiza FACTURA,FACTURA=21
+*************
+15/11/2021 18:51:59,ross,Ingresa FACTURA,FACTURA=21
+*************
+15/11/2021 18:51:59,ross,Insertar abono,Factura=21 Abono= 30
+*************
+15/11/2021 18:51:59,ross,Actualiza FACTURA,FACTURA=21/30
+*************
+15/11/2021 18:52:02,ross,Registra Tx Factura,Factura=21
+*************
+15/11/2021 18:52:11,ross,Registra Tx Factura,Factura=21
+*************
+15/11/2021 18:52:53,ross,Insertar abono,Factura=21 Abono= 29.5
+*************
+15/11/2021 18:52:53,ross,Cancela FACTURA,FACTURA=21
+*************
+15/11/2021 18:52:55,ross,Registra Tx Factura,Factura=21
+*************
+15/11/2021 18:52:58,ross,Registra Tx Factura,Factura=21
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/315
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/316
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/317
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/318
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/319
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/320
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/321
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/322
+*************
+15/11/2021 18:54:32,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/323
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/324
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/325
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/326
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/327
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/328
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/329
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/330
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/331
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/332
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/333
+*************
+15/11/2021 18:54:33,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/334
+*************
+15/11/2021 18:54:34,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/335
+*************
+15/11/2021 18:54:34,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/336
+*************
+15/11/2021 18:54:34,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/337
+*************
+15/11/2021 18:54:34,ross,Nuevo Pedido IMPORTACION,AUTOMOTORS/338
+*************
+15/11/2021 18:55:19,ross,IMPRIMIR CONTRAORDEN,
+*************
+15/11/2021 18:55:33,ross,IMPRIMIR LISTA TRABAJO,
+*************
+15/11/2021 18:55:46,ross,IMPRIMIR HOJA TRABAJO,
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,WBC=33
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,NEU=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,LYM=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,MON=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,EOS=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,BASO=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,NEU%25=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,LYM%25=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,MON%25=3
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,EOS%25=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,BASO%25=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,RBC=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,HCT=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,HGB=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,MCV=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,MCH=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,MCHC=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,RDW-CV=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,RDW-SD=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,PLT=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,MPV=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,PDW=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,PCT=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,P-LCR=4
+*************
+15/11/2021 18:58:59,ross,GUARDA RESULTADOS,P-LCC=4
+*************
+15/11/2021 19:00:29,ross,GUARDA NOTA AREA,AREA EXAMEN =11/VALORES CONFIRMADOS
+*************
+15/11/2021 19:00:51,ross,VALIDACION RESULTADO,PEDIDO=314/400101
+*************
+15/11/2021 19:00:51,ross,VALIDACION RESULTADO,PEDIDO=314/400149
+*************
+15/11/2021 19:00:51,ross,VALIDACION RESULTADO,PEDIDO=314/400150
+*************
+15/11/2021 19:00:51,ross,VALIDACION RESULTADO,PEDIDO=314/400151
+*************
+15/11/2021 19:00:51,ross,VALIDACION RESULTADO,PEDIDO=314/400476
+*************
+15/11/2021 19:00:51,ross,VALIDACION RESULTADO,PEDIDO=314/401144
+*************
+15/11/2021 19:01:55,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 19:03:26,ross,IMPRIME TODO,PEDIDO=314
+*************
+15/11/2021 19:03:42,ross,IMPRIME POR EMAMEN,PEDIDO=314
+*************
+15/11/2021 19:04:04,ross,IMPRIME SOBRE,PEDIDO=314
+*************
+15/11/2021 19:06:49,ross,ENVIO CORREO PACIENTE,PEDIDO=314
+*************
+15/11/2021 20:07:04,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 20:07:04,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 20:07:12,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:07:35,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:08:03,ross,IMPRIME TODO,PEDIDO=314
+*************
+15/11/2021 20:10:33,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 20:10:34,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 20:10:45,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:13:55,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:16:42,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 20:16:43,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 20:16:51,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:19:35,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 20:19:37,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 20:19:43,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:22:45,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 20:22:46,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 20:22:52,ross,IMPRIME POR AREA,PEDIDO=314
+*************
+15/11/2021 20:24:46,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 20:24:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 20:25:10,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400101,401144,,PEDIDO=339
+*************
+15/11/2021 20:25:10,ross,02 IMPRIMIR COD BARRAS,PEDIDO=339
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,WBCH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,NEUH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,LYMH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,MONH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,EOSH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,BASOH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,NEU%25H=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,LYM%25H=22
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,MON%25H=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,EOS%25H=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,BASO%25H=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,RBCH=2
+*************
+15/11/2021 20:26:15,ross,GUARDA RESULTADOS,HCTH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,HGBH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,MCVH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,MCHH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,MCHCH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,RDW-CVH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,RDW-SDH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,PLTH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,MPVH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,PDWH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,PCTH=2
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,P-LCRH=
+*************
+15/11/2021 20:26:16,ross,GUARDA RESULTADOS,P-LCCH=
+*************
+15/11/2021 20:26:58,ross,VALIDACION RESULTADO,PEDIDO=339/400101
+*************
+15/11/2021 20:26:58,ross,VALIDACION RESULTADO,PEDIDO=339/401144
+*************
+15/11/2021 20:27:14,ross,IMPRIME POR AREA,PEDIDO=339
+*************
+15/11/2021 21:52:20,,Ingreso USUARIO,Busca tabla invitado
+*************
+15/11/2021 21:52:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+15/11/2021 21:55:00,ross,IMPRIME POR AREA,PEDIDO=339
+*************
+15/11/2021 21:56:01,ross,Actualiza Test,Test=ANTIGENO SARS
+*************
+15/11/2021 21:56:23,ross,IMPRIME POR AREA,PEDIDO=339
+*************
+16/11/2021 2:57:05,,Ingreso USUARIO,Busca tabla invitado
+*************
+16/11/2021 2:57:07,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+16/11/2021 2:57:16,ross,IMPRIME POR AREA,PEDIDO=339
+*************
+17/11/2021 16:55:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2021 16:55:55,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/11/2021 17:27:25,ross,IMPRIME POR AREA,PEDIDO=28247
+*************
+17/11/2021 17:58:55,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2021 17:58:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+17/11/2021 18:00:00,ross,IMPRIME POR AREA,PEDIDO=28270
+*************
+17/11/2021 18:07:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+17/11/2021 18:07:51,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2021 1:34:43,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2021 1:34:44,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2021 1:36:32,ross,Actualiza Test,Test=DETECCION SARS  COV2
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  NORMAL
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  URGENCIA
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  NOCHES
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  FYBECA
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  IESS
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  KIA
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  REFERIDOS
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  AUTOMOTORS
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  BIOMUJER
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  WESTER
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  TRUESOLUTIONS
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  FOSNECA
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  REVIR
+*************
+18/11/2021 1:37:23,ross,Nuevo Test en Lista de Precios,Test=1271 0  SUPER 12
+*************
+18/11/2021 1:37:23,ross,INGRESA TEST,TEST=INFORMACIÓN DEL PACIENTE
+*************
+18/11/2021 1:37:23,ross,Actualiza Test,Test=INFORMACIÓN DEL PACIENTE
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  NORMAL
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  URGENCIA
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  NOCHES
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  FYBECA
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  IESS
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  KIA
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  REFERIDOS
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  AUTOMOTORS
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  BIOMUJER
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  WESTER
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  TRUESOLUTIONS
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  FOSNECA
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  REVIR
+*************
+18/11/2021 1:38:21,ross,Nuevo Test en Lista de Precios,Test=1272 0  SUPER 12
+*************
+18/11/2021 1:38:21,ross,INGRESA TEST,TEST=DIAGNOSTICO INICIAL
+*************
+18/11/2021 1:38:21,ross,Actualiza Test,Test=DIAGNOSTICO INICIAL
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  NORMAL
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  URGENCIA
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  NOCHES
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  FYBECA
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  IESS
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  KIA
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  REFERIDOS
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  AUTOMOTORS
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  BIOMUJER
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  WESTER
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  TRUESOLUTIONS
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  FOSNECA
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  REVIR
+*************
+18/11/2021 1:39:19,ross,Nuevo Test en Lista de Precios,Test=1273 0  SUPER 12
+*************
+18/11/2021 1:39:19,ross,INGRESA TEST,TEST=LUGAR PROBABLE DE LA INFECCIÓN
+*************
+18/11/2021 1:39:19,ross,Actualiza Test,Test=LUGAR PROBABLE DE LA INFECCIÓN
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  NORMAL
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  URGENCIA
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  NOCHES
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  FYBECA
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  IESS
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  KIA
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  REFERIDOS
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  AUTOMOTORS
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  BIOMUJER
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  WESTER
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  TRUESOLUTIONS
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  FOSNECA
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  REVIR
+*************
+18/11/2021 1:40:06,ross,Nuevo Test en Lista de Precios,Test=1274 0  SUPER 12
+*************
+18/11/2021 1:40:06,ross,INGRESA TEST,TEST=FECHA PROBABLE DE INFECCIÓN
+*************
+18/11/2021 1:40:06,ross,Actualiza Test,Test=FECHA PROBABLE DE INFECCIÓN
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  NORMAL
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  URGENCIA
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  NOCHES
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  FYBECA
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  IESS
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  KIA
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  REFERIDOS
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  AUTOMOTORS
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  BIOMUJER
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  WESTER
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  TRUESOLUTIONS
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  FOSNECA
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  REVIR
+*************
+18/11/2021 1:41:06,ross,Nuevo Test en Lista de Precios,Test=1275 0  SUPER 12
+*************
+18/11/2021 1:41:06,ross,INGRESA TEST,TEST=LUGAR PROBABLE DE INFECCIÓN
+*************
+18/11/2021 1:41:06,ross,Actualiza Test,Test=LUGAR PROBABLE DE INFECCIÓN
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  NORMAL
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  URGENCIA
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  NOCHES
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  FYBECA
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  IESS
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  KIA
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  REFERIDOS
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  AUTOMOTORS
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  BIOMUJER
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  WESTER
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  TRUESOLUTIONS
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  FOSNECA
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  REVIR
+*************
+18/11/2021 1:41:50,ross,Nuevo Test en Lista de Precios,Test=1276 0  SUPER 12
+*************
+18/11/2021 1:41:50,ross,INGRESA TEST,TEST=PRUEBAS ANTERIORES
+*************
+18/11/2021 1:41:50,ross,Actualiza Test,Test=PRUEBAS ANTERIORES
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  NORMAL
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  URGENCIA
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  NOCHES
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  FYBECA
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  IESS
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  KIA
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  REFERIDOS
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  AUTOMOTORS
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  BIOMUJER
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  WESTER
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  TRUESOLUTIONS
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  FOSNECA
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  REVIR
+*************
+18/11/2021 1:42:59,ross,Nuevo Test en Lista de Precios,Test=1277 0  SUPER 12
+*************
+18/11/2021 1:42:59,ross,INGRESA TEST,TEST=MUESTRA
+*************
+18/11/2021 1:42:59,ross,Actualiza Test,Test=MUESTRA
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  NORMAL
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  URGENCIA
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  NOCHES
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  FYBECA
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  IESS
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  KIA
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  REFERIDOS
+*************
+18/11/2021 1:43:35,ross,Nuevo Test en Lista de Precios,Test=1278 0  AUTOMOTORS
+*************
+18/11/2021 1:43:36,ross,Nuevo Test en Lista de Precios,Test=1278 0  BIOMUJER
+*************
+18/11/2021 1:43:36,ross,Nuevo Test en Lista de Precios,Test=1278 0  WESTER
+*************
+18/11/2021 1:43:36,ross,Nuevo Test en Lista de Precios,Test=1278 0  TRUESOLUTIONS
+*************
+18/11/2021 1:43:36,ross,Nuevo Test en Lista de Precios,Test=1278 0  FOSNECA
+*************
+18/11/2021 1:43:36,ross,Nuevo Test en Lista de Precios,Test=1278 0  REVIR
+*************
+18/11/2021 1:43:36,ross,Nuevo Test en Lista de Precios,Test=1278 0  SUPER 12
+*************
+18/11/2021 1:43:36,ross,INGRESA TEST,TEST=TIPO DE MUESTRA
+*************
+18/11/2021 1:43:36,ross,Actualiza Test,Test=TIPO DE MUESTRA
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  NORMAL
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  URGENCIA
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  NOCHES
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  FYBECA
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  IESS
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  KIA
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  REFERIDOS
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  AUTOMOTORS
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  BIOMUJER
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  WESTER
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  TRUESOLUTIONS
+*************
+18/11/2021 1:44:14,ross,Nuevo Test en Lista de Precios,Test=1279 0  FOSNECA
+*************
+18/11/2021 1:44:15,ross,Nuevo Test en Lista de Precios,Test=1279 0  REVIR
+*************
+18/11/2021 1:44:15,ross,Nuevo Test en Lista de Precios,Test=1279 0  SUPER 12
+*************
+18/11/2021 1:44:15,ross,INGRESA TEST,TEST=MÉTODO
+*************
+18/11/2021 1:44:15,ross,Actualiza Test,Test=MÉTODO
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  NORMAL
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  URGENCIA
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  NOCHES
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  FYBECA
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  IESS
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  KIA
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  REFERIDOS
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  AUTOMOTORS
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  BIOMUJER
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  WESTER
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  TRUESOLUTIONS
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  FOSNECA
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  REVIR
+*************
+18/11/2021 1:44:57,ross,Nuevo Test en Lista de Precios,Test=1280 0  SUPER 12
+*************
+18/11/2021 1:44:57,ross,INGRESA TEST,TEST=RESULTADO  DEL ANALISIS
+*************
+18/11/2021 1:44:57,ross,Actualiza Test,Test=RESULTADO  DEL ANALISIS
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  NORMAL
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  URGENCIA
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  NOCHES
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  FYBECA
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  IESS
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  KIA
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  REFERIDOS
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  AUTOMOTORS
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  BIOMUJER
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  WESTER
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  TRUESOLUTIONS
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  FOSNECA
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  REVIR
+*************
+18/11/2021 1:45:50,ross,Nuevo Test en Lista de Precios,Test=1281 0  SUPER 12
+*************
+18/11/2021 1:45:50,ross,INGRESA TEST,TEST=Detección de Coronavirus SARS
+*************
+18/11/2021 1:45:50,ross,Actualiza Test,Test=Detección de Coronavirus SARS
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  NORMAL
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  URGENCIA
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  NOCHES
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  FYBECA
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  IESS
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  KIA
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  REFERIDOS
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  AUTOMOTORS
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  BIOMUJER
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  WESTER
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  TRUESOLUTIONS
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  FOSNECA
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  REVIR
+*************
+18/11/2021 1:47:07,ross,Nuevo Test en Lista de Precios,Test=1282 0  SUPER 12
+*************
+18/11/2021 1:47:07,ross,INGRESA TEST,TEST=INTERVALO DE REFERENCIA
+*************
+18/11/2021 1:47:07,ross,Actualiza Test,Test=INTERVALO DE REFERENCIA
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  NORMAL
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  URGENCIA
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  NOCHES
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  FYBECA
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  IESS
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  KIA
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  REFERIDOS
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  AUTOMOTORS
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  BIOMUJER
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  WESTER
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  TRUESOLUTIONS
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  FOSNECA
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  REVIR
+*************
+18/11/2021 1:49:27,ross,Nuevo Test en Lista de Precios,Test=1283 0  SUPER 12
+*************
+18/11/2021 1:49:27,ross,INGRESA TEST,TEST=SINTOMAS
+*************
+18/11/2021 1:49:27,ross,Actualiza Test,Test=SINTOMAS
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  NORMAL
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  URGENCIA
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  NOCHES
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  FYBECA
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  IESS
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  KIA
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  REFERIDOS
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  AUTOMOTORS
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  BIOMUJER
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  WESTER
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  TRUESOLUTIONS
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  FOSNECA
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  REVIR
+*************
+18/11/2021 1:50:45,ross,Nuevo Test en Lista de Precios,Test=1284 0  SUPER 12
+*************
+18/11/2021 1:50:45,ross,INGRESA TEST,TEST=OBSERVACIONES
+*************
+18/11/2021 1:50:45,ross,Actualiza Test,Test=OBSERVACIONES
+*************
+18/11/2021 1:51:45,ross,Actualiza Test,Test=COVID IgG - IgM (ACESS)
+*************
+18/11/2021 1:53:09,ross,Nueva Area,Area=INMUNOLOGIA
+*************
+18/11/2021 1:53:26,ross,Modifica USR,USR=2
+*************
+18/11/2021 1:53:32,ross,Modifica USR,USR=1
+*************
+18/11/2021 1:53:38,ross,Modifica USR,USR=3
+*************
+18/11/2021 1:53:42,ross,Modifica USR,USR=4
+*************
+18/11/2021 1:54:31,ross,Actualiza Test,Test=COVID IGG - IGM CUANTITATIVA
+*************
+18/11/2021 1:54:50,ross,Actualiza Test,Test=IGG ANTICUERPO
+*************
+18/11/2021 1:55:09,ross,Actualiza Test,Test=INTERPRETACION
+*************
+18/11/2021 1:55:24,ross,Actualiza Test,Test=IGM ANTICUERPO
+*************
+18/11/2021 1:55:38,ross,Actualiza Test,Test=INTERPRETACION
+*************
+18/11/2021 1:55:54,ross,Actualiza Test,Test=COVID IgG - IgM RAPIDA
+*************
+18/11/2021 1:56:33,ross,Actualiza Test,Test=Interpretación
+*************
+18/11/2021 1:56:51,ross,Actualiza Test,Test=ANTICUERPO IGG PRUEBA RAPIDA
+*************
+18/11/2021 1:57:04,ross,Actualiza Test,Test=ANTICUERPO IGM PRUEBA RAPIDA
+*************
+18/11/2021 1:58:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2021 1:58:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2021 2:00:16,ross,Actualiza Test,Test=GLUCOSA 6 FOSFATO DEHIDROGENASA
+*************
+18/11/2021 2:00:45,ross,Actualiza Test,Test=2019-nCoV IgG
+*************
+18/11/2021 2:00:53,ross,Actualiza Test,Test=2019-nCoVIgM
+*************
+18/11/2021 2:02:14,ross,Actualiza Test,Test=ALDOSTERONA
+*************
+18/11/2021 2:02:37,ross,Actualiza Test,Test=ANTI-HBs
+*************
+18/11/2021 2:03:07,ross,Actualiza Test,Test=ANTI CORE HEPATITIS B  IgM
+*************
+18/11/2021 2:04:41,ross,Actualiza Test,Test=ANTI CORE HEPATITIS B IgG
+*************
+18/11/2021 2:05:35,ross,Actualiza Test,Test=CATECOLAMINAS
+*************
+18/11/2021 2:07:14,ross,Actualiza Test,Test=HERPES I IGM 
+*************
+18/11/2021 2:07:32,ross,Actualiza Test,Test=HEMATOZOARIO MUESTRA 1 
+*************
+18/11/2021 2:07:44,ross,Actualiza Test,Test=HGH POST-ESTIMULO 
+*************
+18/11/2021 2:08:27,ross,Actualiza Test,Test=INVESTIGACIÓN ELASTASA-1 FECAL
+*************
+18/11/2021 2:09:46,ross,Actualiza Test,Test=SANGRE OCULTA FOB
+*************
+18/11/2021 2:10:11,ross,Actualiza Test,Test=T3 TOTAL
+*************
+18/11/2021 2:12:10,ross,Guardar palabra,PALABRA=CoV 2 POSITIVO
+*************
+18/11/2021 2:12:44,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=340
+*************
+18/11/2021 2:12:45,ross,02 IMPRIMIR COD BARRAS,PEDIDO=340
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,SINTCH=NO
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,LUGARDH=COMUNITARIO
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,FECHACOVH=15-11-2021
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,LUHAFEH=COMUNITARIO
+*************
+18/11/2021 2:13:58,ross,GUARDA RESULTADOS,PRUEBH=SI
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+18/11/2021 2:13:59,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+18/11/2021 2:14:04,ross,VALIDACION RESULTADO,PEDIDO=340/401144
+*************
+18/11/2021 2:14:35,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+18/11/2021 2:15:09,ross,Actualizar Rango Multiple,Test= 401144 Rango=
+*************
+18/11/2021 2:16:03,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+18/11/2021 12:19:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2021 12:19:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2021 12:19:33,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+18/11/2021 20:07:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+18/11/2021 20:07:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+18/11/2021 20:07:45,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+19/11/2021 9:47:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2021 9:47:08,,Ingreso CONTRASEÑA FALLIDO,
+*************
+19/11/2021 9:47:08,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2021 9:47:10,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+19/11/2021 9:47:27,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+19/11/2021 10:59:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+19/11/2021 10:59:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/11/2021 19:59:51,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2021 19:59:53,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/11/2021 20:00:12,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+20/11/2021 20:09:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2021 20:09:29,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+20/11/2021 20:09:42,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+20/11/2021 21:38:40,,Ingreso USUARIO,Busca tabla invitado
+*************
+20/11/2021 21:38:41,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 0:09:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2021 0:09:26,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 0:09:42,ross,IMPRIME POR AREA,PEDIDO=281
+*************
+21/11/2021 0:09:55,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+21/11/2021 17:56:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2021 17:56:48,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 17:58:50,ross,IMPRIME POR AREA,PEDIDO=6106
+*************
+21/11/2021 18:03:08,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2021 18:03:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 18:17:06,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2021 18:17:09,,Ingreso CONTRASEÑA FALLIDO,
+*************
+21/11/2021 18:17:09,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 18:17:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 19:01:56,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2021 19:01:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 19:04:57,,Ingreso USUARIO,Busca tabla invitado
+*************
+21/11/2021 19:04:57,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+21/11/2021 19:05:52,ross,IMPRIME POR AREA,PEDIDO=6107
+*************
+22/11/2021 17:09:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/11/2021 17:09:21,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/11/2021 17:09:41,ross,IMPRIME POR AREA,PEDIDO=6168
+*************
+22/11/2021 20:28:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/11/2021 20:28:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/11/2021 20:37:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/11/2021 20:37:28,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/11/2021 20:48:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/11/2021 20:48:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+22/11/2021 20:55:48,,Ingreso USUARIO,Busca tabla invitado
+*************
+22/11/2021 20:55:54,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 8:43:25,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 8:43:27,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 8:48:19,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 8:48:20,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 8:49:11,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+23/11/2021 8:55:29,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 8:55:30,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 8:55:51,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+23/11/2021 9:10:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 9:10:24,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 9:13:06,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+23/11/2021 9:16:14,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 9:16:15,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 9:16:27,ross,IMPRIME POR AREA,PEDIDO=340
+*************
+23/11/2021 11:52:47,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 11:52:47,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 15:40:44,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 15:40:45,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+23/11/2021 15:40:58,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 401144,,PEDIDO=341
+*************
+23/11/2021 15:40:58,ross,02 IMPRIMIR COD BARRAS,PEDIDO=341
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,SINTCH=NO
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,LUGARDH=UIO
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,FECHACOVH=
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,LUHAFEH=
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,PRUEBH=
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+23/11/2021 15:41:19,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+23/11/2021 15:41:25,ross,VALIDACION RESULTADO,PEDIDO=341/401144
+*************
+23/11/2021 18:02:31,,Ingreso USUARIO,Busca tabla invitado
+*************
+23/11/2021 18:02:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 15:47:16,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2021 15:47:17,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 15:50:03,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,400123,400140,400101,401144,400185,400186,400295,,PEDIDO=342
+*************
+24/11/2021 15:50:03,ross,02 IMPRIMIR COD BARRAS,PEDIDO=342
+*************
+24/11/2021 15:51:49,ross,GUARDA RESULTADOS,WBCH=3
+*************
+24/11/2021 15:51:49,ross,GUARDA RESULTADOS,NEUH=3
+*************
+24/11/2021 15:51:49,ross,GUARDA RESULTADOS,LYMH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,MONH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,EOSH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,BASOH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,NEU%25H=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,LYM%25H=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,MON%25H=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,EOS%25H=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,BASO%25H=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,RBCH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,HCTH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,HGBH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,MCVH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,MCHH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,MCHCH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,RDW-CVH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,RDW-SDH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,PLTH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,MPVH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,PDWH=
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,PCTH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,P-LCRH=3
+*************
+24/11/2021 15:51:50,ross,GUARDA RESULTADOS,P-LCCH=3
+*************
+24/11/2021 15:51:52,ross,GUARDA RESULTADOS,BHH=
+*************
+24/11/2021 15:53:22,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2021 15:53:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 15:53:47,ross,GUARDA RESULTADOS,INOFRMH=-INFORMACIÓN DEL PACIENTE-
+*************
+24/11/2021 15:53:47,ross,GUARDA RESULTADOS,DIAGNNSH=COVID
+*************
+24/11/2021 15:53:47,ross,GUARDA RESULTADOS,SINTCH=
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,LUGARDH=
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,FECHACOVH=
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,LUHAFEH=
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,PRUEBH=
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,MUESCOVH=-MUESTRA-
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,TIPOBH=HISOPADO NASOFARINGEO
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,METCOH=INMUNOCROMATOGRAFIA
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,RESUALH=-RESULTADO  DEL ANALISIS-
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,DETECSAH=CoV 2 NEGATIVO
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,INTERVA REFEH=POSITIVO/NEGATIVO
+*************
+24/11/2021 15:53:48,ross,GUARDA RESULTADOS,OBSERVDEH=-OBSERVACIONES-
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400123
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400140
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400149
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400150
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400151
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400185
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400186
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/400476
+*************
+24/11/2021 15:53:54,ross,VALIDACION RESULTADO,PEDIDO=342/401144
+*************
+24/11/2021 15:54:57,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+24/11/2021 15:55:13,ross,ENVIO CORREO PACIENTE,PEDIDO=342
+*************
+24/11/2021 15:59:53,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+24/11/2021 16:00:12,ross,ENVIO CORREO PACIENTE,PEDIDO=342
+*************
+24/11/2021 16:04:05,ross,Actualiza Paciente,Paciente=FLORES NARANJO ROSSVAN EMILIO
+*************
+24/11/2021 16:06:26,ross,ENVIO CORREO PACIENTE,PEDIDO=342
+*************
+24/11/2021 16:20:27,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2021 16:23:03,,Ingreso CONTRASEÑA FALLIDO,
+*************
+24/11/2021 16:23:03,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 16:23:29,,Ingreso CONTRASEÑA FALLIDO,
+*************
+24/11/2021 16:23:29,,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 16:23:31,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 16:24:40,ross,ENVIO CORREO PACIENTE,PEDIDO=342
+*************
+24/11/2021 16:25:24,,Ingreso USUARIO,Busca tabla invitado
+*************
+24/11/2021 16:25:25,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+24/11/2021 16:25:55,ross,ENVIO CORREO PACIENTE,PEDIDO=342
+*************
+26/11/2021 9:20:54,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2021 9:20:56,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/11/2021 9:29:32,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2021 9:29:32,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/11/2021 9:31:09,,Ingreso USUARIO,Busca tabla invitado
+*************
+26/11/2021 9:31:09,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+26/11/2021 9:32:12,ross,01 GENERAR ORDEN  ISA EXAMENES: 400122,,PEDIDO=9095
+*************
+26/11/2021 9:32:13,ross,02 IMPRIMIR COD BARRAS,PEDIDO=9095
+*************
+29/11/2021 10:34:21,,Ingreso USUARIO,Busca tabla invitado
+*************
+29/11/2021 10:34:23,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+29/11/2021 10:34:55,ross,01 GENERAR ORDEN  NORMAL EXAMENES: 400149,400150,400476,400151,401104,400140,400141,,PEDIDO=343
+*************
+29/11/2021 10:34:56,ross,02 IMPRIMIR COD BARRAS,PEDIDO=343
+*************
+29/11/2021 10:35:26,ross,1 MODIFICA ORDENNOCHES,PEDIDO=343
+*************
+30/11/2021 22:25:07,,Ingreso USUARIO,Busca tabla invitado
+*************
+30/11/2021 22:25:08,ross,Ingreso CONTRASEÑA,Busca tabla invitado
+*************
+30/11/2021 22:25:25,ross,IMPRIME POR AREA,PEDIDO=341
+*************
+30/11/2021 22:25:51,ross,IMPRIME POR AREA,PEDIDO=341
+*************
