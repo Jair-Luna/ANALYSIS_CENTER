@@ -130,6 +130,7 @@ Public Class Frm_Main
         Me.Label1 = New System.Windows.Forms.Label
         Me.Pic_barra = New System.Windows.Forms.PictureBox
         Me.Pan_Menu = New System.Windows.Forms.Panel
+        Me.btn_menu1 = New System.Windows.Forms.Button
         Me.btn_monitor = New System.Windows.Forms.Button
         Me.btn_menu7 = New System.Windows.Forms.Button
         Me.btn_menu5 = New System.Windows.Forms.Button
@@ -144,7 +145,6 @@ Public Class Frm_Main
         Me.btn_menu4 = New System.Windows.Forms.Button
         Me.btn_menu3 = New System.Windows.Forms.Button
         Me.btn_menu2 = New System.Windows.Forms.Button
-        Me.btn_menu1 = New System.Windows.Forms.Button
         Me.Splitter = New System.Windows.Forms.Splitter
         Me.sta_panel_fecha = New System.Windows.Forms.StatusBarPanel
         Me.sta_panes_mensaje = New System.Windows.Forms.StatusBarPanel
@@ -326,6 +326,23 @@ Public Class Frm_Main
         Me.Pan_Menu.RightToLeft = System.Windows.Forms.RightToLeft.Yes
         Me.Pan_Menu.Size = New System.Drawing.Size(1357, 53)
         Me.Pan_Menu.TabIndex = 83
+        '
+        'btn_menu1
+        '
+        Me.btn_menu1.BackColor = System.Drawing.Color.White
+        Me.btn_menu1.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_menu1.FlatStyle = System.Windows.Forms.FlatStyle.System
+        Me.btn_menu1.Font = New System.Drawing.Font("Verdana", 6.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_menu1.ForeColor = System.Drawing.Color.Black
+        Me.btn_menu1.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
+        Me.btn_menu1.Location = New System.Drawing.Point(521, 0)
+        Me.btn_menu1.Name = "btn_menu1"
+        Me.btn_menu1.Size = New System.Drawing.Size(120, 50)
+        Me.btn_menu1.TabIndex = 1
+        Me.btn_menu1.TabStop = False
+        Me.btn_menu1.Tag = "1"
+        Me.btn_menu1.Text = "ORDENES"
+        Me.btn_menu1.UseVisualStyleBackColor = False
         '
         'btn_monitor
         '
@@ -513,23 +530,6 @@ Public Class Frm_Main
         Me.btn_menu2.Tag = "3"
         Me.btn_menu2.Text = "RESULTADOS"
         Me.btn_menu2.UseVisualStyleBackColor = False
-        '
-        'btn_menu1
-        '
-        Me.btn_menu1.BackColor = System.Drawing.Color.White
-        Me.btn_menu1.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_menu1.FlatStyle = System.Windows.Forms.FlatStyle.System
-        Me.btn_menu1.Font = New System.Drawing.Font("Verdana", 6.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_menu1.ForeColor = System.Drawing.Color.Black
-        Me.btn_menu1.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
-        Me.btn_menu1.Location = New System.Drawing.Point(521, 0)
-        Me.btn_menu1.Name = "btn_menu1"
-        Me.btn_menu1.Size = New System.Drawing.Size(120, 50)
-        Me.btn_menu1.TabIndex = 1
-        Me.btn_menu1.TabStop = False
-        Me.btn_menu1.Tag = "1"
-        Me.btn_menu1.Text = "ORDENES"
-        Me.btn_menu1.UseVisualStyleBackColor = False
         '
         'Splitter
         '
@@ -1299,7 +1299,7 @@ Public Class Frm_Main
 
                         Case "lnk_menu04"
                             If Not ExisteForm("Frm_Agenda") Then
-                                Dim FrM_MDIChild As New Frm_Agenda()
+                                Dim FrM_MDIChild As New Frm_Agenda
 
                                 FrM_MDIChild.frm_refer_main_form = Me.ParentForm
                                 FrM_MDIChild.Tag = 0
@@ -1865,7 +1865,7 @@ Public Class Frm_Main
         '-- menu de hijos --
 
         str_menu(0) = "lnk_menu01, Codigo de Barras, 1.1., 0"
-        str_menu(1) = "lnk_menu02, Facturacion                >, 1.2, 1"
+        str_menu(1) = "lnk_menu02, Facturacion      >, 1.2, 1"
         str_menu(2) = "lnk_menu03, Ordenes, 1.3., 2"
         str_menu(3) = "lnk_menu04, Agenda, 1.4., 3"
         str_menu(4) = "lnk_menu29, Pre Carga, 1.5., 4"
@@ -2051,6 +2051,4 @@ Public Class Frm_Main
         actualizaCalendario(Dtp_ped_fecing.Value)
         Call actualizaSemaforo(Dtp_ped_fecing.Value)
     End Sub
-
-
 End Class

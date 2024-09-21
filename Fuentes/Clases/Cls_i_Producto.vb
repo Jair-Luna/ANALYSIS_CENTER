@@ -111,7 +111,7 @@ MsgError:
         Dim opr_conexion As New Cls_Conexion()
         opr_conexion.sql_conectar()
         Dim odc_pedido As SqlCommand = New SqlCommand("Insert into I_PRODUCTO values ('" & i_prd_id & "', '" & _
-            i_prd_descripcion & "', " & i_prd_exist_min & ", " & i_prd_exist_max & ", '" & Trim(i_uni_id) & "', '" & Trim(i_moc_id) & "', " & i_prd_perecible & " , " & g_division & ", " & cplazo & ", " & lplazo & ", " & are_id & ", " & PRES_ID & ", " & i_prd_frascos & ", " & SER_ID & ", '" & ABREV & "')", opr_conexion.conn_sql)
+            i_prd_descripcion & "', " & i_prd_exist_min & ", " & i_prd_exist_max & ", '" & Trim(i_uni_id) & "', '" & Trim(i_moc_id) & "', " & i_prd_perecible & " , " & 1 & ", " & cplazo & ", " & lplazo & ", " & are_id & ", " & PRES_ID & ", " & i_prd_frascos & ", " & SER_ID & ", '" & ABREV & "')", opr_conexion.conn_sql)
         odc_pedido.ExecuteNonQuery()
         opr_conexion.sql_desconn()
         opr_negocio.VisualizaMensaje("Datos almacenados", g_tiempo)

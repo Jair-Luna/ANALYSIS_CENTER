@@ -7790,6 +7790,7 @@ MsgError:
     End Sub
 
     Public Function GestionaTTO(ByVal Age_id As Integer, ByVal med_id As Integer, ByVal pac_id As Integer, ByVal I_prd_id As String, ByVal ser_cantidad As Decimal, ByVal tto_fecha As String, ByVal vac_lote As String, ByVal TTO_COSTO As Decimal, ByVal SERIE_ID As String, ByVal tipoTx As String, ByVal ventana_tipo As Integer, ByVal TTO_PROCESO As String) As Boolean
+
         On Error GoTo MsgError
         Dim opr_Conexion As New Cls_Conexion()
         Dim opr_trabajo As New Cls_Trabajo()

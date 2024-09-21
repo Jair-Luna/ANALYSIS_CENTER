@@ -105,12 +105,12 @@ C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.rpt_entregaresultad
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.rpt_entregaresultadosHOJA.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.Resources.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\ANALISYSCENTER_SQL.vbproj.GenerateResource.Cache
+C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AnalisysLAB.exe.config
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.TrustInfo.xml
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.exe.manifest
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.application
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\Fuentes\Reportes\rpt_entregaContinua.rpt
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\Fuentes\Reportes\rpt_entregaContinua.vb
-C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AnalisysLAB.exe.config
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AnalisysLAB.exe.manifest
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AnalisysLAB.application
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.exe

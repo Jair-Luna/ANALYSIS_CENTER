@@ -98,6 +98,9 @@ Public Class frm_i_Productos
         Me.btn_Eliminar = New System.Windows.Forms.Button
         Me.btn_Aceptar = New System.Windows.Forms.Button
         Me.grp_productos = New System.Windows.Forms.GroupBox
+        Me.Ctl_txt_id = New Ctl_txt.ctl_txt_letras
+        Me.txt_Abrev = New System.Windows.Forms.TextBox
+        Me.Label7 = New System.Windows.Forms.Label
         Me.cmb_Presentacion = New System.Windows.Forms.ComboBox
         Me.Label6 = New System.Windows.Forms.Label
         Me.cmb_serie = New System.Windows.Forms.ComboBox
@@ -118,7 +121,6 @@ Public Class frm_i_Productos
         Me.cmb_MConservacion = New System.Windows.Forms.ComboBox
         Me.cmb_unidad = New System.Windows.Forms.ComboBox
         Me.Ctl_txt_ex_min = New Ctl_txt.ctl_txt_numeros
-        Me.Ctl_txt_id = New Ctl_txt.ctl_txt_letras
         Me.lbl_id = New System.Windows.Forms.Label
         Me.lbl_desc = New System.Windows.Forms.Label
         Me.lbl_exist_max = New System.Windows.Forms.Label
@@ -142,13 +144,11 @@ Public Class frm_i_Productos
         Me.DataGridTextBoxColumn11 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn12 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn13 = New System.Windows.Forms.DataGridTextBoxColumn
+        Me.DataGridTextBoxColumn14 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.btn_reportes = New System.Windows.Forms.Button
         Me.rbtn_nombre = New System.Windows.Forms.RadioButton
         Me.rbtn_codigo = New System.Windows.Forms.RadioButton
         Me.txt_filtro = New System.Windows.Forms.TextBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.txt_Abrev = New System.Windows.Forms.TextBox
-        Me.DataGridTextBoxColumn14 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.grp_productos.SuspendLayout()
         CType(Me.dgrd_Productos, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -259,6 +259,41 @@ Public Class frm_i_Productos
         Me.grp_productos.Size = New System.Drawing.Size(602, 209)
         Me.grp_productos.TabIndex = 0
         Me.grp_productos.TabStop = False
+        '
+        'Ctl_txt_id
+        '
+        Me.Ctl_txt_id.Enabled = False
+        Me.Ctl_txt_id.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Ctl_txt_id.ForeColor = System.Drawing.Color.Black
+        Me.Ctl_txt_id.Location = New System.Drawing.Point(551, 16)
+        Me.Ctl_txt_id.Name = "Ctl_txt_id"
+        Me.Ctl_txt_id.Prp_CaracterEspecial = New String() {"'"}
+        Me.Ctl_txt_id.Prp_CaracterPasswd = ""
+        Me.Ctl_txt_id.Prp_TipoLetra = Ctl_txt.ctl_txt_letras.ValoresTipoLetra.Independiente
+        Me.Ctl_txt_id.Size = New System.Drawing.Size(45, 21)
+        Me.Ctl_txt_id.TabIndex = 2
+        '
+        'txt_Abrev
+        '
+        Me.txt_Abrev.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txt_Abrev.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_Abrev.Location = New System.Drawing.Point(372, 17)
+        Me.txt_Abrev.MaxLength = 150
+        Me.txt_Abrev.Multiline = True
+        Me.txt_Abrev.Name = "txt_Abrev"
+        Me.txt_Abrev.Size = New System.Drawing.Size(81, 20)
+        Me.txt_Abrev.TabIndex = 64
+        '
+        'Label7
+        '
+        Me.Label7.BackColor = System.Drawing.Color.Transparent
+        Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label7.ForeColor = System.Drawing.Color.Black
+        Me.Label7.Location = New System.Drawing.Point(317, 19)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(52, 18)
+        Me.Label7.TabIndex = 63
+        Me.Label7.Text = "CODIGO"
         '
         'cmb_Presentacion
         '
@@ -475,19 +510,6 @@ Public Class frm_i_Productos
         Me.Ctl_txt_ex_min.Prp_ValDefault = "0"
         Me.Ctl_txt_ex_min.Size = New System.Drawing.Size(50, 21)
         Me.Ctl_txt_ex_min.TabIndex = 9
-        '
-        'Ctl_txt_id
-        '
-        Me.Ctl_txt_id.Enabled = False
-        Me.Ctl_txt_id.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Ctl_txt_id.ForeColor = System.Drawing.Color.Black
-        Me.Ctl_txt_id.Location = New System.Drawing.Point(551, 16)
-        Me.Ctl_txt_id.Name = "Ctl_txt_id"
-        Me.Ctl_txt_id.Prp_CaracterEspecial = New String() {"'"}
-        Me.Ctl_txt_id.Prp_CaracterPasswd = ""
-        Me.Ctl_txt_id.Prp_TipoLetra = Ctl_txt.ctl_txt_letras.ValoresTipoLetra.Independiente
-        Me.Ctl_txt_id.Size = New System.Drawing.Size(45, 21)
-        Me.Ctl_txt_id.TabIndex = 2
         '
         'lbl_id
         '
@@ -725,6 +747,14 @@ Public Class frm_i_Productos
         Me.DataGridTextBoxColumn13.NullText = "0"
         Me.DataGridTextBoxColumn13.Width = 0
         '
+        'DataGridTextBoxColumn14
+        '
+        Me.DataGridTextBoxColumn14.Format = ""
+        Me.DataGridTextBoxColumn14.FormatInfo = Nothing
+        Me.DataGridTextBoxColumn14.HeaderText = "CODIGO"
+        Me.DataGridTextBoxColumn14.MappingName = "I_PRD_ABREV"
+        Me.DataGridTextBoxColumn14.Width = 80
+        '
         'btn_reportes
         '
         Me.btn_reportes.BackColor = System.Drawing.SystemColors.Control
@@ -775,36 +805,6 @@ Public Class frm_i_Productos
         Me.txt_filtro.Name = "txt_filtro"
         Me.txt_filtro.Size = New System.Drawing.Size(461, 21)
         Me.txt_filtro.TabIndex = 0
-        '
-        'Label7
-        '
-        Me.Label7.BackColor = System.Drawing.Color.Transparent
-        Me.Label7.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.ForeColor = System.Drawing.Color.Black
-        Me.Label7.Location = New System.Drawing.Point(317, 19)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(52, 18)
-        Me.Label7.TabIndex = 63
-        Me.Label7.Text = "CODIGO"
-        '
-        'txt_Abrev
-        '
-        Me.txt_Abrev.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.txt_Abrev.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_Abrev.Location = New System.Drawing.Point(372, 17)
-        Me.txt_Abrev.MaxLength = 150
-        Me.txt_Abrev.Multiline = True
-        Me.txt_Abrev.Name = "txt_Abrev"
-        Me.txt_Abrev.Size = New System.Drawing.Size(81, 20)
-        Me.txt_Abrev.TabIndex = 64
-        '
-        'DataGridTextBoxColumn14
-        '
-        Me.DataGridTextBoxColumn14.Format = ""
-        Me.DataGridTextBoxColumn14.FormatInfo = Nothing
-        Me.DataGridTextBoxColumn14.HeaderText = "CODIGO"
-        Me.DataGridTextBoxColumn14.MappingName = "I_PRD_ABREV"
-        Me.DataGridTextBoxColumn14.Width = 80
         '
         'frm_i_Productos
         '
@@ -1082,6 +1082,7 @@ Public Class frm_i_Productos
         On Error Resume Next
         Ctl_txt_id.texto_Asigna("")
         txt_desc.Text = ""
+        txt_Abrev.Text = ""
         Ctl_txt_cplazo.texto_Asigna("0")
         Ctl_txt_lplazo.texto_Asigna("0")
         Ctl_txt_ex_min.texto_Asigna("")
@@ -1092,9 +1093,9 @@ Public Class frm_i_Productos
     End Sub
 
     Private Sub btn_Aceptar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Aceptar.Click
-        If (Ctl_txt_id.texto_Recupera = "") Then
-            MsgBox("Ingrese el código del producto", MsgBoxStyle.Information, "ANALISYS")
-            Ctl_txt_id.Focus()
+        If (txt_Abrev.Text = "") Then
+            MsgBox("Por favor ingrese el código del producto", MsgBoxStyle.Information, "ANALISYS")
+            txt_Abrev.Focus()
             Exit Sub
         End If
         If (txt_desc.Text = "") Then
@@ -1115,6 +1116,7 @@ Public Class frm_i_Productos
             opr_negocio.VisualizaMensaje("Debe llenar los datos de unidad, perecible, modo de conservación", g_tiempo)
             Exit Sub
         End If
+
         'Verifico que no exista otra producto con el mismo código
         If (opr_i_producto.BuscarProducto(Ctl_txt_id.texto_Recupera) = True And boo_flag = True) Then
             '''MsgBox("El código ingresado ya existe, ingrese otro", MsgBoxStyle.Exclamation, "ANALISYS")
@@ -1122,6 +1124,7 @@ Public Class frm_i_Productos
             Ctl_txt_id.Focus()
             Exit Sub
         End If
+
         If boo_flag = True Then
             '*** Si se trata de un nuevo PRODUCTO
             Ctl_txt_id.texto_Asigna(CStr(opr_i_producto.LeerMaxIdPrd()))
@@ -1138,19 +1141,25 @@ Public Class frm_i_Productos
                 Exit Sub
             End If
         End If
+
         opr_i_producto.LeerProductos(g_division, dtv_producto)
         'dgrd_Productos.SetDataBinding(opr_i_producto.LeerProductos1(g_division), "Registros")
         Call limpiarCampos()
         Habilitabtn()
         txt_filtro.Text = ""
+
     End Sub
 
     Private Sub dgrd_Productos_CurrentCellChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles dgrd_Productos.CurrentCellChanged
+
         Call limpiarCampos()
         dgrd_Productos.Select(dgrd_Productos.CurrentCell.RowNumber)
+
         InaHabilitabtn()
+
         btn_Eliminar.Enabled = True
         btn_Nuevo.Enabled = True
+
         Ctl_txt_id.Focus()
         Ctl_txt_id.texto_Asigna(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 0))
         Ctl_txt_id.Tag = dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 0)
@@ -1158,11 +1167,13 @@ Public Class frm_i_Productos
         Ctl_txt_ex_min.texto_Asigna(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 2))
         Ctl_txt_ex_max.texto_Asigna(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 3))
         cmb_perecible.SelectedIndex = dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 6)
+
         If IsDBNull(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 7)) Then
             Ctl_txt_cplazo.texto_Asigna("")
         Else
             Ctl_txt_cplazo.texto_Asigna(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 7))
         End If
+
         If IsDBNull(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 8)) Then
             Ctl_txt_lplazo.texto_Asigna("")
         Else
@@ -1170,6 +1181,7 @@ Public Class frm_i_Productos
         End If
 
         Dim int_i As Integer
+
         For int_i = 0 To (cmb_unidad.Items.Count - 1)
             cmb_unidad.SelectedIndex = int_i
             If (Trim(cmb_unidad.Text.Substring(100, 10)) = dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 4)) Then
@@ -1182,6 +1194,7 @@ Public Class frm_i_Productos
                 Exit For
             End If
         Next
+
         'SELECCIONA EN EL COMBO DE DIVISION LA DIVISION A LA QUE PERTENECE EL PRODUCTO.
         For int_i = 0 To (cmb_div.Items.Count - 1)
             cmb_div.SelectedIndex = int_i
@@ -1189,27 +1202,19 @@ Public Class frm_i_Productos
                 Exit For
             End If
         Next
+
         Dim area_nombre As String = Nothing
         Dim serie_nombre As String = Nothing
         Dim PRES_DESCRIPCION As String = Nothing
 
-
         area_nombre = opr_Area.I_AreaNombre(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 9))
         cmb_Area.Text = Mid(area_nombre, 1, 50) & Trim(Mid(area_nombre, 51, 5))
-
         cmb_Frascos.Text = dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 13)
-
         serie_nombre = opr_Area.I_SerieNombre(CInt(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 14)))
-
         cmb_serie.Text = Mid(serie_nombre, 1, 100) & Mid(serie_nombre, 101, 10)
-
         PRES_DESCRIPCION = opr_Area.PRES_ID_Nombre(dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 15))
-
-
         cmb_Presentacion.Text = Mid(PRES_DESCRIPCION, 1, 100) & Mid(PRES_DESCRIPCION, 101, 10)
-
         txt_Abrev.Text = dgrd_Productos.Item(dgrd_Productos.CurrentCell.RowNumber, 16)
-
 
         boo_flag = False  'Para saber que se puede actualizar 
         Dim dgc_celda As DataGridCell
@@ -1291,6 +1296,5 @@ Public Class frm_i_Productos
         End If
     End Sub
 
-    
 End Class
 

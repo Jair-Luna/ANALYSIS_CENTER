@@ -31,6 +31,7 @@ Public Class Frm_Agenda
         opr_res.llenaListaRecomendacion(chkl_recom)
         'cmb_tratante.Text = "LABORATORIO"
 
+        NomPac = "Paciente prueba"
         lbl_paciente.Text = NomPac.PadRight(20)
         lbl_Fecha.Text = Format(cal1.SelectionRange.Start, "dddd, dd MMMM yyyy")
         dgrd_Cal.DataSource = dtv_agenda

@@ -579,6 +579,7 @@ MsgError:
 
         cls_operacion.odbc_desconn()
         Exit Function
+
 MsgError:
         g_opr_usuario.MensajeBoxError("No se pudo realizar la operacin solicitada, Consulta TIPO CERTIFICADO", Err)
         Err.Clear()

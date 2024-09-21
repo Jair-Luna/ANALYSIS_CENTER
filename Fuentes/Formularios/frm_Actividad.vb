@@ -199,6 +199,7 @@ Public Class frm_Actividad
                     End If
                     'Next
                 End If
+
             Case "HORA"
                 If opr_agenda.ExisteActividad(Format(fechaSeleccionadaCal, "dd/MM/yyyy"), cmb_Hora.Text, "HORA", med_id, Trim(cmb_Hora.Text), motivo) > 0 Then
                     opr_pedido.VisualizaMensaje("No se puede reservar, existen agendas a las " & Mid(motivo, 1, motivo.Length - 1), 450)
@@ -208,14 +209,12 @@ Public Class frm_Actividad
 
                     Dim indiceIni As Integer = cmb_Hora.SelectedIndex
                     Dim indiceFin As Integer = cmb_HoraFin.SelectedIndex
-
                     Dim intervalo As Integer = indiceFin - indiceIni
                     Dim arre_datos As String()
                     Dim datos_Fin As String
                     Dim valor As String
 
                     For k = indiceIni To indiceFin
-
                         datos_Fin = datos_Fin & cmb_Hora.Items(indiceIni).ToString() & "º"
                         indiceIni = indiceIni + 1
                     Next

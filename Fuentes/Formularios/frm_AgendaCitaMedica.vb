@@ -41,6 +41,8 @@ Public Class frm_AgendaCitaMedica
     Public med_Despacho As Integer
     Dim var_label As String
     Dim Var_Vergrupo As Boolean
+    Dim es_cliente As Boolean
+
 
 
 
@@ -490,10 +492,14 @@ Public Class frm_AgendaCitaMedica
 
     Private Sub dgv_Medico_CellClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgv_Medico.CellClick
 
+        'System.Console.WriteLine(dgv_Medico.CurrentRow.Cells("med_id").Value)
+
         If dgv_Medico.CurrentRow.Cells("med_id").Value <> 15 Then
             btn_certificadoM.Enabled = True
+            es_cliente = 1
         Else
             btn_certificadoM.Enabled = False
+            es_cliente = 0
         End If
 
         If med_Despacho <> CInt(dgv_Medico.CurrentRow.Cells("med_id").Value) Then
@@ -1314,6 +1320,8 @@ Public Class frm_AgendaCitaMedica
 
         cert_tipo = obtieneCert_Tipo(cer_id)
 
+        System.Console.WriteLine(es_cliente)
+
         Select Case cer_id
             Case 1 : texto = "Certifico que el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " se presento el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " a la consulta de especialidad de alergia, y se encuentra recibiendo tratamiento."
 
@@ -1417,9 +1425,18 @@ Public Class frm_AgendaCitaMedica
 
         Select Case cer_id
             Case 1, 2, 3, 4
-                str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
-                "from vacunaTratamiento as vt, agenda as a " & _
+
+                If es_cliente = True Then
+                    str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                "from TratamientoCliente as vt, agenda as a " & _
                 "WHERE vt.AGE_ID = a.age_id and a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
+                Else
+                    str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                "from TratamientoPaciente as vt, agenda as a " & _
+                "WHERE vt.AGE_ID = a.age_id and a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
+                End If
+
+                
             Case 5
                 str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
                 "from agenda as a " & _
@@ -1837,4 +1854,5 @@ Public Class frm_AgendaCitaMedica
         End If
        
     End Sub
+
 End Class
