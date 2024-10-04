@@ -1510,7 +1510,12 @@ Public Class frm_ConsultaMedico
                 txt_HipDiagnostica.ReadOnly = True
 
             Next
+
             actualizaDtsMedicoTratante(Age_Id, med_id)
+
+            Dim datosReceta As cls_DatosCompartidos = cls_DatosCompartidos.obtenerInstancia()
+            datosReceta.limpiarArreglo()
+
             opr_pedido.VisualizaMensaje("Consulta médica CERRADA TOTALMENTE ", 200)
         Else
 

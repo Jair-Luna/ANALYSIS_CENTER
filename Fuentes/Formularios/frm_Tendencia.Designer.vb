@@ -56,11 +56,19 @@ Partial Class frm_Tendencia
         Me.Label8 = New System.Windows.Forms.Label
         Me.dgv_ConsDiarioA = New System.Windows.Forms.DataGridView
         Me.TabMenCliente = New System.Windows.Forms.TabPage
+        Me.dgv_CAnualTODO_cli = New System.Windows.Forms.DataGridView
+        Me.Label14 = New System.Windows.Forms.Label
+        Me.Label15 = New System.Windows.Forms.Label
+        Me.Label16 = New System.Windows.Forms.Label
+        Me.dgv_CAnualN_cli = New System.Windows.Forms.DataGridView
+        Me.dgv_CAnualA_cli = New System.Windows.Forms.DataGridView
         Me.Label10 = New System.Windows.Forms.Label
         Me.Label11 = New System.Windows.Forms.Label
         Me.dgv_ConsumoN_cli = New System.Windows.Forms.DataGridView
         Me.dgv_ConsumoA_cli = New System.Windows.Forms.DataGridView
         Me.TabDiaCliente = New System.Windows.Forms.TabPage
+        Me.Btn_ImprimirMes_cli = New System.Windows.Forms.Button
+        Me.cmb_Mes_cli = New System.Windows.Forms.ComboBox
         Me.Label12 = New System.Windows.Forms.Label
         Me.dgv_ConsDiarioNCli = New System.Windows.Forms.DataGridView
         Me.Label13 = New System.Windows.Forms.Label
@@ -82,6 +90,9 @@ Partial Class frm_Tendencia
         CType(Me.dgv_ConsDiarioN, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgv_ConsDiarioA, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabMenCliente.SuspendLayout()
+        CType(Me.dgv_CAnualTODO_cli, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgv_CAnualN_cli, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgv_CAnualA_cli, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgv_ConsumoN_cli, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgv_ConsumoA_cli, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabDiaCliente.SuspendLayout()
@@ -108,7 +119,7 @@ Partial Class frm_Tendencia
         Me.pic_barra.Dock = System.Windows.Forms.DockStyle.Top
         Me.pic_barra.Location = New System.Drawing.Point(0, 0)
         Me.pic_barra.Name = "pic_barra"
-        Me.pic_barra.Size = New System.Drawing.Size(1058, 25)
+        Me.pic_barra.Size = New System.Drawing.Size(1105, 25)
         Me.pic_barra.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.pic_barra.TabIndex = 217
         Me.pic_barra.TabStop = False
@@ -138,7 +149,7 @@ Partial Class frm_Tendencia
         Me.btn_Salir.ForeColor = System.Drawing.Color.Black
         Me.btn_Salir.Image = CType(resources.GetObject("btn_Salir.Image"), System.Drawing.Image)
         Me.btn_Salir.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_Salir.Location = New System.Drawing.Point(931, 38)
+        Me.btn_Salir.Location = New System.Drawing.Point(988, 38)
         Me.btn_Salir.Name = "btn_Salir"
         Me.btn_Salir.Size = New System.Drawing.Size(105, 40)
         Me.btn_Salir.TabIndex = 219
@@ -187,7 +198,7 @@ Partial Class frm_Tendencia
         Me.TabControl1.Location = New System.Drawing.Point(8, 84)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(1038, 472)
+        Me.TabControl1.Size = New System.Drawing.Size(1085, 472)
         Me.TabControl1.TabIndex = 223
         '
         'TabExistencia
@@ -206,7 +217,7 @@ Partial Class frm_Tendencia
         Me.TabExistencia.Location = New System.Drawing.Point(4, 25)
         Me.TabExistencia.Name = "TabExistencia"
         Me.TabExistencia.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabExistencia.Size = New System.Drawing.Size(1030, 443)
+        Me.TabExistencia.Size = New System.Drawing.Size(1077, 443)
         Me.TabExistencia.TabIndex = 0
         Me.TabExistencia.Text = "     EXISTENCIA     "
         Me.TabExistencia.UseVisualStyleBackColor = True
@@ -309,7 +320,7 @@ Partial Class frm_Tendencia
         Me.TabConsumo.Location = New System.Drawing.Point(4, 25)
         Me.TabConsumo.Name = "TabConsumo"
         Me.TabConsumo.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabConsumo.Size = New System.Drawing.Size(1030, 443)
+        Me.TabConsumo.Size = New System.Drawing.Size(1077, 443)
         Me.TabConsumo.TabIndex = 1
         Me.TabConsumo.Text = "     MENSUAL - PACIENTE     "
         Me.TabConsumo.UseVisualStyleBackColor = True
@@ -321,7 +332,7 @@ Partial Class frm_Tendencia
         Me.dgv_CAnualTODO.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.dgv_CAnualTODO.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.dgv_CAnualTODO.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgv_CAnualTODO.Location = New System.Drawing.Point(777, 25)
+        Me.dgv_CAnualTODO.Location = New System.Drawing.Point(841, 25)
         Me.dgv_CAnualTODO.MultiSelect = False
         Me.dgv_CAnualTODO.Name = "dgv_CAnualTODO"
         Me.dgv_CAnualTODO.RowHeadersVisible = False
@@ -332,7 +343,7 @@ Partial Class frm_Tendencia
         '
         Me.Label7.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(777, 155)
+        Me.Label7.Location = New System.Drawing.Point(841, 155)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(225, 14)
         Me.Label7.TabIndex = 277
@@ -342,7 +353,7 @@ Partial Class frm_Tendencia
         '
         Me.Label6.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(777, 292)
+        Me.Label6.Location = New System.Drawing.Point(841, 292)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(225, 14)
         Me.Label6.TabIndex = 276
@@ -352,7 +363,7 @@ Partial Class frm_Tendencia
         '
         Me.Label5.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(777, 8)
+        Me.Label5.Location = New System.Drawing.Point(841, 8)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(225, 14)
         Me.Label5.TabIndex = 275
@@ -365,7 +376,7 @@ Partial Class frm_Tendencia
         Me.dgv_CAnualN.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.dgv_CAnualN.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.dgv_CAnualN.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgv_CAnualN.Location = New System.Drawing.Point(777, 309)
+        Me.dgv_CAnualN.Location = New System.Drawing.Point(841, 309)
         Me.dgv_CAnualN.MultiSelect = False
         Me.dgv_CAnualN.Name = "dgv_CAnualN"
         Me.dgv_CAnualN.RowHeadersVisible = False
@@ -379,7 +390,7 @@ Partial Class frm_Tendencia
         Me.dgv_CAnualA.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.dgv_CAnualA.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.dgv_CAnualA.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dgv_CAnualA.Location = New System.Drawing.Point(777, 172)
+        Me.dgv_CAnualA.Location = New System.Drawing.Point(841, 172)
         Me.dgv_CAnualA.MultiSelect = False
         Me.dgv_CAnualA.Name = "dgv_CAnualA"
         Me.dgv_CAnualA.RowHeadersVisible = False
@@ -392,7 +403,7 @@ Partial Class frm_Tendencia
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(12, 225)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(732, 14)
+        Me.Label3.Size = New System.Drawing.Size(813, 14)
         Me.Label3.TabIndex = 272
         Me.Label3.Text = "NIÑOS"
         '
@@ -402,7 +413,7 @@ Partial Class frm_Tendencia
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(12, 11)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(732, 14)
+        Me.Label2.Size = New System.Drawing.Size(813, 14)
         Me.Label2.TabIndex = 271
         Me.Label2.Text = "ADULTOS"
         '
@@ -417,7 +428,7 @@ Partial Class frm_Tendencia
         Me.dgv_ConsumoN.MultiSelect = False
         Me.dgv_ConsumoN.Name = "dgv_ConsumoN"
         Me.dgv_ConsumoN.RowHeadersVisible = False
-        Me.dgv_ConsumoN.Size = New System.Drawing.Size(732, 177)
+        Me.dgv_ConsumoN.Size = New System.Drawing.Size(813, 177)
         Me.dgv_ConsumoN.TabIndex = 225
         '
         'dgv_ConsumoA
@@ -431,7 +442,7 @@ Partial Class frm_Tendencia
         Me.dgv_ConsumoA.MultiSelect = False
         Me.dgv_ConsumoA.Name = "dgv_ConsumoA"
         Me.dgv_ConsumoA.RowHeadersVisible = False
-        Me.dgv_ConsumoA.Size = New System.Drawing.Size(732, 186)
+        Me.dgv_ConsumoA.Size = New System.Drawing.Size(813, 186)
         Me.dgv_ConsumoA.TabIndex = 224
         '
         'TabDatos
@@ -444,7 +455,7 @@ Partial Class frm_Tendencia
         Me.TabDatos.Controls.Add(Me.dgv_ConsDiarioA)
         Me.TabDatos.Location = New System.Drawing.Point(4, 25)
         Me.TabDatos.Name = "TabDatos"
-        Me.TabDatos.Size = New System.Drawing.Size(1030, 443)
+        Me.TabDatos.Size = New System.Drawing.Size(1077, 443)
         Me.TabDatos.TabIndex = 2
         Me.TabDatos.Text = "     DIARIO - PACIENTE     "
         Me.TabDatos.UseVisualStyleBackColor = True
@@ -488,6 +499,7 @@ Partial Class frm_Tendencia
         Me.Btn_ImprimirMes.Text = "Imprimir"
         Me.Btn_ImprimirMes.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.Btn_ImprimirMes.UseVisualStyleBackColor = False
+        Me.Btn_ImprimirMes.Visible = False
         '
         'cmb_Mes
         '
@@ -519,22 +531,101 @@ Partial Class frm_Tendencia
         Me.dgv_ConsDiarioA.Location = New System.Drawing.Point(12, 32)
         Me.dgv_ConsDiarioA.MultiSelect = False
         Me.dgv_ConsDiarioA.Name = "dgv_ConsDiarioA"
+        Me.dgv_ConsDiarioA.ReadOnly = True
         Me.dgv_ConsDiarioA.RowHeadersVisible = False
         Me.dgv_ConsDiarioA.Size = New System.Drawing.Size(901, 179)
         Me.dgv_ConsDiarioA.TabIndex = 225
         '
         'TabMenCliente
         '
+        Me.TabMenCliente.Controls.Add(Me.dgv_CAnualTODO_cli)
+        Me.TabMenCliente.Controls.Add(Me.Label14)
+        Me.TabMenCliente.Controls.Add(Me.Label15)
+        Me.TabMenCliente.Controls.Add(Me.Label16)
+        Me.TabMenCliente.Controls.Add(Me.dgv_CAnualN_cli)
+        Me.TabMenCliente.Controls.Add(Me.dgv_CAnualA_cli)
         Me.TabMenCliente.Controls.Add(Me.Label10)
         Me.TabMenCliente.Controls.Add(Me.Label11)
         Me.TabMenCliente.Controls.Add(Me.dgv_ConsumoN_cli)
         Me.TabMenCliente.Controls.Add(Me.dgv_ConsumoA_cli)
         Me.TabMenCliente.Location = New System.Drawing.Point(4, 25)
         Me.TabMenCliente.Name = "TabMenCliente"
-        Me.TabMenCliente.Size = New System.Drawing.Size(1030, 443)
+        Me.TabMenCliente.Size = New System.Drawing.Size(1077, 443)
         Me.TabMenCliente.TabIndex = 3
         Me.TabMenCliente.Text = "     MENSUAL - CLIENTE    "
         Me.TabMenCliente.UseVisualStyleBackColor = True
+        '
+        'dgv_CAnualTODO_cli
+        '
+        Me.dgv_CAnualTODO_cli.AllowUserToAddRows = False
+        Me.dgv_CAnualTODO_cli.AllowUserToDeleteRows = False
+        Me.dgv_CAnualTODO_cli.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.dgv_CAnualTODO_cli.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.dgv_CAnualTODO_cli.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgv_CAnualTODO_cli.Location = New System.Drawing.Point(840, 28)
+        Me.dgv_CAnualTODO_cli.MultiSelect = False
+        Me.dgv_CAnualTODO_cli.Name = "dgv_CAnualTODO_cli"
+        Me.dgv_CAnualTODO_cli.RowHeadersVisible = False
+        Me.dgv_CAnualTODO_cli.Size = New System.Drawing.Size(225, 117)
+        Me.dgv_CAnualTODO_cli.TabIndex = 284
+        '
+        'Label14
+        '
+        Me.Label14.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label14.Location = New System.Drawing.Point(840, 158)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(225, 14)
+        Me.Label14.TabIndex = 283
+        Me.Label14.Text = "TOTAL ANUAL ADULTO"
+        '
+        'Label15
+        '
+        Me.Label15.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label15.Location = New System.Drawing.Point(840, 295)
+        Me.Label15.Name = "Label15"
+        Me.Label15.Size = New System.Drawing.Size(225, 14)
+        Me.Label15.TabIndex = 282
+        Me.Label15.Text = "TOTAL ANUAL NIÑOS"
+        '
+        'Label16
+        '
+        Me.Label16.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.Label16.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label16.Location = New System.Drawing.Point(840, 11)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(225, 14)
+        Me.Label16.TabIndex = 281
+        Me.Label16.Text = "TOTAL ANUAL"
+        '
+        'dgv_CAnualN_cli
+        '
+        Me.dgv_CAnualN_cli.AllowUserToAddRows = False
+        Me.dgv_CAnualN_cli.AllowUserToDeleteRows = False
+        Me.dgv_CAnualN_cli.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.dgv_CAnualN_cli.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.dgv_CAnualN_cli.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgv_CAnualN_cli.Location = New System.Drawing.Point(840, 312)
+        Me.dgv_CAnualN_cli.MultiSelect = False
+        Me.dgv_CAnualN_cli.Name = "dgv_CAnualN_cli"
+        Me.dgv_CAnualN_cli.RowHeadersVisible = False
+        Me.dgv_CAnualN_cli.Size = New System.Drawing.Size(225, 107)
+        Me.dgv_CAnualN_cli.TabIndex = 280
+        '
+        'dgv_CAnualA_cli
+        '
+        Me.dgv_CAnualA_cli.AllowUserToAddRows = False
+        Me.dgv_CAnualA_cli.AllowUserToDeleteRows = False
+        Me.dgv_CAnualA_cli.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.dgv_CAnualA_cli.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.dgv_CAnualA_cli.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgv_CAnualA_cli.Location = New System.Drawing.Point(840, 175)
+        Me.dgv_CAnualA_cli.MultiSelect = False
+        Me.dgv_CAnualA_cli.Name = "dgv_CAnualA_cli"
+        Me.dgv_CAnualA_cli.RowHeadersVisible = False
+        Me.dgv_CAnualA_cli.Size = New System.Drawing.Size(225, 108)
+        Me.dgv_CAnualA_cli.TabIndex = 279
         '
         'Label10
         '
@@ -542,7 +633,7 @@ Partial Class frm_Tendencia
         Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label10.Location = New System.Drawing.Point(12, 225)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(836, 14)
+        Me.Label10.Size = New System.Drawing.Size(813, 14)
         Me.Label10.TabIndex = 276
         Me.Label10.Text = "NIÑOS"
         '
@@ -552,7 +643,7 @@ Partial Class frm_Tendencia
         Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.Location = New System.Drawing.Point(12, 11)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(836, 14)
+        Me.Label11.Size = New System.Drawing.Size(813, 14)
         Me.Label11.TabIndex = 275
         Me.Label11.Text = "ADULTOS"
         '
@@ -567,7 +658,7 @@ Partial Class frm_Tendencia
         Me.dgv_ConsumoN_cli.MultiSelect = False
         Me.dgv_ConsumoN_cli.Name = "dgv_ConsumoN_cli"
         Me.dgv_ConsumoN_cli.RowHeadersVisible = False
-        Me.dgv_ConsumoN_cli.Size = New System.Drawing.Size(836, 177)
+        Me.dgv_ConsumoN_cli.Size = New System.Drawing.Size(813, 177)
         Me.dgv_ConsumoN_cli.TabIndex = 274
         '
         'dgv_ConsumoA_cli
@@ -581,21 +672,50 @@ Partial Class frm_Tendencia
         Me.dgv_ConsumoA_cli.MultiSelect = False
         Me.dgv_ConsumoA_cli.Name = "dgv_ConsumoA_cli"
         Me.dgv_ConsumoA_cli.RowHeadersVisible = False
-        Me.dgv_ConsumoA_cli.Size = New System.Drawing.Size(836, 186)
+        Me.dgv_ConsumoA_cli.Size = New System.Drawing.Size(813, 186)
         Me.dgv_ConsumoA_cli.TabIndex = 273
         '
         'TabDiaCliente
         '
+        Me.TabDiaCliente.Controls.Add(Me.Btn_ImprimirMes_cli)
+        Me.TabDiaCliente.Controls.Add(Me.cmb_Mes_cli)
         Me.TabDiaCliente.Controls.Add(Me.Label12)
         Me.TabDiaCliente.Controls.Add(Me.dgv_ConsDiarioNCli)
         Me.TabDiaCliente.Controls.Add(Me.Label13)
         Me.TabDiaCliente.Controls.Add(Me.dgv_ConsDiarioACli)
         Me.TabDiaCliente.Location = New System.Drawing.Point(4, 25)
         Me.TabDiaCliente.Name = "TabDiaCliente"
-        Me.TabDiaCliente.Size = New System.Drawing.Size(1030, 443)
+        Me.TabDiaCliente.Size = New System.Drawing.Size(1077, 443)
         Me.TabDiaCliente.TabIndex = 4
         Me.TabDiaCliente.Text = "     DIARIO - CLIENTE     "
         Me.TabDiaCliente.UseVisualStyleBackColor = True
+        '
+        'Btn_ImprimirMes_cli
+        '
+        Me.Btn_ImprimirMes_cli.BackColor = System.Drawing.Color.White
+        Me.Btn_ImprimirMes_cli.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.Btn_ImprimirMes_cli.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Btn_ImprimirMes_cli.ForeColor = System.Drawing.Color.Black
+        Me.Btn_ImprimirMes_cli.Image = CType(resources.GetObject("Btn_ImprimirMes_cli.Image"), System.Drawing.Image)
+        Me.Btn_ImprimirMes_cli.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Btn_ImprimirMes_cli.Location = New System.Drawing.Point(960, 49)
+        Me.Btn_ImprimirMes_cli.Name = "Btn_ImprimirMes_cli"
+        Me.Btn_ImprimirMes_cli.Size = New System.Drawing.Size(73, 40)
+        Me.Btn_ImprimirMes_cli.TabIndex = 280
+        Me.Btn_ImprimirMes_cli.Text = "Imprimir"
+        Me.Btn_ImprimirMes_cli.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.Btn_ImprimirMes_cli.UseVisualStyleBackColor = False
+        Me.Btn_ImprimirMes_cli.Visible = False
+        '
+        'cmb_Mes_cli
+        '
+        Me.cmb_Mes_cli.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
+        Me.cmb_Mes_cli.FormattingEnabled = True
+        Me.cmb_Mes_cli.Items.AddRange(New Object() {"ENERO", "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", "JULIO", "AGOSTO", "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE"})
+        Me.cmb_Mes_cli.Location = New System.Drawing.Point(943, 10)
+        Me.cmb_Mes_cli.Name = "cmb_Mes_cli"
+        Me.cmb_Mes_cli.Size = New System.Drawing.Size(105, 24)
+        Me.cmb_Mes_cli.TabIndex = 281
         '
         'Label12
         '
@@ -603,7 +723,7 @@ Partial Class frm_Tendencia
         Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label12.Location = New System.Drawing.Point(11, 223)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(997, 14)
+        Me.Label12.Size = New System.Drawing.Size(901, 14)
         Me.Label12.TabIndex = 279
         Me.Label12.Text = "NIÑOS"
         '
@@ -618,7 +738,7 @@ Partial Class frm_Tendencia
         Me.dgv_ConsDiarioNCli.MultiSelect = False
         Me.dgv_ConsDiarioNCli.Name = "dgv_ConsDiarioNCli"
         Me.dgv_ConsDiarioNCli.RowHeadersVisible = False
-        Me.dgv_ConsDiarioNCli.Size = New System.Drawing.Size(997, 183)
+        Me.dgv_ConsDiarioNCli.Size = New System.Drawing.Size(901, 183)
         Me.dgv_ConsDiarioNCli.TabIndex = 278
         '
         'Label13
@@ -627,7 +747,7 @@ Partial Class frm_Tendencia
         Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label13.Location = New System.Drawing.Point(11, 10)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(997, 14)
+        Me.Label13.Size = New System.Drawing.Size(902, 14)
         Me.Label13.TabIndex = 277
         Me.Label13.Text = "ADULTOS"
         '
@@ -642,7 +762,7 @@ Partial Class frm_Tendencia
         Me.dgv_ConsDiarioACli.MultiSelect = False
         Me.dgv_ConsDiarioACli.Name = "dgv_ConsDiarioACli"
         Me.dgv_ConsDiarioACli.RowHeadersVisible = False
-        Me.dgv_ConsDiarioACli.Size = New System.Drawing.Size(997, 179)
+        Me.dgv_ConsDiarioACli.Size = New System.Drawing.Size(901, 179)
         Me.dgv_ConsDiarioACli.TabIndex = 276
         '
         'btn_Guardar
@@ -654,13 +774,14 @@ Partial Class frm_Tendencia
         Me.btn_Guardar.ForeColor = System.Drawing.Color.Black
         Me.btn_Guardar.Image = CType(resources.GetObject("btn_Guardar.Image"), System.Drawing.Image)
         Me.btn_Guardar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_Guardar.Location = New System.Drawing.Point(820, 38)
+        Me.btn_Guardar.Location = New System.Drawing.Point(877, 38)
         Me.btn_Guardar.Name = "btn_Guardar"
         Me.btn_Guardar.Size = New System.Drawing.Size(105, 40)
         Me.btn_Guardar.TabIndex = 224
         Me.btn_Guardar.Text = "Guardar"
         Me.btn_Guardar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btn_Guardar.UseVisualStyleBackColor = False
+        Me.btn_Guardar.Visible = False
         '
         'cmb_Anio
         '
@@ -678,7 +799,7 @@ Partial Class frm_Tendencia
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveBorder
-        Me.ClientSize = New System.Drawing.Size(1058, 564)
+        Me.ClientSize = New System.Drawing.Size(1105, 564)
         Me.Controls.Add(Me.cmb_Anio)
         Me.Controls.Add(Me.btn_Guardar)
         Me.Controls.Add(Me.TabControl1)
@@ -704,6 +825,9 @@ Partial Class frm_Tendencia
         CType(Me.dgv_ConsDiarioN, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgv_ConsDiarioA, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabMenCliente.ResumeLayout(False)
+        CType(Me.dgv_CAnualTODO_cli, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgv_CAnualN_cli, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgv_CAnualA_cli, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgv_ConsumoN_cli, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgv_ConsumoA_cli, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabDiaCliente.ResumeLayout(False)
@@ -757,4 +881,12 @@ Partial Class frm_Tendencia
     Friend WithEvents dgv_ConsDiarioNCli As System.Windows.Forms.DataGridView
     Friend WithEvents Label13 As System.Windows.Forms.Label
     Friend WithEvents dgv_ConsDiarioACli As System.Windows.Forms.DataGridView
+    Friend WithEvents dgv_CAnualTODO_cli As System.Windows.Forms.DataGridView
+    Friend WithEvents Label14 As System.Windows.Forms.Label
+    Friend WithEvents Label15 As System.Windows.Forms.Label
+    Friend WithEvents Label16 As System.Windows.Forms.Label
+    Friend WithEvents dgv_CAnualN_cli As System.Windows.Forms.DataGridView
+    Friend WithEvents dgv_CAnualA_cli As System.Windows.Forms.DataGridView
+    Friend WithEvents Btn_ImprimirMes_cli As System.Windows.Forms.Button
+    Friend WithEvents cmb_Mes_cli As System.Windows.Forms.ComboBox
 End Class

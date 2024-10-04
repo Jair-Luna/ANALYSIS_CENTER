@@ -17,6 +17,10 @@ Public Class frm_Tendencia
     Private WithEvents dtt_CGeneralA As New DataTable("Registros")
     Private WithEvents dtt_CGeneralN As New DataTable("Registros")
 
+    Private WithEvents dtt_CGeneral_cli As New DataTable("Registros")
+    Private WithEvents dtt_CGeneralA_cli As New DataTable("Registros")
+    Private WithEvents dtt_CGeneralN_cli As New DataTable("Registros")
+
     Private WithEvents dtt_CDiario As New DataTable("Registros")
     Private WithEvents dtt_CDiarioN As New DataTable("Registros")
 
@@ -32,6 +36,39 @@ Public Class frm_Tendencia
     Dim headerFont As New Font("Arial", 7, FontStyle.Bold)
     Dim opr_ped As New Cls_Pedido()
     
+    Private Sub frm_Tendencia_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+        cmb_Anio.Text = Format(Now, "yyyy")
+        cmb_Mes.Text = Format(Now, "MMMM").ToString.ToUpper
+        cmb_Mes_cli.Text = Format(Now, "MMMM").ToString.ToUpper
+        Dim mes As Integer = Format(Now, "MM")
+
+        'INICIALIZA Y CARGA GRID CON DATOS INICIALES EN FUNCION DEL AÑO
+
+        cargaExistencias()
+
+        ''carga datos guardados de TENDENCIA y FRECUENCIA
+
+        cargaFrecuenciaDatos("A", dgv_Tendencia)
+        cargaFrecuenciaDatos("N", dgv_TendenciaN)
+
+        ''REALIZA CALCULOS PARA OBTENER EL % Y PINTA CELDA ROJO
+        CalculaTotalesA()
+        calculaTotalesN()
+
+
+        ''*******************************************
+        '' DATOS MESNSUALES PACIENTES
+        ''*******************************************
+        cargaMensual()
+        cargaDiaria(mes)
+
+        ''*******************************************
+        '' DATOS MESNSUALES CLIENTES
+        ''*******************************************
+        cargaMensualCliente()
+        cargaDiariaCliente(mes)
+    End Sub
 
     Private Sub cargaExistencias()
         ''***********************************
@@ -42,11 +79,9 @@ Public Class frm_Tendencia
         Dim dtcT_columna3 As New DataColumn("CIRCULACION", GetType(System.String))
         Dim dtcT_columna4 As New DataColumn("EMPAQUE", GetType(System.String))
         Dim dtcT_columna5 As New DataColumn("CUARENTENA", GetType(System.String))
-
         Dim dtcT_columna6 As New DataColumn("EXISTENCIA", GetType(System.Single))
         Dim dtcT_columna7 As New DataColumn("TENDENCIA", GetType(System.Decimal))
         Dim dtcT_columna8 As New DataColumn("PORCENTAJE REAL", GetType(System.Decimal))
-
         Dim dtcT_columna9 As New DataColumn("FRECUENCIA", GetType(System.Single))
         Dim dtcT_columna10 As New DataColumn("PRODUCCION", GetType(System.String))
 
@@ -66,9 +101,11 @@ Public Class frm_Tendencia
         dgv_Tendencia.DefaultCellStyle.WrapMode = DataGridViewTriState.True
         dgv_Tendencia.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_Tendencia.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+
         dgv_Tendencia.Columns("I_PRD_ID").Width = 40
         dgv_Tendencia.Columns("I_PRD_ID").HeaderText = "SERIE"
-        dgv_Tendencia.Columns("I_PRD_DESCRIPCION").Width = 140
+
+        dgv_Tendencia.Columns("I_PRD_DESCRIPCION").Width = 150
         dgv_Tendencia.Columns("I_PRD_DESCRIPCION").HeaderText = "DESCRIPCION"
 
         dgv_Tendencia.Columns("CIRCULACION").Width = 90
@@ -118,11 +155,9 @@ Public Class frm_Tendencia
         Dim dtcTN_columna3 As New DataColumn("CIRCULACION", GetType(System.String))
         Dim dtcTN_columna4 As New DataColumn("EMPAQUE", GetType(System.String))
         Dim dtcTN_columna5 As New DataColumn("CUARENTENA", GetType(System.String))
-
         Dim dtcTN_columna6 As New DataColumn("EXISTENCIA", GetType(System.Single))
         Dim dtcTN_columna7 As New DataColumn("TENDENCIA", GetType(System.Decimal))
         Dim dtcTN_columna8 As New DataColumn("PORCENTAJE REAL", GetType(System.Decimal))
-
         Dim dtcTN_columna9 As New DataColumn("FRECUENCIA", GetType(System.Single))
         Dim dtcTN_columna10 As New DataColumn("PRODUCCION", GetType(System.String))
 
@@ -142,9 +177,11 @@ Public Class frm_Tendencia
         dgv_TendenciaN.DefaultCellStyle.WrapMode = DataGridViewTriState.True
         dgv_TendenciaN.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_TendenciaN.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+
         dgv_TendenciaN.Columns("I_PRD_ID").Width = 40
         dgv_TendenciaN.Columns("I_PRD_ID").HeaderText = "SERIE"
-        dgv_TendenciaN.Columns("I_PRD_DESCRIPCION").Width = 140
+
+        dgv_TendenciaN.Columns("I_PRD_DESCRIPCION").Width = 150
         dgv_TendenciaN.Columns("I_PRD_DESCRIPCION").HeaderText = "DESCRIPCION"
 
         dgv_TendenciaN.Columns("CIRCULACION").Width = 90
@@ -192,7 +229,7 @@ Public Class frm_Tendencia
     Private Sub cargaMensual()
 
         ''***********************************
-        '' DGV CONSUMO ADULTOS 
+        '' DGV CONSUMO MENSUAL ADULTOS 
         ''***********************************
         Dim dtcCA_columna1 As New DataColumn("I_PRD_ID", GetType(System.String))
         Dim dtcCA_columna2 As New DataColumn("1", GetType(System.Single))
@@ -229,7 +266,7 @@ Public Class frm_Tendencia
         dgv_ConsumoA.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsumoA.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsumoA.Columns("I_PRD_ID").Width = 50
+        dgv_ConsumoA.Columns("I_PRD_ID").Width = 150
         dgv_ConsumoA.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsumoA.Columns("1").Width = 50
@@ -276,9 +313,8 @@ Public Class frm_Tendencia
             .SelectionMode = DataGridViewSelectionMode.CellSelect
         End With
 
-
         ''***********************************
-        '' DGV CONSUMO NIÑOS
+        '' DGV CONSUMO MENSUAL NIÑOS
         ''***********************************
         Dim dtcCN_columna1 As New DataColumn("I_PRD_ID", GetType(System.String))
         Dim dtcCN_columna2 As New DataColumn("1", GetType(System.Single))
@@ -314,7 +350,7 @@ Public Class frm_Tendencia
         dgv_ConsumoN.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsumoN.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsumoN.Columns("I_PRD_ID").Width = 50
+        dgv_ConsumoN.Columns("I_PRD_ID").Width = 150
         dgv_ConsumoN.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsumoN.Columns("1").Width = 50
@@ -361,105 +397,94 @@ Public Class frm_Tendencia
             .SelectionMode = DataGridViewSelectionMode.CellSelect
         End With
 
+        ''***********************************
+        '' CONSUMO ANUAL GENERAL
+        ''***********************************
+        Dim dtcCG_columna1 As New DataColumn("Serie", GetType(System.String))
+        Dim dtcCG_columna2 As New DataColumn("Consumo", GetType(System.Single))
 
+        dtt_CGeneral.Columns.Add(dtcCG_columna1)
+        dtt_CGeneral.Columns.Add(dtcCG_columna2)
+
+
+        actualizaDtsConAnual(dgv_CAnualTODO, CInt(cmb_Anio.Text), "T", dtt_CGeneral)
+
+        dgv_CAnualTODO.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+        dgv_CAnualTODO.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_CAnualTODO.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+
+        dgv_CAnualTODO.Columns("Serie").Width = 150
+        dgv_CAnualTODO.Columns("Serie").HeaderText = "SERIE"
+
+        dgv_CAnualTODO.Columns("Consumo").Width = 50
+        dgv_CAnualTODO.Columns("Consumo").HeaderText = "CONSUMO"
+
+        With dgv_CAnualTODO
+            .ColumnHeadersDefaultCellStyle.Font = headerFont
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.CellSelect
+        End With
+
+        ''***********************************
+        '' CONSUMO ANUAL ADULTOS
+        ''***********************************
+        Dim dtcCGA_columna1 As New DataColumn("Serie", GetType(System.String))
+        Dim dtcCGA_columna2 As New DataColumn("Consumo", GetType(System.String))
+
+        dtt_CGeneralA.Columns.Add(dtcCGA_columna1)
+        dtt_CGeneralA.Columns.Add(dtcCGA_columna2)
+
+        actualizaDtsConAnual(dgv_CAnualA, CInt(cmb_Anio.Text), "A", dtt_CGeneralA)
+
+        dgv_CAnualA.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+        dgv_CAnualA.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_CAnualA.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+
+        dgv_CAnualA.Columns("Serie").Width = 150
+        dgv_CAnualA.Columns("Serie").HeaderText = "SERIE"
+
+        dgv_CAnualA.Columns("Consumo").Width = 50
+        dgv_CAnualA.Columns("Consumo").HeaderText = "CONSUMO"
+
+        With dgv_CAnualA
+            .ColumnHeadersDefaultCellStyle.Font = headerFont
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.CellSelect
+        End With
         
-
-        ''***********************************
-        '' DGV CONSUMO TOTAL GENERAL
-        ''***********************************
-        'Dim dtcCG_columna1 As New DataColumn("Mes", GetType(System.String))
-        'Dim dtcCG_columna2 As New DataColumn("2023", GetType(System.Single))
-        'Dim dtcCG_columna3 As New DataColumn("2024", GetType(System.Single))
-        'Dim dtcCG_columna4 As New DataColumn("2025", GetType(System.Single))
-
-        'dtt_CGeneral.Columns.Add(dtcCG_columna1)
-        'dtt_CGeneral.Columns.Add(dtcCG_columna2)
-        'dtt_CGeneral.Columns.Add(dtcCG_columna3)
-        'dtt_CGeneral.Columns.Add(dtcCG_columna4)
-
-        'actualizaDtsConAnual(dgv_CAnualTODO, "T", dtt_CGeneral)
-
-        'dgv_CAnualA.DefaultCellStyle.WrapMode = DataGridViewTriState.True
-        'dgv_CAnualA.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
-        'dgv_CAnualA.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
-
-        'dgv_CAnualA.Columns("Mes").Width = 70
-        'dgv_CAnualA.Columns("Mes").HeaderText = "MES"
-
-        'dgv_CAnualA.Columns("2023").Width = 50
-        'dgv_CAnualA.Columns("2023").HeaderText = "2023"
-
-        'dgv_CAnualA.Columns("2024").Width = 50
-        'dgv_CAnualA.Columns("2024").HeaderText = "2024"
-
-        'dgv_CAnualA.Columns("2025").Width = 50
-        'dgv_CAnualA.Columns("2025").HeaderText = "2025"
-
-        'With dgv_CAnualA
-        '    .ColumnHeadersDefaultCellStyle.Font = headerFont
-        '    .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
-        '    .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
-        '    .DefaultCellStyle.BackColor = Color.WhiteSmoke
-        '    .SelectionMode = DataGridViewSelectionMode.CellSelect
-        'End With
-
-
-        ''***********************************
-        ''***********************************
-        ''***********************************
-        ''***********************************
-        ''***********************************
-        ''***********************************
         ''***********************************
         '' DGV CONSUMO ANUAL NINOS 
         ''***********************************
-        'Dim dtcCYN_columna1 As New DataColumn("Mes", GetType(System.String))
-        'Dim dtcCYN_columna2 As New DataColumn("2023", GetType(System.String))
-        'Dim dtcCYN_columna3 As New DataColumn("2024", GetType(System.String))
-        'Dim dtcCYN_columna4 As New DataColumn("2025", GetType(System.String))
+        Dim dtcCYN_columna1 As New DataColumn("Serie", GetType(System.String))
+        Dim dtcCYN_columna2 As New DataColumn("Consumo", GetType(System.String))
 
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna1)
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna2)
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna3)
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna4)
+        dtt_CGeneralN.Columns.Add(dtcCYN_columna1)
+        dtt_CGeneralN.Columns.Add(dtcCYN_columna2)
 
-        'actualizaDtsConAnual(dgv_CAnualN, "N", dtt_CGeneralN)
+        actualizaDtsConAnual(dgv_CAnualN, CInt(cmb_Anio.Text), "N", dtt_CGeneralN)
 
-        'dgv_CAnualN.DefaultCellStyle.WrapMode = DataGridViewTriState.True
-        'dgv_CAnualN.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
-        'dgv_CAnualN.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+        dgv_CAnualN.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+        dgv_CAnualN.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_CAnualN.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        'dgv_CAnualN.Columns("Mes").Width = 70
-        'dgv_CAnualN.Columns("Mes").HeaderText = "MES"
+        dgv_CAnualN.Columns("Serie").Width = 150
+        dgv_CAnualN.Columns("Serie").HeaderText = "SERIE"
 
-        'dgv_CAnualA.Columns("2023").Width = 50
-        'dgv_CAnualN.Columns("2023").HeaderText = "2023"
+        dgv_CAnualA.Columns("Consumo").Width = 50
+        dgv_CAnualN.Columns("Consumo").HeaderText = "CONSUMO"
 
-        'dgv_CAnualN.Columns("2024").Width = 50
-        'dgv_CAnualN.Columns("2024").HeaderText = "2024"
-
-        'dgv_CAnualN.Columns("2025").Width = 50
-        'dgv_CAnualN.Columns("2025").HeaderText = "2025"
-
-        'With dgv_CAnualN
-        '    .ColumnHeadersDefaultCellStyle.Font = headerFont
-        '    .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
-        '    .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
-        '    .DefaultCellStyle.BackColor = Color.WhiteSmoke
-        '    .SelectionMode = DataGridViewSelectionMode.CellSelect
-        'End With
-
-
-        'With dgv_ConsumoN
-        '    .ColumnHeadersDefaultCellStyle.Font = headerFont
-        '    .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
-        '    .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
-        '    .DefaultCellStyle.BackColor = Color.WhiteSmoke
-        '    .SelectionMode = DataGridViewSelectionMode.CellSelect
-        'End With
-
+        With dgv_CAnualN
+            .ColumnHeadersDefaultCellStyle.Font = headerFont
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.CellSelect
+        End With
     End Sub
-
 
     Private Sub cargaMensualCliente()
 
@@ -502,10 +527,10 @@ Public Class frm_Tendencia
         dgv_ConsumoA_cli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsumoA_cli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsumoA_cli.Columns("PAC_APELLIDO").Width = 110
+        dgv_ConsumoA_cli.Columns("PAC_APELLIDO").Width = 150
         dgv_ConsumoA_cli.Columns("PAC_APELLIDO").HeaderText = "CLIENTE"
 
-        dgv_ConsumoA_cli.Columns("I_PRD_ID").Width = 50
+        dgv_ConsumoA_cli.Columns("I_PRD_ID").Width = 150
         dgv_ConsumoA_cli.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsumoA_cli.Columns("1").Width = 50
@@ -552,7 +577,6 @@ Public Class frm_Tendencia
             .SelectionMode = DataGridViewSelectionMode.CellSelect
         End With
 
-
         ''***********************************
         '' DGV CONSUMO NIÑOS
         ''***********************************
@@ -592,10 +616,10 @@ Public Class frm_Tendencia
         dgv_ConsumoN_cli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsumoN_cli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsumoN_cli.Columns("PAC_APELLIDO").Width = 110
+        dgv_ConsumoN_cli.Columns("PAC_APELLIDO").Width = 150
         dgv_ConsumoN_cli.Columns("PAC_APELLIDO").HeaderText = "CLIENTE"
 
-        dgv_ConsumoN_cli.Columns("I_PRD_ID").Width = 50
+        dgv_ConsumoN_cli.Columns("I_PRD_ID").Width = 150
         dgv_ConsumoN_cli.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsumoN_cli.Columns("1").Width = 50
@@ -642,106 +666,96 @@ Public Class frm_Tendencia
             .SelectionMode = DataGridViewSelectionMode.CellSelect
         End With
 
+        ''***********************************
+        '' CONSUMO ANUAL GENERAL
+        ''***********************************
+        Dim dtcCG_cli_columna1 As New DataColumn("Serie", GetType(System.String))
+        Dim dtcCG_cli_columna2 As New DataColumn("Consumo", GetType(System.Single))
+
+        dtt_CGeneral_cli.Columns.Add(dtcCG_cli_columna1)
+        dtt_CGeneral_cli.Columns.Add(dtcCG_cli_columna2)
 
 
+        actualizaDtsConAnual_cli(dgv_CAnualTODO_cli, CInt(cmb_Anio.Text), "T", dtt_CGeneral_cli)
+
+        dgv_CAnualTODO_cli.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+        dgv_CAnualTODO_cli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_CAnualTODO_cli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+
+        dgv_CAnualTODO_cli.Columns("Serie").Width = 150
+        dgv_CAnualTODO_cli.Columns("Serie").HeaderText = "SERIE"
+
+        dgv_CAnualTODO_cli.Columns("Consumo").Width = 50
+        dgv_CAnualTODO_cli.Columns("Consumo").HeaderText = "CONSUMO"
+
+        With dgv_CAnualTODO_cli
+            .ColumnHeadersDefaultCellStyle.Font = headerFont
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.CellSelect
+        End With
 
         ''***********************************
-        '' DGV CONSUMO TOTAL GENERAL
+        '' CONSUMO ANUAL ADULTOS
         ''***********************************
-        'Dim dtcCG_columna1 As New DataColumn("Mes", GetType(System.String))
-        'Dim dtcCG_columna2 As New DataColumn("2023", GetType(System.Single))
-        'Dim dtcCG_columna3 As New DataColumn("2024", GetType(System.Single))
-        'Dim dtcCG_columna4 As New DataColumn("2025", GetType(System.Single))
+        Dim dtcCGA_cli_columna1 As New DataColumn("Serie", GetType(System.String))
+        Dim dtcCGA_cli_columna2 As New DataColumn("Consumo", GetType(System.String))
 
-        'dtt_CGeneral.Columns.Add(dtcCG_columna1)
-        'dtt_CGeneral.Columns.Add(dtcCG_columna2)
-        'dtt_CGeneral.Columns.Add(dtcCG_columna3)
-        'dtt_CGeneral.Columns.Add(dtcCG_columna4)
+        dtt_CGeneralA_cli.Columns.Add(dtcCGA_cli_columna1)
+        dtt_CGeneralA_cli.Columns.Add(dtcCGA_cli_columna2)
 
-        'actualizaDtsConAnual(dgv_CAnualTODO, "T", dtt_CGeneral)
+        actualizaDtsConAnual_cli(dgv_CAnualA, CInt(cmb_Anio.Text), "A", dtt_CGeneralA_cli)
 
-        'dgv_CAnualA.DefaultCellStyle.WrapMode = DataGridViewTriState.True
-        'dgv_CAnualA.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
-        'dgv_CAnualA.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+        dgv_CAnualA_cli.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+        dgv_CAnualA_cli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_CAnualA_cli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        'dgv_CAnualA.Columns("Mes").Width = 70
-        'dgv_CAnualA.Columns("Mes").HeaderText = "MES"
+        dgv_CAnualA_cli.Columns("Serie").Width = 150
+        dgv_CAnualA_cli.Columns("Serie").HeaderText = "SERIE"
 
-        'dgv_CAnualA.Columns("2023").Width = 50
-        'dgv_CAnualA.Columns("2023").HeaderText = "2023"
+        dgv_CAnualA_cli.Columns("Consumo").Width = 50
+        dgv_CAnualA_cli.Columns("Consumo").HeaderText = "CONSUMO"
 
-        'dgv_CAnualA.Columns("2024").Width = 50
-        'dgv_CAnualA.Columns("2024").HeaderText = "2024"
+        With dgv_CAnualA_cli
+            .ColumnHeadersDefaultCellStyle.Font = headerFont
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.CellSelect
+        End With
 
-        'dgv_CAnualA.Columns("2025").Width = 50
-        'dgv_CAnualA.Columns("2025").HeaderText = "2025"
-
-        'With dgv_CAnualA
-        '    .ColumnHeadersDefaultCellStyle.Font = headerFont
-        '    .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
-        '    .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
-        '    .DefaultCellStyle.BackColor = Color.WhiteSmoke
-        '    .SelectionMode = DataGridViewSelectionMode.CellSelect
-        'End With
-
-
-        ''***********************************
-        ''***********************************
-        ''***********************************
-        ''***********************************
-        ''***********************************
-        ''***********************************
         ''***********************************
         '' DGV CONSUMO ANUAL NINOS 
         ''***********************************
-        'Dim dtcCYN_columna1 As New DataColumn("Mes", GetType(System.String))
-        'Dim dtcCYN_columna2 As New DataColumn("2023", GetType(System.String))
-        'Dim dtcCYN_columna3 As New DataColumn("2024", GetType(System.String))
-        'Dim dtcCYN_columna4 As New DataColumn("2025", GetType(System.String))
+        Dim dtcCYN_cli_columna1 As New DataColumn("Serie", GetType(System.String))
+        Dim dtcCYN_cli_columna2 As New DataColumn("Consumo", GetType(System.String))
 
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna1)
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna2)
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna3)
-        'dtt_CGeneralN.Columns.Add(dtcCYN_columna4)
+        dtt_CGeneralN_cli.Columns.Add(dtcCYN_cli_columna1)
+        dtt_CGeneralN_cli.Columns.Add(dtcCYN_cli_columna2)
 
-        'actualizaDtsConAnual(dgv_CAnualN, "N", dtt_CGeneralN)
+        actualizaDtsConAnual_cli(dgv_CAnualN_cli, CInt(cmb_Anio.Text), "N", dtt_CGeneralN_cli)
 
-        'dgv_CAnualN.DefaultCellStyle.WrapMode = DataGridViewTriState.True
-        'dgv_CAnualN.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
-        'dgv_CAnualN.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
+        dgv_CAnualN_cli.DefaultCellStyle.WrapMode = DataGridViewTriState.True
+        dgv_CAnualN_cli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
+        dgv_CAnualN_cli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        'dgv_CAnualN.Columns("Mes").Width = 70
-        'dgv_CAnualN.Columns("Mes").HeaderText = "MES"
+        dgv_CAnualN_cli.Columns("Serie").Width = 150
+        dgv_CAnualN_cli.Columns("Serie").HeaderText = "SERIE"
 
-        'dgv_CAnualA.Columns("2023").Width = 50
-        'dgv_CAnualN.Columns("2023").HeaderText = "2023"
+        dgv_CAnualA_cli.Columns("Consumo").Width = 50
+        dgv_CAnualN_cli.Columns("Consumo").HeaderText = "CONSUMO"
 
-        'dgv_CAnualN.Columns("2024").Width = 50
-        'dgv_CAnualN.Columns("2024").HeaderText = "2024"
-
-        'dgv_CAnualN.Columns("2025").Width = 50
-        'dgv_CAnualN.Columns("2025").HeaderText = "2025"
-
-        'With dgv_CAnualN
-        '    .ColumnHeadersDefaultCellStyle.Font = headerFont
-        '    .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
-        '    .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
-        '    .DefaultCellStyle.BackColor = Color.WhiteSmoke
-        '    .SelectionMode = DataGridViewSelectionMode.CellSelect
-        'End With
-
-
-        'With dgv_ConsumoN
-        '    .ColumnHeadersDefaultCellStyle.Font = headerFont
-        '    .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
-        '    .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
-        '    .DefaultCellStyle.BackColor = Color.WhiteSmoke
-        '    .SelectionMode = DataGridViewSelectionMode.CellSelect
-        'End With
-
+        With dgv_CAnualN_cli
+            .ColumnHeadersDefaultCellStyle.Font = headerFont
+            .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 9)
+            .AlternatingRowsDefaultCellStyle.BackColor = Color.SkyBlue
+            .DefaultCellStyle.BackColor = Color.WhiteSmoke
+            .SelectionMode = DataGridViewSelectionMode.CellSelect
+        End With
     End Sub
 
-    Private Sub cargaDiaria()
+    Private Sub cargaDiaria(ByVal mes As Integer)
         ''***********************************
         '' DGV CONSUMO DIARIO ADULTO
         ''***********************************
@@ -811,13 +825,13 @@ Public Class frm_Tendencia
         dtt_CDiario.Columns.Add(dtcDA_columna31)
         dtt_CDiario.Columns.Add(dtcDA_columna32)
 
-        actualizaDtsConDiario(dgv_ConsDiarioA, "A", CInt(cmb_Anio.Text), var_mes, dtt_CDiario)
+        actualizaDtsConDiario(dgv_ConsDiarioA, "A", CInt(cmb_Anio.Text), mes, dtt_CDiario)
 
         dgv_ConsDiarioA.DefaultCellStyle.WrapMode = DataGridViewTriState.True
         dgv_ConsDiarioA.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsDiarioA.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsDiarioA.Columns("I_PRD_ID").Width = 50
+        dgv_ConsDiarioA.Columns("I_PRD_ID").Width = 150
         dgv_ConsDiarioA.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsDiarioA.Columns("1").Width = 50
@@ -935,7 +949,7 @@ Public Class frm_Tendencia
         dgv_ConsDiarioN.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsDiarioN.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsDiarioN.Columns("I_PRD_ID").Width = 50
+        dgv_ConsDiarioN.Columns("I_PRD_ID").Width = 150
         dgv_ConsDiarioN.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsDiarioN.Columns("1").Width = 50
@@ -978,11 +992,9 @@ Public Class frm_Tendencia
             .SelectionMode = DataGridViewSelectionMode.CellSelect
         End With
 
-
     End Sub
 
-
-    Private Sub cargaDiariaCliente()
+    Private Sub cargaDiariaCliente(ByVal mes As Integer)
         ''***********************************
         '' DGV CONSUMO DIARIO ADULTO CLIENTE
         ''***********************************
@@ -1054,16 +1066,16 @@ Public Class frm_Tendencia
         dtt_CDiario_cli.Columns.Add(dtcDA_cli_columna31)
         dtt_CDiario_cli.Columns.Add(dtcDA_cli_columna32)
 
-        actualizaDtsConDiario_cli(dgv_ConsDiarioACli, "A", CInt(cmb_Anio.Text), var_mes, "CLIENTE", dtt_CDiario_cli)
+        actualizaDtsConDiario_cli(dgv_ConsDiarioACli, "A", CInt(cmb_Anio.Text), mes, "CLIENTE", dtt_CDiario_cli)
 
         dgv_ConsDiarioACli.DefaultCellStyle.WrapMode = DataGridViewTriState.True
         dgv_ConsDiarioACli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsDiarioACli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsDiarioACli.Columns("PAC_APELLIDO").Width = 110
+        dgv_ConsDiarioACli.Columns("PAC_APELLIDO").Width = 150
         dgv_ConsDiarioACli.Columns("PAC_APELLIDO").HeaderText = "CLIENTE"
 
-        dgv_ConsDiarioACli.Columns("I_PRD_ID").Width = 50
+        dgv_ConsDiarioACli.Columns("I_PRD_ID").Width = 150
         dgv_ConsDiarioACli.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsDiarioACli.Columns("1").Width = 50
@@ -1177,16 +1189,16 @@ Public Class frm_Tendencia
         dtt_CDiario_cliN.Columns.Add(dtcDN_cli_columna31)
         dtt_CDiario_cliN.Columns.Add(dtcDN_cli_columna32)
 
-        actualizaDtsConDiario_cli(dgv_ConsDiarioNCli, "N", CInt(cmb_Anio.Text), var_mes, "CLIENTE", dtt_CDiario_cliN)
+        actualizaDtsConDiario_cli(dgv_ConsDiarioNCli, "N", CInt(cmb_Anio.Text), mes, "CLIENTE", dtt_CDiario_cliN)
 
         dgv_ConsDiarioNCli.DefaultCellStyle.WrapMode = DataGridViewTriState.True
         dgv_ConsDiarioNCli.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleLeft
         dgv_ConsDiarioNCli.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells
 
-        dgv_ConsDiarioNCli.Columns("PAC_APELLIDO").Width = 110
+        dgv_ConsDiarioNCli.Columns("PAC_APELLIDO").Width = 150
         dgv_ConsDiarioNCli.Columns("PAC_APELLIDO").HeaderText = "CLIENTE"
 
-        dgv_ConsDiarioNCli.Columns("I_PRD_ID").Width = 50
+        dgv_ConsDiarioNCli.Columns("I_PRD_ID").Width = 150
         dgv_ConsDiarioNCli.Columns("I_PRD_ID").HeaderText = "SERIE"
 
         dgv_ConsDiarioNCli.Columns("1").Width = 50
@@ -1249,6 +1261,7 @@ Public Class frm_Tendencia
         'ENCIENDE ALARMA NIÑO
         For i = 0 To dgv_ConsDiarioN.Rows.Count - 1
             For j = 1 To dgv_ConsDiarioN.Columns.Count - 1
+                Console.WriteLine(dgv_ConsDiarioN.Rows(i).Cells(j).Value())
                 If CLng(dgv_ConsDiarioN.Rows(i).Cells(j).Value()) <> 0 Then
                     dgv_ConsDiarioN.Rows(i).Cells(j).Style.BackColor = Color.GreenYellow
                 End If
@@ -1278,36 +1291,6 @@ Public Class frm_Tendencia
                 End If
             Next
         Next
-    End Sub
-
-    Private Sub frm_Tendencia_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-        cmb_Anio.Text = Format(Now, "yyyy")
-        cmb_Mes.Text = Format(Now, "MMMM").ToString.ToUpper
-
-        'INICIALIZA Y CARGA GRID CON DATOS INICIALES EN FUNCION DEL AÑO
-        cargaExistencias()
-
-        'carga datos guardados de TENDENCIA y FRECUENCIA
-        cargaFrecuenciaDatos("A", dgv_Tendencia)
-        cargaFrecuenciaDatos("N", dgv_TendenciaN)
-
-        'REALIZA CALCULOS PARA OBTENER EL % Y PINTA CELDA ROJO
-        CalculaTotalesA()
-        calculaTotalesN()
-
-
-        '*******************************************
-        ' DATOS MESNSUALES PACIENTES
-        '*******************************************
-        cargaMensual()
-        cargaDiaria()
-
-        '*******************************************
-        ' DATOS MESNSUALES CLIENTES
-        '*******************************************
-        cargaMensualCliente()
-        cargaDiariaCliente()
     End Sub
 
     Private Sub cargaFrecuenciaDatos(ByVal I_EDAD As Char, ByVal dgv As DataGridView)
@@ -1344,11 +1327,12 @@ Public Class frm_Tendencia
         'dgv_Tendencia.Rows(i).Cells(6).Value = tot
         'Next
 
-
         '% REAL NIÑOS
         For i = 0 To dgv_TendenciaN.Rows.Count - 1
-            tot = CLng(dgv_TendenciaN.Rows(i).Cells(5).Value()) * 100 / CLng(dgv_TendenciaN.Rows(i).Cells(6).Value())
-            dgv_TendenciaN.Rows(i).Cells(7).Value = tot
+            If CLng(dgv_TendenciaN.Rows(i).Cells(6).Value()) > 0 Then
+                tot = CLng(dgv_TendenciaN.Rows(i).Cells(5).Value()) * 100 / CLng(dgv_TendenciaN.Rows(i).Cells(6).Value())
+                dgv_TendenciaN.Rows(i).Cells(7).Value = tot
+            End If
         Next
 
 
@@ -1435,17 +1419,20 @@ Public Class frm_Tendencia
         'interseccion = mediaY - pendiente * mediaX
     End Sub
 
-    Private Sub actualizaDtsConAnual(ByVal dgv As DataGridView, ByVal I_EDAD As Char, ByVal dtt As DataTable)
+    Private Sub actualizaDtsConAnual(ByVal dgv As DataGridView, ByVal anio As Integer, ByVal I_EDAD As Char, ByVal dtt As DataTable)
         dtt.Clear()
-        opr_res.LlenarGridConAnual(dgv, I_EDAD, dtt)
+        opr_res.LlenarGridConAnual(dgv, anio, I_EDAD, dtt)
+    End Sub
+
+    Private Sub actualizaDtsConAnual_cli(ByVal dgv As DataGridView, ByVal anio As Integer, ByVal I_EDAD As Char, ByVal dtt As DataTable)
+        dtt.Clear()
+        opr_res.LlenarGridConAnual_cli(dgv, anio, I_EDAD, dtt)
     End Sub
 
     Private Sub actualizaDtsConsumo(ByVal dgv As DataGridView, ByVal I_EDAD As Char, ByVal anio As Integer, ByVal CliPac As String, ByVal dtt As DataTable)
         dtt.Clear()
         opr_res.LlenarGridConsumo(dgv, I_EDAD, anio, CliPac, dtt)
     End Sub
-
-
 
     Private Sub actualizaDtsConsumo_cli(ByVal dgv As DataGridView, ByVal I_EDAD As Char, ByVal anio As Integer, ByVal CliPac As String, ByVal dtt As DataTable)
         dtt.Clear()
@@ -1475,14 +1462,10 @@ Public Class frm_Tendencia
         CalculaTotalesA()
     End Sub
 
-
     Private Sub SeleccionPages(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TabControl1.SelectedIndexChanged
-
-
         Select Case TabControl1.SelectedIndex
             Case 0
                 'MsgBox("EXISTENCIA")
-
                 actualizaDtsTendencia(dgv_Tendencia, "A", CInt(cmb_Anio.Text), dtt_Tdcia)
                 'EXISTENCIA
                 For i = 0 To dgv_Tendencia.Rows.Count - 1
@@ -1513,6 +1496,10 @@ Public Class frm_Tendencia
 
                 PintaCeldaMesA()
                 PintaCeldaMesN()
+
+                actualizaDtsConAnual(dgv_CAnualTODO, CInt(cmb_Anio.Text), "T", dtt_CGeneral)
+                actualizaDtsConAnual(dgv_CAnualA, CInt(cmb_Anio.Text), "A", dtt_CGeneralA)
+                actualizaDtsConAnual(dgv_CAnualN, CInt(cmb_Anio.Text), "N", dtt_CGeneralN)
             Case 2
                 'MsgBox("CONSUMO DIARIO")
                 actualizaDtsConDiario(dgv_ConsDiarioA, "A", CInt(cmb_Anio.Text), var_mes, dtt_CDiario)
@@ -1565,7 +1552,6 @@ Public Class frm_Tendencia
 
     End Sub
 
-    
     Private Sub cmb_Anio_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmb_Anio.SelectedIndexChanged
 
         actualizaDtsTendencia(dgv_Tendencia, "A", CInt(cmb_Anio.Text), dtt_Tdcia)
@@ -1588,8 +1574,7 @@ Public Class frm_Tendencia
 
         'REALIZA CALCULOS PARA OBTENER EL % Y PINTA CELDA ROJO
         CalculaTotalesA()
-        CalculaTotalesN()
-
+        calculaTotalesN()
 
         '++++++++++++++++++++++++++++++++++++
         'DATOS MENSUALES
@@ -1600,6 +1585,16 @@ Public Class frm_Tendencia
         PintaCeldaMesA()
         PintaCeldaMesN()
 
+        '++++++++++++++++++++++++++++++++++++
+        'DATOS ANUALES
+        '++++++++++++++++++++++++++++++++++++
+        actualizaDtsConAnual(dgv_CAnualTODO, CInt(cmb_Anio.Text), "T", dtt_CGeneral)
+        actualizaDtsConAnual(dgv_CAnualA, CInt(cmb_Anio.Text), "A", dtt_CGeneralA)
+        actualizaDtsConAnual(dgv_CAnualN, CInt(cmb_Anio.Text), "N", dtt_CGeneralN)
+
+        actualizaDtsConAnual_cli(dgv_CAnualTODO_cli, CInt(cmb_Anio.Text), "T", dtt_CGeneral_cli)
+        actualizaDtsConAnual_cli(dgv_CAnualA_cli, CInt(cmb_Anio.Text), "A", dtt_CGeneralA_cli)
+        actualizaDtsConAnual_cli(dgv_CAnualN_cli, CInt(cmb_Anio.Text), "N", dtt_CGeneralN_cli)
 
         '++++++++++++++++++++++++++++++++++++
         'DATOS DIARIOS
@@ -1609,9 +1604,6 @@ Public Class frm_Tendencia
 
         PintaCeldaDiariaA()
         PintaCeldaDiariaN()
-
-
-
     End Sub
 
     Private Sub btn_Guardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Guardar.Click
@@ -1637,9 +1629,42 @@ Public Class frm_Tendencia
         frm_MDIChild.Text = "EXISTENCIA ADULTO"
         frm_MDIChild.ShowDialog(Me.ParentForm)
 
-
-
-
         Me.Cursor = System.Windows.Forms.Cursors.Default
     End Sub
+
+    Private Sub cmb_Mes_cli_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmb_Mes_cli.SelectedIndexChanged
+        Select Case cmb_Mes_cli.Text
+            Case "ENERO"
+                var_mes = 1
+            Case "FEBREO"
+                var_mes = 2
+            Case "MARZO"
+                var_mes = 3
+            Case "ABRIL"
+                var_mes = 4
+            Case "MAYO"
+                var_mes = 5
+            Case "JUNIO"
+                var_mes = 6
+            Case "JULIO"
+                var_mes = 7
+            Case "AGOSTO"
+                var_mes = 8
+            Case "SEPTIEMBRE"
+                var_mes = 9
+            Case "OCTUBRE"
+                var_mes = 10
+            Case "NOVIEMBRE"
+                var_mes = 11
+            Case "DICIEMBRE"
+                var_mes = 12
+        End Select
+
+        actualizaDtsConDiario_cli(dgv_ConsDiarioACli, "A", CInt(cmb_Anio.Text), var_mes, "CLIENTE", dtt_CDiario_cli)
+        actualizaDtsConDiario_cli(dgv_ConsDiarioNCli, "N", CInt(cmb_Anio.Text), var_mes, "CLIENTE", dtt_CDiario_cliN)
+
+        PintaCeldaDiariaA()
+        PintaCeldaDiariaN()
+    End Sub
 End Class
+

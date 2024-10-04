@@ -9,6 +9,7 @@
     Dim dtVad As DataTable = New DataTable()
     Private WithEvents dtt_agenda As New DataTable("Registros")
     Dim i As Integer
+    Dim j As Integer = 1
     Dim opr_pedido As New Cls_Pedido()
 
 
@@ -153,14 +154,19 @@
     End Sub
 
     Private Sub btn_Finalizar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Finalizar.Click
+
+        Dim datosReceta As cls_DatosCompartidos = cls_DatosCompartidos.obtenerInstancia()
+        Dim indiceReceta = datosReceta.indiceActual + 1
+
         var_vadem = ""
-        Dim j As Integer = 1
+
         For i = 0 To dgv_CargaVadem.Rows.Count - 1
 
-            'dgv_CargaVadem.Rows(i).Cells(0).Value
-            var_vadem = var_vadem & j & ") - " & dgv_CargaVadem.Rows(i).Cells(0).Value & "º" & dgv_CargaVadem.Rows(i).Cells(1).Value & "º" & dgv_CargaVadem.Rows(i).Cells(2).Value & "º" & dgv_CargaVadem.Rows(i).Cells(3).Value & "º" & dgv_CargaVadem.Rows(i).Cells(4).Value & "|"
-            j = j + 1
+            datosReceta.agregarElemento(indiceReceta & ") - " & dgv_CargaVadem.Rows(i).Cells(0).Value & "º" & dgv_CargaVadem.Rows(i).Cells(1).Value & "º" & dgv_CargaVadem.Rows(i).Cells(2).Value & "º" & dgv_CargaVadem.Rows(i).Cells(3).Value & "º" & dgv_CargaVadem.Rows(i).Cells(4).Value & "|")
+            indiceReceta += 1
         Next
+
+        var_vadem = String.Join("", datosReceta.arregloReceta)
 
         Me.Close()
     End Sub

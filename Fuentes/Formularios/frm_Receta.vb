@@ -385,6 +385,7 @@ MsgError:
         var_Vadem = frm_MDIChild.var_vadem
 
         arreglo = Split(var_vadem, "|")
+
         For i = 0 To UBound(arreglo)
             param = Split(arreglo(i), "º")
             If param(0) <> "" Then
@@ -393,8 +394,8 @@ MsgError:
             End If
         Next
 
-        txt_Medicacion.Text = txt_Medicacion.Text & str_medica
-        txt_Indicaciones.Text = txt_Indicaciones.Text & str_indica
+        txt_Medicacion.Text = str_medica
+        txt_Indicaciones.Text = str_indica
         
         'If opr_pedido.GestionaConsultaCie10(Age_id, dgv_MedicosTratantes.CurrentRow.Cells("med_id").Value, var_Cie4, "Insertar") = True Then
         '    actualizaDtsCieConsulta(Age_id)
@@ -407,6 +408,9 @@ MsgError:
     End Sub
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        Dim datosReceta As cls_DatosCompartidos = cls_DatosCompartidos.obtenerInstancia()
+        datosReceta.limpiarArreglo()
+
         txt_Medicacion.Text = ""
         txt_Indicaciones.Text = ""
     End Sub

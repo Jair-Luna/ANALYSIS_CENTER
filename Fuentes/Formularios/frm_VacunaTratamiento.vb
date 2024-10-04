@@ -164,6 +164,7 @@ Public Class frm_VacunaTratamiento
         Dim dtcV_columna13 As New DataColumn("I_PRD_FRASCOS", GetType(System.Single))
         Dim dtcV_columna14 As New DataColumn("SER_ID", GetType(System.Single))
         Dim dtcV_columna15 As New DataColumn("I_PRD_ABREV", GetType(System.String))
+        Dim dtcV_columna16 As New DataColumn("I_PRD_A_ID", GetType(System.String))
 
         dtt_TTO.Columns.Add(dtcV_columna1)
         dtt_TTO.Columns.Add(dtcV_columna2)
@@ -178,11 +179,8 @@ Public Class frm_VacunaTratamiento
         dtt_TTO.Columns.Add(dtcV_columna13)
         dtt_TTO.Columns.Add(dtcV_columna14)
         dtt_TTO.Columns.Add(dtcV_columna15)
+        dtt_TTO.Columns.Add(dtcV_columna16)
 
-
-
-        
-        
         If actualizaDtsTTO(pac_id, tipo) = True Then
             dgv_TToPaciente.Visible = True
             iniciaGridTto()
@@ -295,6 +293,9 @@ Public Class frm_VacunaTratamiento
 
         dgv_TToPaciente.Columns("I_PRD_ID").HeaderText = "ID"
         dgv_TToPaciente.Columns("I_PRD_ID").Visible = False
+
+        dgv_TToPaciente.Columns("I_PRD_A_ID").HeaderText = "AREA"
+        dgv_TToPaciente.Columns("I_PRD_A_ID").Visible = False
 
         With dgv_TToPaciente
             .DefaultCellStyle.Font = New Font("Microsoft Sans Serif", 8)
@@ -1362,13 +1363,7 @@ errores:
         ver_etiquetas()
     End Sub
 
-    
-    
-    
 
-    
-
-    
     Private Sub btn_ImpPlan_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_ImpPlan.Click
         'opr_res.GuardaExistenciaTemporal(dgv_Tendencia, "A")
 
@@ -1376,16 +1371,20 @@ errores:
         Dim obj_reporte As New Object
         Dim PLAN_ID As Integer
 
-        
-        Select dgv_TToPaciente.CurrentRow.Cells("I_PRD_FRASCOS").Value()
+
+        Select Case dgv_TToPaciente.CurrentRow.Cells("SER_ID").Value()
             Case 1
-                PLAN_ID = 1
-            Case 2
-                PLAN_ID = 2
-            Case 3
                 PLAN_ID = 4
-            Case 4
-                PLAN_ID = 5
+            Case 2
+                PLAN_ID = 3
+            Case 3
+                PLAN_ID = 2
+            Case Else
+                If dgv_TToPaciente.CurrentRow.Cells("I_PRD_A_ID").Value() = 3 Then
+                    PLAN_ID = 1
+                Else
+                    PLAN_ID = 5
+                End If
         End Select
 
         obj_reporte = New rpt_PlanTTO_G()
@@ -1622,5 +1621,10 @@ errores:
 
         ' Seleccionar toda la fila
         dgrd_materiales.Select(currentRow)
+    End Sub
+
+    
+    Private Sub rbt_todos_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles rbt_todos.CheckedChanged
+        opr_pedido.LlenarGridVacunas("B01", dtv_Vacunas)
     End Sub
 End Class

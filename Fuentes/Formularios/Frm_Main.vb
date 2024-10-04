@@ -1665,6 +1665,11 @@ Public Class Frm_Main
                                 Dim FrM_MDIChild As New frm_Tendencia()
                                 Crea_formulario(FrM_MDIChild)
                             End If
+                            'If Not ExisteForm("frm_Gerencia") Then
+                            '    Dim FrM_MDIChild As New frm_Gerencia()
+                            '    Crea_formulario(FrM_MDIChild)
+                            'End If
+
 
                         Case "lnk_opc20"
                             If Not ExisteForm("frm_Preparacion") Then

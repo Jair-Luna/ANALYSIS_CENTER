@@ -33,15 +33,7 @@ Partial Class frm_Actividad
         Me.dtp_IniciaActividad = New System.Windows.Forms.MonthCalendar
         Me.dgv_Actividad = New System.Windows.Forms.DataGridView
         Me.btn_EliminaAct = New System.Windows.Forms.Button
-        Me.calM1 = New System.Windows.Forms.MonthCalendar
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.calM2 = New System.Windows.Forms.MonthCalendar
-        Me.calM3 = New System.Windows.Forms.MonthCalendar
-        Me.cmb_Trimestre = New System.Windows.Forms.ComboBox
         Me.lbl_Medico = New System.Windows.Forms.Label
-        Me.calM6 = New System.Windows.Forms.MonthCalendar
-        Me.calM5 = New System.Windows.Forms.MonthCalendar
-        Me.calM4 = New System.Windows.Forms.MonthCalendar
         Me.lbl_FechaSeleccionada = New System.Windows.Forms.Label
         Me.cmb_Hora = New System.Windows.Forms.ComboBox
         Me.Label2 = New System.Windows.Forms.Label
@@ -78,7 +70,7 @@ Partial Class frm_Actividad
         Me.pan_barra.Dock = System.Windows.Forms.DockStyle.Top
         Me.pan_barra.Location = New System.Drawing.Point(0, 0)
         Me.pan_barra.Name = "pan_barra"
-        Me.pan_barra.Size = New System.Drawing.Size(1045, 25)
+        Me.pan_barra.Size = New System.Drawing.Size(450, 25)
         Me.pan_barra.TabIndex = 223
         '
         'btn_SalirAct
@@ -86,7 +78,7 @@ Partial Class frm_Actividad
         Me.btn_SalirAct.BackColor = System.Drawing.Color.White
         Me.btn_SalirAct.Cursor = System.Windows.Forms.Cursors.Hand
         Me.btn_SalirAct.Font = New System.Drawing.Font("Century Gothic", 6.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_SalirAct.Location = New System.Drawing.Point(937, 40)
+        Me.btn_SalirAct.Location = New System.Drawing.Point(351, 35)
         Me.btn_SalirAct.Name = "btn_SalirAct"
         Me.btn_SalirAct.Size = New System.Drawing.Size(83, 40)
         Me.btn_SalirAct.TabIndex = 222
@@ -181,51 +173,6 @@ Partial Class frm_Actividad
         Me.btn_EliminaAct.Text = "ELIMINAR"
         Me.btn_EliminaAct.UseVisualStyleBackColor = False
         '
-        'calM1
-        '
-        Me.calM1.Location = New System.Drawing.Point(446, 85)
-        Me.calM1.Name = "calM1"
-        Me.calM1.ShowToday = False
-        Me.calM1.ShowTodayCircle = False
-        Me.calM1.TabIndex = 236
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.ForeColor = System.Drawing.Color.Yellow
-        Me.Label4.Location = New System.Drawing.Point(426, 42)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(154, 31)
-        Me.Label4.TabIndex = 237
-        Me.Label4.Text = "FERIADOS"
-        '
-        'calM2
-        '
-        Me.calM2.Location = New System.Drawing.Point(644, 85)
-        Me.calM2.Name = "calM2"
-        Me.calM2.ShowToday = False
-        Me.calM2.ShowTodayCircle = False
-        Me.calM2.TabIndex = 238
-        '
-        'calM3
-        '
-        Me.calM3.Location = New System.Drawing.Point(842, 85)
-        Me.calM3.Name = "calM3"
-        Me.calM3.ShowToday = False
-        Me.calM3.ShowTodayCircle = False
-        Me.calM3.TabIndex = 239
-        '
-        'cmb_Trimestre
-        '
-        Me.cmb_Trimestre.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
-        Me.cmb_Trimestre.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cmb_Trimestre.Items.AddRange(New Object() {"1er Semestre", "2do Semestre"})
-        Me.cmb_Trimestre.Location = New System.Drawing.Point(598, 49)
-        Me.cmb_Trimestre.Name = "cmb_Trimestre"
-        Me.cmb_Trimestre.Size = New System.Drawing.Size(154, 24)
-        Me.cmb_Trimestre.TabIndex = 240
-        '
         'lbl_Medico
         '
         Me.lbl_Medico.AutoSize = True
@@ -236,30 +183,6 @@ Partial Class frm_Actividad
         Me.lbl_Medico.Size = New System.Drawing.Size(104, 24)
         Me.lbl_Medico.TabIndex = 242
         Me.lbl_Medico.Text = "(MEDICO)"
-        '
-        'calM6
-        '
-        Me.calM6.Location = New System.Drawing.Point(842, 254)
-        Me.calM6.Name = "calM6"
-        Me.calM6.ShowToday = False
-        Me.calM6.ShowTodayCircle = False
-        Me.calM6.TabIndex = 245
-        '
-        'calM5
-        '
-        Me.calM5.Location = New System.Drawing.Point(644, 254)
-        Me.calM5.Name = "calM5"
-        Me.calM5.ShowToday = False
-        Me.calM5.ShowTodayCircle = False
-        Me.calM5.TabIndex = 244
-        '
-        'calM4
-        '
-        Me.calM4.Location = New System.Drawing.Point(446, 254)
-        Me.calM4.Name = "calM4"
-        Me.calM4.ShowToday = False
-        Me.calM4.ShowTodayCircle = False
-        Me.calM4.TabIndex = 243
         '
         'lbl_FechaSeleccionada
         '
@@ -393,7 +316,7 @@ Partial Class frm_Actividad
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.CadetBlue
-        Me.ClientSize = New System.Drawing.Size(1045, 531)
+        Me.ClientSize = New System.Drawing.Size(450, 531)
         Me.Controls.Add(Me.cmb_Mes)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.cmb_Motivo)
@@ -406,15 +329,7 @@ Partial Class frm_Actividad
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.cmb_Hora)
         Me.Controls.Add(Me.lbl_FechaSeleccionada)
-        Me.Controls.Add(Me.calM6)
-        Me.Controls.Add(Me.calM5)
-        Me.Controls.Add(Me.calM4)
         Me.Controls.Add(Me.lbl_Medico)
-        Me.Controls.Add(Me.cmb_Trimestre)
-        Me.Controls.Add(Me.calM3)
-        Me.Controls.Add(Me.calM2)
-        Me.Controls.Add(Me.Label4)
-        Me.Controls.Add(Me.calM1)
         Me.Controls.Add(Me.btn_EliminaAct)
         Me.Controls.Add(Me.dgv_Actividad)
         Me.Controls.Add(Me.dtp_IniciaActividad)
@@ -449,15 +364,7 @@ Partial Class frm_Actividad
     Friend WithEvents dtp_IniciaActividad As System.Windows.Forms.MonthCalendar
     Friend WithEvents dgv_Actividad As System.Windows.Forms.DataGridView
     Friend WithEvents btn_EliminaAct As System.Windows.Forms.Button
-    Friend WithEvents calM1 As System.Windows.Forms.MonthCalendar
-    Friend WithEvents Label4 As System.Windows.Forms.Label
-    Friend WithEvents calM2 As System.Windows.Forms.MonthCalendar
-    Friend WithEvents calM3 As System.Windows.Forms.MonthCalendar
-    Friend WithEvents cmb_Trimestre As System.Windows.Forms.ComboBox
     Friend WithEvents lbl_Medico As System.Windows.Forms.Label
-    Friend WithEvents calM6 As System.Windows.Forms.MonthCalendar
-    Friend WithEvents calM5 As System.Windows.Forms.MonthCalendar
-    Friend WithEvents calM4 As System.Windows.Forms.MonthCalendar
     Friend WithEvents lbl_FechaSeleccionada As System.Windows.Forms.Label
     Friend WithEvents cmb_Hora As System.Windows.Forms.ComboBox
     Friend WithEvents Label2 As System.Windows.Forms.Label

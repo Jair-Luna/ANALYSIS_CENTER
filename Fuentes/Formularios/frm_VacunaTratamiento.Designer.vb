@@ -115,6 +115,7 @@ Partial Class frm_VacunaTratamiento
         Me.dgv_MATPaciente = New System.Windows.Forms.DataGridView
         Me.Label5 = New System.Windows.Forms.Label
         Me.Label3 = New System.Windows.Forms.Label
+        Me.rbt_todos = New System.Windows.Forms.RadioButton
         Me.pan_barra.SuspendLayout()
         CType(Me.dgv_TToPaciente, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
@@ -401,13 +402,11 @@ Partial Class frm_VacunaTratamiento
         'rbt_Adulto
         '
         Me.rbt_Adulto.AutoSize = True
-        Me.rbt_Adulto.Checked = True
         Me.rbt_Adulto.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.rbt_Adulto.Location = New System.Drawing.Point(15, 326)
+        Me.rbt_Adulto.Location = New System.Drawing.Point(76, 326)
         Me.rbt_Adulto.Name = "rbt_Adulto"
         Me.rbt_Adulto.Size = New System.Drawing.Size(73, 19)
         Me.rbt_Adulto.TabIndex = 243
-        Me.rbt_Adulto.TabStop = True
         Me.rbt_Adulto.Text = "ADULTO"
         Me.rbt_Adulto.UseVisualStyleBackColor = True
         '
@@ -415,7 +414,7 @@ Partial Class frm_VacunaTratamiento
         '
         Me.rbt_Ninio.AutoSize = True
         Me.rbt_Ninio.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.rbt_Ninio.Location = New System.Drawing.Point(88, 326)
+        Me.rbt_Ninio.Location = New System.Drawing.Point(149, 326)
         Me.rbt_Ninio.Name = "rbt_Ninio"
         Me.rbt_Ninio.Size = New System.Drawing.Size(55, 19)
         Me.rbt_Ninio.TabIndex = 244
@@ -1095,12 +1094,25 @@ Partial Class frm_VacunaTratamiento
         Me.Label3.TabIndex = 294
         Me.Label3.Text = "Bodega"
         '
+        'rbt_todos
+        '
+        Me.rbt_todos.AutoSize = True
+        Me.rbt_todos.Checked = True
+        Me.rbt_todos.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.rbt_todos.Location = New System.Drawing.Point(18, 326)
+        Me.rbt_todos.Name = "rbt_todos"
+        Me.rbt_todos.Size = New System.Drawing.Size(59, 19)
+        Me.rbt_todos.TabIndex = 295
+        Me.rbt_todos.Text = "TODO"
+        Me.rbt_todos.UseVisualStyleBackColor = True
+        '
         'frm_VacunaTratamiento
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.DarkGray
         Me.ClientSize = New System.Drawing.Size(1230, 614)
+        Me.Controls.Add(Me.rbt_todos)
         Me.Controls.Add(Me.txt_BuscaVacuna)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label5)
@@ -1245,4 +1257,5 @@ Partial Class frm_VacunaTratamiento
     Friend WithEvents DataGridTextBoxColumn34 As System.Windows.Forms.DataGridTextBoxColumn
     Friend WithEvents DataGridTextBoxColumn36 As System.Windows.Forms.DataGridTextBoxColumn
     Friend WithEvents DataGridTextBoxColumn37 As System.Windows.Forms.DataGridTextBoxColumn
+    Friend WithEvents rbt_todos As System.Windows.Forms.RadioButton
 End Class

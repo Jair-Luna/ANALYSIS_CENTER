@@ -441,8 +441,8 @@ MsgError:
         Dim dts_auto As New DataSet()
 
         Dim str_sql As String = "select vt.I_PRD_ID, p.I_PRD_DESCRIPCION, p.I_PRD_FRASCOS " & _
-                                "from vacunaTratamiento as vt, i_producto  as p " & _
-                                "where vt.I_PRD_ID = p.I_PRD_ID And Age_id = " & Age_id
+                                "from tratamientoPaciente as vt, i_producto  as p " & _
+                                "where vt.I_PRD_ID = p.I_PRD_ID And vt.Age_id = " & Age_id
 
 
         cls_operacion.sql_conectar()
@@ -4310,7 +4310,7 @@ MsgError:
                                     "and p.I_PRD_ID = vt.I_PRD_ID and p.I_AID <> 4"
 
             Case "PACIENTE"
-                str_sql = "SELECT CONVERT(VARCHAR, vt.TTO_FECHA, 103), p.I_PRD_ID, p.I_PRD_DESCRIPCION, case when SUBSTRING(p.I_PRD_DESCRIPCION, LEN(p.I_PRD_DESCRIPCION), 1) = 'A' then 'ADULTO' else 'NIÑO' end AS EDAD, vt.TTO_CANTIDAD, u.I_UNI_DESCRIPCION, vt.VAC_LOTE, 'Subcutanea' as VIA, vt.SER_ID as COMP, 'LabAlergia Quito - Ecuador' AS ORIGEN, p.I_PRD_FRASCOS, p.SER_ID, p.I_PRD_ABREV " & _
+                str_sql = "SELECT CONVERT(VARCHAR, vt.TTO_FECHA, 103), p.I_PRD_ID, p.I_PRD_DESCRIPCION, case when SUBSTRING(p.I_PRD_DESCRIPCION, LEN(p.I_PRD_DESCRIPCION), 1) = 'A' then 'ADULTO' else 'NIÑO' end AS EDAD, vt.TTO_CANTIDAD, u.I_UNI_DESCRIPCION, vt.VAC_LOTE, 'Subcutanea' as VIA, vt.SER_ID as COMP, 'LabAlergia Quito - Ecuador' AS ORIGEN, p.I_PRD_FRASCOS, p.SER_ID, p.I_PRD_ABREV, p.I_AID " & _
                     "FROM TratamientoPaciente as vt, i_producto as p,i_unidad as u " & _
                     "where u.I_UNI_ID = p.I_UNI_ID And vt.PAC_ID = " & pac_id & " " & _
                     "and p.I_PRD_ID = vt.I_PRD_ID and p.I_AID <> 4"
@@ -4696,7 +4696,7 @@ MsgError:
                 "select p.I_PRD_ID, p.I_PRD_DESCRIPCION,  sum(md.I_MOD_CANTIDAD) as INV_CANTIDAD, bod.I_BOD_DESCRIPCION " & _
                 "from i_movimiento as m, i_movimiento_detalle as md,i_producto as p, i_bodega as bod " & _
                 "where(m.I_MOV_ID = md.I_MOV_ID And p.I_PRD_ID = md.I_PRD_ID And bod.I_BOD_ID = md.I_BOD_ID) " & _
-                "and bod.I_BOD_ID IN ('B01','B02','B04') and SUBSTRING(p.I_PRD_ID, LEN(p.I_PRD_ID), 1) = '" & I_EDAD & "' and Year(m.i_mov_fecing) = " & anio & " " & _
+                "and bod.I_BOD_ID IN ('B01','B02','B04') and SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) = '" & I_EDAD & "' and Year(m.i_mov_fecing) = " & anio & " " & _
                 "group by p.I_PRD_ID, p.I_PRD_DESCRIPCION, bod.I_BOD_DESCRIPCION " & _
                 ") as tandencia " & _
                 "PIVOT ( " & _
@@ -4781,31 +4781,9 @@ MsgError:
 
         opr_conexion.sql_conectar()
         If CliPac = "CLIENTE" Then
-            str_sql = "select * from ( " & _
-                    "SELECT " & _
-                    "MONTH(TTO_FECHA) AS Mes, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
-                    "FROM vacunaTratamiento, paciente " & _
-                    "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO = 'CLIENTE'" & _
-                    "GROUP BY " & _
-                    "MONTH(TTO_FECHA), I_PRD_ID " & _
-                    ") as consumo " & _
-                    "PIVOT ( " & _
-                    "SUM(TotalVendido) " & _
-                    "FOR Mes IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12]) " & _
-                    ") AS PivotTable;"
+            str_sql = "select * from ( SELECT p.i_prd_descripcion, MONTH(tp.TTO_FECHA) as MES, sum(tp.TTO_CANTIDAD) as TotalVendido FROM TratamientoCliente AS tp, i_producto as p WHERE YEAR(TTO_FECHA) = " & anio & " AND SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) = '" & I_EDAD & "' AND p.I_PRD_ID = tp.I_PRD_ID GROUP BY p.I_PRD_DESCRIPCION, Month(tp.TTO_FECHA)) as CONSUMO PIVOT(SUM(TotalVendido) FOR Mes IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12])) AS PivotTable;"
         Else
-            str_sql = "select * from ( " & _
-                    "SELECT " & _
-                    "MONTH(TTO_FECHA) AS Mes, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
-                    "FROM vacunaTratamiento, paciente " & _
-                    "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO <> 'CLIENTE'" & _
-                    "GROUP BY " & _
-                    "MONTH(TTO_FECHA), I_PRD_ID " & _
-                    ") as consumo " & _
-                    "PIVOT ( " & _
-                    "SUM(TotalVendido) " & _
-                    "FOR Mes IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12]) " & _
-                    ") AS PivotTable;"
+            str_sql = "select * from ( SELECT p.i_prd_descripcion, MONTH(tp.TTO_FECHA) as MES, sum(tp.TTO_CANTIDAD) as TotalVendido FROM TratamientoPaciente AS tp, i_producto as p WHERE YEAR(TTO_FECHA) = " & anio & " AND SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) = '" & I_EDAD & "' AND p.I_PRD_ID = tp.I_PRD_ID GROUP BY p.I_PRD_DESCRIPCION, Month(tp.TTO_FECHA)) as CONSUMO PIVOT(SUM(TotalVendido) FOR Mes IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12])) AS PivotTable;"
         End If
 
         Dim odr_tendencia As SqlDataReader = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteReader
@@ -4910,23 +4888,15 @@ MsgError:
 
         If CliPac = "CLIENTE" Then
             str_sql = "select * from ( " & _
-                    "SELECT " & _
-                    "MONTH(TTO_FECHA) AS Mes, (paciente.PAC_NOMBRE + ' '+ PACIENTE.PAC_APELLIDO) as PAC_APELLIDO, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
-                    "FROM vacunaTratamiento, paciente " & _
-                    "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO = 'CLIENTE'" & _
-                    "GROUP BY " & _
-                    "MONTH(TTO_FECHA), PAC_NOMBRE, PAC_APELLIDO, I_PRD_ID  " & _
-                    ") as consumo " & _
-                    "PIVOT ( " & _
-                    "SUM(TotalVendido) " & _
-                    "FOR Mes IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12]) " & _
-                    ") AS PivotTable;"
+                "SELECT m.MED_NOMBRE, p.i_prd_descripcion, MONTH(tp.TTO_FECHA) as MES, sum(tp.TTO_CANTIDAD) as TotalVendido " & _
+                "FROM TratamientoCliente AS tp, i_producto as p, medico as m " & _
+                "WHERE YEAR(TTO_FECHA) = " & anio & " AND SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) = '" & I_EDAD & "' AND p.I_PRD_ID = tp.I_PRD_ID AND tp.MED_ID = m.MED_ID GROUP BY m.MED_NOMBRE, p.I_PRD_DESCRIPCION, Month(tp.TTO_FECHA)) as CONSUMO PIVOT(SUM(TotalVendido) FOR Mes IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12])) AS PivotTable;"
         Else
             str_sql = "select * from ( " & _
                     "SELECT " & _
                     "MONTH(TTO_FECHA) AS Mes, (paciente.PAC_NOMBRE + ' '+ PACIENTE.PAC_APELLIDO) as PAC_APELLIDO, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
                     "FROM vacunaTratamiento, paciente " & _
-                    "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO <> 'CLIENTE'" & _
+                    "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and SUBSTRING(I_PRD_ABREV, LEN(I_PRD_ABREV), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO <> 'CLIENTE'" & _
                     "GROUP BY " & _
                     "MONTH(TTO_FECHA), PAC_NOMBRE, PAC_APELLIDO, I_PRD_ID  " & _
                     ") as consumo " & _
@@ -5039,15 +5009,17 @@ MsgError:
         Dim str_sql As String = ""
 
         opr_conexion.sql_conectar()
-
         str_sql = "select * from ( " & _
-                "SELECT DAY(TTO_FECHA) AS Dia, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
-                "FROM vacunaTratamiento " & _
-                     "WHERE Year(TTO_FECHA) = " & anio & " and month(TTO_FECHA) IN(" & mes & ") and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' " & _
-                     "GROUP BY DAY(TTO_FECHA), I_PRD_ID ) " & _
-                     "as consumo " & _
-                     "PIVOT ( SUM(TotalVendido) FOR Dia IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25], [26], [27], [28], [29], [30], [31]) " & _
-                ") AS PivotTable;"
+            "SELECT p.I_PRD_DESCRIPCION, DAY(tp.TTO_FECHA) AS Dia,  ISNULL(SUM(tp.TTO_CANTIDAD), 0) AS TotalVendido " & _
+        "FROM TratamientoPaciente as tp, i_producto as p " & _
+        "WHERE p.I_PRD_ID = tp.I_PRD_ID and Year(tp.TTO_FECHA) = " & anio & " and month(tp.TTO_FECHA) IN(" & mes & ") " & _
+        "and SUBSTRING(I_PRD_ABREV, LEN(I_PRD_ABREV), 1) = '" & I_EDAD & "'" & _
+          "GROUP BY DAY(tp.TTO_FECHA), p.I_PRD_DESCRIPCION ) as consumo " & _
+        "PIVOT (SUM(TotalVendido) FOR Dia IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], " & _
+        "[11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], " & _
+        "[25], [26], [27], [28], [29], [30], [31])) AS PivotTable;"
+
+        'str_sql = "select * from (SELECT p.I_PRD_DESCRIPCION, DAY(tp.TTO_FECHA) AS Dia,  SUM(tp.TTO_CANTIDAD) AS TotalVendido`FROM TratamientoPaciente as tp, i_producto as p WHERE Year(tp.TTO_FECHA) = " & anio & " and month(tp.TTO_FECHA) IN(" & mes & ") and SUBSTRING(I_PRD_ABREV, LEN(I_PRD_ABREV), 1) = '" & I_EDAD & "' p.I_PRD_ID = tp.I_PRD_ID GROUP BY DAY(tp.TTO_FECHA), p.I_PRD_DESCRIPCION ) as consumo PIVOT (SUM(TotalVendido) FOR Dia IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25], [26], [27], [28], [29], [30], [31])) AS PivotTable;"
 
         Dim odr_tendencia As SqlDataReader = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteReader
         While odr_tendencia.Read
@@ -5183,10 +5155,10 @@ MsgError:
             If IsDBNull(odr_tendencia.Item(21)) Then ' 
                 dtr_fila(21) = 0
             Else
-                dtr_fila(21) = odr_tendencia.Item(22)
+                dtr_fila(21) = odr_tendencia.Item(21)
             End If
 
-            If IsDBNull(odr_tendencia.Item(23)) Then ' 
+            If IsDBNull(odr_tendencia.Item(22)) Then ' 
                 dtr_fila(22) = 0
             Else
                 dtr_fila(22) = odr_tendencia.Item(22)
@@ -5269,19 +5241,12 @@ MsgError:
         opr_conexion.sql_conectar()
 
         If CliPac = "CLIENTE" Then
-            str_sql = "select * from ( " & _
-                    "SELECT DAY(TTO_FECHA) AS Dia, (paciente.PAC_NOMBRE + ' '+ PACIENTE.PAC_APELLIDO) as PAC_APELLIDO, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
-                    "FROM vacunaTratamiento, paciente " & _
-                     "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and month(TTO_FECHA) IN(" & mes & ") and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO = 'CLIENTE'" & _
-                     "GROUP BY DAY(TTO_FECHA), PAC_NOMBRE, PAC_APELLIDO, I_PRD_ID ) " & _
-                     "as consumo " & _
-                     "PIVOT ( SUM(TotalVendido) FOR Dia IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25], [26], [27], [28], [29], [30], [31]) " & _
-                ") AS PivotTable;"
+            str_sql = "select * from (SELECT m.MED_NOMBRE, p.I_PRD_DESCRIPCION, DAY(tp.TTO_FECHA) AS Dia,  SUM(tp.TTO_CANTIDAD) AS TotalVendido FROM TratamientoCliente as tp, i_producto as p, medico as m WHERE m.MED_ID = tp.med_id AND Year(tp.TTO_FECHA) = " & anio & " and month(tp.TTO_FECHA) IN(" & mes & ") and SUBSTRING(I_PRD_ABREV, LEN(I_PRD_ABREV), 1) = '" & I_EDAD & "' and p.I_PRD_ID = tp.I_PRD_ID GROUP BY m.MED_NOMBRE, DAY(tp.TTO_FECHA), p.I_PRD_DESCRIPCION ) as consumo PIVOT (SUM(TotalVendido) FOR Dia IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25], [26], [27], [28], [29], [30], [31])) AS PivotTable;"
         Else
             str_sql = "select * from ( " & _
                     "SELECT DAY(TTO_FECHA) AS Dia, (paciente.PAC_NOMBRE + ' '+ PACIENTE.PAC_APELLIDO) as PAC_APELLIDO, I_PRD_ID, SUM(TTO_CANTIDAD) AS TotalVendido " & _
                     "FROM vacunaTratamiento, paciente " & _
-                     "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and month(TTO_FECHA) IN(" & mes & ") and SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO <> 'CLIENTE'" & _
+                     "WHERE vacunaTratamiento.PAC_ID = paciente.PAC_ID and Year(TTO_FECHA) = " & anio & " and month(TTO_FECHA) IN(" & mes & ") and SUBSTRING(I_PRD_ABREV, LEN(I_PRD_ABREV), 1) = '" & I_EDAD & "' and paciente.PAC_GRADO <> 'CLIENTE'" & _
                      "GROUP BY DAY(TTO_FECHA), PAC_NOMBRE, PAC_APELLIDO, I_PRD_ID ) " & _
                      "as consumo " & _
                      "PIVOT ( SUM(TotalVendido) FOR Dia IN ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23], [24], [25], [26], [27], [28], [29], [30], [31]) " & _
@@ -5380,12 +5345,6 @@ MsgError:
                 dtr_fila(15) = odr_tendencia.Item(15)
             End If
 
-            If IsDBNull(odr_tendencia.Item(15)) Then ' 
-                dtr_fila(15) = 0
-            Else
-                dtr_fila(15) = odr_tendencia.Item(15)
-            End If
-
             If IsDBNull(odr_tendencia.Item(16)) Then ' 
                 dtr_fila(16) = 0
             Else
@@ -5419,10 +5378,10 @@ MsgError:
             If IsDBNull(odr_tendencia.Item(21)) Then ' 
                 dtr_fila(21) = 0
             Else
-                dtr_fila(21) = odr_tendencia.Item(22)
+                dtr_fila(21) = odr_tendencia.Item(21)
             End If
 
-            If IsDBNull(odr_tendencia.Item(23)) Then ' 
+            If IsDBNull(odr_tendencia.Item(22)) Then ' 
                 dtr_fila(22) = 0
             Else
                 dtr_fila(22) = odr_tendencia.Item(22)
@@ -5501,7 +5460,7 @@ MsgError:
     End Sub
 
 
-    Sub LlenarGridConAnual(ByRef dgv As DataGridView, ByVal I_EDAD As Char, ByRef dtt As DataTable)
+    Sub LlenarGridConAnual(ByRef dgv As DataGridView, ByVal anio As Integer, ByVal I_EDAD As Char, ByRef dtt As DataTable)
         'funcion que llena un datagrid con los tipos y cantidades de muestra de un pedido determinado
         On Error Resume Next
         Dim opr_conexion As New Cls_Conexion()
@@ -5510,42 +5469,25 @@ MsgError:
 
         opr_conexion.sql_conectar()
 
-        str_sql = "select * from ( " & _
-                "SELECT " & _
-                "YEAR(TTO_FECHA) AS Anio, " & _
-                "case " & _
-             "when MONTH(TTO_FECHA) = 1 then 'ENERO' " & _
-             "when MONTH(TTO_FECHA) = 2 then 'FEBRERO' " & _
-             "when MONTH(TTO_FECHA) = 3 then 'MARZO' " & _
-             "when MONTH(TTO_FECHA) = 4 then 'ABRIL' " & _
-             "when MONTH(TTO_FECHA) = 5 then 'MAYO' " & _
-             "when MONTH(TTO_FECHA) = 6 then 'JUNIO' " & _
-             "when MONTH(TTO_FECHA) = 7 then 'JULIO' " & _
-             "when MONTH(TTO_FECHA) = 8 then 'AGOSTO' " & _
-             "when MONTH(TTO_FECHA) = 9 then 'SEPTIEMBRE' " & _
-             "when MONTH(TTO_FECHA) = 10 then 'OCTUBRE' " & _
-             "when MONTH(TTO_FECHA) = 11 then 'NOVIEMBRE' " & _
-             "when MONTH(TTO_FECHA) = 12 then 'DICIEMBRE' " & _
-             "end AS Mes, " & _
-                "SUM(TTO_CANTIDAD) AS TotalVentas " & _
-                "FROM vacunaTratamiento "
+        str_sql = "SELECT " & _
+            "p.I_PRD_DESCRIPCION, SUM(tp.TTO_CANTIDAD) as totalVendido " & _
+            "FROM " & _
+            "TratamientoPaciente as tp, i_producto as p " & _
+            "WHERE tp.I_PRD_ID = p.I_PRD_ID " & _
+            "AND YEAR(tp.TTO_FECHA) = " & anio & ""
 
-        str_sqlW = "WHERE SUBSTRING(I_PRD_ID, LEN(I_PRD_ID), 1) = '" & I_EDAD & "'"
+        str_sqlW = "AND SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) = '" & I_EDAD & "'"
 
         str_sql2 = "GROUP BY " & _
-                "YEAR(TTO_FECHA), Month(TTO_FECHA) " & _
-                ") as TOTALCONSUMO " & _
-                "PIVOT (" & _
-                "SUM(TotalVentas) " & _
-                "FOR Anio IN ([2023], [2024], [2025]) " & _
-                ") AS PivotTable;"
+                "p.I_PRD_DESCRIPCION"
+
         If I_EDAD <> "T" Then
             str_sql = str_sql & str_sqlW & str_sql2
         Else
             str_sql = str_sql & str_sql2
         End If
-        Dim odr_tendencia As SqlDataReader = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteReader
 
+        Dim odr_tendencia As SqlDataReader = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteReader
 
         While odr_tendencia.Read
             dtr_fila = dtt.NewRow
@@ -5579,6 +5521,66 @@ MsgError:
         '        g_opr_usuario.MensajeBoxError("No se pudo realizar la operacion solicitada, Leer Cantidad Muestra", Err)
         '        Err.Clear()
     End Sub
+
+
+    Sub LlenarGridConAnual_cli(ByRef dgv As DataGridView, ByVal anio As Integer, ByVal I_EDAD As Char, ByRef dtt As DataTable)
+        On Error Resume Next
+        Dim opr_conexion As New Cls_Conexion()
+        Dim dtr_fila As DataRow
+        Dim str_sql, str_sqlW, str_sql2 As String
+
+        opr_conexion.sql_conectar()
+
+        str_sql = "SELECT " & _
+           "p.I_PRD_DESCRIPCION, SUM(tp.TTO_CANTIDAD) as totalVendido " & _
+           "FROM " & _
+           "TratamientoCliente as tp, i_producto as p " & _
+           "WHERE tp.I_PRD_ID = p.I_PRD_ID " & _
+           "AND YEAR(tp.TTO_FECHA) = " & anio & ""
+
+        str_sqlW = "AND SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) = '" & I_EDAD & "'"
+
+        str_sql2 = "GROUP BY " & _
+                "p.I_PRD_DESCRIPCION"
+
+        If I_EDAD <> "T" Then
+            str_sql = str_sql & str_sqlW & str_sql2
+        Else
+            str_sql = str_sql & str_sql2
+        End If
+
+        Dim odr_tendencia As SqlDataReader = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteReader
+
+        While odr_tendencia.Read
+            dtr_fila = dtt.NewRow
+
+            dtr_fila(0) = odr_tendencia.Item(0) ' Mes
+            If IsDBNull(odr_tendencia.Item(1)) Then ' 2023
+                dtr_fila(1) = 0
+            Else
+                dtr_fila(1) = odr_tendencia.Item(1)
+            End If
+
+            If IsDBNull(odr_tendencia.Item(2)) Then ' 2024
+                dtr_fila(2) = 0
+            Else
+                dtr_fila(2) = odr_tendencia.Item(2)
+            End If
+
+            If IsDBNull(odr_tendencia.Item(3)) Then ' 2025
+                dtr_fila(3) = 0
+            Else
+                dtr_fila(3) = odr_tendencia.Item(3)
+            End If
+            dtt.Rows.Add(dtr_fila)
+        End While
+        dgv.DataSource = dtt
+        odr_tendencia.Close()
+        opr_conexion.sql_desconn()
+
+        Exit Sub
+    End Sub
+
 
 
     Sub LlenarGridInfoPaciente(ByRef dgrd_InfoPaciente As DataGridView, ByRef Age_id As Integer, ByRef dtt_infoPac As DataTable)

@@ -631,7 +631,7 @@ Public Class frm_AgendaCitaMedica
                 btn_Confirmar.Enabled = True
         End Select
 
-        If dgv_Agenda.CurrentRow.Cells("age_tratamiento").Value() <> "" Then
+        If dgv_Agenda.CurrentRow.Cells("age_finalizado").Value() <> "" Then
             btn_CerAsist.Enabled = True
             btn_CerAsistTut.Enabled = True
             btn_CerVac.Enabled = True
@@ -1323,9 +1323,9 @@ Public Class frm_AgendaCitaMedica
         System.Console.WriteLine(es_cliente)
 
         Select Case cer_id
-            Case 1 : texto = "Certifico que el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " se presento el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " a la consulta de especialidad de alergia, y se encuentra recibiendo tratamiento."
+            Case 1 : texto = "Certifico que la/el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " asistió a la consulta el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " con especialidad en alergia."
 
-            Case 2 : texto = "Certifico que el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " se presento el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " a la consulta de especialidad de alergia, en compañía de su tutor: " & Trim(txt_CerTutor.Text) & " con CI: " & Trim(txt_CerCI.Text) & " y se encuentra recibiendo tratamiento."
+            Case 2 : texto = "Certifico que la/el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " asistió a la consulta el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " con especialidad en alergia, en compañía de su tutor(a): " & Trim(txt_CerTutor.Text) & " con CI: " & Trim(txt_CerCI.Text) & "."
 
             Case 3
                 cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
@@ -1427,13 +1427,13 @@ Public Class frm_AgendaCitaMedica
             Case 1, 2, 3, 4
 
                 If es_cliente = True Then
-                    str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                    str_sql = "select TOP 1 " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
                 "from TratamientoCliente as vt, agenda as a " & _
                 "WHERE vt.AGE_ID = a.age_id and a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
                 Else
-                    str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
-                "from TratamientoPaciente as vt, agenda as a " & _
-                "WHERE vt.AGE_ID = a.age_id and a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
+                    str_sql = "select TOP 1 " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                "from agenda as a " & _
+                "WHERE a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
                 End If
 
                 

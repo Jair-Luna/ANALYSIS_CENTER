@@ -1449,7 +1449,6 @@ MsgError:
         Dim str_sql As String
         opr_Conexion.sql_conectar()
 
-        'str_sql = "SELECT PEDIDO.PED_ID as ped_id, PEDIDO.PED_FECING as ped_fecing, PEDIDO.PAC_ID as pac_id, concat(PACIENTE.PAC_APELLIDO , ' ' , PACIENTE.PAC_NOMBRE) AS PACIENTE, PACIENTE.PAC_FECNAC as pac_fecnac, PEDIDO.PED_ANTECEDENTE as ped_antecedente, PEDIDO.PED_MEDICACION as ped_medicacion, MEDICO.MED_ID as med_id, MEDICO.MED_NOMBRE as med_nombre, PEDIDO.PED_NOTA AS ped_nota, PEDIDO.PED_TURNO AS ped_turno, PACIENTE.PAC_USAFECNAC as pac_usafecnac, pac_doc as CI FROM PACIENTE INNER JOIN (MEDICO INNER JOIN PEDIDO ON MEDICO.MED_ID = PEDIDO.MED_ID) ON PACIENTE.PAC_ID = PEDIDO.PAC_ID where (ped_estado = 3 or ped_estado = 4 or ped_estado = 5) and (PEDIDO.ped_fecing between '" & Format(fec_ini, "dd/MM/yyyy") & " 00:00:00' and '" & Format(fec_fin, "dd/MM/yyyy") & " 23:59:59') order by ped_fecing desc"
         str_sql = "SELECT PEDIDO.PED_ID as ped_id, PEDIDO.PED_FECING as ped_fecing, PEDIDO.PAC_ID as pac_id, (PACIENTE.PAC_APELLIDO + ' ' + PACIENTE.PAC_NOMBRE) AS PACIENTE, PACIENTE.PAC_FECNAC as pac_fecnac, PEDIDO.PED_ANTECEDENTE as ped_antecedente, PEDIDO.PED_MEDICACION as ped_medicacion, MEDICO.MED_ID as med_id, MEDICO.MED_NOMBRE as med_nombre, PEDIDO.PED_NOTA AS ped_nota, (SUBSTRING(convert(char(10),PEDIDO.PED_FECING,103),4,2) + (SUBSTRING(convert(char(10),PEDIDO.PED_FECING,103),1,2) )+ " & _
         "case when len(PEDIDO.PED_TURNO) = 1 then('0000' + convert(varchar(100),PEDIDO.PED_TURNO)) " & _
         "when len(PEDIDO.PED_TURNO) = 2 then('000' + convert(varchar(100),PEDIDO.PED_TURNO)) " & _
@@ -1503,7 +1502,7 @@ MsgError:
         Dim oda_operacion As SqlDataAdapter = New SqlDataAdapter()
 
         
-        Dim str_sql As String = "select p.I_PRD_ID, p.I_PRD_DESCRIPCION,  sum(md.I_MOD_CANTIDAD) as INV_CANTIDAD, bod.I_BOD_DESCRIPCION, md.I_MOD_LOTE, p.I_PRD_FRASCOS, SUBSTRING(p.I_PRD_DESCRIPCION, LEN(p.I_PRD_DESCRIPCION), 1) AS EDAD, 'LabAlergia Quito - Ecuador' AS ORIGEN, 'Subcutanea' as VIA, md.I_MOD_COSTO, p.SER_ID, u.I_UNI_DESCRIPCION, pn.PRES_DESCRIPCION, p.I_PRD_ABREV " & _
+        Dim str_sql As String = "select p.I_PRD_ID, p.I_PRD_DESCRIPCION,  sum(md.I_MOD_CANTIDAD) as INV_CANTIDAD, bod.I_BOD_DESCRIPCION, md.I_MOD_LOTE, p.I_PRD_FRASCOS, SUBSTRING(p.I_PRD_ABREV, LEN(p.I_PRD_ABREV), 1) AS EDAD, 'LabAlergia Quito - Ecuador' AS ORIGEN, 'Subcutanea' as VIA, md.I_MOD_COSTO, p.SER_ID, u.I_UNI_DESCRIPCION, pn.PRES_DESCRIPCION, p.I_PRD_ABREV " & _
                 "from i_movimiento as m, i_movimiento_detalle as md, i_producto as p, i_bodega as bod, vacunaSerie as vs, i_unidad as u, i_presentacion as pn " & _
                 "where m.I_MOV_ID = md.I_MOV_ID And p.I_PRD_ID = md.I_PRD_ID And bod.I_BOD_ID = md.I_BOD_ID and p.I_AID <> 4 " & _
                 "and p.I_UNI_ID = u.I_UNI_ID And vs.SER_ID = p.SER_ID and pn.PRES_ID = p.PRES_ID and bod.I_BOD_ID = '" & I_BOD_ID & "' " & _

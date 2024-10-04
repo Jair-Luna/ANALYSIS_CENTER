@@ -57,11 +57,11 @@ Public Class frm_Actividad
 
         cmb_Recursividad.SelectedIndex = 0
 
-        If Format(Now(), "MM") <= 6 Then
-            cmb_Trimestre.SelectedIndex = 0
-        Else
-            cmb_Trimestre.SelectedIndex = 1
-        End If
+        'If Format(Now(), "MM") <= 6 Then
+        '    cmb_Trimestre.SelectedIndex = 0
+        'Else
+        '    cmb_Trimestre.SelectedIndex = 1
+        'End If
 
         'btn_AceptaAct.Enabled = False
         'btn_EliminaAct.Enabled = False
@@ -296,27 +296,27 @@ Public Class frm_Actividad
     End Sub
 
 
-    Private Sub cmb_Trimestre_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmb_Trimestre.SelectedIndexChanged
-        Select Case cmb_Trimestre.SelectedIndex
-            Case 0
-                AjustaMesAnioCalendario(1, Format(Now(), "yyyy"), calM1)
-                AjustaMesAnioCalendario(2, Format(Now(), "yyyy"), calM2)
-                AjustaMesAnioCalendario(3, Format(Now(), "yyyy"), calM3)
-                AjustaMesAnioCalendario(4, Format(Now(), "yyyy"), calM4)
-                AjustaMesAnioCalendario(5, Format(Now(), "yyyy"), calM5)
-                AjustaMesAnioCalendario(6, Format(Now(), "yyyy"), calM6)
-            Case 1
-                AjustaMesAnioCalendario(7, Format(Now(), "yyyy"), calM1)
-                AjustaMesAnioCalendario(8, Format(Now(), "yyyy"), calM2)
-                AjustaMesAnioCalendario(9, Format(Now(), "yyyy"), calM3)
-                AjustaMesAnioCalendario(10, Format(Now(), "yyyy"), calM4)
-                AjustaMesAnioCalendario(11, Format(Now(), "yyyy"), calM5)
-                AjustaMesAnioCalendario(12, Format(Now(), "yyyy"), calM6)
-        End Select
-    End Sub
+    'Private Sub cmb_Trimestre_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs)
+    '    Select Case cmb_Trimestre.SelectedIndex
+    '        Case 0
+    '            AjustaMesAnioCalendario(1, Format(Now(), "yyyy"), calM1)
+    '            AjustaMesAnioCalendario(2, Format(Now(), "yyyy"), calM2)
+    '            AjustaMesAnioCalendario(3, Format(Now(), "yyyy"), calM3)
+    '            AjustaMesAnioCalendario(4, Format(Now(), "yyyy"), calM4)
+    '            AjustaMesAnioCalendario(5, Format(Now(), "yyyy"), calM5)
+    '            AjustaMesAnioCalendario(6, Format(Now(), "yyyy"), calM6)
+    '        Case 1
+    '            AjustaMesAnioCalendario(7, Format(Now(), "yyyy"), calM1)
+    '            AjustaMesAnioCalendario(8, Format(Now(), "yyyy"), calM2)
+    '            AjustaMesAnioCalendario(9, Format(Now(), "yyyy"), calM3)
+    '            AjustaMesAnioCalendario(10, Format(Now(), "yyyy"), calM4)
+    '            AjustaMesAnioCalendario(11, Format(Now(), "yyyy"), calM5)
+    '            AjustaMesAnioCalendario(12, Format(Now(), "yyyy"), calM6)
+    '    End Select
+    'End Sub
 
 
-    Private Sub calM1_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles calM1.DateSelected
+    Private Sub calM1_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs)
         Dim fechaSeleccionada As DateTime = e.Start
         Dim SiNoGuardo As Boolean = False
         Dim age_id, i As Integer
@@ -342,7 +342,7 @@ Public Class frm_Actividad
 
     End Sub
 
-    Private Sub calM2_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles calM2.DateSelected
+    Private Sub calM2_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs)
         Dim fechaSeleccionada As DateTime = e.Start
         Dim SiNoGuardo As Boolean = False
         Dim age_id, i As Integer
@@ -364,10 +364,10 @@ Public Class frm_Actividad
                 End If
             End If
         End If
-       
+
     End Sub
 
-    Private Sub calM3_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles calM3.DateSelected
+    Private Sub calM3_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs)
         Dim fechaSeleccionada As DateTime = e.Start
         Dim SiNoGuardo As Boolean = False
         Dim age_id, i As Integer
@@ -386,7 +386,7 @@ Public Class frm_Actividad
         End If
     End Sub
 
-    Private Sub calM4_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles calM4.DateSelected
+    Private Sub calM4_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs)
         Dim fechaSeleccionada As DateTime = e.Start
         Dim SiNoGuardo As Boolean = False
         Dim age_id, i As Integer
@@ -411,7 +411,7 @@ Public Class frm_Actividad
         End If
     End Sub
 
-    Private Sub calM5_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles calM5.DateSelected
+    Private Sub calM5_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs)
         Dim fechaSeleccionada As DateTime = e.Start
         Dim SiNoGuardo As Boolean = False
         Dim age_id, i As Integer
@@ -435,7 +435,7 @@ Public Class frm_Actividad
         End If
     End Sub
 
-    Private Sub calM6_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs) Handles calM6.DateSelected
+    Private Sub calM6_DateSelected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DateRangeEventArgs)
         Dim fechaSeleccionada As DateTime = e.Start
         Dim SiNoGuardo As Boolean = False
         Dim age_id, i As Integer
