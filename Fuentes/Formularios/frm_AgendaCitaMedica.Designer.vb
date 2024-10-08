@@ -22,21 +22,16 @@ Partial Class frm_AgendaCitaMedica
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle10 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle11 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
+        Dim DataGridViewCellStyle12 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frm_AgendaCitaMedica))
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
         Me.pnl_AccionAgenda = New System.Windows.Forms.Panel
-        Me.btn_Solicitud = New System.Windows.Forms.Button
-        Me.btn_Consent = New System.Windows.Forms.Button
-        Me.btn_CrearCert = New System.Windows.Forms.Button
         Me.lbl_NoDisponible = New System.Windows.Forms.Label
-        Me.btn_certificadoM = New System.Windows.Forms.Button
         Me.grp_Certificados = New System.Windows.Forms.GroupBox
-        Me.btn_GrabaTutor = New System.Windows.Forms.PictureBox
         Me.Label4 = New System.Windows.Forms.Label
         Me.Label2 = New System.Windows.Forms.Label
         Me.txt_CerCI = New System.Windows.Forms.TextBox
@@ -46,26 +41,14 @@ Partial Class frm_AgendaCitaMedica
         Me.chk_certVac = New System.Windows.Forms.CheckBox
         Me.chk_cerVacTut = New System.Windows.Forms.CheckBox
         Me.cmb_convenio = New System.Windows.Forms.ComboBox
-        Me.btn_CerVacTut = New System.Windows.Forms.Button
         Me.Label6 = New System.Windows.Forms.Label
-        Me.btn_CerVac = New System.Windows.Forms.Button
-        Me.btn_CerAsistTut = New System.Windows.Forms.Button
-        Me.btn_CerAsist = New System.Windows.Forms.Button
         Me.btn_Interpretacion = New System.Windows.Forms.Button
         Me.btn_PruebaCutanea = New System.Windows.Forms.Button
         Me.btn_HistoriaClinica = New System.Windows.Forms.Button
         Me.btn_SignosVitales = New System.Windows.Forms.Button
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
         Me.lbl_AgendarDia = New System.Windows.Forms.Label
         Me.grp_Accion = New System.Windows.Forms.GroupBox
-        Me.btn_buscaAgenda = New System.Windows.Forms.Button
         Me.lbl_AgendarA = New System.Windows.Forms.Label
-        Me.btn_AgendarPaciente = New System.Windows.Forms.Button
-        Me.btn_AgendarActividad = New System.Windows.Forms.Button
-        Me.btn_ssalir = New System.Windows.Forms.Button
-        Me.btn_Confirmar = New System.Windows.Forms.Button
-        Me.btn_ImpAgenda = New System.Windows.Forms.Button
-        Me.btn_gguardar = New System.Windows.Forms.Button
         Me.dgv_Agenda = New System.Windows.Forms.DataGridView
         Me.Label1 = New System.Windows.Forms.Label
         Me.lbl_MedicoCita = New System.Windows.Forms.Label
@@ -81,10 +64,25 @@ Partial Class frm_AgendaCitaMedica
         Me.rbt_Grp = New System.Windows.Forms.RadioButton
         Me.pan_barra = New System.Windows.Forms.Panel
         Me.lbl_textform = New System.Windows.Forms.Label
+        Me.btn_Solicitud = New System.Windows.Forms.Button
+        Me.btn_Consent = New System.Windows.Forms.Button
+        Me.btn_CrearCert = New System.Windows.Forms.Button
+        Me.btn_certificadoM = New System.Windows.Forms.Button
+        Me.btn_GrabaTutor = New System.Windows.Forms.PictureBox
+        Me.btn_CerVacTut = New System.Windows.Forms.Button
+        Me.btn_CerVac = New System.Windows.Forms.Button
+        Me.btn_CerAsistTut = New System.Windows.Forms.Button
+        Me.btn_CerAsist = New System.Windows.Forms.Button
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox
+        Me.btn_buscaAgenda = New System.Windows.Forms.Button
+        Me.btn_AgendarPaciente = New System.Windows.Forms.Button
+        Me.btn_AgendarActividad = New System.Windows.Forms.Button
+        Me.btn_ssalir = New System.Windows.Forms.Button
+        Me.btn_Confirmar = New System.Windows.Forms.Button
+        Me.btn_ImpAgenda = New System.Windows.Forms.Button
+        Me.btn_gguardar = New System.Windows.Forms.Button
         Me.pnl_AccionAgenda.SuspendLayout()
         Me.grp_Certificados.SuspendLayout()
-        CType(Me.btn_GrabaTutor, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.grp_Accion.SuspendLayout()
         CType(Me.dgv_Agenda, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.dgv_AgendaDespacho, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -92,6 +90,8 @@ Partial Class frm_AgendaCitaMedica
         CType(Me.dgv_Medico, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel3.SuspendLayout()
         Me.pan_barra.SuspendLayout()
+        CType(Me.btn_GrabaTutor, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'pnl_AccionAgenda
@@ -126,53 +126,6 @@ Partial Class frm_AgendaCitaMedica
         Me.pnl_AccionAgenda.Size = New System.Drawing.Size(1128, 553)
         Me.pnl_AccionAgenda.TabIndex = 162
         '
-        'btn_Solicitud
-        '
-        Me.btn_Solicitud.BackColor = System.Drawing.Color.LightGray
-        Me.btn_Solicitud.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_Solicitud.Enabled = False
-        Me.btn_Solicitud.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_Solicitud.Image = CType(resources.GetObject("btn_Solicitud.Image"), System.Drawing.Image)
-        Me.btn_Solicitud.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_Solicitud.Location = New System.Drawing.Point(1023, 493)
-        Me.btn_Solicitud.Name = "btn_Solicitud"
-        Me.btn_Solicitud.Size = New System.Drawing.Size(99, 43)
-        Me.btn_Solicitud.TabIndex = 215
-        Me.btn_Solicitud.Text = "Ver        Solicitud"
-        Me.btn_Solicitud.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_Solicitud.UseVisualStyleBackColor = False
-        '
-        'btn_Consent
-        '
-        Me.btn_Consent.BackColor = System.Drawing.Color.LightGray
-        Me.btn_Consent.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_Consent.Enabled = False
-        Me.btn_Consent.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_Consent.Image = CType(resources.GetObject("btn_Consent.Image"), System.Drawing.Image)
-        Me.btn_Consent.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_Consent.Location = New System.Drawing.Point(923, 493)
-        Me.btn_Consent.Name = "btn_Consent"
-        Me.btn_Consent.Size = New System.Drawing.Size(99, 43)
-        Me.btn_Consent.TabIndex = 213
-        Me.btn_Consent.Text = "Consent Informado"
-        Me.btn_Consent.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_Consent.UseVisualStyleBackColor = False
-        '
-        'btn_CrearCert
-        '
-        Me.btn_CrearCert.BackColor = System.Drawing.Color.LightGray
-        Me.btn_CrearCert.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_CrearCert.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_CrearCert.Image = CType(resources.GetObject("btn_CrearCert.Image"), System.Drawing.Image)
-        Me.btn_CrearCert.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_CrearCert.Location = New System.Drawing.Point(1023, 358)
-        Me.btn_CrearCert.Name = "btn_CrearCert"
-        Me.btn_CrearCert.Size = New System.Drawing.Size(98, 43)
-        Me.btn_CrearCert.TabIndex = 212
-        Me.btn_CrearCert.Text = "Crear Certificado"
-        Me.btn_CrearCert.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_CrearCert.UseVisualStyleBackColor = False
-        '
         'lbl_NoDisponible
         '
         Me.lbl_NoDisponible.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
@@ -186,22 +139,6 @@ Partial Class frm_AgendaCitaMedica
         Me.lbl_NoDisponible.Text = "NO DISPONIBLE"
         Me.lbl_NoDisponible.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         Me.lbl_NoDisponible.Visible = False
-        '
-        'btn_certificadoM
-        '
-        Me.btn_certificadoM.BackColor = System.Drawing.Color.LightGray
-        Me.btn_certificadoM.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_certificadoM.Enabled = False
-        Me.btn_certificadoM.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_certificadoM.Image = CType(resources.GetObject("btn_certificadoM.Image"), System.Drawing.Image)
-        Me.btn_certificadoM.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_certificadoM.Location = New System.Drawing.Point(923, 358)
-        Me.btn_certificadoM.Name = "btn_certificadoM"
-        Me.btn_certificadoM.Size = New System.Drawing.Size(98, 43)
-        Me.btn_certificadoM.TabIndex = 210
-        Me.btn_certificadoM.Text = "Certificado Medico"
-        Me.btn_certificadoM.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_certificadoM.UseVisualStyleBackColor = False
         '
         'grp_Certificados
         '
@@ -221,17 +158,6 @@ Partial Class frm_AgendaCitaMedica
         Me.grp_Certificados.TabIndex = 200
         Me.grp_Certificados.TabStop = False
         Me.grp_Certificados.Text = "Certificados"
-        '
-        'btn_GrabaTutor
-        '
-        Me.btn_GrabaTutor.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_GrabaTutor.Image = CType(resources.GetObject("btn_GrabaTutor.Image"), System.Drawing.Image)
-        Me.btn_GrabaTutor.Location = New System.Drawing.Point(166, 10)
-        Me.btn_GrabaTutor.Name = "btn_GrabaTutor"
-        Me.btn_GrabaTutor.Size = New System.Drawing.Size(28, 25)
-        Me.btn_GrabaTutor.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.btn_GrabaTutor.TabIndex = 210
-        Me.btn_GrabaTutor.TabStop = False
         '
         'Label4
         '
@@ -328,22 +254,6 @@ Partial Class frm_AgendaCitaMedica
         Me.cmb_convenio.Size = New System.Drawing.Size(197, 21)
         Me.cmb_convenio.TabIndex = 185
         '
-        'btn_CerVacTut
-        '
-        Me.btn_CerVacTut.BackColor = System.Drawing.Color.LightGray
-        Me.btn_CerVacTut.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_CerVacTut.Enabled = False
-        Me.btn_CerVacTut.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_CerVacTut.Image = CType(resources.GetObject("btn_CerVacTut.Image"), System.Drawing.Image)
-        Me.btn_CerVacTut.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_CerVacTut.Location = New System.Drawing.Point(1023, 448)
-        Me.btn_CerVacTut.Name = "btn_CerVacTut"
-        Me.btn_CerVacTut.Size = New System.Drawing.Size(99, 43)
-        Me.btn_CerVacTut.TabIndex = 208
-        Me.btn_CerVacTut.Text = "Certificado Vac. Tutor"
-        Me.btn_CerVacTut.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_CerVacTut.UseVisualStyleBackColor = False
-        '
         'Label6
         '
         Me.Label6.AutoSize = True
@@ -355,54 +265,6 @@ Partial Class frm_AgendaCitaMedica
         Me.Label6.Size = New System.Drawing.Size(67, 14)
         Me.Label6.TabIndex = 186
         Me.Label6.Text = "CONVENIO"
-        '
-        'btn_CerVac
-        '
-        Me.btn_CerVac.BackColor = System.Drawing.Color.LightGray
-        Me.btn_CerVac.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_CerVac.Enabled = False
-        Me.btn_CerVac.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_CerVac.Image = CType(resources.GetObject("btn_CerVac.Image"), System.Drawing.Image)
-        Me.btn_CerVac.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_CerVac.Location = New System.Drawing.Point(923, 448)
-        Me.btn_CerVac.Name = "btn_CerVac"
-        Me.btn_CerVac.Size = New System.Drawing.Size(99, 43)
-        Me.btn_CerVac.TabIndex = 207
-        Me.btn_CerVac.Text = "Certificado Vacuna"
-        Me.btn_CerVac.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_CerVac.UseVisualStyleBackColor = False
-        '
-        'btn_CerAsistTut
-        '
-        Me.btn_CerAsistTut.BackColor = System.Drawing.Color.LightGray
-        Me.btn_CerAsistTut.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_CerAsistTut.Enabled = False
-        Me.btn_CerAsistTut.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_CerAsistTut.Image = CType(resources.GetObject("btn_CerAsistTut.Image"), System.Drawing.Image)
-        Me.btn_CerAsistTut.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_CerAsistTut.Location = New System.Drawing.Point(1023, 403)
-        Me.btn_CerAsistTut.Name = "btn_CerAsistTut"
-        Me.btn_CerAsistTut.Size = New System.Drawing.Size(99, 62)
-        Me.btn_CerAsistTut.TabIndex = 206
-        Me.btn_CerAsistTut.Text = "Certificado Asist. Tutor"
-        Me.btn_CerAsistTut.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_CerAsistTut.UseVisualStyleBackColor = False
-        '
-        'btn_CerAsist
-        '
-        Me.btn_CerAsist.BackColor = System.Drawing.Color.LightGray
-        Me.btn_CerAsist.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_CerAsist.Enabled = False
-        Me.btn_CerAsist.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_CerAsist.Image = CType(resources.GetObject("btn_CerAsist.Image"), System.Drawing.Image)
-        Me.btn_CerAsist.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btn_CerAsist.Location = New System.Drawing.Point(923, 403)
-        Me.btn_CerAsist.Name = "btn_CerAsist"
-        Me.btn_CerAsist.Size = New System.Drawing.Size(99, 43)
-        Me.btn_CerAsist.TabIndex = 201
-        Me.btn_CerAsist.Text = "Certificado Asistencia"
-        Me.btn_CerAsist.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_CerAsist.UseVisualStyleBackColor = False
         '
         'btn_Interpretacion
         '
@@ -460,17 +322,6 @@ Partial Class frm_AgendaCitaMedica
         Me.btn_SignosVitales.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btn_SignosVitales.UseVisualStyleBackColor = False
         '
-        'PictureBox1
-        '
-        Me.PictureBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(7, 34)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(34, 34)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 188
-        Me.PictureBox1.TabStop = False
-        '
         'lbl_AgendarDia
         '
         Me.lbl_AgendarDia.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
@@ -500,20 +351,6 @@ Partial Class frm_AgendaCitaMedica
         Me.grp_Accion.TabIndex = 177
         Me.grp_Accion.TabStop = False
         '
-        'btn_buscaAgenda
-        '
-        Me.btn_buscaAgenda.BackColor = System.Drawing.Color.White
-        Me.btn_buscaAgenda.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_buscaAgenda.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_buscaAgenda.Image = CType(resources.GetObject("btn_buscaAgenda.Image"), System.Drawing.Image)
-        Me.btn_buscaAgenda.Location = New System.Drawing.Point(776, 9)
-        Me.btn_buscaAgenda.Name = "btn_buscaAgenda"
-        Me.btn_buscaAgenda.Size = New System.Drawing.Size(64, 62)
-        Me.btn_buscaAgenda.TabIndex = 185
-        Me.btn_buscaAgenda.Tag = "BUSCAR PACIENTE AGENDADO"
-        Me.btn_buscaAgenda.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_buscaAgenda.UseVisualStyleBackColor = False
-        '
         'lbl_AgendarA
         '
         Me.lbl_AgendarA.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
@@ -527,125 +364,41 @@ Partial Class frm_AgendaCitaMedica
         Me.lbl_AgendarA.Text = "Agenda"
         Me.lbl_AgendarA.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
-        'btn_AgendarPaciente
-        '
-        Me.btn_AgendarPaciente.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.btn_AgendarPaciente.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_AgendarPaciente.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_AgendarPaciente.Image = CType(resources.GetObject("btn_AgendarPaciente.Image"), System.Drawing.Image)
-        Me.btn_AgendarPaciente.Location = New System.Drawing.Point(399, 9)
-        Me.btn_AgendarPaciente.Name = "btn_AgendarPaciente"
-        Me.btn_AgendarPaciente.Size = New System.Drawing.Size(64, 62)
-        Me.btn_AgendarPaciente.TabIndex = 179
-        Me.btn_AgendarPaciente.Tag = "BUSCA PACIENTE"
-        Me.btn_AgendarPaciente.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_AgendarPaciente.UseVisualStyleBackColor = False
-        '
-        'btn_AgendarActividad
-        '
-        Me.btn_AgendarActividad.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.btn_AgendarActividad.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_AgendarActividad.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_AgendarActividad.Image = CType(resources.GetObject("btn_AgendarActividad.Image"), System.Drawing.Image)
-        Me.btn_AgendarActividad.Location = New System.Drawing.Point(713, 9)
-        Me.btn_AgendarActividad.Name = "btn_AgendarActividad"
-        Me.btn_AgendarActividad.Size = New System.Drawing.Size(64, 62)
-        Me.btn_AgendarActividad.TabIndex = 180
-        Me.btn_AgendarActividad.Tag = "AGREGA ACTIVIDAD"
-        Me.btn_AgendarActividad.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_AgendarActividad.UseVisualStyleBackColor = False
-        '
-        'btn_ssalir
-        '
-        Me.btn_ssalir.BackColor = System.Drawing.Color.White
-        Me.btn_ssalir.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_ssalir.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_ssalir.Image = CType(resources.GetObject("btn_ssalir.Image"), System.Drawing.Image)
-        Me.btn_ssalir.Location = New System.Drawing.Point(839, 9)
-        Me.btn_ssalir.Name = "btn_ssalir"
-        Me.btn_ssalir.Size = New System.Drawing.Size(64, 62)
-        Me.btn_ssalir.TabIndex = 176
-        Me.btn_ssalir.Tag = "CIERRA VENTANA"
-        Me.btn_ssalir.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_ssalir.UseVisualStyleBackColor = False
-        '
-        'btn_Confirmar
-        '
-        Me.btn_Confirmar.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.btn_Confirmar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_Confirmar.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_Confirmar.Image = CType(resources.GetObject("btn_Confirmar.Image"), System.Drawing.Image)
-        Me.btn_Confirmar.Location = New System.Drawing.Point(588, 9)
-        Me.btn_Confirmar.Name = "btn_Confirmar"
-        Me.btn_Confirmar.Size = New System.Drawing.Size(64, 62)
-        Me.btn_Confirmar.TabIndex = 183
-        Me.btn_Confirmar.Tag = "CONFIRMA AGENDA WEB"
-        Me.btn_Confirmar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_Confirmar.UseVisualStyleBackColor = False
-        '
-        'btn_ImpAgenda
-        '
-        Me.btn_ImpAgenda.BackColor = System.Drawing.Color.White
-        Me.btn_ImpAgenda.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_ImpAgenda.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_ImpAgenda.Image = CType(resources.GetObject("btn_ImpAgenda.Image"), System.Drawing.Image)
-        Me.btn_ImpAgenda.Location = New System.Drawing.Point(525, 9)
-        Me.btn_ImpAgenda.Name = "btn_ImpAgenda"
-        Me.btn_ImpAgenda.Size = New System.Drawing.Size(64, 62)
-        Me.btn_ImpAgenda.TabIndex = 169
-        Me.btn_ImpAgenda.Tag = "IMPRIME AGENDA"
-        Me.btn_ImpAgenda.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_ImpAgenda.UseVisualStyleBackColor = False
-        '
-        'btn_gguardar
-        '
-        Me.btn_gguardar.BackColor = System.Drawing.Color.White
-        Me.btn_gguardar.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.btn_gguardar.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_gguardar.Image = CType(resources.GetObject("btn_gguardar.Image"), System.Drawing.Image)
-        Me.btn_gguardar.Location = New System.Drawing.Point(462, 9)
-        Me.btn_gguardar.Name = "btn_gguardar"
-        Me.btn_gguardar.Size = New System.Drawing.Size(64, 62)
-        Me.btn_gguardar.TabIndex = 170
-        Me.btn_gguardar.Tag = "GUARDA AGENDA"
-        Me.btn_gguardar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_gguardar.UseVisualStyleBackColor = False
-        '
         'dgv_Agenda
         '
         Me.dgv_Agenda.AllowUserToAddRows = False
         Me.dgv_Agenda.AllowUserToDeleteRows = False
         Me.dgv_Agenda.BackgroundColor = System.Drawing.Color.White
         Me.dgv_Agenda.BorderStyle = System.Windows.Forms.BorderStyle.None
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_Agenda.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle7.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_Agenda.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle7
         Me.dgv_Agenda.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgv_Agenda.DefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgv_Agenda.DefaultCellStyle = DataGridViewCellStyle8
         Me.dgv_Agenda.Location = New System.Drawing.Point(7, 74)
         Me.dgv_Agenda.MultiSelect = False
         Me.dgv_Agenda.Name = "dgv_Agenda"
         Me.dgv_Agenda.ReadOnly = True
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_Agenda.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle9.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_Agenda.RowHeadersDefaultCellStyle = DataGridViewCellStyle9
         Me.dgv_Agenda.RowHeadersVisible = False
         Me.dgv_Agenda.Size = New System.Drawing.Size(908, 383)
         Me.dgv_Agenda.TabIndex = 171
@@ -689,35 +442,35 @@ Partial Class frm_AgendaCitaMedica
         Me.dgv_AgendaDespacho.AllowUserToDeleteRows = False
         Me.dgv_AgendaDespacho.BackgroundColor = System.Drawing.Color.White
         Me.dgv_AgendaDespacho.BorderStyle = System.Windows.Forms.BorderStyle.None
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_AgendaDespacho.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle10.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle10.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_AgendaDespacho.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle10
         Me.dgv_AgendaDespacho.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgv_AgendaDespacho.DefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle11.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle11.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.dgv_AgendaDespacho.DefaultCellStyle = DataGridViewCellStyle11
         Me.dgv_AgendaDespacho.Location = New System.Drawing.Point(7, 74)
         Me.dgv_AgendaDespacho.MultiSelect = False
         Me.dgv_AgendaDespacho.Name = "dgv_AgendaDespacho"
         Me.dgv_AgendaDespacho.ReadOnly = True
-        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle6.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgv_AgendaDespacho.RowHeadersDefaultCellStyle = DataGridViewCellStyle6
+        DataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle12.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle12.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle12.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle12.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle12.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgv_AgendaDespacho.RowHeadersDefaultCellStyle = DataGridViewCellStyle12
         Me.dgv_AgendaDespacho.RowHeadersVisible = False
         Me.dgv_AgendaDespacho.Size = New System.Drawing.Size(908, 383)
         Me.dgv_AgendaDespacho.TabIndex = 214
@@ -831,6 +584,252 @@ Partial Class frm_AgendaCitaMedica
         Me.lbl_textform.TabIndex = 60
         Me.lbl_textform.Text = "AGENDA MEDICOS"
         '
+        'btn_Solicitud
+        '
+        Me.btn_Solicitud.BackColor = System.Drawing.Color.LightGray
+        Me.btn_Solicitud.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_Solicitud.Enabled = False
+        Me.btn_Solicitud.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_Solicitud.Image = CType(resources.GetObject("btn_Solicitud.Image"), System.Drawing.Image)
+        Me.btn_Solicitud.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_Solicitud.Location = New System.Drawing.Point(1023, 493)
+        Me.btn_Solicitud.Name = "btn_Solicitud"
+        Me.btn_Solicitud.Size = New System.Drawing.Size(99, 43)
+        Me.btn_Solicitud.TabIndex = 215
+        Me.btn_Solicitud.Text = "Ver        Solicitud"
+        Me.btn_Solicitud.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_Solicitud.UseVisualStyleBackColor = False
+        '
+        'btn_Consent
+        '
+        Me.btn_Consent.BackColor = System.Drawing.Color.LightGray
+        Me.btn_Consent.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_Consent.Enabled = False
+        Me.btn_Consent.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_Consent.Image = CType(resources.GetObject("btn_Consent.Image"), System.Drawing.Image)
+        Me.btn_Consent.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_Consent.Location = New System.Drawing.Point(923, 493)
+        Me.btn_Consent.Name = "btn_Consent"
+        Me.btn_Consent.Size = New System.Drawing.Size(99, 43)
+        Me.btn_Consent.TabIndex = 213
+        Me.btn_Consent.Text = "Consent Informado"
+        Me.btn_Consent.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_Consent.UseVisualStyleBackColor = False
+        '
+        'btn_CrearCert
+        '
+        Me.btn_CrearCert.BackColor = System.Drawing.Color.LightGray
+        Me.btn_CrearCert.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_CrearCert.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_CrearCert.Image = CType(resources.GetObject("btn_CrearCert.Image"), System.Drawing.Image)
+        Me.btn_CrearCert.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_CrearCert.Location = New System.Drawing.Point(1023, 358)
+        Me.btn_CrearCert.Name = "btn_CrearCert"
+        Me.btn_CrearCert.Size = New System.Drawing.Size(98, 43)
+        Me.btn_CrearCert.TabIndex = 212
+        Me.btn_CrearCert.Text = "Crear Certificado"
+        Me.btn_CrearCert.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_CrearCert.UseVisualStyleBackColor = False
+        '
+        'btn_certificadoM
+        '
+        Me.btn_certificadoM.BackColor = System.Drawing.Color.LightGray
+        Me.btn_certificadoM.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_certificadoM.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_certificadoM.Image = CType(resources.GetObject("btn_certificadoM.Image"), System.Drawing.Image)
+        Me.btn_certificadoM.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_certificadoM.Location = New System.Drawing.Point(923, 358)
+        Me.btn_certificadoM.Name = "btn_certificadoM"
+        Me.btn_certificadoM.Size = New System.Drawing.Size(98, 43)
+        Me.btn_certificadoM.TabIndex = 210
+        Me.btn_certificadoM.Text = "Certificado Medico"
+        Me.btn_certificadoM.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_certificadoM.UseVisualStyleBackColor = False
+        '
+        'btn_GrabaTutor
+        '
+        Me.btn_GrabaTutor.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_GrabaTutor.Image = CType(resources.GetObject("btn_GrabaTutor.Image"), System.Drawing.Image)
+        Me.btn_GrabaTutor.Location = New System.Drawing.Point(166, 10)
+        Me.btn_GrabaTutor.Name = "btn_GrabaTutor"
+        Me.btn_GrabaTutor.Size = New System.Drawing.Size(28, 25)
+        Me.btn_GrabaTutor.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.btn_GrabaTutor.TabIndex = 210
+        Me.btn_GrabaTutor.TabStop = False
+        '
+        'btn_CerVacTut
+        '
+        Me.btn_CerVacTut.BackColor = System.Drawing.Color.LightGray
+        Me.btn_CerVacTut.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_CerVacTut.Enabled = False
+        Me.btn_CerVacTut.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_CerVacTut.Image = CType(resources.GetObject("btn_CerVacTut.Image"), System.Drawing.Image)
+        Me.btn_CerVacTut.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_CerVacTut.Location = New System.Drawing.Point(1023, 448)
+        Me.btn_CerVacTut.Name = "btn_CerVacTut"
+        Me.btn_CerVacTut.Size = New System.Drawing.Size(99, 43)
+        Me.btn_CerVacTut.TabIndex = 208
+        Me.btn_CerVacTut.Text = "Certificado Vac. Tutor"
+        Me.btn_CerVacTut.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_CerVacTut.UseVisualStyleBackColor = False
+        '
+        'btn_CerVac
+        '
+        Me.btn_CerVac.BackColor = System.Drawing.Color.LightGray
+        Me.btn_CerVac.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_CerVac.Enabled = False
+        Me.btn_CerVac.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_CerVac.Image = CType(resources.GetObject("btn_CerVac.Image"), System.Drawing.Image)
+        Me.btn_CerVac.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_CerVac.Location = New System.Drawing.Point(923, 448)
+        Me.btn_CerVac.Name = "btn_CerVac"
+        Me.btn_CerVac.Size = New System.Drawing.Size(99, 43)
+        Me.btn_CerVac.TabIndex = 207
+        Me.btn_CerVac.Text = "Certificado Vacuna"
+        Me.btn_CerVac.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_CerVac.UseVisualStyleBackColor = False
+        '
+        'btn_CerAsistTut
+        '
+        Me.btn_CerAsistTut.BackColor = System.Drawing.Color.LightGray
+        Me.btn_CerAsistTut.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_CerAsistTut.Enabled = False
+        Me.btn_CerAsistTut.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_CerAsistTut.Image = CType(resources.GetObject("btn_CerAsistTut.Image"), System.Drawing.Image)
+        Me.btn_CerAsistTut.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_CerAsistTut.Location = New System.Drawing.Point(1023, 403)
+        Me.btn_CerAsistTut.Name = "btn_CerAsistTut"
+        Me.btn_CerAsistTut.Size = New System.Drawing.Size(99, 43)
+        Me.btn_CerAsistTut.TabIndex = 206
+        Me.btn_CerAsistTut.Text = "Certificado Asist. Tutor"
+        Me.btn_CerAsistTut.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_CerAsistTut.UseVisualStyleBackColor = False
+        '
+        'btn_CerAsist
+        '
+        Me.btn_CerAsist.BackColor = System.Drawing.Color.LightGray
+        Me.btn_CerAsist.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_CerAsist.Enabled = False
+        Me.btn_CerAsist.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_CerAsist.Image = CType(resources.GetObject("btn_CerAsist.Image"), System.Drawing.Image)
+        Me.btn_CerAsist.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.btn_CerAsist.Location = New System.Drawing.Point(923, 403)
+        Me.btn_CerAsist.Name = "btn_CerAsist"
+        Me.btn_CerAsist.Size = New System.Drawing.Size(99, 43)
+        Me.btn_CerAsist.TabIndex = 201
+        Me.btn_CerAsist.Text = "Certificado Asistencia"
+        Me.btn_CerAsist.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_CerAsist.UseVisualStyleBackColor = False
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
+        Me.PictureBox1.Location = New System.Drawing.Point(7, 34)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(34, 34)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 188
+        Me.PictureBox1.TabStop = False
+        '
+        'btn_buscaAgenda
+        '
+        Me.btn_buscaAgenda.BackColor = System.Drawing.Color.White
+        Me.btn_buscaAgenda.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_buscaAgenda.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_buscaAgenda.Image = CType(resources.GetObject("btn_buscaAgenda.Image"), System.Drawing.Image)
+        Me.btn_buscaAgenda.Location = New System.Drawing.Point(776, 9)
+        Me.btn_buscaAgenda.Name = "btn_buscaAgenda"
+        Me.btn_buscaAgenda.Size = New System.Drawing.Size(64, 62)
+        Me.btn_buscaAgenda.TabIndex = 185
+        Me.btn_buscaAgenda.Tag = "BUSCAR PACIENTE AGENDADO"
+        Me.btn_buscaAgenda.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_buscaAgenda.UseVisualStyleBackColor = False
+        '
+        'btn_AgendarPaciente
+        '
+        Me.btn_AgendarPaciente.BackColor = System.Drawing.SystemColors.ButtonFace
+        Me.btn_AgendarPaciente.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_AgendarPaciente.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_AgendarPaciente.Image = CType(resources.GetObject("btn_AgendarPaciente.Image"), System.Drawing.Image)
+        Me.btn_AgendarPaciente.Location = New System.Drawing.Point(399, 9)
+        Me.btn_AgendarPaciente.Name = "btn_AgendarPaciente"
+        Me.btn_AgendarPaciente.Size = New System.Drawing.Size(64, 62)
+        Me.btn_AgendarPaciente.TabIndex = 179
+        Me.btn_AgendarPaciente.Tag = "BUSCA PACIENTE"
+        Me.btn_AgendarPaciente.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_AgendarPaciente.UseVisualStyleBackColor = False
+        '
+        'btn_AgendarActividad
+        '
+        Me.btn_AgendarActividad.BackColor = System.Drawing.SystemColors.ButtonFace
+        Me.btn_AgendarActividad.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_AgendarActividad.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_AgendarActividad.Image = CType(resources.GetObject("btn_AgendarActividad.Image"), System.Drawing.Image)
+        Me.btn_AgendarActividad.Location = New System.Drawing.Point(713, 9)
+        Me.btn_AgendarActividad.Name = "btn_AgendarActividad"
+        Me.btn_AgendarActividad.Size = New System.Drawing.Size(64, 62)
+        Me.btn_AgendarActividad.TabIndex = 180
+        Me.btn_AgendarActividad.Tag = "AGREGA ACTIVIDAD"
+        Me.btn_AgendarActividad.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_AgendarActividad.UseVisualStyleBackColor = False
+        '
+        'btn_ssalir
+        '
+        Me.btn_ssalir.BackColor = System.Drawing.Color.White
+        Me.btn_ssalir.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_ssalir.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_ssalir.Image = CType(resources.GetObject("btn_ssalir.Image"), System.Drawing.Image)
+        Me.btn_ssalir.Location = New System.Drawing.Point(839, 9)
+        Me.btn_ssalir.Name = "btn_ssalir"
+        Me.btn_ssalir.Size = New System.Drawing.Size(64, 62)
+        Me.btn_ssalir.TabIndex = 176
+        Me.btn_ssalir.Tag = "CIERRA VENTANA"
+        Me.btn_ssalir.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_ssalir.UseVisualStyleBackColor = False
+        '
+        'btn_Confirmar
+        '
+        Me.btn_Confirmar.BackColor = System.Drawing.SystemColors.ButtonFace
+        Me.btn_Confirmar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_Confirmar.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_Confirmar.Image = CType(resources.GetObject("btn_Confirmar.Image"), System.Drawing.Image)
+        Me.btn_Confirmar.Location = New System.Drawing.Point(588, 9)
+        Me.btn_Confirmar.Name = "btn_Confirmar"
+        Me.btn_Confirmar.Size = New System.Drawing.Size(64, 62)
+        Me.btn_Confirmar.TabIndex = 183
+        Me.btn_Confirmar.Tag = "CONFIRMA AGENDA WEB"
+        Me.btn_Confirmar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_Confirmar.UseVisualStyleBackColor = False
+        '
+        'btn_ImpAgenda
+        '
+        Me.btn_ImpAgenda.BackColor = System.Drawing.Color.White
+        Me.btn_ImpAgenda.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_ImpAgenda.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_ImpAgenda.Image = CType(resources.GetObject("btn_ImpAgenda.Image"), System.Drawing.Image)
+        Me.btn_ImpAgenda.Location = New System.Drawing.Point(525, 9)
+        Me.btn_ImpAgenda.Name = "btn_ImpAgenda"
+        Me.btn_ImpAgenda.Size = New System.Drawing.Size(64, 62)
+        Me.btn_ImpAgenda.TabIndex = 169
+        Me.btn_ImpAgenda.Tag = "IMPRIME AGENDA"
+        Me.btn_ImpAgenda.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_ImpAgenda.UseVisualStyleBackColor = False
+        '
+        'btn_gguardar
+        '
+        Me.btn_gguardar.BackColor = System.Drawing.Color.White
+        Me.btn_gguardar.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.btn_gguardar.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btn_gguardar.Image = CType(resources.GetObject("btn_gguardar.Image"), System.Drawing.Image)
+        Me.btn_gguardar.Location = New System.Drawing.Point(462, 9)
+        Me.btn_gguardar.Name = "btn_gguardar"
+        Me.btn_gguardar.Size = New System.Drawing.Size(64, 62)
+        Me.btn_gguardar.TabIndex = 170
+        Me.btn_gguardar.Tag = "GUARDA AGENDA"
+        Me.btn_gguardar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_gguardar.UseVisualStyleBackColor = False
+        '
         'frm_AgendaCitaMedica
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -848,8 +847,6 @@ Partial Class frm_AgendaCitaMedica
         Me.pnl_AccionAgenda.PerformLayout()
         Me.grp_Certificados.ResumeLayout(False)
         Me.grp_Certificados.PerformLayout()
-        CType(Me.btn_GrabaTutor, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.grp_Accion.ResumeLayout(False)
         CType(Me.dgv_Agenda, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.dgv_AgendaDespacho, System.ComponentModel.ISupportInitialize).EndInit()
@@ -860,6 +857,8 @@ Partial Class frm_AgendaCitaMedica
         Me.Panel3.PerformLayout()
         Me.pan_barra.ResumeLayout(False)
         Me.pan_barra.PerformLayout()
+        CType(Me.btn_GrabaTutor, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

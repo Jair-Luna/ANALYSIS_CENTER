@@ -8303,6 +8303,21 @@ MsgError:
         Err.Clear()
     End Sub
 
+    Public Function LeerTelefonoCedula(ByVal telf As String)
 
+        Dim str_sql As String
+        Dim resultado As Integer
+        Dim opr_conexion As New Cls_Conexion()
+        Dim odc_pedido As New SqlCommand()
+        opr_conexion.sql_conectar()
+
+        str_sql = "SELECT pac_fono FROM paciente WHERE pac_doc = '" & telf & "'"
+
+        odc_pedido = New SqlCommand(str_sql, opr_conexion.conn_sql)
+        resultado = odc_pedido.ExecuteScalar()
+        odc_pedido.ExecuteNonQuery()
+
+        Return Trim(resultado)
+    End Function
 
 End Class

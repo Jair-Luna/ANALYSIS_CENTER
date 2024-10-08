@@ -1822,6 +1822,12 @@
     <Compile Include="Fuentes\Formularios\frm_imprimiendo.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ImpWhaCertificado.Designer.vb">
+      <DependentUpon>frm_ImpWhaCertificado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_ImpWhaCertificado.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Fuentes\Formularios\frm_IngresoCutaneas.Designer.vb">
       <DependentUpon>frm_IngresoCutaneas.vb</DependentUpon>
     </Compile>
@@ -3030,6 +3036,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Fuentes\Formularios\frm_imprimiendo.resx">
       <DependentUpon>frm_imprimiendo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_ImpWhaCertificado.resx">
+      <DependentUpon>frm_ImpWhaCertificado.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Fuentes\Formularios\frm_IngresoCutaneas.resx">

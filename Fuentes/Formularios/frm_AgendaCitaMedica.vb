@@ -8,7 +8,7 @@ Public Class frm_AgendaCitaMedica
     Public LabOcup As Byte
     Dim opr_test As New Cls_TipoTest()
     Dim opr_pedido As New Cls_Pedido()
-    'Dim dts_lista As New DataSet
+    Dim opr_pdf As New Cls_ToPdf()
     Dim dtv_agenda As New DataView()
     Public DatosTag As String = Nothing
     Public var_actividad As String = Nothing
@@ -633,10 +633,12 @@ Public Class frm_AgendaCitaMedica
 
         If dgv_Agenda.CurrentRow.Cells("age_finalizado").Value() <> "" Then
             btn_CerAsist.Enabled = True
+            btn_CerAsist.Enabled = True
             btn_CerAsistTut.Enabled = True
             btn_CerVac.Enabled = True
             btn_CerVacTut.Enabled = True
         Else
+            btn_CerAsist.Enabled = False
             btn_CerAsist.Enabled = False
             btn_CerAsistTut.Enabled = False
             btn_CerVac.Enabled = False
@@ -1470,6 +1472,189 @@ Public Class frm_AgendaCitaMedica
 
     End Sub
 
+
+    Private Sub ExportaCertificados(ByVal cer_id As Integer)
+
+        Dim str_sql, texto, cie10, frascos, cert_tipo, diagnostico As String
+        Dim obj_reporte As New rpt_Certificados()
+        Dim frm_ref_main As Frm_Main = Me.ParentForm
+
+        cert_tipo = obtieneCert_Tipo(cer_id)
+
+        System.Console.WriteLine(es_cliente)
+
+        Select Case cer_id
+            Case 1 : texto = "Certifico que la/el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " asistió a la consulta el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " con especialidad en alergia."
+
+            Case 2 : texto = "Certifico que la/el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " asistió a la consulta el día " & Mid(dgv_Agenda.CurrentRow.Cells("age_fecha").Value, 1, 10) & " con especialidad en alergia, en compañía de su tutor(a): " & Trim(txt_CerTutor.Text) & " con CI: " & Trim(txt_CerCI.Text) & "."
+
+            Case 3
+                cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
+                DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                texto = "Certifico que el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " presenta un proceso alérgico con diagnostico de  " & cie10 & " por lo que se envía una serie de vacunas para su tratamiento, consistente en: " & var_fras & ",  " & var_sol & " mas jeringuillas descartables de 1 c.c. o de insulina para su aplicacion."
+
+            Case 4
+                cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
+                DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                texto = "Certifico que " & Trim(txt_CerTutor.Text) & " con CI: " & Trim(txt_CerCI.Text) & " lle a en su equipaje una serie de vacunas consistente en: " & var_fras & ",  " & var_sol & " mas jeringuillas descartables de 1 c.c. o de insulina para su aplicacion del tratamiemto del paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " que presenta un proceso alérgico con diagnostico de  " & cie10 & " "
+                'en compañía de su tutor:  y se encuentra recibiendo tratamiento."
+
+            Case 5
+                cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
+                diagnostico = obtieneDiagnostico(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
+                'DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                texto = "Por el presente me permito certificar que: " & Trim(dgv_Agenda.CurrentRow.Cells("pac_nombre").Value) & ", con CI/PASAPORTE: " & Trim(dgv_Agenda.CurrentRow.Cells("pac_doc").Value) & " de " & Trim(dgv_Agenda.CurrentRow.Cells("pac_edad").Value) & " de edad, presenta el siguiente diagnóstico médico: " & vbCrLf & vbCrLf & diagnostico & cie10
+
+            Case 7
+                texto = "LA PRUEBA CUTANEA: Es una manera de evaluar la presencia de anticuerpos que causan" & _
+            "alergia en el paciente. Consiste en la introducción de pequeñas dosis de alérgenos en la piel del" & _
+            "paciente. Un alérgeno es una sustancia, probablemente causante de la alergia, por ejemplo: gato," & _
+            "pólenes, hongos, ácaros.Después de la aplicación se observa la respuesta del paciente: en una" & _
+            "prueba positiva se notará la aparición de una roncha o elevación de la piel sobre una mancha" & _
+            "roja. Los resultados se leen de 15 a 20 min, después de la aplicación del alérgeno. Existen dos" & _
+            "métodos de Pruebas Cutáneas:• PRICK: Se aplica una gota de cada alérgeno sobre el brazo o" & _
+            "espalda y se hace un pequeño raspado sobre la gota para que penetren las partículas del" & _
+            "alérgeno muy superficial en la piel. • INTRADERMICO: Es la inyección de pequeñas cantidades" & _
+            "de alérgeno directamente en la capa superficial de la piel. Se realiza si el resultado de la prueba" & _
+            "Prick es dudoso.En caso de tener una sensibilidad alérgica específica a uno de los alérgenos," & _
+            "aparecerá una roncha roja con comezón después de unos 20 min. (causada por la liberación de" & _
+            "histamina). Estas reacciones positivas inmediatas, desaparecerán de 30 a 60 min. y" & _
+            "generalmente la comezón no requiere de tratamiento. A veces de observa reacción tardía que" & _
+            "consta de una roncha o hinchazón en el lugar de la prueba, 4-8 hrs después. Esto se ve" & _
+            "mayormente en lugares de pruebas intradérmicas. Estas reacciones no son severas y" & _
+            "desaparecen en días. Le pedimos medirlas y reportarlas con la doctora en la próxima cita." & _
+            "La interpretación de la importancia clínica de una prueba, requiere conocimiento a fondo de los" & _
+            "alérgenos. Reacciones positivas en la prueba cutánea nos indican la existencia de anticuerpos" & _
+            "alérgicos, pero no necesariamente tienen que tener correlación con los síntomas clínicos. Son" & _
+            "importantes en Ecuador según nos indicaron los estudios del Dr. Plutarco Naranjo los alérgenos" & _
+            "de céspedes, malezas, hongos, ácaros de polvo casero y de almacenamiento, epitelios de gato," & _
+            "perro y cucaracha. A veces son agregados algunos alimentos. SÍ SE PUEDE Seguir inhalando" & _
+            "sprays nasales contra rinitis alérgica como pero no el día de la Prueba. No hay problema con los" & _
+            "aerosoles y polvo seco contra asma (Combivent, Seretide, Ventolin y otros), antileucotrienos y vía" & _
+            "oral no interfieren con la prueba y se tienen que seguir tal como prescritos.NO DEBE tomar antihistamínicos" & _
+            "de prescripción o comprados sin receta 5 días antes de la prueba. Incluye tabletas" & _
+            "contra la gripa, sinusitis y medicamentos para la comezón o ronchas. En algunos casos se" & _
+            "suspenderán los anti-histamínicos por más tiempo. Las tabletas para dormir y medicinas que se" & _
+            "prescriben contra depresión o ansiedad, como amitriptilina tiene actividad anti - histamínica y se" & _
+            "tienen que dejar de tomar mínimo por 2 semanas antes de la Prueba Cutánea, siempre" & _
+            "consultando con su médico. Por favor comente al médico si toma estos medicamentos para tomar" & _
+            "las precauciones adecuadas.Las pruebas cutáneas y la inmunoterapia de inicio, las realiza y" & _
+            "aplica una enfermera cuidadosamente preparada y en mi presencia, dado que rara vez" & _
+            "reacciones adversas requieren de tratamiento inmediato. Estas reacciones pueden consistir en" & _
+            "uno o todos los síntomas siguientes: comezón en ojos, nariz, garganta, tapazón nasal, fluido" & _
+            "nasal, falta de aire, o sensación de garganta o pecho cerrado, sibilancias, mareo, desmayo," & _
+            "náuseas, vomito, ronchas, comezón en todo en cuerpo y choque anafiláctico, este último se ha" & _
+            "descrito a nivel mundial bajo circunstancias extremas. Todas estas reacciones pasan muy rara" & _
+            "vez.Después de la Prueba, pasara a consulta, para comentar acerca del saneamiento ambiental y" & _
+            "el tratamiento con inmunoterapia. Le pedimos su plena atención en la prueba y la consulta, por" & _
+            "eso recomendamos no traer niños pequeños, o en caso de ser niños no traer hermanitos, para" & _
+            "que toda la atención sea hacia el paciente. El tiempo que le fue asignado para la prueba es" & _
+            "exclusivo para usted ya que tenemos que preparar específicamente algunos alérgenos.Si por" & _
+            "alguna razón se le hace imposible venir a la prueba tiene que cancelar la cita con 48 hrs. de" & _
+            "anticipación, para que no se le cobre. Por favor sea consciente, ya que rechazamos pacientes" & _
+            "debido a que la agenda está llena de lunes a viernes." & _
+            "INMUNOTERAPIALa enfermedad que usted tiene es una alergia a uno o varios alérgenos." & _
+            "Las sustancias que le provocaron las ronchas en la prueba cutánea están anotadas en la hoja de" & _
+            "resultados.El único tratamiento hoy en día reconocido por la Organización Mundial de la Salud" & _
+            "para atacar la causa de la alergia y que reduce sus síntomas o hasta curar las reacciones" & _
+            "alérgicas es la inmunoterapia subcutánea(inyectada) que es la que manejamos o sublingual." & _
+            "La idea de la inmunoterapia es estimular el cuerpo repetitivamente con lo que le causa la alergia, con" & _
+            "dosis pequeñas que el cuerpo aguanta.Cada aplicación inyectada va aumentando poco a poca la" & _
+            "dosis, además que los frascos son cada vez más concentrados. De esta manera el estímulo es" & _
+            "cada vez mayor y al final de unos meses se llegará a la dosis de mantenimiento que son 1000 -" & _
+            "10,000x más que la dosis inicial. Como las aplicaciones son constantes, con intervalos regulares" & _
+            "entre sí, el cuerpo empieza a generar primero tolerancia y después protección con" & _
+            "inmunoglobulinas contra lo que causa alergia." & _
+            "INMUNOTERAPIA SUBCUTANEA: Entre 3/4meses es el momento en que se ve mejoría clínica o" & _
+            "crisis menos frecuentes, lo que nos permitirá bajar poco a poco las dosis en los medicamentos." & _
+            "BASES CIENTÍFICASSe ha demostrado que en los 3-4 meses de tratamiento la inmunoglobulina" & _
+            "causante de alergias empieza a bajar y la inmunoglobulina de protección empieza a aumentar en" & _
+            "la sangre del paciente. En niños el inicio temprano de inmunoterapia puede prevenir el desarrollo" & _
+            "de asma y reducir la aparición de nuevas alergias.Por su seguridad exigimos que la primera dosis" & _
+            "de un frasco nuevo de la inmunoterapia sea aplicada en el consultorio y que el paciente espere 30" & _
+            "min después de la aplicación.Si el paciente es menor de edad, un padre o tutor debe estar" & _
+            "presente durante la espera." & _
+            "Consentimiento informado para prueba cutánea e inicio de inmunoterapiaHe leído las hojas de" & _
+            "información para el paciente acerca de la prueba cutánea e inmunoterapia y la entiendo. Estoy de" & _
+            "acuerdo de que en caso que se presente alguna reacción adversa el medico encargado me trate" & _
+            "para protegerme contra estas reacciones.Reconozco que con el hecho de mi firma doy" & _
+            "autorización a Labalergia de cobrarme el tratamiento de inmunoterapia una vez que acepte su" & _
+            "preparación, y si decido interrumpir el tratamiento ya que la inmunoterapia es personalizada y no" & _
+            "le sirve a nadie más que al paciente en tratamiento"
+
+        End Select
+
+        Select Case cer_id
+            Case 1, 2, 3, 4
+
+                If es_cliente = True Then
+                    str_sql = "select TOP 1 " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                "from TratamientoCliente as vt, agenda as a " & _
+                "WHERE vt.AGE_ID = a.age_id and a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
+                Else
+                    str_sql = "select TOP 1 " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                "from agenda as a " & _
+                "WHERE a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
+                End If
+
+
+            Case 5
+                str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
+                "from agenda as a " & _
+                "WHERE a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
+            Case 6
+                str_sql = "select CERP_ID AS CER_ID, CERP_TITULO as CER_TIPO, CERP_FECHA AS AGE_FECHA, '' as AGE_TUTOR, '' AS AGE_CI, '' AS PACIENTE, CERP_CUERPO  AS TEXTO " & _
+                "from certificadoPaciente " & _
+                "where AGE_ID = " & age_id & ""
+
+            Case 7
+                str_sql = "select AGE_CONSENTIMIENTO" & _
+                "from agenda " & _
+                "where AGE_ID = " & age_id & ""
+
+        End Select
+
+        Dim frm_MDIChild As New Frm_reportes(str_sql, "", obj_reporte)
+        Dim archivo = dgv_Agenda.CurrentRow.Cells("pac_doc").Value & "-" & Format(Now(), "yyyyMMddHHmmss") & ".pdf"
+        opr_pdf.ExportToPDF(obj_reporte, archivo, g_pathFolder)
+
+        Dim msg As String = Nothing
+        Dim telefono As String = Nothing
+        Dim vFileName As String = Nothing
+        vFileName = Environment.CurrentDirectory & "\" & g_pathFolder
+
+        msg = "Ingrese el numero telefonico del destinatario (10 dígitos)"
+
+        'telefono = InputBox(msg, "ANALISYS")
+
+        Dim myValue As String
+
+        Do
+            myValue = InputBox(msg, "ANALISYS", opr_pedido.LeerTelefonoCedula(Trim(dgv_Agenda.CurrentRow.Cells("pac_doc").Value)))
+            If myValue.Length > 10 Then
+                MessageBox.Show("El valor no debe exceder los 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            ElseIf myValue.Length < 10 Then
+                MessageBox.Show("El valor debe ser de 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            End If
+        Loop While myValue.Length > 10 Or myValue.Length < 10
+
+        If String.IsNullOrEmpty(myValue) Then
+            'MessageBox.Show("Se cancelo el Inputbox")
+            Return
+        Else
+            Dim Wmsg As String
+            Wmsg = "Estimado(a)%20paciente%20" & Replace(dgv_Agenda.CurrentRow.Cells("pac_nombre").Value, " ", "%20") & "%20se%20adjunta%20el%20certificado%20medico.%0ASaludos.%0A" & _
+                Replace(g_Titulo, " ", "%20") & "%20Agradece%20su%20confianza"
+            '&text=''
+            System.Diagnostics.Process.Start("https://wa.me/593" & Mid(myValue, 2, 9) & "?text=" & Wmsg)
+            'System.Diagnostics.Process.Start("https://web.whatsapp.com/send?phone=593" & Mid(myValue, 2, 9))
+            System.Diagnostics.Process.Start("explorer.exe", vFileName)
+        End If
+
+
+    End Sub
+
+
     Private Sub txt_CitaGeneral_KeyDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles txt_CitaGeneral.KeyDown
         If e.KeyCode = Keys.Enter Then
             'dgv_SerieVac.CurrentRow.Cells("ser_id").Value()
@@ -1483,24 +1668,88 @@ Public Class frm_AgendaCitaMedica
 
     Private Sub btn_CerAsist_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_CerAsist.Click
 
-        ImprimeCertificados(1)
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                ImprimeCertificados(1)
+            Case 2
+                ExportaCertificados(1)
+
+        End Select
+
+
 
     End Sub
 
     Private Sub btn_CerAsistTut_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_CerAsistTut.Click
 
-        ImprimeCertificados(2)
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                ImprimeCertificados(2)
+            Case 2
+                ExportaCertificados(2)
+
+        End Select
+
 
     End Sub
 
     Private Sub btn_CerVac_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_CerVac.Click
 
-        ImprimeCertificados(3)
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                ImprimeCertificados(3)
+            Case 2
+                ExportaCertificados(3)
+
+        End Select
 
     End Sub
 
     Private Sub btn_CerVacTut_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_CerVacTut.Click
-        ImprimeCertificados(4)
+
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                ImprimeCertificados(4)
+            Case 2
+                ExportaCertificados(4)
+
+        End Select
     End Sub
 
 
@@ -1541,7 +1790,25 @@ Public Class frm_AgendaCitaMedica
 
 
     Private Sub btn_certificadoM_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_certificadoM.Click
-        ImprimeCertificados(5)
+
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                ImprimeCertificados(5)
+            Case 2
+                ExportaCertificados(5)
+
+        End Select
+
+
     End Sub
 
 

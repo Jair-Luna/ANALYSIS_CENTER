@@ -31,6 +31,7 @@ C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.Frm_Factura.resourc
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.Frm_FacturaPedido.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_FiltroAreas.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_formatos.resources
+C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_Gerencia.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_Graficos.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_HistoriaClinica.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_historico.resources
@@ -106,6 +107,7 @@ C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.rpt_entregaresultad
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.Resources.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\ANALISYSCENTER_SQL.vbproj.GenerateResource.Cache
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AnalisysLAB.exe.config
+C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_ImpWhaCertificado.resources
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.TrustInfo.xml
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.exe.manifest
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.application
@@ -123,4 +125,3 @@ C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\Interop.Scripting.dll
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\Interop.SHDocVw.dll
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AxInterop.AcroPDFLib.dll
 C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\AxInterop.SHDocVw.dll
-C:\COMP\ANALISYSCENTER_SQL_HISTORIAS\obj\Release\AnalisysLAB.frm_Gerencia.resources
