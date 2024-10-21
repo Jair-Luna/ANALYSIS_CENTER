@@ -440,15 +440,16 @@ MsgError:
         Dim dtr_fila As DataRow
         Dim dts_auto As New DataSet()
 
-        Dim str_sql As String = "select vt.I_PRD_ID, p.I_PRD_DESCRIPCION, p.I_PRD_FRASCOS " & _
-                                "from tratamientoPaciente as vt, i_producto  as p " & _
-                                "where vt.I_PRD_ID = p.I_PRD_ID And vt.Age_id = " & Age_id
+        Dim str_sql As String = "select top 1 vs.SER_NOMBRE " & _
+                                "from tratamientoPaciente as vt, i_producto  as p, vacunaSerie as vs " & _
+                                "where vt.I_PRD_ID = p.I_PRD_ID AND vs.SER_ID = p.SER_ID AND vt.SER_ID <> 0 And vt.Age_id = " & Age_id
 
 
         cls_operacion.sql_conectar()
         oda_operacion.SelectCommand = New SqlCommand(str_sql, cls_operacion.conn_sql)
 
-        ConsultaSer_Id = Nothing
+        ConsultaSer_Id = oda_operacion.SelectCommand.ExecuteScalar()
+
         oda_operacion.Fill(dts_auto, "Files")
         For Each dtr_fila In dts_auto.Tables(0).Rows
             If Trim(dtr_fila(1).ToString) <> "" Then

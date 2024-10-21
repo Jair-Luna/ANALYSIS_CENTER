@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Applogo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AnalisysLAB" version="1.0.9046.42672" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="AnalisysLAB" version="1.0.9055.23244" language="neutral" processorArchitecture="msil" />
     <commandLine file="AnalisysLAB.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -58,14 +58,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnalisysLAB.exe" size="30315520">
-      <assemblyIdentity name="AnalisysLAB" version="1.0.9046.42672" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnalisysLAB.exe" size="30316032">
+      <assemblyIdentity name="AnalisysLAB" version="1.0.9055.23244" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WzPpJbOAfmF17PWkbImwNFErYZQ=</dsig:DigestValue>
+        <dsig:DigestValue>/GoNeugy5ylVV4P1SQBXAEd05A8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -173,7 +173,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>0iCeQWXoaTVBUZMYNZ18+dI+jCQ=</dsig:DigestValue>
+        <dsig:DigestValue>M+I1omZ34NKMmshwBWad5EK7IfI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

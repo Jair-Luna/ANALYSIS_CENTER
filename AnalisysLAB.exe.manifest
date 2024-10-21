@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Applogo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AnalisysLAB" version="1.0.9046.42672" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="AnalisysLAB" version="1.0.9055.23244" language="neutral" processorArchitecture="msil" />
     <commandLine file="AnalisysLAB.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -58,26 +58,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnalisysLAB.exe" size="29865472">
-      <assemblyIdentity name="AnalisysLAB" version="1.0.9046.42672" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnalisysLAB.exe" size="30316032">
+      <assemblyIdentity name="AnalisysLAB" version="1.0.9055.23244" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>kVwxbohl6uvY3Qx1PTHystJs2kM=</dsig:DigestValue>
+        <dsig:DigestValue>/GoNeugy5ylVV4P1SQBXAEd05A8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.AcroPDFLib.dll" size="8192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.AcroPDFLib.dll" size="8704">
       <assemblyIdentity name="AxInterop.AcroPDFLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>TyEf8a3ToO/1RHjk8HBETnT+Pcg=</dsig:DigestValue>
+        <dsig:DigestValue>wRS7JASkR5l9ckzcHAKCCYNeylA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -89,7 +89,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>TVvy/wrI4lYZK2+7XM1EB4xzAoQ=</dsig:DigestValue>
+        <dsig:DigestValue>mRgUAZwkhanXdxevvcsw35a+RWc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -137,7 +137,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>TpVpSxQgzRF3UxpkxSuufn8hIZg=</dsig:DigestValue>
+        <dsig:DigestValue>8qJkAninn3QYQdF0oy48RaTWcqk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -161,7 +161,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>s/u8MMSJABIyli9+l1AkJOi0oFI=</dsig:DigestValue>
+        <dsig:DigestValue>bEGzl0DOOkJmzG/Of3L0ezOSo90=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -173,7 +173,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>HZobbxcdykrqbd+TRyHaYb/dB3A=</dsig:DigestValue>
+        <dsig:DigestValue>M+I1omZ34NKMmshwBWad5EK7IfI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
