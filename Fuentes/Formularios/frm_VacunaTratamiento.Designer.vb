@@ -1103,6 +1103,7 @@ Partial Class frm_VacunaTratamiento
         Me.rbt_todos.Name = "rbt_todos"
         Me.rbt_todos.Size = New System.Drawing.Size(59, 19)
         Me.rbt_todos.TabIndex = 295
+        Me.rbt_todos.TabStop = True
         Me.rbt_todos.Text = "TODO"
         Me.rbt_todos.UseVisualStyleBackColor = True
         '

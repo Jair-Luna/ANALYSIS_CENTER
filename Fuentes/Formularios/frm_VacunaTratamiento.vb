@@ -750,16 +750,16 @@ Public Class frm_VacunaTratamiento
 
 
         'LOTE
-        str_cadena = Trim(lbl_1Lote.Text)
+        str_cadena = "LOTE: " & Trim(lbl_1Lote.Text)
         PrintLine(1, "A120,240,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
-        'FECHA ELAB
-        str_cadena = Trim(lbl_1FecElab.Text)
-        PrintLine(1, "A120,260,0,2,1,1,N," & """" & str_cadena.ToString & """")
+        ''FECHA ELAB
+        'str_cadena = Trim(lbl_1FecElab.Text)
+        'PrintLine(1, "A120,260,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
-        'FECHA VENCE
-        str_cadena = Trim(lbl_1FecVen.Text)
-        PrintLine(1, "A120,280,0,2,1,1,N," & """" & str_cadena.ToString & """")
+        ''FECHA VENCE
+        'str_cadena = Trim(lbl_1FecVen.Text)
+        'PrintLine(1, "A120,280,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
 
         PrintLine(1, "P1")
@@ -835,17 +835,17 @@ Public Class frm_VacunaTratamiento
         str_cadena = Trim(dgv_TToPaciente.CurrentRow.Cells("I_PRD_ID").Value).ToUpper & " " & Trim(dgv_TToPaciente.CurrentRow.Cells("I_PRD_DESCRIPCION").Value)
         PrintLine(1, "A80,40,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
-        'SOLUCIONES
-        str_cadena = dgv_TToPaciente.CurrentRow.Cells("TTO_SOLUCIONES").Value
+        'SOLUCIONES()
+        str_cadena = lbl_Soluciones.Text 'dgv_TToPaciente.CurrentRow.Cells("TTO_SOLUCIONES").Value
         PrintLine(1, "A80,60,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
         'FRASCOS
-        str_cadena = dgv_TToPaciente.CurrentRow.Cells("tto_cantidad").Value & " FRASCOS"
+        str_cadena = lbl_Frascos.Text & " FRASCOS" 'dgv_TToPaciente.CurrentRow.Cells("tto_cantidad").Value & " FRASCOS"
         PrintLine(1, "A80,80,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
 
         '''''''UNIDAD ml
-        str_cadena = dgv_TToPaciente.CurrentRow.Cells("TTO_CONTENIDO").Value
+        str_cadena = lbl_UnidadFrascos.Text 'dgv_TToPaciente.CurrentRow.Cells("I_UNI_DESCRIPCION").Value
         PrintLine(1, "A80,100,0,2,1,1,N," & """" & str_cadena.ToString & """")
 
         PrintLine(1, "P1")
@@ -887,7 +887,7 @@ Public Class frm_VacunaTratamiento
         Dim i As Integer
 
 
-        For i = 0 To CInt(dgv_TToPaciente.CurrentRow.Cells("tto_cantidad").Value) - 1
+        For i = 0 To CInt(dgv_TToPaciente.CurrentRow.Cells("tto_cantidad").Value)
 
             'abro un archivo para generar as lineas que me permitira imprimir un codigo de barras
             FileOpen(1, str_imprimir, OpenMode.Output)
@@ -909,16 +909,18 @@ Public Class frm_VacunaTratamiento
 
 
             'FRASCO No
-            str_cadena = "FCO " & i + 1 & " " & Trim(dgv_TToPaciente.CurrentRow.Cells("I_PRD_ID").Value).ToUpper & " " & Trim(dgv_TToPaciente.CurrentRow.Cells("I_PRD_DESCRIPCION").Value)
+            str_cadena = "FCO " & i + 1 & " " & Trim(dgv_TToPaciente.CurrentRow.Cells("I_PRD_ABREV").Value).ToUpper & " " & Trim(dgv_TToPaciente.CurrentRow.Cells("I_PRD_DESCRIPCION").Value)
             PrintLine(1, "A70,30,0,1,1,1,N," & """" & str_cadena.ToString & """")
 
-            str_cadena = Trim(lbl_1ViaAdmin.Text).ToUpper() & " CONTENIDO: " & Trim(arre_unidad(i))
+            str_cadena = "CONTENIDO: " & Trim(arre_unidad(i))
             PrintLine(1, "A70,50,0,1,1,1,N," & """" & str_cadena.ToString & """")
 
-            'COMPOSICION
-            
+            str_cadena = "VIA: " & Trim(lbl_1ViaAdmin.Text).ToUpper()
+            PrintLine(1, "A70,70,0,1,1,1,N," & """" & str_cadena.ToString & """")
 
-            Select Case UBound(arre_com) + 1
+            'COMPOSICION            
+
+            Select Case UBound(arre_com) - 1
                 Case 4
                     str_cadena = Trim(arre_com(0)) & ", " & Trim(arre_com(1))
                     PrintLine(1, "A80,68,0,1,1,1,N," & """" & str_cadena.ToString & """")
@@ -940,7 +942,7 @@ Public Class frm_VacunaTratamiento
             End Select
 
 
-            str_cadena = Trim(lbl_1Lote.Text) & " " & Trim(lbl_1FecVen.Text)
+            str_cadena = "LOTE: " & Trim(lbl_1Lote.Text)
             PrintLine(1, "A70,100,0,1,1,1,N," & """" & str_cadena.ToString & """")
 
 
@@ -1114,9 +1116,10 @@ errores:
         'ETIQUETAS 2
         lbl_Orden.Text = turno
 
-        'PACIENTE
-        arre_com = Split(Trim(lbl_paciente.Text), " ")
+        'COMPOSICION
+        arre_com = Split(Trim(lbl_1Comp.Text), "|")
 
+        'PACIENTE
         Select Case UBound(pac) + 1
             Case 5
                 apes = pac(0) & " " & pac(1)
@@ -1359,8 +1362,14 @@ errores:
     
     
     Private Sub dgv_TToPaciente_CellClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgv_TToPaciente.CellClick
+       
         ver_propiedades()
         ver_etiquetas()
+
+        btn_Imp1.Enabled = True
+        btn_Imp2.Enabled = True
+        btn_Imp3.Enabled = True
+        btn_Imp4.Enabled = True
     End Sub
 
 

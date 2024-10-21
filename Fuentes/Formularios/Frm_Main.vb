@@ -1677,6 +1677,12 @@ Public Class Frm_Main
                                 Crea_formulario(FrM_MDIChild)
                             End If
 
+                        Case "lnk_opc21"
+                            If Not ExisteForm("frm_EtiquetasAlergia") Then
+                                Dim FrM_MDIChild As New frm_EtiquetasAlergia()
+                                Crea_formulario(FrM_MDIChild)
+                            End If
+
                     End Select
                     Limpia_menu()
                     Exit Sub
@@ -1863,7 +1869,7 @@ Public Class Frm_Main
         Dim str_arreglo() As String
         Dim int_indice, int_numarreglo As Integer
         Dim ctl_lnkmenu() As LinkLabel
-        int_numarreglo = 47
+        int_numarreglo = 48
         ReDim Preserve str_menu(int_numarreglo)
         ReDim Preserve ctl_lnkmenu(int_numarreglo)
         'Estructura del menu "nombre del control, texto, tag, tabindex"
@@ -1927,6 +1933,7 @@ Public Class Frm_Main
         str_menu(44) = "lnk_opc18, Kardex, 5.8.8., 8"
         str_menu(45) = "lnk_opc19, Gerencia, 5.8.9., 9"
         str_menu(46) = "lnk_opc20, Preparacion, 5.8.10., 10"
+        str_menu(47) = "lnk_opc21, Etiquetas, 5.8.11., 11"
 
         For int_indice = 0 To int_numarreglo - 1
             ctl_lnkmenu(int_indice) = New LinkLabel()

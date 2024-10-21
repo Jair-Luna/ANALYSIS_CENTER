@@ -450,12 +450,12 @@ MsgError:
 
         ConsultaSer_Id = oda_operacion.SelectCommand.ExecuteScalar()
 
-        oda_operacion.Fill(dts_auto, "Files")
-        For Each dtr_fila In dts_auto.Tables(0).Rows
-            If Trim(dtr_fila(1).ToString) <> "" Then
-                ConsultaSer_Id = ConsultaSer_Id & Trim(dtr_fila(1)).ToString
-            End If
-        Next
+        'oda_operacion.Fill(dts_auto, "Files")
+        'For Each dtr_fila In dts_auto.Tables(0).Rows
+        '    If Trim(dtr_fila(1).ToString) <> "" Then
+        '        ConsultaSer_Id = ConsultaSer_Id & Trim(dtr_fila(1)).ToString
+        '    End If
+        'Next
 
         cls_operacion.odbc_desconn()
         Exit Function

@@ -1750,6 +1750,12 @@
     <Compile Include="Fuentes\Formularios\frm_EtiquetaPedido.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EtiquetasAlergia.Designer.vb">
+      <DependentUpon>frm_EtiquetasAlergia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fuentes\Formularios\frm_EtiquetasAlergia.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Fuentes\Formularios\frm_EvolucionPaciente.Designer.vb">
       <DependentUpon>frm_EvolucionPaciente.vb</DependentUpon>
     </Compile>
@@ -2980,6 +2986,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Fuentes\Formularios\frm_EtiquetaPedido.resx">
       <DependentUpon>frm_EtiquetaPedido.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fuentes\Formularios\frm_EtiquetasAlergia.resx">
+      <DependentUpon>frm_EtiquetasAlergia.vb</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Fuentes\Formularios\frm_EvolucionPaciente.resx">
