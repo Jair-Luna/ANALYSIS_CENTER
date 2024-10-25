@@ -222,6 +222,25 @@ MsgError:
 
 
     Private Sub btn_ImprimirReceta_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_ImprimirReceta.Click
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                ImprimeCertificados()
+            Case 2
+                ExportaCertificados()
+        End Select
+        
+    End Sub
+
+    Private Sub ImprimeCertificados()
         Me.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Dim str_sql As String
         Dim obj_reporte As New rpt_RecetaMedica()
@@ -231,11 +250,8 @@ MsgError:
         Dim cls_operacion As New Cls_Conexion()
         Dim oda_operacion As SqlDataAdapter = New SqlDataAdapter()
 
-
-
-
         Dim dts_operaAB As New DataSet()
-        
+
         Dim dts_histograma As New DataSet()
         Dim str_his As String = "NOHISTOGRAMA"
         Dim str_img As String = "NOIMAGEN"
@@ -314,7 +330,7 @@ MsgError:
         Dim frm_MDIChild As New Frm_reportes(str_his, str_img, obj_reporte, dts_operacion, dts_histograma, dts_imagen, dts_operaAB, True, 1)
         'Dim frm_MDIChild As New Frm_reportes(str_sql, "", obj_reporte, , , , , True, 0)
         'Dim frm_MDIChild As New Frm_reportes(str_sql, str_img, obj_reporte, , , dts_imagen, , True, 0)
-        
+
         frm_MDIChild.Text = "RECETA MEDICA"
         frm_MDIChild.ShowDialog(Me.ParentForm)
 
@@ -325,9 +341,21 @@ MsgError:
         Me.Cursor = System.Windows.Forms.Cursors.Default
     End Sub
 
+    'Private Sub btn_enviar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+    Private Sub ExportaCertificados()
 
+        Dim dts_operacion As New DataSet()
+        Dim cls_operacion As New Cls_Conexion()
+        Dim oda_operacion As SqlDataAdapter = New SqlDataAdapter()
 
-    Private Sub btn_enviar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        Dim dts_operaAB As New DataSet()
+
+        Dim dts_histograma As New DataSet()
+        Dim str_his As String = "NOHISTOGRAMA"
+        Dim str_img As String = "NOIMAGEN"
+
+        Dim dts_imagen As New DataSet()
+
         Dim msg As String = Nothing
         Dim telefono As String = Nothing
         Dim vFileName As String = Nothing
@@ -339,32 +367,103 @@ MsgError:
         Dim obj_reporte As New rpt_RecetaMedica()
         Dim frm_ref_main As Frm_Main = Me.ParentForm
 
-        str_sql = "select receta.rec_id, receta.rec_fecha, medico.MED_NOMBRE, receta.REC_MEDICACION, receta.REC_INDICACIONES, (paciente.PAC_APELLIDO + ' ' + paciente .PAC_NOMBRE) as pac_nombre " & _
-                "from receta, cie10, medico, paciente, consultaMedico as cm " & _
-                "where receta.age_id = " & Age_id & " and  receta.med_id = medico.med_id and paciente.pac_id = receta.pac_id and cie10.cie_cod4 = cm.cie_cod4 and cm.PAC_ID = paciente .PAC_ID and cm.AGE_ID = receta .AGE_ID "
+        str_sql = "SELECT  pedido.PED_ID, img_base64 " & _
+           "FROM pedido, ptoImagen " & _
+           "where pedido.ped_id = ptoImagen.ped_id  " & _
+           "and pedido.PED_ID = " & Ped_id & " and ptoImagen.img_nombre  = 'RECETA'"
 
-        Dim frm_MDIChild As New Frm_reportes(str_sql, "", obj_reporte)
+        archivoQR = opr_res.ConsultaPathFilesImagenQR(str_sql)
+
+        If archivoQR <> "" Then
+            archivos = Nothing
+            Dim tramaTXT As String
+            Dim NombreArchivo As String
+
+            tramaTXT = opr_resul.ConsultaImagen(Ped_id, "RECETA")
+            Pic_QR.Image = Base64ToImageOcupacional(tramaTXT, Format(CDate(lbl_FechaReceta.Text), "MMdd") & Format(CInt(Ped_turno), "00000"), "", NombreArchivo)
+            opr_resul.GuardarImagenOcupacional(Ped_id, "RECETA", NombreArchivo)
+            tramaTXT = ""
+
+            'str_sql = "SELECT  pedido.PED_ID,  img_file " & _
+            '     "FROM pedido, ptoImagen " & _
+            '     "where pedido.ped_id = ptoImagen.ped_id  " & _
+            '     "and pedido.PED_ID = " & Ped_id & " and ptoImagen.Img_NOMBRE = 'RECETA'"
+
+            'archivos = opr_res.ConsultaPathFilesImgOcupacional(str_sql)
+            dts_imagen = ReturnDataSetOcup(NombreArchivo)
+        End If
+
+        If System.Configuration.ConfigurationSettings.AppSettings("ControlQR") = True Then
+            Try
+                If dts_imagen.Tables.Count >= 1 Then
+                    str_img = "IMAGEN"
+                    ' opr_pdf.EliminaQR(Format(Now, "yy") & Trim(dts_lista.Tables(0).Rows(lst_pedidos.SelectedIndex).Item(1).ToString), System.Configuration.ConfigurationSettings.AppSettings("QR"))
+                Else
+                    str_img = "NOIMAGEN"
+                End If
+            Catch
+                If IsDBNull(dts_imagen) = False Then
+                    Select Case opr_pedido.ContarRegImagen(Ped_id)
+                        Case 0
+                            If opr_pedido.LeeTipoImg(Ped_id, "IMAGEN") = 0 Then
+                                opr_pedido.InsertarRegImagen(Ped_id, "IMAGEN")
+                            End If
+                        Case 1
+                            If dts_imagen.Tables.Count >= 1 Then
+                                str_img = "IMAGEN"
+                            Else
+                                str_img = "NOIMAGEN"
+                            End If
+                    End Select
+                Else
+                    str_img = "NOIMAGEN"
+                End If
+            End Try
+        End If
+
+        str_sql = "select distinct(receta.rec_id), receta.rec_fecha, medico.MED_NOMBRE, receta.REC_MEDICACION, receta.REC_INDICACIONES, REC_DIETA, cm.cie_cod4, '" & lbl_Cie10.Text & "' as cie_desc4, (paciente.PAC_APELLIDO + ' ' + paciente .PAC_NOMBRE) as pac_nombre, paciente.pac_doc, receta.rec_fecvenc " & _
+               "from receta, medico, paciente, consultaMedico as cm " & _
+               "where receta.age_id = " & Age_id & " and  receta.med_id = medico.med_id and paciente.pac_id = receta.pac_id and cm.PAC_ID = paciente.PAC_ID and cm.AGE_ID = receta.AGE_ID  "
+
+        cls_operacion.sql_conectar()
+
+        oda_operacion.SelectCommand = New SqlCommand(str_sql, cls_operacion.conn_sql)
+        dts_operacion.Merge(dts_operacion, False, System.Data.MissingSchemaAction.Ignore)
+        oda_operacion.Fill(dts_operacion, "Registros")
+        cls_operacion.sql_desconn()
+
+        str_img = "NOIMAGEN"
+
+
+        Dim frm_MDIChild As New Frm_reportes(str_his, str_img, obj_reporte, dts_operacion, dts_histograma, dts_imagen, dts_operaAB, True, 1)
         '''frm_MDIChild.int_alto = frm_ref_main.mdiClient1.Height
         '''frm_MDIChild.int_ancho = frm_ref_main.mdiClient1.Width
-        frm_MDIChild.Text = "RECETA MEDICA"
-        frm_MDIChild.ShowDialog(Me.ParentForm)
+        Dim archivo = "Receta-" & lbl_paciente.Text.ToString() & "-" & Format(Now(), "yyyyMMddHHmmss") & ".pdf"
+        opr_pdf.ExportToPDF(obj_reporte, archivo, g_pathFolderReceta)
 
+        msg = "Ingrese el numero telefonico del destinatario (10 dígitos)"
 
-        opr_pdf.ExportToPDF(obj_reporte, "RECETA-" & Age_id & " " & lbl_paciente.Text, g_pathFolderReceta)
+        Dim myValue As String
 
-        Me.Cursor = System.Windows.Forms.Cursors.Default
-
-        msg = "Ingrese el numero telefonico del destinatario"
-        Dim myValue As String = InputBox(msg, "ANALISYS", "")
+        Do
+            myValue = InputBox(msg, "ANALISYS", opr_pedido.LeerTelefonoCedula(lbl_paciente.Text.ToString()))
+            If myValue.Length > 10 Then
+                MessageBox.Show("El valor no debe exceder los 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            ElseIf myValue.Length < 10 Then
+                MessageBox.Show("El valor debe ser de 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            End If
+        Loop While myValue.Length > 10 Or myValue.Length < 10
 
         If String.IsNullOrEmpty(myValue) Then
             'MessageBox.Show("Se cancelo el Inputbox")
             Return
         Else
-            Dim Wmsg As String = g_Titulo & Chr(10) & "Agradece la confianza"
+            Dim Wmsg As String
+            Wmsg = "Estimado(a)%20paciente%20" & Replace(lbl_paciente.Text.ToString(), " ", "%20") & "%20se%20adjunta%20su%20receta%20medica.%0ASaludos.%0A" & _
+                Replace(g_Titulo, " ", "%20") & "%20Agradece%20su%20confianza"
             '&text=''
-            'System.Diagnostics.Process.Start("https://web.whatsapp.com/send?phone=593" & Mid(myValue, 2, 9) & "text=" & Wmsg)
-            System.Diagnostics.Process.Start("https://web.whatsapp.com/send?phone=593" & Mid(myValue, 2, 9))
+            System.Diagnostics.Process.Start("https://wa.me/593" & Mid(myValue, 2, 9) & "?text=" & Wmsg)
+            'System.Diagnostics.Process.Start("https://web.whatsapp.com/send?phone=593" & Mid(myValue, 2, 9))
             System.Diagnostics.Process.Start("explorer.exe", vFileName)
         End If
 
@@ -382,7 +481,7 @@ MsgError:
         frm_MDIChild.frm_refer_main = Me.ParentForm
         frm_MDIChild.ShowDialog(Me.ParentForm)
         'txt_Cie10.Text = frm_MDIChild.consulta
-        var_Vadem = frm_MDIChild.var_vadem
+        var_vadem = frm_MDIChild.var_vadem
 
         arreglo = Split(var_vadem, "|")
 
@@ -396,7 +495,7 @@ MsgError:
 
         txt_Medicacion.Text = str_medica
         txt_Indicaciones.Text = str_indica
-        
+
         'If opr_pedido.GestionaConsultaCie10(Age_id, dgv_MedicosTratantes.CurrentRow.Cells("med_id").Value, var_Cie4, "Insertar") = True Then
         '    actualizaDtsCieConsulta(Age_id)
         '    'opr_pedido.VisualizaMensaje("Datos almacenados satisfactoriamente", 200)
@@ -430,8 +529,4 @@ MsgError:
         End If
     End Sub
 
-    
-    
-    
-    
 End Class

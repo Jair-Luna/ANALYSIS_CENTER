@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Applogo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AnalisysLAB" version="1.0.9059.42332" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="AnalisysLAB" version="1.0.9063.41907" language="neutral" processorArchitecture="msil" />
     <commandLine file="AnalisysLAB.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -59,13 +59,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnalisysLAB.exe" size="30336000">
-      <assemblyIdentity name="AnalisysLAB" version="1.0.9059.42332" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="AnalisysLAB" version="1.0.9063.41907" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>NEkUc7CeQDXcW6lKaKCqRFnO+1A=</dsig:DigestValue>
+        <dsig:DigestValue>ThC6XZEh5PqIk1TOsmIn4TSIQFY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

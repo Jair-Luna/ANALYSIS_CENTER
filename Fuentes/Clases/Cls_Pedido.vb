@@ -2494,7 +2494,7 @@ MsgError:
         Dim odbc_trans As SqlTransaction
         Dim odbc_strsql As SqlCommand
 
-        str_sql = "delete from vacunaTratamiento where AGE_ID = " & AGE_ID & " and PAC_ID = " & PAC_ID & " AND I_PRD_ID = '" & I_PRD_ID & "' AND TTO_CANTIDAD = " & TTO_CANTIDAD & ""
+        str_sql = "delete from TratamientoPaciente where PAC_ID = " & PAC_ID & " AND I_PRD_ID = " & I_PRD_ID & " AND TTO_CANTIDAD = " & TTO_CANTIDAD & ""
 
         opr_conexion.sql_conectar()
         odbc_trans = opr_conexion.conn_sql.BeginTransaction(IsolationLevel.ReadCommitted)
