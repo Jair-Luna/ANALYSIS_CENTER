@@ -258,6 +258,7 @@ Partial Class frm_Receta
         Me.txt_RecDieta.Location = New System.Drawing.Point(12, 378)
         Me.txt_RecDieta.Multiline = True
         Me.txt_RecDieta.Name = "txt_RecDieta"
+        Me.txt_RecDieta.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
         Me.txt_RecDieta.Size = New System.Drawing.Size(444, 96)
         Me.txt_RecDieta.TabIndex = 244
         '

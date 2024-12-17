@@ -1,4 +1,6 @@
-﻿'Imports System.Data.SqlClient
+﻿Imports System.Data.SqlClient
+
+'Imports System.Data.SqlClient
 
 Public Class frm_AgendaCitaMedica
     Dim opr_res As New Cls_Resultado()
@@ -300,7 +302,7 @@ Public Class frm_AgendaCitaMedica
             lbl_NoDisponible.Text = "LA FECHA SELECCIONADA NO ESTÁ DISPONIBLE ACTIVIDAD: " & motivo
         End If
 
-        
+
 
     End Function
 
@@ -529,7 +531,7 @@ Public Class frm_AgendaCitaMedica
                 dgv_AgendaDespacho.Columns("MED_DOC").Visible = False
                 dgv_AgendaDespacho.Columns("age_estado").HeaderText = "ESTADO"
                 dgv_AgendaDespacho.Columns("age_estado").Width = 100
-                
+
                 btn_Solicitud.Enabled = True
 
                 'End If
@@ -617,7 +619,7 @@ Public Class frm_AgendaCitaMedica
                 Exit Sub
         End Select
 
-        Select dgv_Agenda.CurrentRow.Cells("age_resumen").Value()
+        Select Case dgv_Agenda.CurrentRow.Cells("age_resumen").Value()
             Case "FERIADO"
                 btn_AgendarPaciente.Enabled = False
                 btn_AgendarActividad.Enabled = False
@@ -895,7 +897,7 @@ Public Class frm_AgendaCitaMedica
                 btn_Interpretacion.PerformClick()
         End Select
 
-        
+
     End Sub
 
     Private Sub RestaurarSeleccion()
@@ -1276,37 +1278,51 @@ Public Class frm_AgendaCitaMedica
 
 
 
-    Private Sub DevuelveFrascos(ByVal SER_DES As String)
+    Private Sub DevuelveFrascos(ByVal AGE_ID As Integer)
+
+        Dim SER_DES As String
+        Dim cls_operacion As New Cls_Conexion()
+        Dim odc_pedido As New SqlCommand()
+        Dim oda_operacion As SqlDataAdapter = New SqlDataAdapter()
+
+        Dim str_sql As String = "SELECT top 1 vs.SER_ID FROM TratamientoPaciente as tp, vacunaSerie as vs, i_producto as p WHERE tp.AGE_ID = " & AGE_ID & " AND tp.I_PRD_ID = p.I_PRD_ID AND p.SER_ID = vs.SER_ID AND vs.SER_ID <> 0 "
+
+        cls_operacion.sql_conectar()
+        odc_pedido = New SqlCommand(str_sql, cls_operacion.conn_sql)
+        SER_DES = odc_pedido.ExecuteScalar()
+        odc_pedido.ExecuteNonQuery()
+
+
 
         Select Case SER_DES
 
-            Case "SERIE INICIAL" '3 FRASCOS
+            Case "1" '3 FRASCOS
                 'ETIQUETA 1
                 var_sol = "SOLUCIONES 1-2-3"
                 var_fras = "3 FRASCOS"
                 var_unid = "2.5 ml/5.5 ml/5.5 ml"
 
-            Case "SERIE REFUERZO" ' 2 FRASCOS
+            Case "2" ' 2 FRASCOS
                 var_sol = "SOLUCIONES 1-2"
                 var_fras = "2 FRASCOS"
                 var_unid = "5.5 ml/5.5 ml"
 
-            Case "FRASCO 1 + INSECTOS" '(ESPECIAL + INSECTOS)
+            Case "3" '(ESPECIAL + INSECTOS)
                 var_sol = "SOLUCIONES 2"
                 var_fras = "2 FRASCOS"
                 var_unid = "5.5 ml/5.5 ml"
 
-            Case "FRASCO 1 + 2 + INSECTOS" 'SERIE COMPLETA: (ESPECIAL + INSECTOS)
+            Case "4" 'SERIE COMPLETA: (ESPECIAL + INSECTOS)
                 var_sol = "SOLUCIONES 1-2-3"
                 var_fras = "3 FRASCOS"
                 var_unid = "5.5 ml/5.5 ml/5.5 ml"
 
-            Case "LIQUIDO DE ALERGENO"  'LIQUIDO DE ALERGENO
+            Case "5"  'LIQUIDO DE ALERGENO
                 var_sol = "SOLUCION INDIVIDUAL"
                 var_fras = "1 FRASCO"
                 var_unid = "2.5 ml o 5.5 ml "
 
-            Case "ACNE"
+            Case "6"
                 var_sol = "SOLUCION DE ACNE"
                 var_fras = "1 FRASCO"
                 var_unid = "2.5 ml o  5.5 ml "
@@ -1331,12 +1347,12 @@ Public Class frm_AgendaCitaMedica
 
             Case 3
                 cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
-                DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                DevuelveFrascos(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
                 texto = "Certifico que el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " presenta un proceso alérgico con diagnostico de  " & cie10 & " por lo que se envía una serie de vacunas para su tratamiento, consistente en: " & var_fras & ",  " & var_sol & " mas jeringuillas descartables de 1 c.c. o de insulina para su aplicacion."
 
             Case 4
                 cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
-                DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                DevuelveFrascos(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
                 texto = "Certifico que " & Trim(txt_CerTutor.Text) & " con CI: " & Trim(txt_CerCI.Text) & " lle a en su equipaje una serie de vacunas consistente en: " & var_fras & ",  " & var_sol & " mas jeringuillas descartables de 1 c.c. o de insulina para su aplicacion del tratamiemto del paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " que presenta un proceso alérgico con diagnostico de  " & cie10 & " "
                 'en compañía de su tutor:  y se encuentra recibiendo tratamiento."
 
@@ -1438,7 +1454,7 @@ Public Class frm_AgendaCitaMedica
                 "WHERE a.age_id = " & dgv_Agenda.CurrentRow.Cells("Age_id").Value & ""
                 End If
 
-                
+
             Case 5
                 str_sql = "select " & cer_id & " as CER_ID, '" & cert_tipo & "' AS CER_TIPO,'" & dgv_Agenda.CurrentRow.Cells("Age_fecha").Value & "' as AGE_FECHA, '" & Trim(txt_CerTutor.Text) & "' as AGE_TUTOR, '" & Trim(txt_CerCI.Text) & "' as AGE_CI, '" & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & "' as PACIENTE, '" & texto & "' as TEXTO " & _
                 "from agenda as a " & _
@@ -1490,12 +1506,12 @@ Public Class frm_AgendaCitaMedica
 
             Case 3
                 cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
-                DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                DevuelveFrascos(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
                 texto = "Certifico que el paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " presenta un proceso alérgico con diagnostico de  " & cie10 & " por lo que se envía una serie de vacunas para su tratamiento, consistente en: " & var_fras & ",  " & var_sol & " mas jeringuillas descartables de 1 c.c. o de insulina para su aplicacion."
 
             Case 4
                 cie10 = obtieneCie10(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
-                DevuelveFrascos(obtieneSER_ID(dgv_Agenda.CurrentRow.Cells("Age_id").Value))
+                DevuelveFrascos(dgv_Agenda.CurrentRow.Cells("Age_id").Value)
                 texto = "Certifico que " & Trim(txt_CerTutor.Text) & " con CI: " & Trim(txt_CerCI.Text) & " lle a en su equipaje una serie de vacunas consistente en: " & var_fras & ",  " & var_sol & " mas jeringuillas descartables de 1 c.c. o de insulina para su aplicacion del tratamiemto del paciente: " & dgv_Agenda.CurrentRow.Cells("pac_nombre").Value & " , con CI/PASAPORTE: " & dgv_Agenda.CurrentRow.Cells("pac_doc").Value & " que presenta un proceso alérgico con diagnostico de  " & cie10 & " "
                 'en compañía de su tutor:  y se encuentra recibiendo tratamiento."
 
@@ -1627,10 +1643,16 @@ Public Class frm_AgendaCitaMedica
 
         'telefono = InputBox(msg, "ANALISYS")
 
-        Dim myValue As String
+        Dim myValue As String = opr_pedido.LeerTelefonoCedula(Trim(dgv_Agenda.CurrentRow.Cells("pac_doc").Value))
 
         Do
-            myValue = InputBox(msg, "ANALISYS", opr_pedido.LeerTelefonoCedula(Trim(dgv_Agenda.CurrentRow.Cells("pac_doc").Value)))
+            myValue = InputBox(msg, "ANALISYS", myValue)
+
+
+            If myValue = "" Then
+                Exit Do
+            End If
+
             If myValue.Length > 10 Then
                 MessageBox.Show("El valor no debe exceder los 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
             ElseIf myValue.Length < 10 Then
@@ -1871,7 +1893,7 @@ Public Class frm_AgendaCitaMedica
 
     'End Sub
 
-    
+
 
     Private Sub BuscarYSeleccionarCelda(ByVal textoBuscado As String)
         ' Itera a través de las filas del GridView.
@@ -1892,8 +1914,8 @@ Public Class frm_AgendaCitaMedica
         opr_pedido.VisualizaMensaje("No se encontraron coincidencias.", 300)
     End Sub
 
-    
-    
+
+
     Private Sub btn_GrabaTutor_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_GrabaTutor.Click
         If dgv_Agenda.CurrentRow.Cells("age_estado").Value() = "CONFIRMADO" Then
             str_cer = ""
@@ -1942,7 +1964,7 @@ Public Class frm_AgendaCitaMedica
     End Sub
 
 
-    
+
     Private Sub btn_CrearCert_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_CrearCert.Click
         Dim frm_MDIChild As New frm_CertificadoAbierto()
         frm_MDIChild.frm_refer_main = Me.ParentForm
@@ -1950,7 +1972,7 @@ Public Class frm_AgendaCitaMedica
         frm_MDIChild.pac_nombre = dgv_Agenda.CurrentRow.Cells("pac_nombre").Value()
         frm_MDIChild.pac_doc = dgv_Agenda.CurrentRow.Cells("pac_doc").Value()
         frm_MDIChild.Age_id = dgv_Agenda.CurrentRow.Cells("Age_id").Value()
-        
+
         frm_MDIChild.ShowDialog(Me.ParentForm)
     End Sub
 
@@ -2023,12 +2045,12 @@ Public Class frm_AgendaCitaMedica
         lbl_AgendarA.Text = "Ingresa paciente"
     End Sub
 
-    
+
     Private Sub btn_AgendarActividad_MouseMove(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles btn_AgendarActividad.MouseMove
         lbl_AgendarA.Text = "Agregar Actividad"
     End Sub
 
-    
+
     Private Sub btn_Confirmar_MouseMove(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles btn_Confirmar.MouseMove
         lbl_AgendarA.Text = "Confirmar agenda WEB"
     End Sub
@@ -2038,7 +2060,7 @@ Public Class frm_AgendaCitaMedica
     End Sub
 
 
-    
+
 
     Private Sub btn_AgendarPaciente_MouseLeave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_AgendarPaciente.MouseLeave
         If var_label <> "" Then
@@ -2112,14 +2134,14 @@ Public Class frm_AgendaCitaMedica
         If rbt_Grp.Checked = True Then
             Var_Vergrupo = True
         End If
-       
+
     End Sub
 
     Private Sub rbt_All_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles rbt_All.CheckedChanged
         If rbt_All.Checked = True Then
             Var_Vergrupo = False
         End If
-       
+
     End Sub
 
 End Class

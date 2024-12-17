@@ -1257,7 +1257,7 @@ Public Class frm_ConsultaMedico
                     pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\Fisiograma.PNG")
                     pic_Grafico.SizeMode = PictureBoxSizeMode.StretchImage
                 Else
-                    pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\" & graf_name)
+                    opr_res.CargarImagenBase64(pic_Grafico, graf_name)
                     pic_Grafico.SizeMode = PictureBoxSizeMode.StretchImage
                 End If
 
@@ -1270,7 +1270,7 @@ Public Class frm_ConsultaMedico
                 If graf_name = "" Then
                     pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\Odontograma.PNG")
                 Else
-                    pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\" & graf_name)
+                    opr_res.CargarImagenBase64(pic_Grafico, graf_name)
                     pic_Grafico.SizeMode = PictureBoxSizeMode.StretchImage
                 End If
         End Select
@@ -1562,7 +1562,7 @@ Public Class frm_ConsultaMedico
                     pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\Fisiograma.PNG")
                     pic_Grafico.SizeMode = PictureBoxSizeMode.StretchImage
                 Else
-                    pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\" & graf_name)
+                    opr_res.CargarImagenBase64(pic_Grafico, graf_name)
                     pic_Grafico.SizeMode = PictureBoxSizeMode.StretchImage
                 End If
 
@@ -1575,7 +1575,8 @@ Public Class frm_ConsultaMedico
                 If graf_name = "" Then
                     pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\Odontograma.PNG")
                 Else
-                    pic_Grafico.Image = Image.FromFile(Environment.CurrentDirectory & "\Graficos\" & graf_name)
+                    opr_res.CargarImagenBase64(pic_Grafico, graf_name)
+                    pic_Grafico.SizeMode = PictureBoxSizeMode.StretchImage
                 End If
         End Select
 

@@ -8306,7 +8306,7 @@ MsgError:
     Public Function LeerTelefonoCedula(ByVal telf As String)
 
         Dim str_sql As String
-        Dim resultado As Integer
+        Dim resultado As String
         Dim opr_conexion As New Cls_Conexion()
         Dim odc_pedido As New SqlCommand()
         opr_conexion.sql_conectar()

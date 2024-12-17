@@ -629,7 +629,7 @@ MsgError:
                     auxmov1 = ""
                 End If
 
-                If Len(dtr_fila(1).ToString) = 3 Or Len(dtr_fila(1).ToString) = 4 Then
+                If MOV_DOC = "NA" Then
                     If dtr_fila(0).ToString <> "0" Then
                         If Trim(MOV_TIPOMOV.Substring(42, 10)) = "EGRESO" Then
                             STR_SQL = "Insert into I_MOVIMIENTO_DETALLE (I_MOD_ID, I_MOV_ID, I_PRD_ID, I_MOD_CANTIDAD, I_BOD_ID, " & _
@@ -638,32 +638,40 @@ MsgError:
                             Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, 'DEVOLUCION TTO PACIENTE' ,'" & dtr_fila(6) & "','Si', 'Si', 'Si'" & auxmov1 & ")"
                         Else
                             STR_SQL = "Insert into I_MOVIMIENTO_DETALLE (I_MOD_ID, I_MOV_ID, I_PRD_ID, I_MOD_CANTIDAD, I_BOD_ID, " & _
-                            str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
-                            "values (" & int_indice + 1 & ", " & MOV_ID & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & int_opera_cant * CDbl(dtr_fila(5)) & ", '" & _
-                            Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, 'DEVOLUCION A BODEGA','" & dtr_fila(6) & "','Si', 'Si', 'Si'" & auxmov1 & ")"
+                            str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOD_ESTADO, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
+                            "values (" & int_indice + 1 & ", " & MOV_ID & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & int_opera_cant & ", '" & _
+                            Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, 'DEVOLUCION A BODEGA','" & dtr_fila(6) & "' ,0 ,'Si', 'Si', 'Si'" & auxmov1 & ")"
                         End If
 
                     Else
 
+
+
                         STR_SQL = "Insert into I_MOVIMIENTO_DETALLE (I_MOD_ID, I_MOV_ID, I_PRD_ID, I_MOD_CANTIDAD, I_BOD_ID, " & _
                         str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
                         "values (" & int_indice + 1 & ", " & MOV_ID & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & int_opera_cant * CDbl(dtr_fila(5)) & ", '" & _
-                        Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "','" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
+                        Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "', '" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
 
 
                     End If
                 Else
+                    'STR_SQL = "Insert into I_MOVIMIENTO_DETALLE (I_MOD_ID, I_MOV_ID, I_PRD_ID, I_MOD_CANTIDAD, I_BOD_ID, " & _
+                    '    str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
+                    '    "values (" & int_indice + 1 & ", " & MOV_ID & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & int_opera_cant * CDbl(dtr_fila(5)) & ", '" & _
+                    '    Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "','" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
+
                     STR_SQL = "Insert into I_MOVIMIENTO_DETALLE (I_MOD_ID, I_MOV_ID, I_PRD_ID, I_MOD_CANTIDAD, I_BOD_ID, " & _
-                        str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
-                        "values (" & int_indice + 1 & ", " & MOV_ID & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & int_opera_cant * CDbl(dtr_fila(5)) & ", '" & _
-                        Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "','" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
+                       str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
+                       "values (" & int_indice + 1 & ", " & MOV_ID & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & int_opera_cant * CDbl(dtr_fila(5)) & ", '" & _
+                       Trim(Mid(I_BOD_ID_2, 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "', '" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
+
 
                 End If
                 If Trim(Mid(MOV_TIPOMOV, 1, 15)) = "TRF" Then
                     STR_SQL1 = "Insert into I_MOVIMIENTO_DETALLE (I_MOD_ID, I_MOV_ID, I_PRD_ID, I_MOD_CANTIDAD, I_BOD_ID, " & _
                     str_sqlaux & " I_MOD_COSTO, I_MOD_DESCRIPCION, I_MOD_LOTE, I_MOV_FSCO1, I_MOV_FSCO2, I_MOV_FSCO3 " & auxmov & _
                     "values (" & int_indice + 1 & ", " & MOV_ID + 1 & ", '" & Trim(Mid(dtr_fila(1), 1, 15)) & "', " & CDbl(dtr_fila(5)) & ", '" & _
-                    Trim(Mid(dtr_fila(2), 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "','" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
+                    Trim(Mid(dtr_fila(2), 1, 10)) & "', " & str_fecha & "0, '" & dtr_fila(4) & "', '" & dtr_fila(3) & "','" & dtr_fila(11) & "', '" & dtr_fila(12) & "', '" & dtr_fila(13) & "'" & auxmov1 & ")"
 
                 End If
 

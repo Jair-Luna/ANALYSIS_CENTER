@@ -182,6 +182,7 @@ Public Class frm_Graficos
 
     Private Sub btn_Guardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Guardar.Click
         Dim rutaBorrar As String = graf_name
+        Dim texto_imagen As String
 
         Try
             'Dim areaCaptura As New Rectangle(12, 65, 466, 462)
@@ -199,7 +200,8 @@ Public Class frm_Graficos
             ' Guardar la imagen capturada
             ''Dim rutaGuardar As String = "captura_formulario.png"
             'Dim rutaGuardar As String = pac_id & ".png" ' Ruta de destino para guardar la imagen
-            Dim rutaGuardar As String = lbl_paciente.Text & "_" & Format(Now, "yyyMMddhhmmss") & ".png"
+            texto_imagen = lbl_paciente.Text.Replace(" ", "")
+            Dim rutaGuardar As String = texto_imagen & "_" & Format(Now, "yyyMMddhhmmss") & ".png"
 
 
 

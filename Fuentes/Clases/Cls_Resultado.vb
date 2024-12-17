@@ -13,6 +13,9 @@ Imports System.Data
 
 Imports Microsoft.Data.Odbc
 Imports System.Data.SqlClient
+Imports System.Drawing
+Imports System.Drawing.Imaging
+Imports System.IO
 
 
 
@@ -21,9 +24,21 @@ Public Class Cls_Resultado
 
     Dim oda_operacion As SqlDataAdapter = New SqlDataAdapter()
 
+    Public Sub CargarImagenBase64(ByVal pictureBox As PictureBox, ByVal base64String As String)
+        ' Convertir la cadena Base64 en un array de bytes
+        Dim fileBytes() As Byte = IO.File.ReadAllBytes("Graficos\" & base64String & "")
+        Dim base64converted As String = Convert.ToBase64String(fileBytes)
+        Dim imageBytes As Byte() = Convert.FromBase64String(base64converted)
+
+        ' Crear un MemoryStream a partir de los bytes de la imagen
+        Using ms As New MemoryStream(imageBytes)
+            ' Crear la imagen a partir del MemoryStream y asignarla al PictureBox
+            pictureBox.Image = Image.FromStream(ms)
+        End Using
+    End Sub
 
 
-    Public Sub InsertarGrafico(ByVal pac_id As Integer, ByVal gra_name As String, ByVal gra_tipo As Integer, ByVal tipo As String)
+    Public Sub InsertarGrafico(ByVal pac_id As Integer, ByVal GRA_BASE64 As String, ByVal gra_tipo As Integer, ByVal tipo As String)
 
         On Error GoTo MsgError
         Dim opr_Conexion As New Cls_Conexion()
@@ -32,10 +47,11 @@ Public Class Cls_Resultado
         opr_Conexion.sql_conectar()
         Select Case tipo
             Case "Update"
-                STR_SQL = "update Graficos set gra_name = '" & gra_name & "', gra_fecha = getdate()  where pac_id = " & pac_id & " and gra_tipo = " & gra_tipo & "; "
+                STR_SQL = "update Graficos set GRA_NAME = '" & GRA_BASE64 & "', gra_fecha = getdate()  where pac_id = " & pac_id & " and gra_tipo = " & gra_tipo & "; "
 
             Case "Insert"
-                STR_SQL = "Insert into Graficos values (" & pac_id & ", '" & gra_name & "', getdate(), " & gra_tipo & ")"
+                'STR_SQL = "Insert into Graficos values (" & pac_id & ",  getdate(), " & gra_tipo & ", '" & GRA_BASE64 & "')"
+                STR_SQL = "Insert into Graficos values (" & pac_id & ", '" & GRA_BASE64 & "', getdate(), " & gra_tipo & ")"
         End Select
 
         odc_pedido = New SqlCommand(STR_SQL, opr_Conexion.conn_sql)
@@ -440,22 +456,21 @@ MsgError:
         Dim dtr_fila As DataRow
         Dim dts_auto As New DataSet()
 
-        Dim str_sql As String = "select top 1 vs.SER_NOMBRE " & _
-                                "from tratamientoPaciente as vt, i_producto  as p, vacunaSerie as vs " & _
-                                "where vt.I_PRD_ID = p.I_PRD_ID AND vs.SER_ID = p.SER_ID AND vt.SER_ID <> 0 And vt.Age_id = " & Age_id
+        Dim str_sql As String = "select vt.I_PRD_ID, p.I_PRD_DESCRIPCION, p.I_PRD_FRASCOS " & _
+                                "from tratamientoPaciente as vt, i_producto  as p " & _
+                                "where vt.I_PRD_ID = p.I_PRD_ID And vt.Age_id = " & Age_id
 
 
         cls_operacion.sql_conectar()
         oda_operacion.SelectCommand = New SqlCommand(str_sql, cls_operacion.conn_sql)
 
-        ConsultaSer_Id = oda_operacion.SelectCommand.ExecuteScalar()
-
-        'oda_operacion.Fill(dts_auto, "Files")
-        'For Each dtr_fila In dts_auto.Tables(0).Rows
-        '    If Trim(dtr_fila(1).ToString) <> "" Then
-        '        ConsultaSer_Id = ConsultaSer_Id & Trim(dtr_fila(1)).ToString
-        '    End If
-        'Next
+        ConsultaSer_Id = Nothing
+        oda_operacion.Fill(dts_auto, "Files")
+        For Each dtr_fila In dts_auto.Tables(0).Rows
+            If Trim(dtr_fila(1).ToString) <> "" Then
+                ConsultaSer_Id = ConsultaSer_Id & Trim(dtr_fila(1)).ToString
+            End If
+        Next
 
         cls_operacion.odbc_desconn()
         Exit Function
@@ -587,16 +602,29 @@ MsgError:
     End Function
 
 
-    Public Function ConsultaComposicion(ByVal SER_ID As Integer) As String
+    Public Function ConsultaComposicion(ByVal SER_DESC As String) As String
 
         On Error GoTo MsgError
         Dim cls_operacion As New Cls_Conexion()
         Dim oda_operacion As SqlDataAdapter = New SqlDataAdapter()
         Dim dtr_fila As DataRow
         Dim dts_auto As New DataSet()
+        Dim i As Integer = 0
+        Dim nomen_comp As String = SER_DESC.Split(" "c)(0)
+        Dim ser_comp As String = ""
+
+        For Each digit As Char In nomen_comp
+            If Char.IsDigit(digit) Then
+                ser_comp &= digit
+            Else
+                Exit For
+            End If
+        Next
+
+
         Dim str_sql As String = "select  c.COM_NOMBRE " & _
             "from serieComposicion as sc, composicion as c " & _
-            "where sc.SER_ID = " & SER_ID & " " & _
+            "where sc.SER_ID = '" & ser_comp & "' " & _
             "and sc.COM_ID = c.COM_ID"
 
 

@@ -99,6 +99,8 @@ Module Mod_Inicio
     Public g_pathFolderQR As String = Nothing
     Public g_pathFolderServer As String = Nothing
     Public g_pathFolderReceta As String = Nothing
+    Public g_pathFolderMedicamentos As String = Nothing
+    Public g_pathFolderAlimentos As String = Nothing
 
     'PARA TARABAJAR CON SQL SERVER
     Public g_motorBDD As String
@@ -215,6 +217,8 @@ Module Mod_Inicio
         g_pathFolderQR = System.Configuration.ConfigurationSettings.AppSettings("QR")
         g_pathFolderServer = System.Configuration.ConfigurationSettings.AppSettings("ServerPDF")
         g_pathFolderReceta = System.Configuration.ConfigurationSettings.AppSettings("Recetas")
+        g_pathFolderMedicamentos = System.Configuration.ConfigurationSettings.AppSettings("Inf_Medicamentos")
+        g_pathFolderAlimentos = System.Configuration.ConfigurationSettings.AppSettings("Inf_Alimentos")
         g_tiempo = System.Configuration.ConfigurationSettings.AppSettings("Delay")
     End Sub
 

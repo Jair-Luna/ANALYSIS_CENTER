@@ -38,13 +38,6 @@ Partial Class frm_Interpretacion
         Me.Label14 = New System.Windows.Forms.Label
         Me.lbl_paciente = New System.Windows.Forms.Label
         Me.TabControl1 = New System.Windows.Forms.TabControl
-        Me.TabPage1 = New System.Windows.Forms.TabPage
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.txt_Sustancias = New System.Windows.Forms.TextBox
-        Me.txt_InterpAlimentos = New System.Windows.Forms.TextBox
         Me.TabPage2 = New System.Windows.Forms.TabPage
         Me.Label9 = New System.Windows.Forms.Label
         Me.Label8 = New System.Windows.Forms.Label
@@ -53,11 +46,18 @@ Partial Class frm_Interpretacion
         Me.Label5 = New System.Windows.Forms.Label
         Me.txt_InterpMedicOTROS = New System.Windows.Forms.TextBox
         Me.txt_InterpMedicAINES = New System.Windows.Forms.TextBox
+        Me.TabPage1 = New System.Windows.Forms.TabPage
+        Me.Label1 = New System.Windows.Forms.Label
+        Me.Label4 = New System.Windows.Forms.Label
+        Me.Label3 = New System.Windows.Forms.Label
+        Me.Label2 = New System.Windows.Forms.Label
+        Me.txt_Sustancias = New System.Windows.Forms.TextBox
+        Me.txt_InterpAlimentos = New System.Windows.Forms.TextBox
         Me.TabPage7 = New System.Windows.Forms.TabPage
         Me.pan_barra.SuspendLayout()
         Me.TabControl1.SuspendLayout()
-        Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
+        Me.TabPage1.SuspendLayout()
         Me.TabPage7.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -144,7 +144,7 @@ Partial Class frm_Interpretacion
         Me.btn_Imp2.Name = "btn_Imp2"
         Me.btn_Imp2.Size = New System.Drawing.Size(120, 40)
         Me.btn_Imp2.TabIndex = 263
-        Me.btn_Imp2.Text = "MEDICAMENTOS"
+        Me.btn_Imp2.Text = "ALIMENTOS"
         Me.btn_Imp2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btn_Imp2.UseVisualStyleBackColor = False
         '
@@ -157,7 +157,7 @@ Partial Class frm_Interpretacion
         Me.btn_Imp1.Name = "btn_Imp1"
         Me.btn_Imp1.Size = New System.Drawing.Size(120, 40)
         Me.btn_Imp1.TabIndex = 262
-        Me.btn_Imp1.Text = "ALIMENTOS"
+        Me.btn_Imp1.Text = "MEDICAMENTOS"
         Me.btn_Imp1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.btn_Imp1.UseVisualStyleBackColor = False
         '
@@ -252,90 +252,6 @@ Partial Class frm_Interpretacion
         Me.TabControl1.Size = New System.Drawing.Size(970, 501)
         Me.TabControl1.TabIndex = 247
         '
-        'TabPage1
-        '
-        Me.TabPage1.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TabPage1.Controls.Add(Me.Label1)
-        Me.TabPage1.Controls.Add(Me.Label4)
-        Me.TabPage1.Controls.Add(Me.Label3)
-        Me.TabPage1.Controls.Add(Me.Label2)
-        Me.TabPage1.Controls.Add(Me.txt_Sustancias)
-        Me.TabPage1.Controls.Add(Me.txt_InterpAlimentos)
-        Me.TabPage1.Controls.Add(Me.txt_InterpInhalantes)
-        Me.TabPage1.Controls.Add(Me.btnRecuperaInt)
-        Me.TabPage1.Location = New System.Drawing.Point(4, 22)
-        Me.TabPage1.Name = "TabPage1"
-        Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(962, 475)
-        Me.TabPage1.TabIndex = 0
-        Me.TabPage1.Text = "     ALMENTOS - INHALANTES - OTRAS     "
-        Me.TabPage1.UseVisualStyleBackColor = True
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(3, 3)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(455, 15)
-        Me.Label1.TabIndex = 273
-        Me.Label1.Text = "En las pruebas de sensibilidad de alergia se encuentran los siguientes resultados" & _
-            ":"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(653, 23)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(131, 13)
-        Me.Label4.TabIndex = 269
-        Me.Label4.Text = "OTRAS SUSTANCIAS"
-        '
-        'Label3
-        '
-        Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(330, 23)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(78, 13)
-        Me.Label3.TabIndex = 268
-        Me.Label3.Text = "ALIMENTOS"
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(6, 23)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(85, 13)
-        Me.Label2.TabIndex = 267
-        Me.Label2.Text = "INHALANTES"
-        '
-        'txt_Sustancias
-        '
-        Me.txt_Sustancias.BackColor = System.Drawing.Color.White
-        Me.txt_Sustancias.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.txt_Sustancias.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_Sustancias.Location = New System.Drawing.Point(651, 39)
-        Me.txt_Sustancias.Multiline = True
-        Me.txt_Sustancias.Name = "txt_Sustancias"
-        Me.txt_Sustancias.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.txt_Sustancias.Size = New System.Drawing.Size(315, 430)
-        Me.txt_Sustancias.TabIndex = 265
-        '
-        'txt_InterpAlimentos
-        '
-        Me.txt_InterpAlimentos.BackColor = System.Drawing.Color.White
-        Me.txt_InterpAlimentos.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.txt_InterpAlimentos.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_InterpAlimentos.Location = New System.Drawing.Point(328, 39)
-        Me.txt_InterpAlimentos.Multiline = True
-        Me.txt_InterpAlimentos.Name = "txt_InterpAlimentos"
-        Me.txt_InterpAlimentos.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.txt_InterpAlimentos.Size = New System.Drawing.Size(315, 430)
-        Me.txt_InterpAlimentos.TabIndex = 246
-        '
         'TabPage2
         '
         Me.TabPage2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
@@ -429,6 +345,90 @@ Partial Class frm_Interpretacion
         Me.txt_InterpMedicAINES.Size = New System.Drawing.Size(315, 430)
         Me.txt_InterpMedicAINES.TabIndex = 272
         '
+        'TabPage1
+        '
+        Me.TabPage1.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.TabPage1.Controls.Add(Me.Label1)
+        Me.TabPage1.Controls.Add(Me.Label4)
+        Me.TabPage1.Controls.Add(Me.Label3)
+        Me.TabPage1.Controls.Add(Me.Label2)
+        Me.TabPage1.Controls.Add(Me.txt_Sustancias)
+        Me.TabPage1.Controls.Add(Me.txt_InterpAlimentos)
+        Me.TabPage1.Controls.Add(Me.txt_InterpInhalantes)
+        Me.TabPage1.Controls.Add(Me.btnRecuperaInt)
+        Me.TabPage1.Location = New System.Drawing.Point(4, 22)
+        Me.TabPage1.Name = "TabPage1"
+        Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage1.Size = New System.Drawing.Size(962, 475)
+        Me.TabPage1.TabIndex = 0
+        Me.TabPage1.Text = "     ALMENTOS - INHALANTES - OTRAS     "
+        Me.TabPage1.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(3, 3)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(455, 15)
+        Me.Label1.TabIndex = 273
+        Me.Label1.Text = "En las pruebas de sensibilidad de alergia se encuentran los siguientes resultados" & _
+            ":"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(653, 23)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(131, 13)
+        Me.Label4.TabIndex = 269
+        Me.Label4.Text = "OTRAS SUSTANCIAS"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(330, 23)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(78, 13)
+        Me.Label3.TabIndex = 268
+        Me.Label3.Text = "ALIMENTOS"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(6, 23)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(85, 13)
+        Me.Label2.TabIndex = 267
+        Me.Label2.Text = "INHALANTES"
+        '
+        'txt_Sustancias
+        '
+        Me.txt_Sustancias.BackColor = System.Drawing.Color.White
+        Me.txt_Sustancias.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txt_Sustancias.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_Sustancias.Location = New System.Drawing.Point(651, 39)
+        Me.txt_Sustancias.Multiline = True
+        Me.txt_Sustancias.Name = "txt_Sustancias"
+        Me.txt_Sustancias.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
+        Me.txt_Sustancias.Size = New System.Drawing.Size(315, 430)
+        Me.txt_Sustancias.TabIndex = 265
+        '
+        'txt_InterpAlimentos
+        '
+        Me.txt_InterpAlimentos.BackColor = System.Drawing.Color.White
+        Me.txt_InterpAlimentos.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txt_InterpAlimentos.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_InterpAlimentos.Location = New System.Drawing.Point(328, 39)
+        Me.txt_InterpAlimentos.Multiline = True
+        Me.txt_InterpAlimentos.Name = "txt_InterpAlimentos"
+        Me.txt_InterpAlimentos.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
+        Me.txt_InterpAlimentos.Size = New System.Drawing.Size(315, 430)
+        Me.txt_InterpAlimentos.TabIndex = 246
+        '
         'TabPage7
         '
         Me.TabPage7.BackColor = System.Drawing.Color.LavenderBlush
@@ -466,10 +466,10 @@ Partial Class frm_Interpretacion
         Me.pan_barra.ResumeLayout(False)
         Me.pan_barra.PerformLayout()
         Me.TabControl1.ResumeLayout(False)
-        Me.TabPage1.ResumeLayout(False)
-        Me.TabPage1.PerformLayout()
         Me.TabPage2.ResumeLayout(False)
         Me.TabPage2.PerformLayout()
+        Me.TabPage1.ResumeLayout(False)
+        Me.TabPage1.PerformLayout()
         Me.TabPage7.ResumeLayout(False)
         Me.TabPage7.PerformLayout()
         Me.ResumeLayout(False)

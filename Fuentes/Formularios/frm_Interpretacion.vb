@@ -1,4 +1,6 @@
-﻿Public Class frm_Interpretacion
+﻿Imports System.Data.SqlClient
+
+Public Class frm_Interpretacion
 
     Public frm_refer_main As Frm_Main
     Public Ped_id As Integer
@@ -9,6 +11,7 @@
     Dim ExisteInterpretacion As Boolean
     Dim opr_pedido As New Cls_Pedido()
     Dim opr_res As New Cls_Resultado()
+    Dim opr_pdf As New Cls_ToPdf()
 
 
     Private Sub btn_Salir_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Salir.Click
@@ -306,7 +309,7 @@
                     End If
 
                     txt_Sustancias.Text = txt_Sustancias.Text & otras_sust & vbCrLf
-                    
+
             End Select
 
         Next
@@ -336,9 +339,25 @@
 
     End Sub
 
-    
-    
     Private Sub btn_Imp1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Imp1.Click
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                Imprime_alimentos()
+            Case 2
+                Exporta_alimentos()
+        End Select
+    End Sub
+
+    Private Sub Imprime_medicamentos()
         Me.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Dim str_sql As String
         Dim obj_reporte As New rpt_interpretacion1()
@@ -361,7 +380,98 @@
         Me.Cursor = System.Windows.Forms.Cursors.Default
     End Sub
 
+
+    Private Sub Exporta_medicamentos()
+        Me.Cursor = System.Windows.Forms.Cursors.WaitCursor
+        Dim str_sql As String
+        Dim msg As String = Nothing
+        Dim obj_reporte As New rpt_interpretacion2()
+        Dim frm_ref_main As Frm_Main = Me.ParentForm
+        Dim vFileName As String = Nothing
+        vFileName = Environment.CurrentDirectory & "\Inf_Medicamentos"
+
+        str_sql = "select PED_ID, PRCC_FECHA, PRCC_HORA, PRCC_INT_ALIMENTOS, PRCC_INT_SUSTANCIAS, PRCC_INT_INHALANTES, PRCC_INT_MED_AINES, " & _
+                    "PRCC_INT_MED_AB, PRCC_INT_MED_OTRAS, PRCC_INT_RECOMEN1, PRCC_INT_RECOMEN2, ci.LIS_USER,(PACIENTE.PAC_APELLIDO + ' ' + PACIENTE.PAC_NOMBRE) AS PACIENTE " & _
+                    "from res_cutaneasInterpretacion as ci, paciente " & _
+                    "where paciente.PAC_ID = ci.PAC_ID And ci.PED_ID = " & Ped_id
+
+        Dim frm_MDIChild As New Frm_reportes(str_sql, "", obj_reporte)
+
+        'frm_MDIChild.Text = "INTERPRETACION"
+        'frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        'opr_pdf.ExportToPDF(obj_reporte, "RECETA-" & Age_id & " " & lbl_paciente.Text, g_pathFolderReceta)
+
+        Dim archivo = "Int_Alimentos-" & lbl_paciente.Text.ToString() & "-" & Format(Now(), "yyyyMMddHHmm") & ".pdf"
+        opr_pdf.ExportToPDF(obj_reporte, archivo, "Inf_Medicamentos")
+
+        Me.Cursor = System.Windows.Forms.Cursors.Default
+
+        msg = "Ingrese el numero telefonico del destinatario (10 dígitos)"
+
+        Dim cedula As String
+        Dim newSql As String
+        Dim new_conexion As New Cls_Conexion()
+        Dim new_pedido As New SqlCommand()
+        new_conexion.sql_conectar()
+
+        newSql = "select paciente.PAC_DOC from res_cutaneasInterpretacion as ci, paciente where paciente.PAC_ID = ci.PAC_ID And ci.PED_ID = '" & Ped_id & "'"
+
+        new_pedido = New SqlCommand(newSql, new_conexion.conn_sql)
+        cedula = new_pedido.ExecuteScalar()
+        new_pedido.ExecuteNonQuery()
+
+        Dim myValue As String = opr_pedido.LeerTelefonoCedula(cedula)
+
+        Do
+            myValue = InputBox(msg, "ANALISYS", myValue)
+
+
+            If myValue = "" Then
+                Exit Do
+            End If
+
+            If myValue.Length > 10 Then
+                MessageBox.Show("El valor no debe exceder los 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            ElseIf myValue.Length < 10 Then
+                MessageBox.Show("El valor debe ser de 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            End If
+        Loop While myValue.Length > 10 Or myValue.Length < 10
+
+        If String.IsNullOrEmpty(myValue) Then
+            'MessageBox.Show("Se cancelo el Inputbox")
+            Return
+        Else
+            Dim Wmsg As String
+            Wmsg = "Estimado(a)%20paciente%20" & Replace(lbl_paciente.Text.ToString(), " ", "%20") & "%20se%20adjunta%20su%20receta%20medica.%0ASaludos.%0A" & _
+                Replace(g_Titulo, " ", "%20") & "%20Agradece%20su%20confianza"
+            '&text=''
+            System.Diagnostics.Process.Start("https://wa.me/593" & Mid(myValue, 2, 9) & "?text=" & Wmsg)
+            'System.Diagnostics.Process.Start("https://web.whatsapp.com/send?phone=593" & Mid(myValue, 2, 9))
+            System.Diagnostics.Process.Start("explorer.exe", vFileName)
+        End If
+
+    End Sub
+
     Private Sub btn_Imp2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Imp2.Click
+        Dim frm_MDIChild As New frm_ImpWhaCertificado()
+        frm_MDIChild.frm_refer_main = Me.ParentForm
+
+        frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim op As Integer = frm_MDIChild.opcion
+
+        Select Case op
+            Case 0
+
+            Case 1
+                Imprime_medicamentos()
+            Case 2
+                Exporta_medicamentos()
+        End Select
+    End Sub
+
+    Private Sub Imprime_alimentos()
         Me.Cursor = System.Windows.Forms.Cursors.WaitCursor
         Dim str_sql As String
         Dim obj_reporte As New rpt_interpretacion2()
@@ -384,6 +494,73 @@
         Me.Cursor = System.Windows.Forms.Cursors.Default
     End Sub
 
-    
+    Private Sub Exporta_alimentos()
+        Me.Cursor = System.Windows.Forms.Cursors.WaitCursor
+        Dim str_sql As String
+        Dim msg As String = Nothing
+        Dim obj_reporte As New rpt_interpretacion2()
+        Dim frm_ref_main As Frm_Main = Me.ParentForm
+        Dim vFileName As String = Nothing
+        vFileName = Environment.CurrentDirectory & "\Inf_Alimentos"
 
+        str_sql = "select PED_ID, PRCC_FECHA, PRCC_HORA, PRCC_INT_ALIMENTOS, PRCC_INT_INHALANTES, PRCC_INT_INHALANTES, PRCC_INT_MED_AINES, " & _
+                    "PRCC_INT_MED_AB, PRCC_INT_MED_OTRAS, PRCC_INT_RECOMEN1, PRCC_INT_RECOMEN2, ci.LIS_USER,(PACIENTE.PAC_APELLIDO + ' ' + PACIENTE.PAC_NOMBRE) AS PACIENTE " & _
+                    "from res_cutaneasInterpretacion as ci, paciente " & _
+                    "where paciente.PAC_ID = ci.PAC_ID And ci.PED_ID = " & Ped_id
+
+        Dim frm_MDIChild As New Frm_reportes(str_sql, "", obj_reporte)
+
+        'frm_MDIChild.Text = "INTERPRETACION"
+        'frm_MDIChild.ShowDialog(Me.ParentForm)
+
+        Dim archivo = "Int_Alimentos-" & lbl_paciente.Text.ToString() & "-" & Format(Now(), "yyyyMMddHHmm") & ".pdf"
+        opr_pdf.ExportToPDF(obj_reporte, archivo, "Inf_Alimentos")
+
+        Me.Cursor = System.Windows.Forms.Cursors.Default
+
+        msg = "Ingrese el numero telefonico del destinatario (10 dígitos)"
+
+        Dim cedula As String
+        Dim newSql As String
+        Dim new_conexion As New Cls_Conexion()
+        Dim new_pedido As New SqlCommand()
+        new_conexion.sql_conectar()
+
+        newSql = "select paciente.PAC_DOC from res_cutaneasInterpretacion as ci, paciente where paciente.PAC_ID = ci.PAC_ID And ci.PED_ID = '" & Ped_id & "'"
+
+        new_pedido = New SqlCommand(newSql, new_conexion.conn_sql)
+        cedula = new_pedido.ExecuteScalar()
+        new_pedido.ExecuteNonQuery()
+
+        Dim myValue As String = opr_pedido.LeerTelefonoCedula(cedula)
+
+        Do
+            myValue = InputBox(msg, "ANALISYS", myValue)
+
+
+            If myValue = "" Then
+                Exit Do
+            End If
+
+            If myValue.Length > 10 Then
+                MessageBox.Show("El valor no debe exceder los 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            ElseIf myValue.Length < 10 Then
+                MessageBox.Show("El valor debe ser de 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            End If
+        Loop While myValue.Length > 10 Or myValue.Length < 10
+
+        If String.IsNullOrEmpty(myValue) Then
+            'MessageBox.Show("Se cancelo el Inputbox")
+            Return
+        Else
+            Dim Wmsg As String
+            Wmsg = "Estimado(a)%20paciente%20" & Replace(lbl_paciente.Text.ToString(), " ", "%20") & "%20se%20adjunta%20su%20receta%20medica.%0ASaludos.%0A" & _
+                Replace(g_Titulo, " ", "%20") & "%20Agradece%20su%20confianza"
+            '&text=''
+            System.Diagnostics.Process.Start("https://wa.me/593" & Mid(myValue, 2, 9) & "?text=" & Wmsg)
+            'System.Diagnostics.Process.Start("https://web.whatsapp.com/send?phone=593" & Mid(myValue, 2, 9))
+            System.Diagnostics.Process.Start("explorer.exe", vFileName)
+        End If
+
+    End Sub
 End Class

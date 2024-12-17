@@ -1100,7 +1100,7 @@ errores:
     Private Sub ver_etiquetas()
 
 
-        lbl_1Comp.Text = opr_res.ConsultaComposicion(dgv_TToPaciente.CurrentRow.Cells("SER_ID").Value())
+        lbl_1Comp.Text = opr_res.ConsultaComposicion(dgv_TToPaciente.CurrentRow.Cells("I_PRD_DESCRIPCION").Value())
         lbl_1ViaAdmin.Text = dgv_TToPaciente.CurrentRow.Cells("VIA").Value()
 
         lbl_1Info.Text = "Consérvese en refrigeración a temperarura de 2-8 ºC" & vbCrLf & _

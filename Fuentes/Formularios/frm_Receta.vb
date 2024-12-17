@@ -276,12 +276,12 @@ MsgError:
             opr_resul.GuardarImagenOcupacional(Ped_id, "RECETA", NombreArchivo)
             tramaTXT = ""
 
-            'str_sql = "SELECT  pedido.PED_ID,  img_file " & _
-            '     "FROM pedido, ptoImagen " & _
-            '     "where pedido.ped_id = ptoImagen.ped_id  " & _
-            '     "and pedido.PED_ID = " & Ped_id & " and ptoImagen.Img_NOMBRE = 'RECETA'"
+            str_sql = "SELECT  pedido.PED_ID,  img_file " & _
+                 "FROM pedido, ptoImagen " & _
+                 "where pedido.ped_id = ptoImagen.ped_id  " & _
+                 "and pedido.PED_ID = " & Ped_id & " and ptoImagen.Img_NOMBRE = 'RECETA'"
 
-            'archivos = opr_res.ConsultaPathFilesImgOcupacional(str_sql)
+            archivos = opr_res.ConsultaPathFilesImgOcupacional(str_sql)
             dts_imagen = ReturnDataSetOcup(NombreArchivo)
         End If
 
@@ -313,7 +313,7 @@ MsgError:
             End Try
         End If
 
-        str_sql = "select distinct(receta.rec_id), receta.rec_fecha, medico.MED_NOMBRE, receta.REC_MEDICACION, receta.REC_INDICACIONES, REC_DIETA, cm.cie_cod4, '" & lbl_Cie10.Text & "' as cie_desc4, (paciente.PAC_APELLIDO + ' ' + paciente .PAC_NOMBRE) as pac_nombre, paciente.pac_doc, receta.rec_fecvenc " & _
+        str_sql = "select distinct(receta.rec_id), receta.rec_fecha, medico.MED_NOMBRE, (receta.REC_MEDICACION + '" & lbl_Cie10.Text & "') as REC_MEDICACION, (receta.REC_INDICACIONES + ' ' + REC_DIETA) as REC_INDICACIONES, cm.cie_cod4, (paciente.PAC_APELLIDO + ' ' + paciente .PAC_NOMBRE) as pac_nombre, '" & lbl_FecValidez.Text & "' as REC_FECVENC , paciente.pac_doc, receta.rec_fecvenc " & _
                 "from receta, medico, paciente, consultaMedico as cm " & _
                 "where receta.age_id = " & Age_id & " and  receta.med_id = medico.med_id and paciente.pac_id = receta.pac_id and cm.PAC_ID = paciente.PAC_ID and cm.AGE_ID = receta.AGE_ID  "
 
@@ -324,7 +324,7 @@ MsgError:
         oda_operacion.Fill(dts_operacion, "Registros")
         cls_operacion.sql_desconn()
 
-        str_img = "NOIMAGEN"
+        'str_img = "NOIMAGEN"
 
 
         Dim frm_MDIChild As New Frm_reportes(str_his, str_img, obj_reporte, dts_operacion, dts_histograma, dts_imagen, dts_operaAB, True, 1)
@@ -384,12 +384,12 @@ MsgError:
             opr_resul.GuardarImagenOcupacional(Ped_id, "RECETA", NombreArchivo)
             tramaTXT = ""
 
-            'str_sql = "SELECT  pedido.PED_ID,  img_file " & _
-            '     "FROM pedido, ptoImagen " & _
-            '     "where pedido.ped_id = ptoImagen.ped_id  " & _
-            '     "and pedido.PED_ID = " & Ped_id & " and ptoImagen.Img_NOMBRE = 'RECETA'"
+            str_sql = "SELECT  pedido.PED_ID,  img_file " & _
+                 "FROM pedido, ptoImagen " & _
+                 "where pedido.ped_id = ptoImagen.ped_id  " & _
+                 "and pedido.PED_ID = " & Ped_id & " and ptoImagen.Img_NOMBRE = 'RECETA'"
 
-            'archivos = opr_res.ConsultaPathFilesImgOcupacional(str_sql)
+            archivos = opr_res.ConsultaPathFilesImgOcupacional(str_sql)
             dts_imagen = ReturnDataSetOcup(NombreArchivo)
         End If
 
@@ -421,9 +421,9 @@ MsgError:
             End Try
         End If
 
-        str_sql = "select distinct(receta.rec_id), receta.rec_fecha, medico.MED_NOMBRE, receta.REC_MEDICACION, receta.REC_INDICACIONES, REC_DIETA, cm.cie_cod4, '" & lbl_Cie10.Text & "' as cie_desc4, (paciente.PAC_APELLIDO + ' ' + paciente .PAC_NOMBRE) as pac_nombre, paciente.pac_doc, receta.rec_fecvenc " & _
-               "from receta, medico, paciente, consultaMedico as cm " & _
-               "where receta.age_id = " & Age_id & " and  receta.med_id = medico.med_id and paciente.pac_id = receta.pac_id and cm.PAC_ID = paciente.PAC_ID and cm.AGE_ID = receta.AGE_ID  "
+        str_sql = "select distinct(receta.rec_id), receta.rec_fecha, medico.MED_NOMBRE, (receta.REC_MEDICACION + '" & lbl_Cie10.Text & "') as REC_MEDICACION, (receta.REC_INDICACIONES + ' ' + REC_DIETA) as REC_INDICACIONES, cm.cie_cod4, (paciente.PAC_APELLIDO + ' ' + paciente .PAC_NOMBRE) as pac_nombre, '" & lbl_FecValidez.Text & "' as REC_FECVENC, paciente.pac_doc, receta.rec_fecvenc " & _
+                "from receta, medico, paciente, consultaMedico as cm " & _
+                "where receta.age_id = " & Age_id & " and  receta.med_id = medico.med_id and paciente.pac_id = receta.pac_id and cm.PAC_ID = paciente.PAC_ID and cm.AGE_ID = receta.AGE_ID  "
 
         cls_operacion.sql_conectar()
 
@@ -443,10 +443,17 @@ MsgError:
 
         msg = "Ingrese el numero telefonico del destinatario (10 dígitos)"
 
-        Dim myValue As String
+
+        Dim myValue As String = opr_pedido.LeerTelefonoCedula(lbl_cedula.Text.ToString())
 
         Do
-            myValue = InputBox(msg, "ANALISYS", opr_pedido.LeerTelefonoCedula(lbl_paciente.Text.ToString()))
+            myValue = InputBox(msg, "ANALISYS", myValue)
+
+
+            If myValue = "" Then
+                Exit Do
+            End If
+
             If myValue.Length > 10 Then
                 MessageBox.Show("El valor no debe exceder los 10 dígitos.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
             ElseIf myValue.Length < 10 Then
