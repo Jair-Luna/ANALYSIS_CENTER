@@ -5143,22 +5143,45 @@ MsgError:
     End Function
 
     Public Function LeerSolicitud(ByVal Age_id As Integer) As String
-        On Error GoTo MsgError
+        'On Error GoTo MsgError
         Dim opr_conexion As New Cls_Conexion()
         Dim oda_pedido As SqlDataAdapter = New SqlDataAdapter()
         Dim dts_estado As New DataSet()
         Dim dtr_fila As DataRow
-        Dim str_sql As String = "select sol_texto from medicoSolicitud where age_id =  " & Age_id & ""
-                                
-        opr_conexion.sql_conectar()
-        LeerSolicitud = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteScalar
-        opr_Conexion.sql_desconn()
-        Exit Function
+        Dim textoSolicitud As String = ""
 
-        Exit Function
-MsgError:
-        g_opr_usuario.MensajeBoxError("No se pudo realizar la operacion solicitada, Leer SOlicutud", Err)
-        Err.Clear()
+        'Dim str_sql As String = "select sol_texto from medicoSolicitud where age_id =  " & Age_id & ""
+
+        'opr_conexion.sql_conectar()
+        'LeerSolicitud = New SqlCommand(str_sql, opr_conexion.conn_sql).ExecuteScalar
+        'opr_Conexion.sql_desconn()
+
+        Try
+            Dim str_sql As String = "SELECT REPLACE(sol_texto, CHAR(10), '\n') FROM medicoSolicitud WHERE age_id = @AgeId"
+
+            opr_conexion.sql_conectar()
+
+            Using cmd As New SqlCommand(str_sql, opr_conexion.conn_sql)
+                cmd.Parameters.AddWithValue("@AgeId", Age_id)
+                Dim result = cmd.ExecuteScalar()
+
+                If result IsNot Nothing Then
+                    ' Convertir texto con saltos reales
+                    textoSolicitud = result.ToString()
+                End If
+            End Using
+        Catch ex As Exception
+            g_opr_usuario.MensajeBoxError("Error al leer la solicitud: " & ex.Message)
+        Finally
+            opr_conexion.sql_desconn()
+        End Try
+
+        Return textoSolicitud
+
+        '        Exit Function
+        'MsgError:
+        '        g_opr_usuario.MensajeBoxError("No se pudo realizar la operacion solicitada, Leer SOlicutud", Err)
+        '        Err.Clear()
     End Function
 
     Public Function LeerAgeIdMedico(ByVal Med_id As Integer) As String

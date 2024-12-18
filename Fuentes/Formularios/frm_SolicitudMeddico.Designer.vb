@@ -22,20 +22,22 @@ Partial Class frm_SolicitudMeddico
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.txt_Solicitud = New System.Windows.Forms.Label
+        Me.txt_Solicitud = New System.Windows.Forms.TextBox
         Me.SuspendLayout()
         '
         'txt_Solicitud
         '
+        Me.txt_Solicitud.AcceptsTab = True
         Me.txt_Solicitud.BackColor = System.Drawing.Color.White
-        Me.txt_Solicitud.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.txt_Solicitud.Enabled = False
-        Me.txt_Solicitud.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_Solicitud.ForeColor = System.Drawing.Color.Black
-        Me.txt_Solicitud.Location = New System.Drawing.Point(12, 9)
+        Me.txt_Solicitud.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.txt_Solicitud.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_Solicitud.Location = New System.Drawing.Point(12, 12)
+        Me.txt_Solicitud.Multiline = True
         Me.txt_Solicitud.Name = "txt_Solicitud"
-        Me.txt_Solicitud.Size = New System.Drawing.Size(314, 412)
-        Me.txt_Solicitud.TabIndex = 278
+        Me.txt_Solicitud.ReadOnly = True
+        Me.txt_Solicitud.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
+        Me.txt_Solicitud.Size = New System.Drawing.Size(314, 406)
+        Me.txt_Solicitud.TabIndex = 279
         '
         'frm_SolicitudMeddico
         '
@@ -51,7 +53,8 @@ Partial Class frm_SolicitudMeddico
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Solicitud Meddico"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
-    Friend WithEvents txt_Solicitud As System.Windows.Forms.Label
+    Friend WithEvents txt_Solicitud As System.Windows.Forms.TextBox
 End Class
